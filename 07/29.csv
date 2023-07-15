@@ -1,0 +1,189 @@
+"alg-geom/9507016","Yoshiko Hayakawa","Yoshiko Hayakawa","Degenaration of Calabi-Yau Manifold with W-P Metric","AMSTeX, 27 pages",,,,"alg-geom math.AG",,"  In this paper we focus on determining for which degenerations the central
+fibre is at finite distance with respect to Weil-Petersson metric. We obtain a
+simple condition on the limiting mixed Hodge structure. Then we combine the
+result with the canonical mixed Hodge structure of the central fibre and obtain
+a simple cohomological condition for the central fibre to be at finite
+distance. As a corollary, we prove that a central fibre with simple nodes is at
+finite distance. This issue has been raised in the Physics literature including
+the recent development of so-called ""mass-less black holes"".
+","[{""version"":""v1"",""created"":""Fri, 28 Jul 1995 20:20:53 GMT""}]","2008-02-03"
+"astro-ph/9507112","Redouane Fakir","Redouane Fakir","Direct Detection of Gravity Waves through High-Precision Astrometry","11 pages, latex, no figures",,,"ESA SP-379","astro-ph gr-qc",,"  It is generally accepted that a first ever direct detection of gravity waves
+would herald a new era in astronomy and in fundamental physics. Ever since the
+early sixties, increasingly larger human and material resources are being
+invested in the detection effort. Unfortunately, the gravity wave effects one
+has had to exploit so far are extraordinarily small and are usually very many
+orders of magnitude smaller than the noise involved. The detectors that are
+presently at the most advanced stage of development hope to register extremely
+rare, instantaneous longitudinal shifts that are expected to be orders of
+magnitude smaller than one Fermi. However, it was recently shown that gravity
+waves can manifest themselves through much larger effects than previously
+envisaged. One of these new effects is the periodic, apparent shift in a star's
+angular position due to a foreground gravity wave source. The comparative
+largeness of this effect stems from its being proportional not to the inverse
+of the gravity wave source's distance to the Earth, but to the inverse of its
+distance to the star's line of sight. In certain optimal but not unrealistic
+cases, the amplitude of this effect can reach the critical bar of one
+micro-arcsecond, thus raising the prospect that the long awaited first direct
+detection of gravity waves could be achieved by a high precision astrometry
+space mission such as GAIA.
+","[{""version"":""v1"",""created"":""Fri, 28 Jul 1995 21:28:58 GMT""}]","2007-05-23"
+"cond-mat/9507127","Steven Kivelson","L. Chayes, V. J. Emery, S. A. Kivelson, Z. Nussinov, and G. Tarjus","Avoided Critical Behavior in a Uniformly Frustrated System","32 page Latex file, figures available from authors by request",,"10.1016/0378-4371(95)00374-6","ITP preprint NSF-ITP-95-70","cond-mat",,"  We study the effects of weak long-ranged antiferromagnetic interactions of
+strength $Q$ on a spin model with predominant short-ranged ferromagnetic
+interactions. In three dimensions, this model exhibits an avoided critical
+point in the sense that the critical temperature $T_c(Q=0)$ is strictly greater
+than $\lim_{Q\to 0} T_c(Q)$. The behavior of this system at temperatures less
+than $T_c(Q=0)$ is controlled by the proximity to the avoided critical point.
+We also quantize the model in a novel way to study the interplay between
+charge-density wave and superconducting order.
+","[{""version"":""v1"",""created"":""Fri, 28 Jul 1995 16:56:02 GMT""}]","2015-06-25"
+"cond-mat/9507128","Thomas Fricke","Thomas Fricke","Quantum Mechanics Simulated as Branching Process","4 pages, RevTex, epsf, 3 pictures, submitted to Phys. Rev. Let.,
+  revision of minor Latex bug fixes",,,,"cond-mat",,"  Diffusion processes with branching play an important role in statistical
+dynamics. They are a common approach to the computing of quantum mechanical
+groundstates, and serve as models for population dynamics and as physical
+pictures for biological evolution.
+  On a computer the efficiency of this simulation method is limited by the
+approach to the infinitesimal time step, which is necessary to perform
+alternating diffusion and branching steps.
+  In this paper, a method is described, which eliminates the infinitesimal time
+step for a certain class of branching processes, if the process of interest can
+be ``embedded'' into another process, which is solvable by other analytic
+and/or numerical methods. The simplest choice for the embbeding process is
+given by a process with a constant branching rate, which dominates the rate of
+the embedded process.
+","[{""version"":""v1"",""created"":""Fri, 28 Jul 1995 17:03:56 GMT""},{""version"":""v2"",""created"":""Mon, 31 Jul 1995 09:41:47 GMT""}]","2008-02-03"
+"cond-mat/9507129","Diptiman Sen","Swapan Pati, R. Chitra, Diptiman Sen, H. R. Krishnamurthy and S.
+  Ramasesha (Indian Institute of Science, Bangalore)","Phase Diagram of the Spin-One Heisenberg System with Dimerization and
+  Frustration","11 pages, plain TeX, 3 figures available on request","Europhys. Lett. 33 (1996) 707-712","10.1209/epl/i1996-00403-3",,"cond-mat",,"  We use the density matrix renormalization group method to study the ground
+state properties of an antiferromagnetic spin-$1$ chain with a next-nearest
+neighbor exchange $J_2 ~$ and an alternation $\delta$ of the nearest neighbor
+exchanges. We find a line running from a gapless point at $(J_2 , \delta) = (0,
+0.25 \pm 0.01)$ upto an almost gapless point at $(0.725 \pm 0.01, 0$ such that
+the open chain ground state is $4$-fold degenerate below the line and is unique
+above it. A disorder line $2 J_2 + \delta = 1$ runs from $\delta =0$ to about
+$\delta =0.136$. To the left of this line, the peak in the structure factor
+$S(q)$ is at $\pi$, while to the right of the line, it is at less than $\pi$.
+","[{""version"":""v1"",""created"":""Sat, 29 Jul 1995 05:12:00 GMT""}]","2009-10-28"
+"gr-qc/9507056","Melnikov Vitaly Nikolayevich","V. D. Ivashchuk and V. N. Melnikov","On singular solutions in multidimensional gravity","16 pages, LaTex. Submitted to Gravitation and Cosmology (new Russian
+  journal)","Grav.Cosmol. 1 (1995) 204-210",,"RGS-VNIIMS-004/95","gr-qc",,"  It is proved that the Riemann tensor squared is divergent as $\tau \ra 0$ for
+a wide class of cosmological metrics with non-exceptional Kasner-like behaviour
+of scale factors as $\tau \ra 0$, where $\tau$ is synchronous time. Using this
+result it is shown that any non-trivial generalization of the
+spherically-symmetric Tangherlini solution to the case of $n$ Ricci-flat
+internal spaces \cite{FIM} has a divergent Riemann tensor squared as $R \ra
+R_0$, where $R_0$ is parameter of length of the solution. Multitemporal naked
+singularities are also considered.
+","[{""version"":""v1"",""created"":""Fri, 28 Jul 1995 17:38:40 GMT""}]","2007-05-23"
+"hep-ph/9507447",,"A.V.Radyushkin and R.Ruskov","Form factor of the process \gamma^*\gamma^* -->\pi^o for small
+  Virtuality of One of the Photons and QCD Sum Rules","6 pages, uses epsf.sty, 1 eps figure",,,"Contribution to the PHOTON95 conference (Sheffield, April 1995)","hep-ph",,"  We extend the QCD sum rule analysis of the \gamma^*\gamma^* -->\pi^o form
+factor into the region where one of the photons has small virtuality: q^2 <<
+Q^2 > 1 GeV^2. In this kinematics, one should perform an additional
+factorization of short- and long-distance contributions. The extra
+long-distance sensitivity of the three-point amplitude is described by
+two-point correlators (bilocals), and the low-momentum dependence of the
+correlators involving composite operators of two lowest twists is extracted
+from auxiliary QCD sum rules. Our estimates for the form factor at q^2=0, Q^2 >
+1 1 GeV^2 are in good agreement with existing experimental data.
+","[{""version"":""v1"",""created"":""Fri, 28 Jul 1995 22:50:44 GMT""},{""version"":""v2"",""created"":""Sat, 29 Jul 1995 04:37:17 GMT""}]","2008-02-03"
+"hep-ph/9507449",,"E. Klempt, B.C. Metsch, C.R. Munz, H.R. Petry (University of Bonn,
+  Germany)","Scalar Mesons in a Relativistic Quark Model with Instanton-Induced
+  Forces","10 pages including 2 uuencoded figures, RevTeX","Phys.Lett.B361:160-166,1995","10.1016/0370-2693(95)01212-9","Bonn TK-95-19","hep-ph",,"  In a relativistic quark model with linear confinement and an
+instanton-induced interaction which solves the $\eta$-$\eta'$ puzzle, scalar
+mesons are found as almost pure SU(3) flavor states. This suggests a new
+interpretation of the scalar nonet: We propose that the recently discovered
+$f_0(1500)$ is not a glueball but the scalar (mainly)--octet meson for which
+the $K\bar{K}$ decay mode is suppressed. The mainly--singlet state is
+tentatively identified with the $f_0(980)$. The isovector and isodoublet states
+correspond to the $a_0(1450)$ and $K^{\ast}(1430)$, respectively.
+","[{""version"":""v1"",""created"":""Fri, 28 Jul 1995 16:08:31 GMT""}]","2008-11-26"
+"hep-ph/9507450","Hans Weber","Xiaoming Xu, H. J. Weber","Loop Expansion in Light-Cone $\phi^4$ Field Theory","12 pages, plain Tex, 1 table, 3 figures available from
+  xu@nsdssd.lbl.gov , accepted by Phys. Rev. D","Phys.Rev. D52 (1995) 4633-4639","10.1103/PhysRevD.52.4633",,"hep-ph",,"  A loop expansion is implemented based on the path integral quantization of
+the light-cone $\phi^4$ field theory in 1+1 dimensions. The effective potential
+as a function of the zero-mode field $\omega$ is calculated up to two loop
+order and its derivative with respect to $\omega$ is used to determine the
+vacuum expectation value of the field $\phi$. The critical coupling constant at
+the spontaneous symmetry breakdown is consistent with that obtained in the
+ordinary instant-form field theory. The critical exponents which describe the
+behavior of the susceptibility and the vacuum expectation value of $\phi$ near
+the critical point are evaluated from the effective potential. The one loop
+diagrams for the connected Green's function are calculated in momentum space.
+The relevant equal-time correlation function is shown to be closely related.
+","[{""version"":""v1"",""created"":""Fri, 28 Jul 1995 19:23:06 GMT""}]","2009-10-28"
+"hep-ph/9507451","Peter Povinec","Peter Povinec, B. Fenyi, and L. Clavelli","$B$ Decay into Light Gluinos","10 pages, REVTEX, 2 Postscript figures","Phys.Rev. D53 (1996) 4063-4066","10.1103/PhysRevD.53.4063","UAHEP955","hep-ph",,"  Flavor changing interactions of the gluino allow the $b$ quark to decay into
+the strange quark plus a gluino pair if the gluino is in the ultra low mass
+window below 1 GeV. In this case the enhancement of the nonleptonic $b$ decay
+could explain the anomalous semileptonic branching ratio.
+","[{""version"":""v1"",""created"":""Fri, 28 Jul 1995 18:08:22 GMT""}]","2009-10-28"
+"hep-ph/9507452","Koichi Funakubo","K.Funakubo, A.Kakuto, S.Otsuki, K.Takenaga and F.Toyoda","CP-Violating Profile of the Electroweak Bubble Wall","22 pages, latex, 6 figures (included)","Prog.Theor.Phys. 94 (1995) 845-860","10.1143/PTP.94.845","SAGA-HE-89, YITP/K-1115","hep-ph",,"  In any scenario of the electroweak baryogenesis, the profile of the CP
+violating bubble wall, created at the first-order phase transition, plays an
+essential role. We attempt to determine it by solving the equations of motion
+for the scalars in the two-Higgs-doublet model at the transition temperature.
+According to the parameters in the potential, we found three solutions. Two of
+them smoothly connect the CP-violating broken phase and the symmetric phase,
+while the other connects CP-conserving vacua but violates CP in the
+intermediate region. We also estimate the chiral charge flux, which will be
+turned into the baryon density in the symmetric phase by the sphaleron process.
+","[{""version"":""v1"",""created"":""Sat, 29 Jul 1995 07:45:34 GMT""}]","2009-10-28"
+"hep-ph/9507454","Yuping Kuang","Hong-Jian He, Yu-Ping Kuang, and C.-P. Yuan","Longitudinal/Goldstone boson equivalence and phenomenology of probing
+  the electroweak symmetry breaking","6 pages, LaTex, 1 postscript figure included using psfig.tex",,,"VPI-IHEP-95-12, TUIMP-TH-95/67, MSUHEP-50712","hep-ph",,"  We formulate the equivalence between the longitudinal weak-boson and the
+Goldstone boson as a criterion for sensitively probing the electroweak symmetry
+breaking mechanism and develop a precise power counting rule for chiral
+Lagrangian formulated electroweak theories. With these we semi-quatitatively
+analyze the sensitivities to various effective operators related to
+electrowaeak symmetry breaking via weak-boson scatterings at the CERN Large
+Hadron Collider (LHC).
+","[{""version"":""v1"",""created"":""Fri, 28 Jul 1995 22:26:00 GMT""},{""version"":""v2"",""created"":""Sun, 13 Aug 1995 13:06:00 GMT""}]","2008-02-03"
+"hep-th/9507163","Marcelo Ferreira Lima Carvalho","M. Carvalho, L.C.Q. Vilar and J.A. Helay\""el-Neto","Non-Linear Supersymmetric $\sigma $-Models and their Gauging in the
+  Atiyah-Ward Space-Time","15 pages, Latex, no figures","Helv.Phys.Acta 71 (1998) 184-199",,,"hep-th",,"  We present a supersymmetric non-linear $\s$-model built up in the $N=1$
+superspace of Atiyah-Ward space-time. A manifold of the K\""ahler type comes out
+that is restricted by a particular decomposition of the K\""ahler potential. The
+gauging of the $\s$-model isometries is also accomplished in superspace.
+","[{""version"":""v1"",""created"":""Fri, 28 Jul 1995 20:15:31 GMT""}]","2007-05-23"
+"hep-th/9507164","Dmitri Vladimirovich Galtsov","D.V. Gal'tsov and O.V. Kechkin","Matrix Dilaton-Axion for Heterotic String in Three Dimensions","LATEX, 9 pages, no figures","Phys.Lett. B361 (1995) 52-58","10.1016/0370-2693(95)01113-5","DTP-MSU/95-24","hep-th",,"  New and surprisingly simple representation is found for the heterotic string
+bosonic effective action in three dimensions in terms of complex potentials.
+The system is presented as a K\""ahler $\sigma$--model using complex symmetric
+$2\times 2$ matrix (matrix dilaton--axion) which depends linearly on three
+Ernst--type potentials and transforms under $U$--duality via matrix valued
+$SL(2,R)$. Two discrete automorphisms relating ten isometries of the target
+space (U--duality transformations) are found and used to generate the
+non--trivial Ehlers--Harrison sector by a map from the trivial gauge sector.
+Finite transformations are obtained in a simple form in terms of complex
+potentials. New solution generating technique is used to construct EMDA
+double--Kerr solution.
+","[{""version"":""v1"",""created"":""Sat, 29 Jul 1995 01:20:17 GMT""}]","2009-10-28"
+"nucl-th/9507042",,"S. A. Rakityansky, S. A. Sofianos, V. B. Belyaev, W. Sandhas","On the possibility of an eta-meson light nucleus bound state formation","23K, RevTeX, 8 pages, no figures, to appear in FBS Suppl","Few Body Syst.Suppl.9:227-230,1995",,,"nucl-th",,"  The resonance and bound--state poles of the amplitude describing elastic
+scattering of $\eta$-meson off the light nuclei $^2H$,\,$^3H$,\, $^3He$, and
+$^4He$ are calculated in the framework of a microscopic approach based on
+few--body equations. For each of the nuclei, the two--body parameters that
+enhance the $\eta N$--attraction which generate quasi--bound states, are also
+determined.
+","[{""version"":""v1"",""created"":""Fri, 28 Jul 1995 17:00:22 GMT""}]","2011-04-15"
+"nucl-th/9507043",,"V. B. Belyaev, S. A. Rakityansky, S. A. Sofianos, M. Braun, W. Sandhas","Interaction of eta-meson with light nuclei","21K, RevTeX, 9 pages, no figures, to appear in FBS Suppl","Few Body Syst.Suppl.8:309-316,1995",,,"nucl-th",,"  A microscopic treatment of $\eta$--nucleus scattering is presented. When
+applying the underlying exact integral equations, the excitation of the target
+are neglected, and an input $\eta N$ amplitude is chosen which reproduces the
+$S_{11}(1535)$ resonance. It is shown that the $\eta$--nucleus scattering
+lengths are quite sensitive to the $\eta N$ parameters and the nuclear wave
+functions. For a special choice of the parameters an $\eta {^4\!H}e$
+quasi--bound state occurs.
+","[{""version"":""v1"",""created"":""Fri, 28 Jul 1995 17:43:54 GMT""}]","2011-04-15"
+"nucl-th/9507044",,"C. Fuchs, H. Lenske","Density Dependent Hadron Field Theory","48 LateX pages, 12 Figures, figures and full paper are available as
+  postscript files by anonymous ftp at ftp://theorie.physik.uni-giessen.de/ddh","Phys.Rev.C52:3043-3060,1995","10.1103/PhysRevC.52.3043",,"nucl-th",,"  A fully covariant approach to a density dependent hadron field theory is
+presented. The relation between in--medium NN interactions and
+field--theoretical meson--nucleon vertices is discussed. The medium dependence
+of nuclear interactions is described by a functional dependence of the
+meson--nucleon vertices on the baryon field operators. As a consequence, the
+Euler--Lagrange equations lead to baryon rearrangement self--energies which are
+not obtained when only a parametric dependence of the vertices on the density
+is assumed. It is shown that the approach is energy--momentum conserving and
+thermodynamically consistent. Solutions of the field equations are studied in
+the mean--field approximation. Descriptions of the medium dependence in terms
+of the baryon scalar and vector density are investigated. Applications to
+infinite nuclear matter and finite nuclei are discussed. Density dependent
+coupling constants obtained from Dirac--Brueckner calculations with the Bonn
+NN-potentials are used. Results from Hartree calculations for energy spectra,
+binding energies and charge density distributions of $^{16}O$, $^{40,48}Ca$ and
+$^{208}Pb$ are presented. Comparisons to data strongly support the importance
+of rearrangement in a relativistic density dependent field theory. Most
+striking is the simultanuous improvement of charge radii, charge densities and
+binding energies. The results indicate the appearance of a new ""Coester line""
+in the nuclear matter equation of state.
+","[{""version"":""v1"",""created"":""Fri, 28 Jul 1995 18:31:45 GMT""}]","2008-11-26"

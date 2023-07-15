@@ -1,0 +1,333 @@
+"astro-ph/9509052","Capp Yess","Capp Yess and Sergei F. Shandarin (University of Kansas, Lawrence, KS)","Universality of the Network and Bubble Topology in Cosmological
+  Gravitational Simulations","The paper is 26 pages long. The latex file uses aasms.sty as a style
+  file. There are 5 figures and 2 tables included.","Astrophys.J. 465 (1996) 2","10.1086/177397",,"astro-ph",,"  Using percolation statistics we, for the first time, demonstrate the
+universal character of a network pattern in the real space, mass distributions
+resulting from nonlinear gravitational instability of initial Gaussian
+fluctuations. Percolation analysis of five stages of the nonlinear evolution of
+five power law models reveals that all models show a shift toward a network
+topology if seen with high enough resolution. However, quantitatively, the
+shift is significantly different in different models: the smaller the spectral
+index ,n, the stronger the shift. On the contrary, the shift toward the
+""bubble"" topology is characteristic only for the n <= -1 models. We find that
+the mean density of the percolating structures in the nonlinear density
+distributions generally is very different from the density threshold used to
+identify them and corresponds much better to a visual impression. We also find
+that the maximum of the number of structures (connected regions above or below
+a specified density threshold) in the evolved, nonlinear distributions is
+always smaller than in Gaussian fields with the same spectrum, and is
+determined by the effective slope at the cutoff frequency.
+","[{""version"":""v1"",""created"":""Fri, 8 Sep 1995 16:58:06 GMT""}]","2009-10-28"
+"astro-ph/9509053","Rafael Vera Mege","Rafael A. Vera","The New Universe Fixed by a Standing Wave Particle Model","10 pages, latex. To appear in Proc.of the 6t Canadian Conf. on Gen
+  Rel and Rel Astrophisics. A review on the theoretical base would may appear
+  in another work of the same author in the same proceedings",,,"DFUDEC-95-RV92","astro-ph gr-qc",,"  The theoretical properties of the black holes (BHs) and of the universe were
+derived from a unified relativistic theory based on a generalization of local
+relativity for nonlocal cases in gravitational fields and a quantized standing
+wave particle model that accounts for relativity, quantum mechanics and the
+gravitational tests (See gr-qc/9509014). They fix an isentropic and
+conservative steady state that is independent on an eventual universe expansion
+because matter also expands itself in the same proportion. The new black holes
+BHs resulting from linear properties of the model, after capturing enough
+radiation, would explode. Statistically, matter would evolve, indefinitely, in
+rather closed cycles between gas and BH states, and vice-versa. The expected
+astronomical objects and cosmic radiation backgrounds that are consistent with
+the observed facts. This leads to non conventional models for some celestial
+objects.
+","[{""version"":""v1"",""created"":""Sat, 9 Sep 1995 00:00:38 GMT""},{""version"":""v2"",""created"":""Sat, 9 Sep 1995 12:24:34 GMT""}]","2008-02-03"
+"astro-ph/9509054","Scott Grossman","Scott Grossman (Northwestern University)","A Theory of Non-Local Mixing Length Convection. III. Comparing Theory
+  and Numerical Experiment","36 pages, plain TeX, email for figures, submitted to MNRAS","Mon.Not.Roy.Astron.Soc. 279 (1996) 305","10.1093/mnras/279.2.305",,"astro-ph",,"  We solve the nonlocal convection equations. The solutions for four model
+problems are compared with results of GSPH simulations. In each case we test
+two closure schemes: 1) where third moments are defined by the diffusion
+approximation; and 2) where the full third moment equations are used and fourth
+moments are defined by a modified form of the quasi-normal approximation. In
+overshooting models, the convective flux becomes negative shortly after the
+stability boundary. The negative amplitude remains small, and the temperature
+gradient in the overshooting zone has nearly the radiative value. Turbulent
+velocities decay by a factor of $e$ after $0.5$--$1.5\ell$, depending on the
+model, where $\ell$ is the mixing length. Turbulent viscosity is more important
+than negative buoyancy in decelerating overshooting fluid blobs. These
+predictions are consistent with helioseismology.
+","[{""version"":""v1"",""created"":""Fri, 8 Sep 1995 23:35:48 GMT""}]","2015-06-24"
+"astro-ph/9509055","Roeland Van Der Marel","Roeland P. van der Marel","Recent progress in the search for black holes in galactic nuclei","4 pages, uuencoded compressed PostScript, includes 1 Figure. To
+  appear in: New Light on Galaxy Evolution, Proc. IAU Symp. 171, Heidelberg,
+  June 1995, R. Bender & R.L. Davies, eds., Kluwer Academic Publishers",,,"IASSNS-AST 95/** (Inst.Adv.Study Princeton)","astro-ph",,"  Massive nuclear black holes of 10^6 - 10^9 solar masses are believed to be
+responsible for the the energy production in quasars and active galaxies, and
+are thought to be present in many quiescent galaxies as well. Dynamical
+evidence for this can be sought by studying the dynamics of gas and stars in
+galactic nuclei at high spatial resolution. This paper reviews the current
+evidence, with emphasis on some recent developments and ongoing projects. The
+evidence from water masers and gas kinematics in the active galaxies NGC 4258
+and M87 is compelling. In quiescent galaxies only stellar kinematics are
+generally available. One well-studied case is M32. Stellar dynamical f(E,L_z)
+models with a few million solar mass black hole fit the ground-based
+kinematical data remarkably well. N-body simulations of an edge-on f(E,L_z)
+model for M32 show that this model is stable. HST spectra should soon provide
+new and improved constraints on the presence of black holes in quiescent
+galaxies.
+","[{""version"":""v1"",""created"":""Sat, 9 Sep 1995 15:09:54 GMT""}]","2007-05-23"
+"cmp-lg/9509003","John Lafferty","John D. Lafferty and Bernhard Suhm (Carnegie Mellon)","Cluster Expansions and Iterative Scaling for Maximum Entropy Language
+  Models","8 pages, uuencoded and compressed postscript",,,,"cmp-lg cs.CL",,"  The maximum entropy method has recently been successfully introduced to a
+variety of natural language applications. In each of these applications,
+however, the power of the maximum entropy method is achieved at the cost of a
+considerable increase in computational requirements. In this paper we present a
+technique, closely related to the classical cluster expansion from statistical
+mechanics, for reducing the computational demands necessary to calculate
+conditional maximum entropy language models.
+","[{""version"":""v1"",""created"":""Sat, 9 Sep 1995 14:10:42 GMT""}]","2008-02-03"
+"cond-mat/9509044",,"O. K. Andersen, A. I. Liechtenstein, O. Jepsen, and F. Paulsen
+  (Max-Planck Institut f\""ur Festk\""orperforschung, D-70569 Stuttgart)","LDA energy bands, low-energy Hamiltonians, t', t'', t_{perp}(k), and
+  J_{perp}","Stanford Superconductor Conference - March 1995. 17 pages
+  (Postscript), 5 Postscript figures (3 figures left) The whole file (5.3 Mb)
+  one could get via anonymous ftp:
+  ftp://radix1.mpi-stuttgart.mpg.de/pub/outgouing/lowham.uu",,"10.1016/0022-3697(95)00269-3",,"cond-mat",,"  We describe the LDA bandstructure of YBa_2Cu_3O_7 in the 2 eV range from the
+Fermi energy using orbital projections and compare with YBa_2Cu_4O_8. Then, the
+high-energy and chain-related degrees of freedom are integrated out and we
+arrive at two, nearest-neighbor, orthogonal, two-center, 8-band Hamiltonians,
+the even and odd bands of the bi-layer. Of the 8 orbitals, Cu{x2-y2}, O2x, O3y,
+and Cus have \sigma character and Cu{xz}, Cu{yz} O2z, and O3z have \pi
+character. The roles of the Cu_s orbital, which has some Cu{3z2-1} character,
+and the four \pi orbitals are as follows: Cu_s provides 2nd- and
+3rd-nearest-neighbor (t' and t') intra-plane hopping, as well as hopping
+between planes (t_{perp}). The \pi -orbitals are responsible for bifurcation of
+the saddle-points for dimpled planes. The 4-\sigma-band Hamiltonian is generic
+for flat CuO_2 planes and we use it for analytical studies. The reduction of
+the \sigma-Hamiltonian to 3- and 1-band Hamiltonians is explicitly discussed
+and we point out that, in addition to the hoppings commonly included in
+many-body calculations, the 3-band Hamiltonian should include hopping between
+all 2nd-nearest-neighbor oxygens and that the 1-band Hamiltonian should include
+3rd-nearest-neighbor hoppings. We calculate the single-particle hopping between
+the planes of a bi-layer. We show that the inclusion of t' is crucial for
+understanding ARPES for the anti-ferromagnetic insulator Sr_2CuO_2Cl_2.
+Finally, we estimate the value of the inter-plane exchange constant for an
+un-doped bi-layer in mean-field theory using different single-particle
+Hamiltonians.
+","[{""version"":""v1"",""created"":""Fri, 8 Sep 1995 17:38:34 GMT""}]","2009-10-28"
+"cond-mat/9509045","Peter Hirschfeld","M.R. Norman, P.J. Hirschfeld","Heat Transport and the Nature of the Order Parameter in Superconducting
+  $UPt_3$","8 pages, revtex, 15 uunencoded postscript figures","Phys Rev B 54, 4239 (1996)","10.1103/PhysRevB.53.5706",,"cond-mat",,"  Recent thermal conductivity data on the heavy fermion superconductor $UPt_3$
+have been interpreted as offering support for an $E_{2u}$ model of the order
+parameter as opposed to an $E_{1g}$ model. In this paper, we analyze this issue
+from a theoretical standpoint including the detailed effects of Fermi surface
+and gap anisotropy. Our conclusion is that although current data put strong
+constraints on the gap anisotropy, they cannot definitively distinguish between
+these two models. Measurements on samples of varying quality could be decisive
+in this regard, however.
+","[{""version"":""v1"",""created"":""Fri, 8 Sep 1995 22:34:25 GMT""}]","2009-10-28"
+"cond-mat/9509046","Matthias Graf","M.J. Graf, S.-K. Yip, J.A. Sauls (Northwestern University), and D.
+  Rainer (Universit\""at Bayreuth)","Electronic thermal conductivity and the Wiedemann-Franz law for
+  unconventional superconductors","17 pages, PostScript file compressed and uuencoded","Phys. Rev. B 53 (1996) 15147","10.1103/PhysRevB.53.15147",,"cond-mat supr-con",,"  We use the quasiclassical theory of superconductivity to calculate the
+electronic contribution to the thermal conductivity. The theory is formulated
+for low temperatures when heat transport is limited by electron scattering from
+random defects and for superconductors with nodes in the order parameter. We
+show that certain eigenvalues of the thermal conductivity tensor are universal
+at low temperature, $k_B T\ll \gamma$, where $\gamma$ is the bandwidth of
+impurity bound states in the superconducting phase. The components of the
+electrical and thermal conductivity also obey a Wiedemann-Franz law with the
+Lorenz ratio, $L(T)=\kappa/\sigma T$, given by the Sommerfeld value of
+$L_{\!S}=({\pi^2}/{3})(k_B/e)^2$ for $k_BT\ll\gamma$. For intermediate
+temperatures the Lorenz ratio deviates significantly from $L_{\!S}$, and is
+strongly dependent on the scattering cross section, and qualitatively different
+for resonant vs.\ nonresonant scattering. We include comparisons with other
+theoretical calculations and the thermal conductivity data for the high $T_c$
+cuprate and heavy fermion superconductors.
+","[{""version"":""v1"",""created"":""Fri, 8 Sep 1995 22:35:56 GMT""}]","2009-10-28"
+"cond-mat/9509047","Sunilkumar","P. B. Sunil Kumar, Debnarayan Jana","Imbibition: An Example of Nonconserved Cellular Automaton","9 pages, compressed uuencoded PS file.",,,,"cond-mat chem-ph",,"  We report an imbibition experiment in 2D random porous media in which height
+- height correlation function grows with a nonuniversal exponent. We find the
+exponent to depend on evaporation. A cellular automaton model for imbibition
+based on first principles is presented. A numerical study of the model gives
+results which are consistent with the experiment. The interface is shown to
+exhibit self-organised criticality (SOC).
+","[{""version"":""v1"",""created"":""Sat, 9 Sep 1995 15:17:21 GMT""}]","2007-05-23"
+"gr-qc/9509017","Elias Kiritsis","Elias Kiritsis and Costas Kounnas","String Gravity and Cosmology: Some new ideas","To appear in the proceedings of the Four Seas Conference, Trieste,
+  June 1995",,,"CERN-TH/95-224, LPTENS-95/42","gr-qc",,"  String theory provides the only consistent framework so far that unifies all
+interactions including gravity. We discuss gravity and cosmology in string
+theory. Conventional notions from general relativity like geometry, topology
+etc. are well defined only as low energy approximations in string theory. At
+small distances physics deviates from the field theoretic intuition. We present
+several examples of purely stringy phenomena which imply that the physics at
+strong curvatures can be quite different from what one might expect from field
+theory. They indicate new possibilities in the context of quantum cosmology.
+","[{""version"":""v1"",""created"":""Fri, 8 Sep 1995 18:04:45 GMT""}]","2007-05-23"
+"gr-qc/9509018","Carlos Nunez","Luis A. Anchordoqui, Graciela S. Birman, Jose D. Edelstein and Carlos
+  N\'u\~nez","On Pseudospherically Symmetric Repulsive Gravitational Field","4 pages, latex, no figures, references added. To be published in the
+  Proceedings of the XVI Brazilian National Meeting on Particles and Fields",,,"La Plata-Th 95/23","gr-qc",,"  Solutions of Einstein vacuum equations, for a static pseudospherically
+symmetric system, are presented. They describe a naked singularity and a
+singular solution with many resemblances to the Schwartzschild solution but
+with two major differences: its static region, lying inside the null horizon,
+sees the singularity, and its effective gravitational field is repulsive. We
+shortly discuss on the phenomenological plausibility of this last solution as a
+self-consistent system living on a space-time domain, and discuss some features
+of particle geodesics in its gravitational field.
+","[{""version"":""v1"",""created"":""Fri, 8 Sep 1995 20:05:13 GMT""},{""version"":""v2"",""created"":""Thu, 21 Mar 1996 16:05:22 GMT""}]","2009-09-25"
+"gr-qc/9509019","Luis Anchordoqui","Luis Anchordoqui, Graciela Birman, Santiago Perez Bergliaffa and
+  H\'ector Vucetich","Variable rest masses in 5-dimensional gravitation confronted with
+  experimental data","Some references added","Gen.Rel.Grav. 28 (1996) 701-706","10.1007/BF02104836",,"gr-qc",,"  Cosmological solutions of Einstein equation for a \mbox{5-dimensional}
+space-time, in the case of a dust-filled universe, are presented. With these
+solutions we are able to test a hypothetical relation between the rest mass of
+a particle and the $5^{\rm th}$ dimension. Comparison with experiment strongly
+refutes the implied dependence of the rest mass on the cosmological time.
+","[{""version"":""v1"",""created"":""Fri, 8 Sep 1995 20:30:26 GMT""},{""version"":""v2"",""created"":""Thu, 1 Aug 1996 22:09:53 GMT""}]","2009-10-28"
+"hep-lat/9509012","Kostas Orginos","R.C.Brower (Boston Un.),T.Ivanenko(MIT), A.R.Levi(Boston Un.) and
+  K.N.Orginos(Brown Un.)","Chronological Inversion Method for the Dirac Matrix in Hybrid Monte
+  Carlo","35 pages, 18 EPS figures A new ""preconditioning"" method, derived from
+  the Chronological Inversion, is described. Some new figures are appended.
+  Some reorganization of the material has taken place","Nucl.Phys. B484 (1997) 353-374","10.1016/S0550-3213(96)00579-2","BU-CCS-950601, BROWN-HET-999, MIT-CTP-2461","hep-lat",,"  In Hybrid Monte Carlo simulations for full QCD, the gauge fields evolve
+smoothly as a function of Molecular Dynamics time. Here we investigate improved
+methods of estimating the trial or starting solutions for the Dirac matrix
+inversion as superpositions of a chronological sequence of solutions in the
+recent past. By taking as the trial solution the vector which minimizes the
+residual in the linear space spanned by the past solutions, the number of
+conjugate gradient iterations per unit MD time is decreased by at least a
+factor of 2. Extensions of this basic approach to precondition the conjugate
+gradient iterations are also discussed.
+","[{""version"":""v1"",""created"":""Fri, 8 Sep 1995 16:38:38 GMT""},{""version"":""v2"",""created"":""Fri, 5 Apr 1996 18:18:13 GMT""}]","2009-10-28"
+"hep-lat/9509013","Shinji Ejiri","Shinji Ejiri, Shun-ichi Kitahara, Yoshimi Matsubara, Tsuyoshi Okude,
+  Tsuneo Suzuki and Koji Yasuta","Study of gauge (in)dependence of monopole dynamics","4pages (7 figures), Latex, Contribution to Lattice 95","Nucl.Phys.Proc.Suppl. 47 (1996) 322-325","10.1016/0920-5632(96)00066-7","KANAZAWA 95-09","hep-lat",,"  We investigated the gauge (in)dependence of the confinement mechanism due to
+monopole condensation in SU(2) lattice QCD by various abelian projections. We
+found (1) the string tension can be reproduced by monopoles alone also in
+Polyakov gauge and (2) the behaviors of the Polyakov loop at the critical
+temperature seem to be explained by the uniformity breaking of the monopole
+currents in every gauge.
+","[{""version"":""v1"",""created"":""Sat, 9 Sep 1995 11:49:11 GMT""},{""version"":""v2"",""created"":""Mon, 11 Sep 1995 15:20:10 GMT""}]","2009-10-28"
+"hep-lat/9509014","Shinji Ejiri","Shinji Ejiri","Monopoles in High Temperature Phase of SU(2) QCD","4pages (3 figures), Latex, Contribution to Lattice 95","Nucl.Phys.Proc.Suppl. 47 (1996) 539-542","10.1016/0920-5632(96)00117-X","KANAZAWA 95-10","hep-lat",,"  We investigated a behavior of monopole currents in the high temperature phase
+of abelian projected finite temperature SU(2) QCD in maximally abelian gauge.
+Wrapped monopole currents which are closed by periodic boundary play an
+important role for the spatial string tension. And the wrapped monopole current
+density seems to be non-vanishing in the continuum limit. These results may be
+related to Polyakov's analysis of the confinement mechanism using monopole gas
+in 3-dimensional SU(2) gauge theory with Higgs fields.
+","[{""version"":""v1"",""created"":""Sat, 9 Sep 1995 12:18:56 GMT""},{""version"":""v2"",""created"":""Mon, 11 Sep 1995 15:41:04 GMT""}]","2009-10-28"
+"hep-lat/9509015","Shinji Ejiri","Tsuneo Suzuki, Yoshimi Matsubara, Shinji Ejiri, Kazuya Yamada and
+  Natsuko Arasaki","Block spin transformation on the dual lattice and monopole action","4pages (4 figures), Latex, Contribution to Lattice 95","Nucl.Phys.Proc.Suppl. 47 (1996) 270-273","10.1016/0920-5632(96)00054-0","KANAZAWA 95-07","hep-lat",,"  To find a perfect lattice action in terms of monopole action on the dual
+lattice, we performed simulations of a monopole effective action obtained
+numerically from vacuum configurations in SU(2) QCD. Although the Polyakov loop
+behavior near $T_c$ is well reproduced by the action, a small but repulsive
+term is needed in addition to get the string tension correctly. It is reported
+also a monopole effective action in $SU(3)$ QCD which is expressed by one kind
+of monopole currents.
+","[{""version"":""v1"",""created"":""Sat, 9 Sep 1995 13:05:52 GMT""},{""version"":""v2"",""created"":""Mon, 11 Sep 1995 15:51:09 GMT""}]","2009-10-28"
+"hep-lat/9509016","Tsuyoshi Okude","Tsuneo Suzuki, Shun-ichi Kitahara, Tsuyoshi Okude, Fumiyoshi Shoji,
+  Kazuya Moroda and Osamu Miyamura","Monopoles and hadron spectrum in quenched QCD","4pages, uuencoded PostScript, To appear in the Proceeding of LATTICE
+  '95, Melbourne, Australia, 11-15 July, 1995","Nucl.Phys.Proc.Suppl. 47 (1996) 374-377","10.1016/0920-5632(96)00077-1","KANAZAWA 95-08","hep-lat",,"  We report the preliminary results of the studies of hadron spectrum under the
+background of abelian and monopole gauge fields in quenched Wilson SU(3) QCD.
+Abelian gauge fields alone reproduce the same chiral limit as in the full case.
+Critical hopping parameter $\kappa_c$ and $m_{\rho}$ are the same in both
+cases. We need more time to get a definite result in the case of monopole
+background. The photon contribution do not produce any mass gap in the chiral
+limit ($\kappa=\kappa_c\sim 0.17$). The behavior is similar to those in the
+free photon case for $\kappa_c= 0.125$.
+","[{""version"":""v1"",""created"":""Sat, 9 Sep 1995 13:40:06 GMT""},{""version"":""v2"",""created"":""Tue, 12 Sep 1995 05:24:06 GMT""}]","2009-10-28"
+"hep-ph/9509256",,"R. Kuchimanchi and R. N. Mohapatra","Upper bound on the $W_R$ mass in automatically R-conserving SUSY models","plain latex; 8 pages","Phys.Rev.Lett.75:3989-3992,1995","10.1103/PhysRevLett.75.3989","UMD-PP-96-34","hep-ph",,"  We show that in automatically R-conserving minimal SUSY left-right symmetric
+models there is a theoretical upper limit on the mass of the right-handed $W_R$
+boson given by $M_{W_R}\leq g M_{SUSY}/f$, where $M_{SUSY}$ is the scale of
+supersymmetry breaking, g is the weak gauge coupling and $f$ is the Yukawa
+coupling responsible for generating the right-handed neutrino masses. If
+$M_{W_R}$ violates the above limit, the ground state of the theory breaks
+electromagnetism. The only way to avoid this bound while keeping the theory
+automatically R-conserving is to expand the theory to include very specific
+kinds of additional multiplets and demanding unnatural finetuning of their
+couplings.
+","[{""version"":""v1"",""created"":""Fri, 8 Sep 1995 19:01:42 GMT""}]","2008-11-26"
+"hep-ph/9509257","Eduardo de Moraes Gregores","O.J.P. Eboli, E.M. Gregores, J.C. Montero, S.F. Novaes, and D. Spehler","Excited Leptonic States in Polarized e^-\gamma and e^+ e^- Collisions","22 pages, RevTeX, 8 figures","Phys.Rev.D53:1253-1263,1996","10.1103/PhysRevD.53.1253","IFT-P.018/95, IFUSP-P 1145","hep-ph",,"  We analyze the capability of the next generation of linear electron--positron
+colliders to unravel the spin and couplings of excited leptons predicted by
+composite models. Assuming that these machines will be able to operate both in
+the $e^+e^-$ and $e^-\gamma$ modes, we study the effects of the excited
+electrons of spin $\frac{1}{2}$ and $\frac{3}{2}$ in the reactions $e^-\gamma
+\rightarrow e^-\gamma$ and $e^+e^- \rightarrow \gamma\gamma$. We show how the
+use of polarized beams is able not only to increase the reach of these
+machines, but also to determine the spin and couplings of the excited states.
+","[{""version"":""v1"",""created"":""Fri, 8 Sep 1995 20:04:56 GMT""}]","2014-11-17"
+"hep-ph/9509258","Arjun Berera","Arjun Berera and John C. Collins (Penn State)","Double Pomeron Jet Cross Sections","21 pages, 7 figures, figure 1 has been slightly changed","Nucl.Phys.B474:183-216,1996","10.1016/0550-3213(96)00250-7","PSU/TH/162","hep-ph",,"  We treat hadron-hadron collisions where the final state is kinematically of
+the kind associated with double-pomeron-exchange (DPE) and has large transverse
+momentum jets. We show that in addition to the conventional factorized (FDPE)
+contribution, there is a non-factorized (NDPE) contribution which has no
+pomeron beam jet. Within a simple model we compute DPE-two-jet total and
+differential cross sections at Tevatron energy scales, and show that the NDPE
+contribution is dominant.
+","[{""version"":""v1"",""created"":""Fri, 8 Sep 1995 21:07:45 GMT""},{""version"":""v2"",""created"":""Wed, 20 Sep 1995 21:09:31 GMT""}]","2008-11-26"
+"hep-th/9509043","Elias Kiritsis","Elias Kiritsis and Costas Kounnas","Instabilities in Strong Magnetic Fields in String Theory","To appear in the proceedings of the Conference on Gauge Theories,
+  Applied Supersymmetry and Quantum Gravity, Leuven, July 1995",,,"CERN-TH/95-223, LPTENS-95/41","hep-th",,"  We construct groundstates of the string with non-zero mass gap and
+non-trivial chromo-magnetic fields as well as curvature. The exact spectrum as
+function of the chromo-magnetic fields and curvature is derived. We examine the
+behavior of the spectrum, and find that there is a maximal value for the
+magnetic field $H_{\rm max}\sim M_{\rm Plank}^2$. At this value all states that
+couple to the magnetic field become infinitely massive and decouple. We also
+find tachyonic instabilities for strong background fields of the order ${\cal
+O}(\mu M_{\rm Plank})$ where $\mu$ is the mass gap of the theory. Unlike the
+field theory case, we find that such ground states become stable again for
+magnetic fields of the order ${\cal O}(M^2_{\rm Plank})$. The implications of
+these results are discussed.
+","[{""version"":""v1"",""created"":""Fri, 8 Sep 1995 16:29:11 GMT""}]","2007-05-23"
+"hep-th/9509044","Wats","Paul Watts (Centre de Physique Theorique, Marseille, France)","Generalized Wess-Zumino Consistency Conditions for Pure W_3 Gravity
+  Anomalies","LaTeX file, 11 pages, to appear in Proceedings, W-Algebras: Extended
+  Conformal Symmetries, Centre de Physique Theorique, Marseille, France, 3-7
+  July 1995, R. Grimm, V. Ovsienko (eds.)",,,"CPT-95/P.3237","hep-th",,"  General expressions for the anomalies appearing in pure W_3 gravity are found
+by requiring that they satisfy a modified version of the Wess-Zumino
+consistency conditions in which the Ward identities are treated as nonvanishing
+quantities.
+","[{""version"":""v1"",""created"":""Fri, 8 Sep 1995 16:13:15 GMT""}]","2007-05-23"
+"hep-th/9509047","Luiz Claudio Queiroz Vilar","M. Carvalho, L.C.Q. Vilar, C.A.G. Sasaki and S.P. Sorella","BRS Cohomology of Zero Curvature Systems I. The Complete Ladder Case","19 pages, latex, no figures, latex improved","J.Math.Phys.37:5310-5324,1996","10.1063/1.531707","CBPF-NF-062/95","hep-th",,"  We present here the zero curvature formulation for a wide class of field
+theory models. This formalism, which relies on the existence of an operator
+$\d$ which decomposes the exterior space-time derivative as a BRS commutator,
+turns out to be particularly useful in order to solve the Wess-Zumino
+consistency condition. The examples of the topological theories and of the
+$B$-$C$ string ghost system are considered in detail.
+","[{""version"":""v1"",""created"":""Fri, 8 Sep 1995 22:11:29 GMT""},{""version"":""v2"",""created"":""Tue, 12 Sep 1995 01:35:13 GMT""}]","2010-02-04"
+"hep-th/9509048","Luiz Claudio Queiroz Vilar","M. Carvalho, L.C.Q. Vilar, C.A.G. Sasaki and S.P. Sorella","BRS Cohomology of Zero Curvature Systems II. The Noncomplete Ladder Case","14 pages, latex, no figures, latex improved","J.Math.Phys. 37 (1996) 5325-5336","10.1063/1.531727","CBPF-NF-063/95","hep-th",,"  The Yang-Mills type theories and their BRS cohomology are analysed within the
+zero curvature formalism.
+","[{""version"":""v1"",""created"":""Fri, 8 Sep 1995 22:14:53 GMT""},{""version"":""v2"",""created"":""Tue, 12 Sep 1995 01:40:42 GMT""}]","2009-10-28"
+"hep-th/9509049","Ti-Ming Chiang","Ti-ming Chiang and Brian R. Greene","Phases of mirror symmetry","24 pages, tex, harvmac, vanilla.sty, 6 figures",,,"CLNS-95/1361","hep-th",,"  We review the geometrical framework required for understanding the moduli
+space of $(2,2)$ superconformal-field theories, highlighting various aspects of
+its phase structure. In particular, we indicate the types of phase diagrams
+that emerge for ``generic'' Calabi-Yau theories and review an efficient method
+for their determination. We then focus on some special types of phase diagrams
+that have bearing on the issues of rigid manifolds, mirror symmetry and
+geometrical duality.
+","[{""version"":""v1"",""created"":""Sat, 9 Sep 1995 02:16:31 GMT""},{""version"":""v2"",""created"":""Mon, 11 Sep 1995 01:52:09 GMT""}]","2008-02-03"
+"hep-th/9509050",,"A.A. Tseytlin","On singularities of spherically symmetric backgrounds in string theory","12 pages, harvmac","Phys.Lett.B363:223-229,1995","10.1016/0370-2693(95)01228-7","Imperial/TP/94-95/54","hep-th",,"  We suggest that for singular rotationally invariant closed string backgrounds
+which need sources for their support at the origin (in particular, for special
+plane waves and fundamental strings) certain `trivial' \a'-corrections (which
+are usually ignored since in the absence of sources they can be eliminated by a
+field redefinition) may play an important role eliminating the singularities in
+the exact solutions. These corrections effectively regularize the source
+delta-function at the \a'-scale. We demonstrate that similar smearing of the
+singularity of the leading-order point-source solution indeed takes place in
+the open string theory.
+","[{""version"":""v1"",""created"":""Fri, 8 Sep 1995 22:29:36 GMT""}]","2009-09-17"
+"nucl-th/9509018","Roelof Bijker","R. Bijker and A. Leviatan","Form factors in an algebraic model of the nucleon","5 pages, 1 figure, talk presented at Wigner Symposium, August 7-11,
+  1995, Guadalajara, Mexico",,,,"nucl-th hep-ph",,"  We study the electromagnetic form factors of the nucleon in a collective
+model of baryons. In an algebraic approach to hadron structure, we derive
+closed expressions for both elastic and transition form factors, and
+consequently for the helicity amplitudes that can be measured in electro- and
+photoproduction.
+","[{""version"":""v1"",""created"":""Fri, 8 Sep 1995 18:34:35 GMT""}]","2007-05-23"
+"nucl-th/9509019",,"P.J. Ellis, S.B. Parendo and M. Prakash","Role of Hyperon Negative Energy Sea in Nuclear Matter","12 pages, latex, 1 simple figure attached at end (regular postscript)","Phys.Lett. B361 (1995) 5-9","10.1016/0370-2693(95)01161-I","NUC-MINN-95/20-T","nucl-th",,"  We have examined the contribution of the filled negative energy sea of
+hyperons to the energy/particle in nuclear matter at the one and two loop
+levels. While this has the potential to be significant, we find a strong
+cancellation between the one and two loop contributions for our chosen
+parameters so that hyperon effects can be justifiably neglected.
+","[{""version"":""v1"",""created"":""Fri, 8 Sep 1995 19:58:43 GMT""}]","2009-10-28"
+"q-alg/9509009","Xiao-Song Lin","Xiao-Song Lin and Zhenghan Wang","On Ohtsuki's invariants of integral homology 3-spheres, I","35 pages, amslatex, no figures. Some minor changes are made,
+  including the strengthening of the conclusion of Theorem 1.2 and the
+  reformulation of Conjecture 4.1",,,,"q-alg math.QA",,"  An attempt is made to conceptualize the derivation as well as to facilitate
+the computation of Ohtsuki's rational invariants $\lambda_n$ of integral
+homology 3-spheres extracted from Reshetikhin-Turaev SU(2) quantum invariants.
+Several interesting consequences will follow from our computation of
+$\lambda_2$. One of them says that $\lambda_2$ is always an integer divisible
+by 3. It seems interesting to compare this result with the fact shown by
+Murakami that $\lambda_{1}$ is 6 times the Casson invariant. Other consequences
+include some general criteria for distinguishing homology 3-spheres obtained
+from surgery on knots by using the Jones polynomial.
+","[{""version"":""v1"",""created"":""Fri, 8 Sep 1995 18:00:21 GMT""},{""version"":""v2"",""created"":""Fri, 26 Apr 1996 22:51:09 GMT""}]","2008-02-03"
+"q-alg/9509010","Xiao-Song Lin","Efstratia Kalfagianni and Xiao-Song Lin","The HOMFLY polynomial for links in rational homology 3-spheres","30 pages. Uuencoded, compressed, and tared archive of plain tex files
+  and postscript figure files. Upon uudecoding, uncompressing and taring, tex
+  the file j.tex",,,,"q-alg math.QA",,"  We construct a polynomial invariant, for links in a Seifert fibered or
+atoroidal rational homology 3-sphere, which generalizes the 2-variable Jones
+polynomial (HOMFLY). As a consequence, we show that the dual of the HOMFLY
+skein module of a homotopy 3-sphere is isomorpic to that of the genuine
+3-sphere .
+","[{""version"":""v1"",""created"":""Fri, 8 Sep 1995 19:12:58 GMT""}]","2008-02-03"
+"solv-int/9509003","Craig A. Tracy","Craig A. Tracy (Univ. of California, Davis), Harold Widom (Univ. of
+  California, Santa Cruz)","Proofs of Two Conjectures Related to the Thermodynamic Bethe Ansatz","16 pages, LaTeX file, no figures. Revision has minor changes","Commun.Math.Phys. 179 (1996) 667-680","10.1007/BF02100102",,"solv-int hep-th math-ph math.MP nlin.SI",,"  We prove that the solution to a pair of nonlinear integral equations arising
+in the thermodynamic Bethe Ansatz can be expressed in terms of the resolvent
+kernel of the linear integral operator with kernel
+exp(-u(theta)-u(theta'))/cosh[(1/2)(theta-theta')]
+","[{""version"":""v1"",""created"":""Sat, 9 Sep 1995 00:44:13 GMT""},{""version"":""v2"",""created"":""Sat, 9 Sep 1995 17:12:41 GMT""},{""version"":""v3"",""created"":""Tue, 12 Sep 1995 20:44:27 GMT""}]","2009-07-11"

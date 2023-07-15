@@ -1,0 +1,525 @@
+"adap-org/9502004","Kai Nagel","Kai Nagel (University of Cologne and Brookhaven National Laboratory),
+  Maya Paczuski (Brookhaven National Laboratory)","Emergent Traffic Jams","TeX-file only. Postscript version including figures available from
+  http://studguppy.tsasa.lanl.gov/research_team/",,"10.1103/PhysRevE.51.2909","zpr94-171","adap-org cond-mat nlin.AO",,"  We study a single-lane traffic model that is based on human driving behavior.
+The outflow from a traffic jam self-organizes to a critical state of maximum
+throughput. Small perturbations of the outflow far downstream create emergent
+traffic jams with a power law distribution $P(t) \sim t^{-3/2}$ of lifetimes,
+$t$. On varying the vehicle density in a closed system, this critical state
+separates lamellar and jammed regimes, and exhibits $1/f$ noise in the power
+spectrum. Using random walk arguments, in conjunction with a cascade equation,
+we develop a phenomenological theory that predicts the critical exponents for
+this transition and explains the self-organizing behavior. These predictions
+are consistent with all of our numerical results.
+","[{""version"":""v1"",""created"":""Wed, 15 Feb 1995 02:25:25 GMT""}]","2009-10-28"
+"adap-org/9502005","Kai Nagel","Nagel K (Los Alamos National Laboratory, Santa Fe Institute,
+  University of Cologne), Rasmussen S (Los Alamos National Laboratory, Santa Fe
+  Institute)","Traffic at the Edge of Chaos","Postscript version including most of the figures available from
+  http://studguppy.tsasa.lanl.gov/research_team/. Paper has been published in
+  Brooks RA, Maes P, Artifical Life IV: ..., MIT Press, 1994",,,"zpr94-157","adap-org nlin.AO",,"  We use a very simple description of human driving behavior to simulate
+traffic. The regime of maximum vehicle flow in a closed system shows
+near-critical behavior, and as a result a sharp decrease of the predictability
+of travel time. Since Advanced Traffic Management Systems (ATMSs) tend to drive
+larger parts of the transportation system towards this regime of maximum flow,
+we argue that in consequence the traffic system as a whole will be driven
+closer to criticality, thus making predictions much harder. A simulation of a
+simplified transportation network supports our argument.
+","[{""version"":""v1"",""created"":""Wed, 15 Feb 1995 02:53:16 GMT""}]","2008-02-03"
+"alg-geom/9502011","Tan Sheng-Li","Sheng-Li Tan","Height inequality of algebraic points on curves over functional fields","14 pages, AmSTeX 2.1 This paper will appear in J. reine angew. Math",,,"MPI 94-55","alg-geom math.AG",,"  The purpose of this paper is to give a linear and effective height inequality
+for algebraic points on curves over functional fields. Our height inequality
+can be viewed as the logarithmic canonical class inequality of a punctured
+curve over a functional field (a fibered surface minus a section).
+","[{""version"":""v1"",""created"":""Tue, 14 Feb 1995 18:29:40 GMT""}]","2008-02-03"
+"alg-geom/9502012","Sandra Di Rocco","Sandra Di Rocco","k-very ample line bundles on Del Pezzo Surfaces","AMSLATEX file, 10 pages. To appear on Math. Nachrt",,,,"alg-geom math.AG",,"  A $k$-very ample line bundle L on a Del Pezzo Surface is numerically
+characterized. We find that the set of the exceptional curves and effective
+divisors with selfintersection zero, $\cal S$, plays a very important rule in
+checking the nefness and $k$-very ampleness of a line bundle on a Del pezzo
+Surface. We show that a line bundle L is nef if and only if it is spanned and
+that L is $k$-very ample if and only if the intersection with all the elements
+of $\cal S$ is greater or equal than k. In the first part of the paper we give
+a complete numerical description of the elements of $\cal S$ .
+","[{""version"":""v1"",""created"":""Wed, 15 Feb 1995 09:12:38 GMT""}]","2008-02-03"
+"astro-ph/9502069","Konrad Kuijken","Michael R. Merrifield and Konrad Kuijken","The pattern speed of the bar in NGC 936","uuencoded compressed postscript file. 6 pages. Accepted for
+  publication in MNRAS.",,"10.1093/mnras/274.3.933",,"astro-ph",,"  We have used the Tremaine-Weinberg method to measure the angular speed of
+rotation for the bar in the SB0 galaxy NGC 936. With this technique, the bar's
+pattern speed, Omega_p, can be derived from the luminosity and
+stellar-kinematic information in long-slit spectral observations taken parallel
+to the major axis of the galaxy. The kinematic measurement required is the mean
+line-of-sight velocity of all stellar light entering the slit. This quantity
+can only be calculated reliably if any asymmetry in the shape of the broadening
+function of the spectral lines is also measured, and so we present a method
+which allows for such asymmetry. The technique also returns a true measure of
+the RMS uncertainty in the estimate. Application of the analysis to a set of
+long-slit spectra of NGC 936 returns four separate measures of Omega_p which
+are mutually consistent. Combining these data produces a best estimate for the
+bar pattern speed of Omega_p = 60 +/- 14 km/s/kpc (assuming a distance of 16.6
+Mpc). This result refines the only previous attempt to make this measurement,
+which yielded an estimate for Omega_p in NGC 936 of 104 +/- 37 km/s/kpc (Kent
+1987). The new measurement places the co-rotation radius just beyond the end of
+the bar, in agreement with theoretical calculations.
+","[{""version"":""v1"",""created"":""Tue, 14 Feb 1995 16:02:10 GMT""}]","2015-06-24"
+"astro-ph/9502070","Ivezic","Zeljko Ivezic, Moshe Elitzur","INFRARED EMISSION AND DYNAMICS OF OUTFLOWS IN LATE-TYPE STARS","24 pages, postscript, compressed, uuencoded. Version with figures and
+  tables available via anonymous ftp at ftp://asta.pa.uky.edu/ivezic/paper1/
+  (mget *.ps.Z). To appear in ApJ.",,,,"astro-ph",,"  The dynamical structure and infrared emission of winds around late-type stars
+are studied in a self-consistent model that couples the equations of motion and
+radiative transfer. Both the dynamics and IR spectrum of the solution are fully
+characterized by the flux averaged optical depth. Five types of dust grains are
+considered: astronomical silicate, SiC, crystalline olivine, graphite and
+amorphous carbon as well as mixtures. Analysis of infrared signatures provides
+constraints on the grain chemical composition and indications for the
+simultaneous existence of silicate and carbon grains. The region of parameter
+space where radiation pressure can support a given mass-loss rate is identified
+and a new method to derive mass loss rates from IR data is presented. IRAS LRS
+classes are associated with optical depth for various grain materials and the
+regions of color-color diagrams expected to be populated by late-type stars are
+identified. We show that cirrus emission can severely affect point source
+measurements to the extent that their listed IRAS long wavelength fluxes are
+unreliable. After accounting for cirrus contamination, essentially all IRAS
+point sources located in the relevant regions of the color-color diagrams can
+be explained as late-type stars.
+","[{""version"":""v1"",""created"":""Tue, 14 Feb 1995 23:44:49 GMT""}]","2016-08-30"
+"astro-ph/9502072","Mirones","J. M. Martin-Mirones, E. Martinez-Gonzalez, J. I. Gonzalez-Serrano,
+  and J. L. Sanz","INTERMEDIATE RESOLUTION SPECTROSCOPY OF THE RADIO GALAXY B2 0902+34 AT
+  $Z\approx 3.4$","14 pages; uuencode file containing 2 .ps files; figures upon request",,"10.1086/175260","IFICA-1/95","astro-ph",,"  We have carried out spectroscopic observations of the high redshift
+($z\approx 3.4$) radio galaxy 0902+34 at intermediate resolution with the
+William Herschel Telescope. The dynamical spectral ranges covered are 4600-5480
+\AA and 5920-7680 \AA with resolutions of 5.4 \AA and 9.5 \AA, respectively. We
+detect a continuum that is almost flat and resolve three emission lines:
+Ly$\alpha$, C IV $\lambda$1549 and He II $\lambda$1640, the last one previously
+undetected. The line ratios are similar to the typical values found for
+narrow-line high redshift radio galaxies. Line ratios observed in different
+regions of the galaxy seem to indicate the presence of strong ionization and/or
+dust density gradients. We have not detected any Ly$\alpha$ absorption at
+z=3.3968 (red wing of the Ly$\alpha$ emission line) as might be expected from
+the absorption found at 21 cm by other authors using the VLA and Arecibo
+antennas. We discuss possible models for the H I absorbing cloud.
+","[{""version"":""v1"",""created"":""Wed, 15 Feb 1995 12:21:43 GMT""}]","2016-08-30"
+"astro-ph/9502073","Isaac Shlosman","D.M. Christodoulou, I. Shlosman and J.E. Tohline","A new criterion for Bar-Forming Instability in Rapidly Rotating Gaseous
+  and Stellar Systems. I. Axisymmetric Form","Erroneous duplicate of astro-ph/9411031",,"10.1086/175547",,"astro-ph",,"  This paper has been removed by arXiv admin because it was an erroneous
+duplicate of astro-ph/9411031.
+","[{""version"":""v1"",""created"":""Wed, 15 Feb 1995 15:35:28 GMT""},{""version"":""v2"",""created"":""Tue, 16 Oct 2007 16:53:33 GMT""}]","2009-10-28"
+"astro-ph/9502074","Isaac Shlosman","D.M. Christodoulou, I. Shlosman and J.E. Tohline","A new criterion for Bar-Forming Instability in Rapidly Rotating Gaseous
+  and Stellar Systems. II. Nonaxisymmetric Form","17 pages, postscript, compressed, uuencoded. 10 figures available by
+  anonymous ftp from ftp://asta.pa.uky.edu/shlosman/bar2/ (mget *.ps.Z). To
+  appear in Ap.J.",,"10.1086/175548",,"astro-ph",,"  We have previously introduced the parameter `alpha' as an indicator of
+stability to m=2 nonaxisymmetric modes in rotating, self-gravitating,
+axisymmetric, gaseous and stellar systems. This parameter can be written as a
+function of the total rotational kinetic energy, the total gravitational
+potential energy, and as a function of the topology/connectedness and the
+geometric shape of a system. Here we extend the stability criterion to
+nonaxisymmetric equilibrium systems, such as ellipsoids and elliptical disks
+and cylinders. We test the validity of this extension by considering
+predictions for previously published, gaseous and stellar, nonaxisymmetric
+models. The above formulation and critical values account accurately for the
+stability properties of m=2 modes in gaseous Riemann S-type ellipsoids
+(including the Jacobi and Dedekind ellipsoids) and elliptical Riemann disks as
+well as in stellar elliptical Freeman disks and cylinders: all these systems
+are dynamically stable except for the stellar elliptical Freeman disks that
+exhibit a relatively small region of m=2 dynamical instability.
+","[{""version"":""v1"",""created"":""Wed, 15 Feb 1995 15:41:08 GMT""}]","2016-08-30"
+"chao-dyn/9502013","Badri Raghavan","R. Badrinarayanan, Jorge V. Jose and G. Chu (Physics Department,
+  Northeastern University, Boston, MA 02115, USA and Author 2 Instituut voor
+  Theoretische Fysica, Universiteit Utrecht, 3508 TA Utrecht, The Netherlands)","Quantum manifestations of classical chaos in a Fermi accelerating disk","35 pages, RevTeX, 11 figures available upon request",,"10.1016/0167-2789(94)00250-T",,"chao-dyn nlin.CD",,"  We study the classical and quantum mechanics of a free particle that collides
+elastically with the walls of a circular disk with the radius varying
+periodically in time. The quasi-energy spectral properties of the model are
+obtained from evaluation of finite-dimensional approximations to the time
+evolution operator. As the scaled hbar is changed from large to small, the
+statistics of the Quasienergy Eigenvalues (QEE) change from Poisson to circular
+orthogonal ensemble (COE). Different statistical tests are used to characterize
+this transition. The transition of the Quasienergy Eigenfunctions (QEF) is also
+studied using the chi-squared test with nu degrees of freedom, which goes over
+to the Porter-Thomas distribution for nu=1. We find that the integrable regime
+is associated with exponentially localized QEF whereas the eigenfunctions are
+extended in the chaotic, COE regime. We change the representation of the model
+to one in which the boundary is fixed and the Hamiltonian acquires a quadratic
+forcing term. We then carry out a successful comparison between specific
+classical phase space solutions and their corresponding QEFs in the Husimi
+representation.
+","[{""version"":""v1"",""created"":""Wed, 15 Feb 1995 04:55:17 GMT""}]","2015-06-24"
+"cmp-lg/9502017",,"Suresh Manandhar","Deterministic Consistency Checking of LP Constraints","EACL'95, 8 pages, LaTeX, eepic.sty, epsf.sty, eaclap.sty, figures -
+  tar-ed, gzip-ed, uuencode-d",,,,"cmp-lg cs.CL",,"  We provide a constraint based computational model of linear precedence as
+employed in the HPSG grammar formalism. An extended feature logic which adds a
+wide range of constraints involving precedence is described. A sound, complete
+and terminating deterministic constraint solving procedure is given.
+Deterministic computational model is achieved by weakening the logic such that
+it is sufficient for linguistic applications involving word-order.
+","[{""version"":""v1"",""created"":""Tue, 14 Feb 1995 16:53:49 GMT""},{""version"":""v2"",""created"":""Thu, 16 Feb 1995 10:48:26 GMT""}]","2016-08-31"
+"cond-mat/9502056","Eli Eisenberg","Eli Eisenberg, Rachel Avigur and Nadav Shnerb","Traces of a Quantum Anti-Resonance in a Driven System","The first figure is available only via FAX. It contains only a
+  Poincare map of the classical system (see text) Most readers could do without
+  it. However, please send us an e-mail massage with your FAX number if you're
+  interested","Phys. Rev. E 53 (1996) 389","10.1103/PhysRevE.53.389",,"cond-mat chao-dyn nlin.CD",,"  It has been previously shown, that classically chaotic kicked systems, whose
+unperturbed spectrum posseses one energy scale, admits a quantum anti-resonance
+(QAR) behavior. In this study we extend the conditions under which which this
+QAR occurs for the case of a two-sided kicked 1D infinite potential well. It is
+then shown by a perturbative argument that this QAR effects the behavior of the
+equivalent driven well, i.e., the number of periods needed to leave the initial
+state has a sharp peak around the QAR. We give a numerical evidence that the
+anti resonance persists even for large values of the perturbation parameter.
+","[{""version"":""v1"",""created"":""Tue, 14 Feb 1995 16:50:59 GMT""},{""version"":""v2"",""created"":""Wed, 12 Jul 1995 16:36:09 GMT""},{""version"":""v3"",""created"":""Fri, 14 Jul 1995 11:07:46 GMT""}]","2009-10-28"
+"cond-mat/9502057","Gergely Zimanyi","F. Pazmandi, G.T. Zimanyi and R. T. Scalettar","Mean Field Theory of the Localization Transition","4 pages, Revtex, 2 figures appended",,"10.1103/PhysRevLett.75.1356","UCD-102-95","cond-mat",,"  A mean field theory of the localization transition for bosonic systems is
+developed. Localization is shown to be sensitive to the distribution of the
+random site energies. It occurs in the presence of a triangular distribution,
+but not a uniform one. The inverse participation ratio, the single site Green's
+function, the superfluid order parameter and the corresponding susceptibility
+are calculated, and the appropriate exponents determined. All of these
+quantities indicate the presence of a new phase, which can be identified as the
+{\it Bose-glass}.
+","[{""version"":""v1"",""created"":""Tue, 14 Feb 1995 21:21:15 GMT""}]","2016-08-31"
+"cond-mat/9502058","George Kirczenow","George Kirczenow and Brad L. Johnson","Composite Fermions, Edge Currents and the Fractional Quantum Hall Effect","19 pages + 6 figures. Self-unpacking uuencoded postscript. To appear
+  in Physical Review B. Revised version has more details in the Appendix and a
+  discussion of one more experiment in Section 6",,"10.1103/PhysRevB.51.17579",,"cond-mat",,"  We present a theory of composite fermion edge states and their transport
+properties in the fractional and integer quantum Hall regimes. We show that the
+effective electro-chemical potentials of composite fermions at the edges of a
+Hall bar differ, in general, from those of electrons. An expression for the
+difference is given. Composite fermion edge states of three different types are
+identified. Two of the three types have no analog in previous theories of the
+integer or fractional quantum Hall effect. The third type includes the usual
+integer edge states. The direction of propagation of the edge states agrees
+with experiment. The present theory yields the observed quantized Hall
+conductances at Landau level filling fractions p/(mp+-1), for m=0,2,4, p=
+1,2,3,... It explains the results of experiments that involve conduction across
+smooth potential barriers and through adiabatic constrictions, and of
+experiments that involve selective population and detection of fractional edge
+channels. The relationship between the present work and Hartree theories of
+composite fermion edge structure is discussed.
+","[{""version"":""v1"",""created"":""Tue, 14 Feb 1995 23:02:22 GMT""},{""version"":""v2"",""created"":""Sat, 20 May 1995 07:36:49 GMT""}]","2009-10-28"
+"cond-mat/9502059","Tigran Chakhbazian","T. V. Shahbazyan and M. E. Raikh","Weak levitation of 2D delocalized states in a magnetic field.","Latex file (12 pages) + 3 Postscript figures.","Phys. Rev. Lett. 75, 304 (1995)","10.1103/PhysRevLett.75.304",,"cond-mat",,"  The deviation of the energy position of a delocalized state from the center
+of Landau level is studied in the framework of the Chalker-Coddington model. It
+is demonstrated that introducing a weak Landau level mixing results in a shift
+of the delocalized state up in energy. The mechanism of a levitation is a
+neighboring - Landau level - assisted resonant tunneling which ``shunts'' the
+saddle-points. The magnitude of levitation is shown to be independent of the
+Landau level number.
+","[{""version"":""v1"",""created"":""Wed, 15 Feb 1995 05:03:13 GMT""}]","2016-08-31"
+"cond-mat/9502060","Eugene A. Demler","Eugene Demler and Shou-Cheng Zhang","Theory of the Resonant Neutron Scattering of High $T_c$ Superconductors","revtex, epsf.sty or psbox.tex, 5 pages, 1 ps figure (uuencoded .tar.Z
+  file)","Phys. Rev. Lett. 75, 4126 (1995)","10.1103/PhysRevLett.75.4126",,"cond-mat",,"  Recent polarized neutron scattering experiments on $YBa_2 Cu_3 O_7$ have
+revealed a sharp spectral peak at the $(\pi,\pi)$ in reciprocal lattice
+centered around the energy transfer of $41\ meV$. We offer a theoretical
+explanation of this remarkable experiment in terms of a new collective mode in
+the particle particle channel of the Hubbard model. This collective mode yields
+valuable information about the symmetry of the superconducting gap.
+","[{""version"":""v1"",""created"":""Wed, 15 Feb 1995 06:34:59 GMT""}]","2016-08-31"
+"cond-mat/9502061","Viktor Dotsenko","Viktor Dotsenko and D.E.Feldman","Replica Symmetry Breaking and the Renormalization Group Theory of the
+  Weakly Disordered Ferromagnet","32 pages, Latex",,"10.1088/0305-4470/28/18/010",,"cond-mat",,"  We study the critical properties of the weakly disordered $p$-component
+ferromagnet in terms of the renormalization group (RG) theory generalized to
+take into account the replica symmetry breaking (RSB) effects coming from the
+multiple local minima solutions of the mean-field equations. It is shown that
+for $p < 4$ the traditional RG flows at dimensions $D=4-\epsilon$, which are
+usually considered as describing the disorder-induced universal critical
+behavior, are unstable with respect to the RSB potentials as found in spin
+glasses. It is demonstrated that for a general type of the Parisi RSB
+structures there exists no stable fixed points, and the RG flows lead to the
+{\it strong coupling regime} at the finite scale $R_{*} \sim \exp(1/u)$, where
+$u$ is the small parameter describing the disorder. The physical concequences
+of the obtained RG solutions are discussed. In particular, we argue, that
+discovered RSB strong coupling phenomena indicate on the onset of a new spin
+glass type critical behaviour in the temperature interval $\tau < \tau_{*} \sim
+\exp(-1/u)$ near $T_{c}$. Possible relevance of the considered RSB effects for
+the Griffith phase is also discussed.
+","[{""version"":""v1"",""created"":""Wed, 15 Feb 1995 08:22:36 GMT""}]","2016-08-31"
+"hep-ex/9502006","Sheldon Stone","A.Efimov, M. Artuso, Min Gao, R. Mountain, F. Muheim, Y. Mukhin and S.
+  Playfer,","Monte Carlo Studies of a Novel LiF Radiator for RICH Detectors","9 pages","Nucl.Instrum.Meth.A365:285-290,1995","10.1016/0168-9002(95)00547-1","HEPSY 94-8","hep-ex",,"  We show that a multifaceted LiF radiator produces more Cherenkov light and
+has better resolution per photon than a flat radiator slab when used in a ring
+imaging Cherenkov counter. Such a system is being considered for the CLEO III
+upgrade.
+","[{""version"":""v1"",""created"":""Tue, 14 Feb 1995 21:16:42 GMT""}]","2010-11-01"
+"hep-lat/9502008","Arik","T. E. Gallivan and Arie Kapulkin","Failure of Universality in Noncompact Lattice Field Theories","24 pages, REVTeX version 3.0 with 4 embedded figures, provided
+  separately in compressed-uuencoded postscript packed in a self-extracting csh
+  script produced with uufiles. To appear in J. Math. Phys.","J.Math.Phys. 36 (1995) 2341-2353","10.1063/1.531042","UTREL 95-02","hep-lat",,"  The nonuniversal behavior of two noncompact nonlinear sigma models is
+described. When these theories are defined on a lattice, the behavior of the
+order parameter (magnetization) near the critical point is sensitive to the
+details of the lattice definition. This is counter to experience and to
+expectations based on the ideas of universality.
+","[{""version"":""v1"",""created"":""Wed, 15 Feb 1995 00:12:47 GMT""}]","2016-08-31"
+"hep-ph/9502295","Makoto Oka","Makoto Oka (Tokyo Institute of Technology)","Strong and Weak Interactions of Strange Hadrons","24 pages, Talk presented at the YITP Workshop on ``From Hadronic
+  Matter to Quark Matter'', Kyoto, Oct.30-Nov.1, 1994. to be published in Prog.
+  Theor. Phys. Supp","Prog.Theor.Phys.Suppl.120:95-110,1995","10.1143/PTPS.120.95","TIT/HEP-283/NP","hep-ph",,"  I review hadronic processes involving strange hadrons, especially hyperons
+from the quark structure point of view. The strong interaction of quarks
+expects several important new features when the strangeness is introduced upon
+the non-strange degrees of freedom. I concentrate on the instanton induced
+interaction, effects of the Pauli principle for strangeness and the nonleptonic
+weak interaction of strangeness. The single hadron as well as the two baryon
+systems including the $H$ dibaryon and other exotic hadronic systems with
+strangeness are studied in this context.
+","[{""version"":""v1"",""created"":""Wed, 15 Feb 1995 05:51:37 GMT""}]","2008-11-26"
+"hep-ph/9502300","Martin Beneke","P.Ball, M.Beneke and V.M Braun","Resummation of $(\beta_0 \alpha_s)^n$ Corrections in QCD: Techniques and
+  Applications to the $\tau$ Hadronic Width and the Heavy Quark Pole Mass","64 pages, LATEX, 7 figures","Nucl.Phys.B452:563-625,1995","10.1016/0550-3213(95)00392-6","CERN-TH/95-26, UM-TH-95-03","hep-ph",,"  We propose to resum exactly any number of one-loop vacuum polarization
+insertions into the scale of the coupling of lowest order radiative
+corrections. This makes maximal use of the information contained in one-loop
+perturbative corrections combined with the one-loop running of the effective
+coupling and provides a natural extension of the familiar BLM scale-fixing
+prescription to all orders in the perturbation theory. It is suggested that the
+remaining radiative corrections should be reduced after resummation. In this
+paper we implement this resummation by a dispersion technique and indicate a
+possible generalization to incorporate two-loop evolution. We investigate in
+some detail higher order perturbative corrections to the $\tau$ decay width and
+the pole mass of a heavy quark. We find that these corrections tend to reduce
+$\alpha_s(m_\tau)$ determined from $\tau$ decays by approximately 10\% and
+increase the difference between the bottom pole and $\MS$-renormalized mass by
+30\%.
+","[{""version"":""v1"",""created"":""Tue, 14 Feb 1995 16:08:12 GMT""}]","2010-11-01"
+"hep-ph/9502301",,"HIDENAGA YAMAGISHI and ISMAIL ZAHED","A MASTER FORMULA APPROACH TO CHIRAL SYMMETRY BREAKING","4 PAGES",,,"TG-94-56","hep-ph",,"  We find that various results of current algebra at tree level and beyond can
+be directly obtained from a master formula, without use of chiral perturbation
+theory or effective Lagrangians. Application is made to $\pi \pi$ scattering,
+where it is shown that the bulk of the $\rho$ contribution can be determined in
+a model independent way.
+","[{""version"":""v1"",""created"":""Tue, 14 Feb 1995 16:21:55 GMT""}]","2016-09-01"
+"hep-ph/9502302","Misha Stephanov","M.A. Stephanov (U. of Illinois at Urbana-Champaign)","Dimensional Reduction and Quantum-to-Classical Reduction at High
+  Temperatures","11 pages, REVTeX, revised v. to be published in Phys. Rev. D: some
+  points made more explicit","Phys.Rev.D52:3746-3749,1995","10.1103/PhysRevD.52.3746","ILL-(TH)-95-01-006","hep-ph hep-lat",,"  We discuss the relation between dimensional reduction in quantum field
+theories at finite temperature and a familiar quantum mechanical phenomenon
+that quantum effects become negligible at high temperatures. Fermi and Bose
+fields are compared in this respect. We show that decoupling of fermions from
+the dimensionally reduced theory can be related to the non-existence of
+classical statistics for a Fermi field.
+","[{""version"":""v1"",""created"":""Tue, 14 Feb 1995 18:53:16 GMT""},{""version"":""v2"",""created"":""Fri, 21 Jul 1995 04:05:00 GMT""}]","2010-11-01"
+"hep-ph/9502303","Peter Suranyi","H.Hamidian (3), G. Semenoff (1), P. Suranyi (3), L.C.R. Wijewardhana
+  (2, 3) ((1) University of British Columbia, (2) Uppsala University, (3)
+  University of Cincinnati)","New Universality Classes for Quantum Critical Behavior","LaTeX, 9 pages, 1 tarred and uuencoded postscript figure. The new
+  version contains information on the asymptotic dependence of the critical
+  number of fermion species on $N_F$","Phys.Rev.Lett. 74 (1995) 4976-4979","10.1103/PhysRevLett.74.4976",,"hep-ph hep-th",,"  We use the epsilon expansion to explore a new universality class of second
+order quantum phase transitions associated with a four-dimensional Yukawa field
+theory coupled to a traceless Hermitean matrix scalar field. We argue that this
+class includes four-fermi models in $2<D<4$ dimensions with $SU(N_F)\times
+U(N)$ symmetry and a U(N) scalar, $SU(N_F)$ iso-vector 4-fermi coupling. The
+epsilon expansion indicates that there is a second order phase transition for
+$N\geq N^*(N_F)$, where $N^*(N_F)\simeq.27N_F$ if $N_F\to\infty$.
+","[{""version"":""v1"",""created"":""Tue, 14 Feb 1995 22:22:28 GMT""},{""version"":""v2"",""created"":""Wed, 15 Feb 1995 15:39:21 GMT""},{""version"":""v3"",""created"":""Thu, 27 Apr 1995 21:35:28 GMT""}]","2009-10-28"
+"hep-ph/9502304","Thorsten Greiner","Y. Achiman and T. Greiner","Predicting the neutrino-spectrum in SUSY-SO(10)","21 pages + 1 figure, latex, submitted to Nucl. Phys. B","Nucl.Phys. B443 (1995) 3-19","10.1016/0550-3213(95)00165-O",,"hep-ph",,"  We present a systematic search for SUSY-SO(10) models which predict the
+neutrino properties. The models are based on the five sets of quark mass
+matrices, with texture zeros, discussed recently by Roberts, Ramond and Ross.
+We found 8 such neutrino textures three of which can solve the solar neutrino
+problem. The latter have tau-neutrino masses of few eV i.e. relevant for
+cosmology and $\nu_{\tau} - \nu_{\mu}$ mixing angles that can be observed by
+the CHORUS, NOMAD and P803 experiments.
+","[{""version"":""v1"",""created"":""Wed, 15 Feb 1995 08:25:11 GMT""}]","2016-09-01"
+"hep-ph/9502305","Teiji Kunihiro","Teiji Kunihiro","Chiral Symmetry and Scalar Meson in Hadron and Nuclear Physics","18 pages, LATEX, 7 figures (hard copies are available upon request)","Prog.Theor.Phys.Suppl.120:75-94,1995","10.1143/PTPS.120.75","RYUTH 95-1","hep-ph nucl-th",,"  After giving a short introduction to the Nambu-Jona-Lasinio model with an
+anomaly term, we show the importance of the scalar-scalar correlation in the
+low-energy hadron dynamics, which correlation may be summarized by a
+scalar-isoscalar meson, the sigma meson. The discussion is based on the chiral
+quark model with the sigma-meson degrees of freedom. Possible experiments are
+proposed to produce the elusive meson in a nucleus and detect it. In relation
+to a precursory soft mode for the chiral transition, the reason is clarified
+why the dynamic properties of the superconductor may be described by the
+diffusive time-dependent Ginzburg-Landau (TDGL) equation. We indicate the
+chiral symmetry plays a significant role also in nuclei; one may say that the
+stability of nuclei is due to the chiral symmetry of QCD.
+","[{""version"":""v1"",""created"":""Wed, 15 Feb 1995 09:40:34 GMT""}]","2016-09-01"
+"hep-ph/9502306","Dr Georg Raffelt","G. Raffelt (MPI f. Physik, Munich) and J.~Silk (UC Berkeley)","Can a mass inversion save solar neutrino oscillations from the Los
+  Alamos neutrino?","uuencoded and compressed postscript file, includes 2 figures.","Phys.Lett. B366 (1996) 429-433","10.1016/0370-2693(95)01482-9",,"hep-ph",,"  In the light of the $\nu_\mu\to\nu_e$ neutrino oscillations which may have
+been observed at the LSND experiment we explore the consequences of two
+inverted mass schemes where solar neutrino oscillations occur between $\nu_e$
+and $\nu_\tau$. The favored LSND value $\Delta m^2=6\,\eV^2$ leads to
+$m_{\nu_e}\approx m_{\nu_\tau}\approx 2.5\,\eV$ and $m_{\nu_\mu}\approx0$ so
+that cosmology can benefit from a recently proposed ``cold plus hot dark
+matter'' structure formation scenario with two equal mass light neutrinos
+(C$\nu^2$DM). Solar neutrino oscillations ($\nu_e\to\nu_\tau$) can occur with
+one of the large mixing angle solutions so that a serious conflict with
+$\beta\beta$ decay Majorana mass limits is avoided without invoking Dirac
+masses. However, there is a problem with the SN~1987A signal because of
+resonant $\anti\nu_e\leftrightarrow\anti\nu_\mu$ oscillations which are
+expected to cause far higher $\anti\nu_e$ energies at the IMB and Kamiokande~II
+detectors than have been observed. A small value $\Delta m^2=0.5\,\eV^2$ at
+LSND, which allows for a relatively large $\nu_e$-$\nu_\mu$ mixing angle
+without conflicting with the KARMEN and BNL-E776 experiments, would indicate
+$m_{\nu_e}\approx m_{\nu_\tau}\approx 1.62\,\eV$ and
+$m_{\nu_\mu}\approx1.77\,\eV$. This scheme of C$\nu^3$DM maintains, and even
+may improve, the essential cosmological model implications for large-scale
+structure, leaving no conflict with SN r-process nucleosynthesis. It may
+improve the discordance between the SN~1987A neutrino spectra inferred from
+Kamiokande~II and IMB.
+","[{""version"":""v1"",""created"":""Wed, 15 Feb 1995 12:35:23 GMT""}]","2016-09-01"
+"hep-ph/9502307","Arcadi Santamaria","Santiago Peris, Arcadi Santamaria","An effective field theory approach to the QCD corrections to the
+  large-$m_t$ $Zb\bar b$ vertex","12 pages + figures, LaTeX, Full postscript file available at
+  ftp://xxx.lanl.gov/hep-ph/ps/9502/9502307.ps.Z","Nucl.Phys. B445 (1995) 252-269","10.1016/0550-3213(95)00167-Q","CERN-TH/95-21","hep-ph",,"  Using effective field theory techniques we discuss the QCD corrections to the
+large-$m_t$ contributions to the process $Z\rightarrow b \bar b$. In particular
+we obtain the $\a$ correction to the non-universal $\log m_t$ contribution to
+the $Zb\bar b$ vertex.
+","[{""version"":""v1"",""created"":""Wed, 15 Feb 1995 14:50:01 GMT""}]","2016-09-01"
+"hep-ph/9502308","Lev Lipatov","L.N.Lipatov","Gauge invariant effective action for high-energy processes in QCD","29 pages, LaTeX, slightly expanded introduction and cosmetical
+  changes to some formulae","Nucl.Phys.B452:369-400,1995","10.1016/0550-3213(95)00390-E","DESY-95-029","hep-ph",,"  The Born amplitudes for quasi-multi-Regge kinematics of produced gluons are
+constructed in accordance with the Feynman rules including apart from usual
+Yang-Mills vertices also an infinite number of induced vertices. The new
+vertices describe the interaction of physical gluons produced in direct
+channels with the reggeized gluons propagating in crossing channels. The
+nonlinear gauge invariant effective action reproducing these Feynman rules is
+constructed with the use of the Wilson contour integrals. After integrating
+over the physical degrees of freedom the reggeon action is derived.
+","[{""version"":""v1"",""created"":""Wed, 15 Feb 1995 14:09:36 GMT""},{""version"":""v2"",""created"":""Thu, 1 Jun 1995 13:34:18 GMT""}]","2011-05-05"
+"hep-th/9502076","Liu Qing-ping","Q.P. Liu","Hamiltonian Structures of Multi-component Constrained KP Hierarchy","7 pages, Latex",,,"CUMT-MATH. 95-02","hep-th",,"  We consider the Hamiltonian theory for the multi-component KP hierarchy. We
+show that the second Hamiltonian structures constructed by Sidorenko and
+Strampp[J. Math. Phys. {\bf 34}, 1429(1993)] are not Hamiltonian. A candidate
+for the second Hamiltonian Structures is proposed and is proved to lead to
+hereditary operators.
+","[{""version"":""v1"",""created"":""Tue, 14 Feb 1995 17:06:19 GMT""}]","2016-09-06"
+"hep-th/9502081","Hyunseok Yang","Hyun Seok Yang and Bum-Hoon Lee","Noncovariant Local Symmetry in Abelian Gauge Theories","10 pages, LevTex, Revised version published in J. Korean Phys. Soc.,
+  Vol. 28, No. 5, October 1995, pp. 572-575","J.Korean Phys.Soc. 28 (1995) 572-575",,"HYUPT-95/1, SNUTP 95-019","hep-th",,"  We find non-covariant local symmetries in the Abelian gauge theories. The
+N\""other charges generating these symmetries are nilpotent as BRST charges, and
+they impose constraints on the physical states.
+","[{""version"":""v1"",""created"":""Tue, 14 Feb 1995 16:04:41 GMT""},{""version"":""v2"",""created"":""Sat, 21 Oct 1995 04:51:13 GMT""}]","2008-02-03"
+"hep-th/9502082","Hyunseok Yang","Hyun Seok Yang and Bum-Hoon Lee","BRST Cohomology and Its Application to QED","17 pages, RevTex, Revised version published in J. Korean Phys. Soc.,
+  Vol. 28, No. 2, April 1995, pp. 138-144","J.Korean Phys.Soc.28:138-144,1995",,"HYUPT-94/13, SNUTP 94-129","hep-th",,"  We construct the BRST cohomology under a positive definite inner product and
+obtain the Hodge decomposition theorem at a non-degenerate state vector space
+$V$. The harmonic states isomorphic with a BRST cohomology class correspond to
+the physical Hilbert space with positive norm as long as the completeness of
+$Q_{BRST}$ is satisfied. We explicitly define ``co-BRST'' operator and analyze
+the quartet mechanism in QED.
+","[{""version"":""v1"",""created"":""Tue, 14 Feb 1995 16:05:34 GMT""},{""version"":""v2"",""created"":""Sat, 21 Oct 1995 05:28:45 GMT""}]","2011-07-19"
+"hep-th/9502088",,"Allen C. Hirshfeld and Uwe Sassenberg","Derivation of the total twist from Chern-Simons theory","26 pages","J.Knot Theor.Ramifications 5 (1996) 489-515",,"DO-TH 95/02","hep-th",,"  The total twist number, which represents the first non-trivial Vassiliev knot
+invariant, is derived from the second order expression of the Wilson loop
+expectation value in the Chern-Simons theory. Using the well-known fact that
+the analytical expression is an invariant, a non-recursive formulation of the
+total twist based on the evaluation of knot diagrams is constructed by an
+appropriate deformation of the knot line in the three-dimensional Euclidian
+space. The relation to the original definition of the total twist is
+elucidated.
+","[{""version"":""v1"",""created"":""Tue, 14 Feb 1995 18:19:19 GMT""}]","2016-09-06"
+"hep-th/9502089",,"G. Bonelli, P.A. Marchetti and M. Matone","Algebraic-geometrical formulation of two-dimensional quantum gravity","10 pages, Latex file","Lett.Math.Phys. 36 (1996) 189-196","10.1007/BF00714381","DFPD 95/TH/05","hep-th alg-geom gr-qc math.AG math.QA nlin.SI q-alg solv-int",,"  We find a volume form on moduli space of double punctured Riemann surfaces
+whose integral satisfies the Painlev\'e I recursion relations of the genus
+expansion of the specific heat of 2D gravity. This allows us to express the
+asymptotic expansion of the specific heat as an integral on an infinite
+dimensional moduli space in the spirit of Friedan-Shenker approach. We outline
+a conjectural derivation of such recursion relations using the
+Duistermaat-Heckman theorem.
+","[{""version"":""v1"",""created"":""Tue, 14 Feb 1995 16:30:26 GMT""}]","2016-09-06"
+"hep-th/9502090","Pablo Llatas","Pablo M. Llatas, Shibaji Roy and Jose M. Sanchez de Santos","``N=4: A Unifying Framework for 2d Topological Gravity, $c_M\leq 1$
+  String Theory and Constrained Topological Sigma Model''","13 pages, LATEX, one figure. The only change is that the figure has
+  been uuencoded","Phys.Lett. B352 (1995) 254-260","10.1016/0370-2693(95)00483-2","UG-5/95, US-FT-2/95 and ENSLAPP-L-504/95","hep-th",,"  It is shown that two dimensional (2d) topological gravity in the conformal
+gauge has a larger symmetry than has been hitherto recognized; in the
+formulation of Labastida, Pernici and Witten it contains a twisted ``small''
+N=4 superconformal symmetry. There are in fact two distinct twisted N=2
+structures within this N=4, one of which is shown to be isomorphic to the
+algebra discussed by the Verlindes and the other corresponds, through
+bosonization, to $c_M\leq 1$ string theory discussed by Bershadsky et.al. As a
+byproduct, we find a twisted N=4 structure in $c_M\leq 1$ string theory. We
+also study the ``mirror'' of this twisted N=4 algebra and find that it
+corresponds, through another bosonization, to a constrained topological sigma
+model in complex dimension one.
+","[{""version"":""v1"",""created"":""Tue, 14 Feb 1995 17:53:19 GMT""},{""version"":""v2"",""created"":""Wed, 15 Feb 1995 13:55:15 GMT""}]","2009-10-28"
+"hep-th/9502091","Elena S. Suslova","A.Morozov","Matrix Models as Integrable Systems","60 pages, LaTeX. Presented at Banff Conference, Banff, Canada, 15-23
+  August 1994.",,,"ITEP-M2/95","hep-th",,"  The theory of matrix models is reviewed from the point of view of its
+relation to integrable hierarchies. Determinantal formulas, relation to
+conformal field models and the theory of Generalized Kontsevich model are
+discussed in some detail. Attention is also paid to the group-theoretical
+interpretation of $\tau$-functions which allows to go beyond the restricted set
+of the (multicomponent) KP and Toda integrable hierarchies.
+","[{""version"":""v1"",""created"":""Tue, 14 Feb 1995 23:13:47 GMT""}]","2016-09-06"
+"hep-th/9502092","Arefeva Irina","L. Accardi, I.Ya.Aref'eva and I.V.Volovich","The Master Field for Rainbow Diagrams and Free Non-Commutative Random
+  Variables","11 pages, latex, 5 figures (one correction and one new reference)",,,"CVV-201-95, SMI-05-95","hep-th hep-ph",,"  The master field for a subclass of planar diagrams, so called rainbow
+diagrams, for higher dimensional large N theories is considered. An explicit
+representation for the master field in terms of noncommutative random variables
+in the modified interaction representation in the Boltzmannian Fock space is
+given. A natural interaction in the Boltzmannian Fock space is formulated by
+means of a rational function of the interaction Lagrangian instead of the
+ordinary exponential function in the standard Fock space.
+","[{""version"":""v1"",""created"":""Wed, 15 Feb 1995 05:50:54 GMT""},{""version"":""v2"",""created"":""Fri, 17 Feb 1995 09:38:56 GMT""}]","2016-09-06"
+"hep-th/9502093","Panagiota Kanti","P.Kanti and K.Tamvakis","Classical moduli hair for Kerr black holes in String Gravity","8 pages,LaTex file,no figures(one reference corrected,some terms in
+  Einstein's equation changed,no effect on our results).",,,"IOA-316/95","hep-th gr-qc",,"  We compute the external moduli and dilaton hair to $O(\alpha')$ in the
+framework of the one-loop corrected superstring effective action for a rotating
+black hole background.
+","[{""version"":""v1"",""created"":""Wed, 15 Feb 1995 10:02:49 GMT""},{""version"":""v2"",""created"":""Sun, 5 Mar 1995 16:44:21 GMT""}]","2016-09-06"
+"hep-th/9502094","Marc Grisaru","M. T. Grisaru and D. Zanon","Supergravity dressing of beta-functions in N=1 and N=2 supersymmetric
+  models","10 pages, latex, macros included, 2 figures in figures.uu","Phys.Lett. B353 (1995) 64-69","10.1016/0370-2693(95)00491-3","IFUM-492-FT, BRX-TH-369","hep-th",,"  We discuss the dressing of one-loop sigma-model beta-functions by induced
+supergravity, for both N=1 and N=2 supersymmetric theories. We obtain exact
+results by a superconformal gauge argument, and verify them in the
+semi-classical limit by explicit perturbative calculations in the light-cone
+gauge. We find that for N=2 theories there is no dressing of the one-loop
+beta-functions.
+","[{""version"":""v1"",""created"":""Wed, 15 Feb 1995 15:42:31 GMT""}]","2009-10-28"
+"math/9502201","Pablo A. Gastesi","Pablo Ar\'es Gastesi","Coordinates for Teichm\""{u}ller spaces of b-groups with torsion","Plain LaTeX, with Bbb subtituted by bf, 19 pgs, 65 Kb, additional
+  file with 4 figures (2 pgs) in ps form","Annal Acad Scien Fenn A I, 20 (1995) 279-300",,"formerly cd-hg/9502001","math.GT math.AG",,"  In this paper we will use b-groups to construct coordinates for the
+Teichm\""uller spaces of 2-orbifolds. The main technical tool is the
+parametrization of triangle groups, which allows us to compute explicitly
+formul\ae\ for generators of b-groups uniformizing orbifolds. In this way, we
+obtain a technique to pass from the abstract objects of deformation spaces to
+concrete calculations with M\""obius transformations. We explore this
+computational character of our work by finding the expressions of certain
+classical isomorphisms between Teichm\""uller spaces.
+","[{""version"":""v1"",""created"":""Wed, 15 Feb 1995 07:57:39 GMT""}]","2016-08-15"
+"math/9502230","Shelah Office","Saharon Shelah, Jind\v{r}ich Zapletal","Embeddings of Cohen algebras",,"Adv. Math. 126 (1997), 93--118",,"Shelah [ShZa:561]","math.LO",,"  Complete Boolean algebras proved to be an important tool in topology and set
+theory. Two of the most prominent examples are B(kappa), the algebra of Borel
+sets modulo measure zero ideal in the generalized Cantor space {0,1}^kappa
+equipped with product measure, and C(kappa), the algebra of regular open sets
+in the space {0,1}^kappa, for kappa an infinite cardinal. C(kappa) is much
+easier to analyse than B(kappa) : C(kappa) has a dense subset of size kappa,
+while the density of B(kappa) depends on the cardinal characteristics of the
+real line; and the definition of C(kappa) is simpler. Indeed, C(kappa) seems to
+have the simplest definition among all algebras of its size. In the Main
+Theorem of this paper we show that in a certain precise sense, C(aleph_1) has
+the simplest structure among all algebras of its size, too.
+  MAIN THEOREM: If ZFC is consistent then so is
+  ZFC + 2^{aleph_0}= aleph_2 +``for every complete Boolean algebra B of uniform
+density aleph_1, C(aleph_1) is isomorphic to a complete subalgebra of B''.
+","[{""version"":""v1"",""created"":""Wed, 15 Feb 1995 00:00:00 GMT""}]","2016-09-06"
+"math/9502231","Shelah Office","John T. Baldwin, Saharon Shelah","Abstract classes with few models have `homogeneous-universal' models",,"J. Symbolic Logic 60 (1995), 246--265",,"Shelah [BlSh:393]","math.LO",,"  This paper is concerned with a class K of models and an abstract notion of
+submodel <=. Experience in first order model theory has shown the desirability
+of finding a `monster model' to serve as a universal domain for K. In the
+original constructions of Jonsson and Fraisse, K was a universal class and
+ordinary substructure played the role of <=. Working with a cardinal lambda
+satisfying lambda^{< lambda}= lambda guarantees appropriate downward
+Lowenheim-Skolem theorems; the existence and uniqueness of a
+homogeneous-universal model appears to depend centrally on the amalgamation
+property. We make this apparent dependence more precise in this paper. The
+major innovation of this paper is the introduction of weaker notion to replace
+the natural notion of (K, <=)-homogeneous-universal model. Modulo a weak
+extension of ZFC (provable if V=L), we show that a class K obeying certain
+minimal restrictions satisfies a fundamental dichotomy: For arbitrarily large
+lambda, either K has the maximal number of models in power lambda or K has a
+unique chain homogenous-universal model of power lambda. We show that in a
+class with amalgamation this dichotomy holds for the notion of
+K-homogeneous-universal model in the more normal sense.
+","[{""version"":""v1"",""created"":""Wed, 15 Feb 1995 00:00:00 GMT""}]","2009-09-25"
+"math/9502232","Shelah Office","Arthur Apter, Saharon Shelah","On the strong equality between supercompactness and strong compactness",,"Trans. Amer. Math. Soc. 349(1) (1997), 103-128",,"Shelah [ApSh:495]","math.LO",,"  We show that supercompactness and strong compactness can be equivalent even
+as properties of pairs of regular cardinals. Specifically, we show that if V
+models ZFC + GCH is a given model (which in interesting cases contains
+instances of supercompactness), then there is some cardinal and cofinality
+preserving generic extension V[G] models ZFC + GCH in which, (a) (preservation)
+for kappa <= lambda regular, if V models ``kappa is lambda supercompact'', then
+V[G] models ``kappa is lambda supercompact'' and so that, (b) (equivalence) for
+kappa <= lambda regular, V[G] models ``kappa is lambda strongly compact'' iff
+V[G] models ``kappa is lambda supercompact'', except possibly if kappa is a
+measurable limit of cardinals which are lambda supercompact.
+","[{""version"":""v1"",""created"":""Wed, 15 Feb 1995 00:00:00 GMT""}]","2016-09-06"
+"math/9502233","Shelah Office","Saharon Shelah","The pcf-theorem revisited",,"Algorithms Combin. 14 (1997), 420-459",,"Shelah [Sh:506]","math.LO",,"  The pcf theorem (of the possible cofinality theory) was proved for reduced
+products prod_{i< kappa} lambda_i/I, where kappa < min_{i< kappa} lambda_i.
+Here we prove this theorem under weaker assumptions such as wsat(I)< min_{i<
+kappa} lambda_i, where wsat(I) is the minimal theta such that kappa cannot be
+delivered to theta sets notin I (or even slightly weaker condition). We also
+look at the existence of exact upper bounds relative to <_I (<_I-eub) as well
+as cardinalities of reduced products and the cardinals T_D(lambda). Finally we
+apply this to the problem of the depth of ultraproducts (and reduced products)
+of Boolean algebras
+","[{""version"":""v1"",""created"":""Wed, 15 Feb 1995 00:00:00 GMT""}]","2009-09-25"
+"math/9502234","Shelah Office","Saharon Shelah","A finite partition theorem with double exponential bounds",,"Algorithms Combin. 14 (1997), 240-246",,"Shelah [Sh:515]","math.CO",,"  We prove that double exponentiation is an upper bound to Ramsey theorem for
+colouring of pairs when we want to predetermine the order of the differences of
+successive members of the homogeneous set.
+","[{""version"":""v1"",""created"":""Wed, 15 Feb 1995 00:00:00 GMT""}]","2016-09-06"
+"quant-ph/9502011","Luanne Neumann","Henry P. Stapp","Is Mental Process Non-Computable?","Latex, 9 pages, uses math macros.tex",,,"LBL-36346","quant-ph",,"  It has recently been claimed that certain aspects of mental processing cannot
+be simulated by computers, even in principle. The argument is examined and a
+lacuna is identified.
+","[{""version"":""v1"",""created"":""Tue, 14 Feb 1995 23:01:06 GMT""}]","2007-05-23"
+"quant-ph/9502012","Luanne Neumann","Henry P. Stapp","Why Classical Mechanics Cannot Naturally Accommodate Consciousness But
+  Quantum Mechanics Can.","Latex, 25 pages, uses math_macro.tex",,,"LBL-36574","quant-ph",,"  It is argued on the basis of certain mathematical characteristics that
+classical mechanics is not constitutionally suited to accomodate consciousness,
+whereas quantum mechanics is. These mathematical characteristics pertain to the
+nature of the information represented in the state of the brain, and the way
+this information enters into the dynamics.
+","[{""version"":""v1"",""created"":""Wed, 15 Feb 1995 00:16:41 GMT""}]","2016-09-08"
+"quant-ph/9502013","Krzysztof Wodkiewicz","B. G. Englert and K. Wodkiewicz","Intrinsic and operational observables in quantum mechanics","12 pages, REVTEX, no figures.",,"10.1103/PhysRevA.51.R2661",,"quant-ph",,"  The concept of intrinsic and operational observables in quantum mechanics is
+introduced. In any realistic description of a quantum measurement that includes
+a macroscopic detecting device, it is possible to construct from the statistics
+of the recorded raw data a set of operational quantities that correspond to the
+intrinsic quantum mechanical observable.
+","[{""version"":""v1"",""created"":""Wed, 15 Feb 1995 15:08:32 GMT""}]","2016-09-08"
+"solv-int/9502004","Piotr Goldstein","Jan Cie\'sli\'nski (Warsaw University Division in Bia{\l}ystok,
+  Institute of Physics, Bia{\l}ystok, Poland), Piotr Goldstein (Soltan
+  Institute for Nuclear Studies, Warsaw, Poland), and Antoni Sym (Warsaw
+  University, Institute of Theoretical Physics, Warsaw, Poland)","Isothermic surfaces in $\E^3$ as soliton surfaces","Revised version; 13 pages in LaTeX, 1 figure PostScript; to appear in
+  Physics Letters A",,"10.1016/0375-9601(95)00504-V",,"solv-int dg-ga math.DG nlin.SI",,"  We show that the theory of isothermic surfaces in $\E^3$ -- one of the oldest
+branches of differential geometry -- can be reformulated within the modern
+theory of completely integrable (soliton) systems. This enables one to study
+the geometry of isothermic surfaces in $\E^3$ by means of powerful spectral
+methods available in the soliton theory. Also the associated non-linear system
+is interesting in itself since it displays some unconventional soliton features
+and, physically, could be applied in the theory of infinitesimal deformations
+of membranes.
+","[{""version"":""v1"",""created"":""Tue, 14 Feb 1995 18:53:01 GMT""},{""version"":""v2"",""created"":""Thu, 20 Jul 1995 16:40:19 GMT""}]","2009-10-28"

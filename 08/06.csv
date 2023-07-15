@@ -1,0 +1,118 @@
+"astro-ph/9508023","Alexey Vikhlinin","Alexey Vikhlinin","QSOs and the hard x-ray background","12 pages, figures included, also available at
+  http://hea-www.harvard.edu/~alexey/cxb.ps . A&A, in press",,,,"astro-ph",,"  We calculate the contribution to the cosmic x-ray background (CXB) of a
+population of power law spectrum sources with spectral indices distributed over
+a broad range of values. The composite spectrum of this source population is
+significantly harder than that given by the power law having the average value
+of spectral indices. Starting from spectral distributions which are
+approximately those observed from quasars, it is possible to reproduce the CXB
+spectrum from ~0.5 keV to ~20 keV. If the spectra of quasars steepen at around
+100 keV, the resulting composite spectrum nearly perfectly fits the CXB in the
+even broader energy range, up to ~100 keV. The QSO population with broadly
+distributed spectral parameters is also characterized by a significant
+discrepancy between the results of hard and soft x-ray source counts. The same
+population of sources yields about three times more sources at 10 keV than at
+the corresponding flux at 1 keV, similarly to what is found from the comparison
+of HEAO A-1/Ginga and Einstein/ROSAT measurements. Thus, by allowing the
+spectra of QSO's to span a broad range of spectral indices, it is possible to
+reproduce both the CXB spectrum and account for the apparent differences in
+number counts in different energy bands.
+","[{""version"":""v1"",""created"":""Sun, 6 Aug 1995 02:24:39 GMT""}]","2007-05-23"
+"cond-mat/9508018","Konstantin Matveev","A. Furusaki and K. A. Matveev (MIT)","Theory of strong inelastic co-tunneling","22 pages, 4 figures, uses REVTEX 3.0, epsf.sty and multicol.sty",,"10.1103/PhysRevB.52.16676",,"cond-mat",,"  We develop a theory of the conductance of a quantum dot connected to two
+leads by single-mode quantum point contacts. If the contacts are in the regime
+of perfect transmission, the conductance shows no Coulomb blockade oscillations
+as a function of the gate voltage. In the presence of small reflection in both
+contacts, the conductance develops small Coulomb blockade oscillations. As the
+temperature of the system is lowered, the amplitude of the oscillations grows,
+and eventually sharp periodic peaks in conductance are formed. Away from the
+centers of the peaks the conductance vanishes at low temperatures as $T^2$, in
+agreement with the theory of inelastic co-tunneling developed for the
+weak-tunneling case. Conductance near the center of a peak can be studied using
+an analogy with the multichannel Kondo problem. In the case of symmetric
+barriers, the peak conductance at $T\to 0$ is of the order of $e^2/\hbar$. In
+the asymmetric case, the peak conductance vanishes linearly in temperature.
+","[{""version"":""v1"",""created"":""Sun, 6 Aug 1995 00:16:43 GMT""}]","2009-10-28"
+"hep-lat/9508007","Norbert Scheu","Helmut Kroger, Norbert Scheu (D\'ep. de physique, universit\'e Laval)","Computation of Structure Functions From a Lattice Hamiltonian","4 pages, three figures. Submitted to Phys.Rev.Lett",,,,"hep-lat",,"  We compute structure functions in the Hamiltonian formalism on a momentum
+lattice using a physically motivated regularisation that links the maximal
+parton number to the lattice size. We show for the $\phi ^4 _{3+1}$ theory that
+our method allows to describe continuum physics. The critical line and the
+renormalised mass spectrum close to the critical line are computed and scaling
+behaviour is observed in good agreement with L{\""u}scher and Weisz' lattice
+results. We then compute distribution functions and find a $Q^2$ behaviour and
+the typical peak at $x_B\rightarrow 0$ like in $QCD$.
+","[{""version"":""v1"",""created"":""Sun, 6 Aug 1995 14:11:08 GMT""}]","2007-05-23"
+"hep-ph/9508245","Aneesh Manohar","Aneesh V. Manohar","Effective Field Theories","Lectures on Effective Field Theories at the Lake Louise Winter
+  Institute, February 1995. 42 pages, 16 figures; extended version in
+  hep-ph/9606222",,,"UCSD/PTH 95-07","hep-ph",,"  These lectures introduce some of the basic notions of effective field
+theories, as used in particle physics. The topics discussed are the $\Delta
+S=1$ and $\Delta S =2$ weak interactions, and chiral perturbation theory as
+applied to mesons, baryons, and hadrons containing heavy quarks.
+","[{""version"":""v1"",""created"":""Sat, 5 Aug 1995 22:54:06 GMT""}]","2007-05-23"
+"hep-ph/9508246",,"M. Miyama and S. Kumano (Saga Univ. and BNL(until 8/21))","Numerical solution of $Q^2$ evolution equations in a brute-force method","48 pages, LATEX, figs. 1-6. Complete postscript file including the
+  figure is available at
+  ftp://ftp.cc.saga-u.ac.jp/pub/paper/riko/quantum1/saga-he-81.ps.gz or at
+  http://www.cc.saga-u.ac.jp/saga-u/riko/physics/quantum1/structure.html (We
+  had a problem in taking a file in WWW, but the problem was fixed recently.)
+  Email: 94sm10 or kumanos@cc.saga-u.ac.jp","Comput.Phys.Commun.94:185-215,1996","10.1016/0010-4655(96)00013-6","SAGA-HE-81-95","hep-ph hep-ex nucl-th",,"  We investigate numerical solution of $Q^2$ evolution equations for structure
+functions in the nucleon and in nuclei.
+(Dokshitzer-Gribov-Lipatov-)Altarelli-Parisi and Mueller-Qiu evolution
+equations are solved in a brute-force method. Spin-independent
+flavor-nonsinglet and singlet equations with next-to-leading-order $\alpha_s$
+corrections are studied. Dividing the variables $x$ and $Q^2$ into small steps,
+we simply solve the integrodifferential equations. Numerical results indicate
+that accuracy is better than 2\% in the region $10^{-4}<x<0.8$ if more than
+two-hundred $Q^2$ steps and more than one-thousand $x$ steps are taken. The
+numerical solution is discussed in detail, and evolution results are compared
+with $Q^2$ dependent data in CDHSW, SLAC, BCDMS, EMC, NMC, Fermilab-E665, ZEUS,
+and H1 experiments. We provide a FORTRAN program for Q$^2$ evolution (and
+``devolution'') of nonsinglet-quark, singlet-quark, $q_i+\bar q_i$, and gluon
+distributions (and corresponding structure functions) in the nucleon and in
+nuclei. This is a very useful program for studying spin-independent structure
+functions.
+","[{""version"":""v1"",""created"":""Sun, 6 Aug 1995 03:17:56 GMT""}]","2014-11-17"
+"hep-ph/9508247","Morimitsu Tanimoto","M. Tanimoto","Renormalization Effect on Large Neutrino Flavor Mixing in the Minimal
+  Supersymmetric Standard Model","15 pages, LATeX file, 4 figures available upon request","Phys.Lett. B360 (1995) 41-46","10.1016/0370-2693(95)01107-2","EHU-1995-08","hep-ph",,"  In the minimal supersymmetric standard model, we have studied the evolution
+of the neutrino flavor mixing by using the renormalization group equation(RGE)
+with the Georgi-Jarlskog texture for the Yukawa coupling matrices.For the large
+Yukawa coupling of the charged lepton, i.e.,$\tan\b \gg 1$, the neutrino flavor
+mixing increases significantly with running down to the electroweak scale by
+the RGE. If one wishes to get the large neutrino flavor mixing $\sin \th_{23}$
+at the electroweak scale, which is suggested by the muon neutrino deficit in
+the atomospheric neutrino flux, the initial condition $\sin \th_{23}\geq 0.27$
+is required at the GUT scale. Combined with the see-saw enhancement of the
+neutrino flavor mixing, the large mixing is naturally reproduced by setting the
+reasonable initial condition.
+","[{""version"":""v1"",""created"":""Sun, 6 Aug 1995 09:49:57 GMT""}]","2009-10-28"
+"hep-th/9508024","George Lavrelashvili","George Lavrelashvili","Gravitating, Gravitational and Dilatonic Sphalerons","12 pages, Tex",,,"ZU-TH 1/95","hep-th",,"  This is a brief review of the main properties of sphalerons in various
+theories with a Yang--Mills field. Talk given at the Heat Kernel Techniques and
+Quantum Gravity, Winnipeg, Canada, August 2-6, 1994.
+","[{""version"":""v1"",""created"":""Sat, 5 Aug 1995 16:53:19 GMT""}]","2007-05-23"
+"hep-th/9508025","Gregory Korchemsky","G.P.Korchemsky","Quasiclassical QCD Pomeron","50 pages, 10 PS figures, uses epsf.sty (version to appear in
+  Nucl.Phys.B). Postscript file also available at
+  http://qcd.th.u-psud.fr/preprints_labo/1995.ps/95-80.ps","Nucl.Phys.B462:333-388,1996","10.1016/0550-3213(96)00019-3","ITP-SB-95-25, LPTHE-Orsay-95-80","hep-th hep-ph",,"  The Regge behaviour of the scattering amplitudes in perturbative QCD is
+governed in the generalized leading logarithmic approximation by the
+contribution of the color--singlet compound states of Reggeized gluons. The
+interaction between Reggeons is described by the effective hamiltonian, which
+in the multi--color limit turns out to be identical to the hamiltonian of the
+completely integrable one--dimensional XXX Heisenberg magnet of noncompact spin
+$s=0$. The spectrum of the color singlet Reggeon compound states - perturbative
+Pomerons and Odderons, is expressed by means of the Bethe Ansatz in terms of
+the fundamental $Q-$function, which satisfies the Baxter equation for the XXX
+Heisenberg magnet. The exact solution of the Baxter equation is known only in
+the simplest case of the compound state of two Reggeons, the BFKL Pomeron. For
+higher Reggeon states the method is developed which allows to find its general
+solution as an asymptotic series in powers of the inverse conformal weight of
+the Reggeon states. The quantization conditions for the conserved charges for
+interacting Reggeons are established and an agreement with the results of
+numerical solutions is observed. The asymptotic approximation of the energy of
+the Reggeon states is defined based on the properties of the asymptotic series,
+and the intercept of the three--Reggeon states, perturbative Odderon, is
+estimated.
+","[{""version"":""v1"",""created"":""Sun, 6 Aug 1995 15:39:22 GMT""},{""version"":""v2"",""created"":""Mon, 4 Sep 1995 18:10:21 GMT""},{""version"":""v3"",""created"":""Thu, 8 Feb 1996 10:06:14 GMT""}]","2011-05-05"
+"quant-ph/9508005","Hoi Fung Chau","H. F. Chau and H.-K. Lo","Primality Test Via Quantum Factorization","Using REVTEX 3.0, AMS fonts required. Typos corrected. To appear in
+  Int.J.Mod.Phys.C",,,"IASSNS-HEP-95/69","quant-ph",,"  We consider a probabilistic quantum implementation of a variable of the
+Pocklington-Lehmer $N-1$ primality test using Shor's algorithm. O($\log^3 N
+\log\log N \log\log\log N$) elementary q-bit operations are required to
+determine the primality of a number $N$, making it (asymptotically) the fastest
+known primality test. Thus, the potential power of quantum mechanical computers
+is once again revealed.
+","[{""version"":""v1"",""created"":""Sat, 5 Aug 1995 20:35:40 GMT""},{""version"":""v2"",""created"":""Wed, 3 Jan 1996 15:22:26 GMT""},{""version"":""v3"",""created"":""Sun, 1 Dec 1996 07:24:16 GMT""}]","2016-09-08"

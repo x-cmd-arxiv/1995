@@ -1,0 +1,299 @@
+"astro-ph/9503088","Ben Moore","Ben Moore, Neal Katz and George Lake","On the Destruction and Over-Merging of Dark Halos in Dissipationless
+  N-body Simulations","submitted to ApJL. compressed postscript file includes figures.",,"10.1086/176745",,"astro-ph",,"  N-body simulations that follow only a collisionless dark matter component
+have failed to produce galaxy halos or substructure within dense environments.
+We investigate the `over-merging' problem analytically and with numerical
+simulations, by calculating dissolution timescales of halos due to physical and
+artificial dynamical effects. The numerical resolution that has recently been
+attained is such that mass-loss from two-body relaxation is negligible. We
+demonstrate that substructure is destroyed in present simulations as a result
+of large force softening combined with the heating sources of tides and
+encounters with dissolving substructure. In the limit of infinite numerical
+resolution, whether or not individual halos or substructure can survive depends
+sensitively on their inner density profiles. Singular isothermal halos will
+always survive at some level, however, if halos form with large core radii then
+the over-merging problem will always exist within dissipationless N-body
+simulations. In this latter case a dissipational component can increase the
+halos central density enabling galaxies to survive.
+","[{""version"":""v1"",""created"":""Fri, 24 Mar 1995 18:26:31 GMT""}]","2009-10-28"
+"astro-ph/9503089","Lisa Storrie-Lombardi","L.J. Storrie-Lombardi, R.G. McMahon, M.J. Irwin, C. Hazard","High Redshift Lyman Limit and Damped Lyman-Alpha Absorbers","latex, 5 pages + 4 postscript figures",,,,"astro-ph",,"  We have obtained high signal:to:noise optical spectroscopy at 5\AA\
+resolution of 27 quasars from the APM z$>$4 quasar survey. The spectra have
+been analyzed to create new samples of high redshift Lyman-limit and damped
+Lyman-$\alpha$ absorbers. These data have been combined with published data
+sets in a study of the redshift evolution and the column density distribution
+function for absorbers with $\log$N(HI)$\ge17.5$, over the redshift range 0.01
+$<$ z $<$ 5. The main results are: \begin{itemize} \item Lyman limit systems:
+The data are well fit by a power law $N(z) = N_0(1 + z)^{\gamma}$ for the
+number density per unit redshift. For the first time intrinsic evolution is
+detected in the product of the absorption cross-section and comoving spatial
+number density for an $\Omega = 1$ Universe. We find $\gamma = 1.55$ ($\gamma =
+0.5$ for no evolution) and $N_0 = 0.27$ with $>$99.7\% confidence limits for
+$\gamma$ of 0.82 \& 2.37. \item Damped \lya systems: The APM QSOs provide a
+substantial increase in the redshift path available for damped surveys for
+$z>3$. Eleven candidate and three confirmed damped Ly$\alpha$ absorption
+systems, have been identified in the APM QSO spectra covering the redshift
+range $2.8\le z \le 4.4$ (11 with $z>3.5$). Combining the APM survey confirmed
+and candidate damped \lya absorbers with previous surveys, we find evidence for
+a turnover at z$\sim$3 or a flattening at z$\sim$2 in the cosmological mass
+density of neutral gas, $\Omega_g$. \end{itemize} The Lyman limit survey
+results are published in Storrie-Lombardi, et~al., 1994, ApJ, 427, L13. Here we
+describe the results for the DLA population of absorbers.
+","[{""version"":""v1"",""created"":""Fri, 24 Mar 1995 19:52:59 GMT""}]","2007-05-23"
+"astro-ph/9503090","Doug Welch","D.L. Welch, C. Alcock, D.P. Bennett, K.H. Cook, R.A. Allsman, T.S.
+  Axelrod, K.C. Freeman, B.A. Peterson, P.J. Quinn, A.W. Rodgers, K. Griest,
+  S.L. Marshall, M.R. Pratt, C.W. Stubbs, and W. Sutherland (The MACHO
+  Collaboration)","Cepheids in the Magellanic Clouds","uuencoded, compressed PostScript, 8 pages, 2 figures (in text).
+  Invited review for proceedings of IAU Colloquium #155: Astrophysical
+  Applications of Stellar Pulsation (Cape Town, February 1995), ASP Conference
+  Series, ed. R. Stobie",,,,"astro-ph",,"  In the past few years, the Magellanic Clouds have been the targets for
+several major variable star surveys. The results of these surveys are now
+becoming available and it is clear that a Renaissance in LMC and SMC variable
+star research will result. In this review, I will describe the results of such
+surveys and review the questions that are likely to be answered by further
+work.
+  With respect to results, I will concentrate on LMC MACHO Project data,
+including beat Cepheids, discovery statistics, mode identification, Fourier
+decomposition of lightcurves, and the differences between the LMC and galactic
+sample.
+","[{""version"":""v1"",""created"":""Sat, 25 Mar 1995 01:44:34 GMT""}]","2007-05-23"
+"astro-ph/9503091","Enomoto","Ryoji Enomoto","A possible correlation between EGRET Sources and an Air-Borne experiment","3 pages, latex(article,epsf), 1 figure. to appear in ""Towards a Major
+  Atmospheric Cerenkov Detector III"", 243p, Universal Academy Press, Inc.
+  Tokyo, Japan",,,,"astro-ph",,"  In 1989, an air-borne experiments (VEGA experiment) aiming at the detection
+of a few 10 GeV $\gamma$-ray were carried out. In these experiments, nine
+point-source candidates along the Galactic plane were reported. In these
+candidates, the five of five highest significance candidates positionally
+coincide with the EGRET galactic plane sources.
+","[{""version"":""v1"",""created"":""Sat, 25 Mar 1995 06:50:59 GMT""}]","2007-05-23"
+"astro-ph/9503092","Kim Barker","Kimberly C. B. New, G. Chanmugam, Warren W. Johnson, and Joel E.
+  Tohline (Louisiana State University)","Millisecond Pulsars: Detectable Sources of Continuous Gravitational
+  Waves?","17 pages (including 2 Postscript figures), LaTeX file, uses AASTeX
+  macros, accepted for publication in the Astrophysical Journal","Astrophys.J.450:757-762,1995","10.1086/176181",,"astro-ph gr-qc",,"  Laboratory searches for the detection of gravitational waves have focused on
+the detection of burst signals emitted during a supernova explosion, but have
+not resulted in any confirmed detections. An alternative approach has been to
+search for continuous wave (CW) gravitational radiation from the Crab pulsar.
+In this paper, we examine the possibility of detecting CW gravitational
+radiation from pulsars and show that nearby millisecond pulsars are generally
+much better candidates. We show that the minimum strain h_c ~ 10E-26 that can
+be detected by tuning an antenna to the frequency of the milli- second pulsar
+PSR 1957+20, with presently available detector technology, is orders of
+magnitude better than what has been accomplished so far by observing the Crab
+pulsar, and within an order of magnitude of the maximum strain that may be
+produced by it. In addition, we point out that there is likely to be a
+population of rapidly rotating neutron stars (not necessarily radio pulsars) in
+the solar neighborhood whose spindown evolution is driven by gravitational
+radiation. We argue that the projected sensitivity of modern resonant detectors
+is sufficient to detect the subset of this population that lies within 0.1 kpc
+of the sun.
+","[{""version"":""v1"",""created"":""Sat, 25 Mar 1995 11:13:21 GMT""}]","2010-11-01"
+"chao-dyn/9503010","Arul Lakshminarayan","Arul Lakshminarayan","On the Quantum Baker's Map and its Unusual Traces","23 pages, LaTex. The 3 Figs. may be obtained from the author.",,"10.1006/aphy.1995.1035",,"chao-dyn nlin.CD",,"  The quantum baker's map is the quantization of a simple classically chaotic
+system, and has many generic features that have been studied over the last few
+years. While there exists a semiclassical theory of this map, a more rigorous
+study of the same revealed some unexpected features which indicated that
+correction terms of the order of log(h) had to be included in the periodic
+orbit sum. Such singular semiclassical behaviour was also found in the simplest
+traces of the quantum map. In this note we study the quantum mechanics of a
+baker's map which is obtained by reflecting the classical map about its edges,
+in an effort to understand and circumvent these anomalies. This leads to a real
+quantum map with traces that follow the usual Gutzwiller-Tabor like
+semiclassical formulae. We develop the relevant semiclassical periodic orbit
+sum for this map which is closely related to that of the usual baker's map,
+with the important difference that the propagators leading to this sum have no
+anomalous traces.
+","[{""version"":""v1"",""created"":""Sat, 25 Mar 1995 06:54:20 GMT""}]","2016-08-31"
+"cmp-lg/9503024","Wlodek Zadrozny","Wlodek Zadrozny","From compositional to systematic semantics","11 pp. Latex.;","Linguistics and Philosophy(17):329-342, 1994",,,"cmp-lg cs.CL",,"  We prove a theorem stating that any semantics can be encoded as a
+compositional semantics, which means that, essentially, the standard definition
+of compositionality is formally vacuous. We then show that when compositional
+semantics is required to be ""systematic"" (that is, the meaning function cannot
+be arbitrary, but must belong to some class), it is possible to distinguish
+between compositional and non-compositional semantics. As a result, we believe
+that the paper clarifies the concept of compositionality and opens a
+possibility of making systematic formal comparisons of different systems of
+grammars.
+","[{""version"":""v1"",""created"":""Fri, 24 Mar 1995 19:03:09 GMT""}]","2008-02-03"
+"cond-mat/9503130",,"S. A. Janowsky (Department of Mathematics, University of Texas at
+  Austin)","Spatial Organization in the Reaction A + B --> inert for Particles with
+  a Drift","10 pp of gzipped uuencoded postscript","Phys. Rev. E 52, 2535-2539 (1995)","10.1103/PhysRevE.52.2535",,"cond-mat comp-gas nlin.CG",,"  We describe the spatial structure of particles in the (one dimensional)
+two-species annihilation reaction A + B --> 0, where both species have a
+uniform drift in the same direction and like species have a hard core
+exclusion. For the case of equal initial concentration, at long times, there
+are three relevant length scales: the typical distance between similar
+(neighboring) particles, the typical distance between dissimilar (neighboring)
+particles, and the typical size of a cluster of one type of particles. These
+length scales are found to be generically different than that found for
+particles without a drift.
+","[{""version"":""v1"",""created"":""Fri, 24 Mar 1995 21:29:32 GMT""}]","2009-10-28"
+"cond-mat/9503131","David Sept","E.A. Bartnik, J.A. Tuszynski and D. Sept","Effects of distance dependence of exciton hopping on the Davydov soliton","RevTeX 13 pages, 3 Postscript figures","Physics Letters A 204 (1995) 263-268","10.1016/0375-9601(95)00481-H",,"cond-mat",,"  The Davydov model of energy transfer in molecular chains is reconsidered
+assuming the distance dependence of the exciton hopping term. New equations of
+motion for phonons and excitons are derived within the coherent state
+approximation. Solving these nonlinear equations result in the existence of
+Davydov-like solitons. In the case of a dilatational soliton, the amplitude and
+width is decreased as a results of the mechanism introduced here and above a
+critical coupling strength our equations do not allow for localized solutions.
+For compressional solitons, stability is increased.
+","[{""version"":""v1"",""created"":""Fri, 24 Mar 1995 22:44:09 GMT""}]","2009-10-28"
+"gr-qc/9503044","Eric Gourgoulhon","M. Bocquet, S. Bonazzola, E. Gourgoulhon, J. Novak","ROTATING NEUTRON STAR MODELS WITH MAGNETIC FIELD","19 pages, 26 PostScript figures (available as uuencoded compressed
+  tar file), uses psfig.tex, l-aa.sty (LaTeX style file for Astronomy &
+  Astrophysics, vers. 3.0). Accepted on March 1995 for publication in Astronomy
+  & Astrophysics","Astron. Astrophys. 301, 757 (1995)",,"Preprint Observatoire de Paris","gr-qc astro-ph",,"  We present the first numerical solutions of the coupled Einstein-Maxwell
+equations describing rapidly rotating neutron stars endowed with a magnetic
+field. These solutions are fully relativistic and self-consistent, all the
+effects of the electromagnetic field on the star's equilibrium (Lorentz force,
+spacetime curvature generated by the electromagnetic stress-energy) being taken
+into account. The magnetic field is axisymmetric and poloidal. Five dense
+matter equations of state are employed. The partial differential equation
+system is integrated by means of a pseudo-spectral method. Various tests passed
+by the numerical code are presented. The effects of the magnetic field on
+neutron stars structure are then investigated, especially by comparing
+magnetized and non-magnetized configurations with the same baryon number. The
+deformation of the star induced by the magnetic field is important only for
+huge values of B (B>10^{10} T). The maximum mass as well as the maximum
+rotational velocity are found to increase with the magnetic field. The maximum
+allowable poloidal magnetic field is of the order of 10^{14} T (10^{18} G) and
+is reached when the magnetic pressure is comparable to the fluid pressure at
+the centre of the star. For such values, the maximum mass of neutron stars is
+found to increase by 13 to 29 % (depending upon the EOS) with respect to the
+maximum mass of non-magnetized stars.
+","[{""version"":""v1"",""created"":""Sat, 25 Mar 1995 02:21:21 GMT""}]","2007-05-23"
+"gr-qc/9503046","A. P. Balachandran","A. P. Balachandran, G. Bimonte, G. Marmo and A. Simoni","TOPOLOGY CHANGE AND QUANTUM PHYSICS","18 pages, Latex file (revised because figures had problems)","Nucl.Phys. B446 (1995) 299-314","10.1016/0550-3213(95)00260-Y","DSF-T-5/95, SU-4240-604, IC/95/24","gr-qc hep-th",,"  The role of topology in elementary quantum physics is discussed in detail. It
+is argued that attributes of classical spatial topology emerge from properties
+of state vectors with suitably smooth time evolution. Equivalently, they emerge
+from considerations on the domain of the quantum Hamiltonian, this domain being
+often specified by boundary conditions in elementary quantum physics. Several
+examples are presented where classical topology is changed by smoothly altering
+the boundary conditions. When the parameters labelling the latter are treated
+as quantum variables, quantum states need not give a well-defined classical
+topology, instead they can give a quantum superposition of such topologies. An
+existing argument of Sorkin based on the spin-statistics connection and
+indicating the necessity of topology change in quantum gravity is recalled. It
+is suggested therefrom and our results here that Einstein gravity and its minor
+variants are effective theories of a deeper description with additional novel
+degrees of freedom. Other reasons for suspecting such a microstructure are also
+summarized.
+","[{""version"":""v1"",""created"":""Fri, 24 Mar 1995 23:25:12 GMT""},{""version"":""v2"",""created"":""Sun, 26 Mar 1995 16:47:17 GMT""},{""version"":""v3"",""created"":""Mon, 27 Mar 1995 22:44:04 GMT""}]","2009-10-28"
+"hep-ph/9503426",,"J. Ellis","Where are we coming from? What are we? Where are we going?","Invited talk at the Beyond the Standard Model IV Conference,
+  Granlibakken, California, December 1994. Figures available from MNFT3 at
+  CERNVM.CERN.CH","Nucl.Phys. B456 (1995) 699-731",,"CERN-TH.95-28","hep-ph",,"  The Standard Model is the answer to questions 1 and 2, as established by LEP.
+Supersymmetry is doubtless the answer to question 3, as may well be established
+by the LHC.
+","[{""version"":""v1"",""created"":""Fri, 24 Mar 1995 16:05:48 GMT""}]","2009-09-25"
+"hep-ph/9503430","Matthias Burkardt","W. Haxton","THE SOLAR NEUTRINO PROBLEM","66 pages, LATEX, 18 figures available by mail on request","Ann.Rev.Astron.Astrophys.33:459-503,1995","10.1146/annurev.aa.33.090195.002331",,"hep-ph astro-ph nucl-ex nucl-th",,"  The solar neutrino problem has persisted for almost three decades. Recent
+results from Kamiokande, SAGE, and GALLEX indicate a pattern of neutrino fluxes
+that is very difficult to reconcile with plausible variations in standard solar
+models. This situation is reviewed and suggested particle physics solutions are
+discussed. A summary is given of the important physics expected from SNO,
+SuperKamiokande, and other future experiments.
+","[{""version"":""v1"",""created"":""Fri, 24 Mar 1995 18:57:44 GMT""}]","2009-09-25"
+"hep-ph/9503431",,"A. Datta and M. Guchait (Calcutta) and M. Drees (Madison).","Hunting virtual LSPs at LEP200.","LaTeX with equations.sty; 14 pages with 6 figures (not included).
+  Entire PS file (including figures) will be available via anonymous ftp from
+  at ftp://phenom.physics.wisc.edu/pub/preprints/1995","Z.Phys. C69 (1996) 347-358",,"MAD-PH-881, DO-TH 94/28.","hep-ph",,"  Relatively light sneutrinos, which are experimentally allowed, may
+significantly affect the currently popular search strategies for supersymmetric
+particles by decaying dominantly into an invisible channel. In certain cases
+the second lightest neutralino may also decay invisibly leading to two extra
+carriers of missing energy -- in addition to the lightest supersymmetric
+particle (LSP) \zi\ -- the virtual LSPs (VLSPs). It is shown that these VLSPs
+are allowed in supergravity models with common scalar and gaugino masses at the
+unification scale for a sizable region of parameter space and are consistent
+with all constraints derived so far from SUSY searches. The pair production of
+right handed sleptons, which can very well be the lightest charged SUSY
+particles in this scenario, at LEP 200 and their decay signatures are
+discussed. The signal survives kinematical cuts required to remove the standard
+model background. Charginos are also pair produced copiously if kinematically
+accessible; they also decay dominantly into hadronically quiet di--lepton +
+\etmiss\ modes leading to interesting unlike sign dilepton events which are
+again easily separable from the Standard Model backgrounds at LEP 200 energies.
+","[{""version"":""v1"",""created"":""Fri, 24 Mar 1995 19:01:00 GMT""}]","2009-09-25"
+"hep-ph/9503432","Pira","O. J. P. Eboli, M. B. Magro, P. G. Mercadante and S. F. Novaes","Quartic Anomalous Couplings in $\gamma\gamma$ Colliders","15 pages, Latex file using ReVteX, 4 uufiled figures included","Phys.Rev. D52 (1995) 15-21","10.1103/PhysRevD.52.15","IFT-P.017/95 and IFUSP-P 1131","hep-ph",,"  We study the constraints on the vertices $W^+W^- Z\gamma$,
+$W^+W^-\gamma\gamma$, and $ZZ\gamma\gamma$ that can be obtained from
+triple-gauge-boson production at the next generation of linear $e^+e^-$
+colliders operating in the $\gamma\gamma$ mode. We analyze the processes
+$\gamma\gamma \to W^+W^-V$ ($V=Z$, or $\gamma$) and show that these reactions
+increase the potential of $e^+e^-$ machines to search for anomalous
+four-gauge-boson interactions.
+","[{""version"":""v1"",""created"":""Fri, 24 Mar 1995 16:23:46 GMT""}]","2009-10-28"
+"hep-ph/9503433",,"Kenneth Lane and Estia Eichten","Natural Topcolor--Assisted Technicolor","11 pages, TeX using harvmac macros.","Phys.Lett. B352 (1995) 382-387","10.1016/0370-2693(95)00482-Z","BUHEP-95-11, FERMILAB-PUB-95/052-T","hep-ph",,"  We construct a prototype of topcolor--assisted technicolor in which, although
+both top and bottom quarks acquire some mass from extended technicolor, strong
+$U(1)$ couplings of technifermions are isospin symmetric and all gauge
+anomalies vanish. There is a mechanism for mixing between the light and heavy
+generations and there need be no very light pseudo--Goldstone bosons.
+","[{""version"":""v1"",""created"":""Fri, 24 Mar 1995 21:51:42 GMT""},{""version"":""v2"",""created"":""Sat, 25 Mar 1995 19:44:37 GMT""}]","2009-10-28"
+"hep-ph/9503434","Kostas Philippides","K. Philippides and A. Sirlin","LEADING VACUUM-POLARIZATION CONTRIBUTIONS TO THE RELATION BETWEEN POLE
+  AND RUNNING MASSES","27 pages, 1 figure and 5 tables all included in the text in a
+  compressed ps file","Nucl.Phys.B450:3-20,1995","10.1016/0550-3213(95)00264-S","NYU-TH-95/03/01","hep-ph",,"  The vacuum--polarization contributions of ${\cal O}(b^{n-1} \al_s^n)$ to the
+relation between the pole--mass $M$ of a quark and the \MS parameter $\mh (M)$
+are evaluated by a straightforward method. They are found to approximate very
+well the exact answer, known through ${\cal O}(\al_s^2)$, thus providing a
+simple physical interpretation. Results are also given for the cases when the
+vacuum--polarization contributions are defined by the pinch technique
+prescription and specific background field gauges. Assuming that the terms $n
+\geq 3$ are also dominant, we evaluate $M_t/\hat{m}_t(M_t)$, compare the
+results with those of optimization methods, briefly discuss $M_b/\mh_b (M_b)$,
+and estimate the irreducible errors in the perturbative series. Implications
+for the electroweak amplitude $\Delta\rho$ are emphasized. An update of the QCD
+corrections to this amplitude, including an estimate of the theoretical error,
+is given.
+","[{""version"":""v1"",""created"":""Sat, 25 Mar 1995 01:10:45 GMT""}]","2008-12-22"
+"hep-ph/9503435",,"A.P.Kobushkin, A.I.Syamtomov and L.Ya.Glozman","Quark-exchange Effects in a Deuteron Breakup at Intermediate Energy","LaTeX, 13 pages+8 (ps-figures)","Phys.Atom.Nucl. 59 (1996) 795-803; Yad.Fiz. 59N5 (1996) 833-841",,"ITP-95-9E","hep-ph",,"  Microscopical approach to a deuteron breakup at high and intermediate
+energies is proposed. We show that the quark exchange effects, resulting from
+the full asymmetry of the $6q$-deuteron wave function with respect to the pair
+permutations of quark variables, strongly affect the proton momentum
+distribution in the deuteron, as well as the polarization observables of
+inclusive deuteron breakup, when the ``internal momentum'' in the deuteron is
+of order of a few hundreds MeV/c.
+","[{""version"":""v1"",""created"":""Sat, 25 Mar 1995 08:09:19 GMT""}]","2009-09-25"
+"hep-th/9503174","Christoph Schweigert","Maximilian Kreuzer and Christoph Schweigert","ON THE EXTENDED POINCARE POLYNOMIAL","16 pages (A4), LaTeX","Phys.Lett.B352:276-285,1995","10.1016/0370-2693(95)00504-E","NIKHEF 95-006, TUW--95-03","hep-th",,"  We show that the numbers of generations and anti-generations of a (2,2)
+string compactification with diagonal internal theory can be expressed in terms
+of certain specifications of the elliptic genus of the untwisted internal
+theory which can be computed from the Poincare polynomial. To establish this
+result we show that there are no cancellations of positive and negative
+contributions to the Euler characteristic within a fixed twisted sector. For
+our considerations we recast the orbifolding procedure into an algebraic
+language using simple currents. Turning the argument around, this allows us to
+define the `extended Poincare polynomial' P(t,x), which encodes information on
+the orbits of the spinor current under fusion, for non-diagonal N=2
+superconformal field theories. As an application, we derive an explicit formula
+for P(t,x) for general Landau-Ginzburg orbifolds.
+","[{""version"":""v1"",""created"":""Fri, 24 Mar 1995 19:35:27 GMT""}]","2010-11-01"
+"hep-th/9503175","Warren G. Anderson","Warren G. Anderson and Nemanja Kaloper","On Some New Black String Solutions in Three Dimensions","revtex, 38 pages including 3 figures","Phys.Rev. D52 (1995) 4440-4454","10.1103/PhysRevD.52.4440","Alberta-Thy-06-95/ McGill 95--11","hep-th gr-qc",,"  We derive several new solutions in three-dimensional stringy gravity. The
+solutions are obtained with the help of string duality transformations. They
+represent stationary configurations with horizons, and are surrounded by
+(quasi) topologically massive Abelian gauge hair, in addition to the dilaton
+and the Kalb-Ramond axion. Our analysis suggests that there exists a more
+general family, where our solutions are special limits. Finally, we use the
+generating technique recently proposed by Garfinkle to construct a traveling
+wave on the extremal variant of one of our solutions.
+","[{""version"":""v1"",""created"":""Fri, 24 Mar 1995 23:05:44 GMT""}]","2009-10-28"
+"nucl-ex/9503001",,"J. C. Walpe, B. F. Davis, S. Naguleswaran, W. Reviol, U. Garg,
+  Xing-Wang Pan, Da Hsuan Feng, J. X. Saladin","Lifetime Measurements in 120Xe","9 pages, RevTeX, 3 figures with Postscript file available on request
+  at Umesh.Garg.1@nd.edu, pan@einstein.physics.drexel.edu. Submitted to Phys.
+  Rev. C","Phys.Rev.C52:1792-1795,1995","10.1103/PhysRevC.52.1792",,"nucl-ex nucl-th",,"  Lifetimes for the lowest three transitions in the nucleus $^{120}$Xe have
+been measured using the Recoil Distance Technique. Our data indicate that the
+lifetime for the $2_{1}^{+} \to 0_{1}^{+}$ transition is more than a factor of
+two lower than the previously adopted value and is in keeping with more recent
+measurements performed on this nucleus. The theoretical implications of this
+discrepancy and the possible reason for the erroneous earlier results are
+discussed. All measured lifetimes in $^{120}$Xe, as well as the systematics of
+the lifetimes of the 2$_{1}^{+}$ states in Xe isotopes, are compared with
+predictions of various models. The available data are best described by the
+Fermion Dynamic Symmetry Model (FDSM).
+","[{""version"":""v1"",""created"":""Sat, 25 Mar 1995 07:25:01 GMT""}]","2009-09-25"
+"q-alg/9603019","Zapatrin Roman Romanitz","G.N. Parfionov and R.R. Zapatrin","Dual Structures in Non-Commutative Differential Algebras","11 pages, LaTex, available by e-mail <zzz@russ-museum.spb.su>",,,"IRB-MSP-960318","q-alg math.QA",,"  The non-commutative algebraic analog of the moduli of vector and covector
+fields is built. The structure of moduli of derivations of non-commutative
+algebras are studied. The canonical coupling is introduced and the conditions
+for appropriate moduli to be reflexive are obtained.
+","[{""version"":""v1"",""created"":""Fri, 24 Mar 1995 18:14:47 GMT""}]","2008-02-03"
+"quant-ph/9503017","Adriano Barenco","A. Barenco, D. Deutsch, A.Ekert and R. Jozsa","Conditional Quantum Dynamics and Logic Gates","5 pages, RevTeX, two figures in a uuencoded, compressed file","Phys.Rev.Lett. 74 (1995) 4083-4086","10.1103/PhysRevLett.74.4083",,"quant-ph",,"  Quantum logic gates provide fundamental examples of conditional quantum
+dynamics. They could form the building blocks of general quantum information
+processing systems which have recently been shown to have many interesting
+non--classical properties. We describe a simple quantum logic gate, the quantum
+controlled--NOT, and analyse some of its applications. We discuss two possible
+physical realisations of the gate; one based on Ramsey atomic interferometry
+and the other on the selective driving of optical resonances of two subsystems
+undergoing a dipole--dipole interaction.
+","[{""version"":""v1"",""created"":""Fri, 24 Mar 1995 19:08:17 GMT""}]","2009-10-28"
+"solv-int/9503003","Denis V. Juriev","Denis V.Juriev","On the dynamics of noncanonically coupled oscillators and its hidden
+  superstructure","revised version -- refs are updated",,,"ESI-167","solv-int nlin.SI",,"  The classical and quantum dynamics of the noncanonically coupled oscillators
+is considered. It is shown that though the classical dynamics is well--defined
+for both harmonic and anharmonic oscillators, the quantum one is well--defined
+in the harmonic case, admits a hidden (super)Hamiltonian formulation, and thus,
+preserves the initial operator relations, whereas a na\""\i ve quantization of
+the anharmonic case meets with principal difficulties.
+","[{""version"":""v1"",""created"":""Sat, 25 Mar 1995 10:31:03 GMT""},{""version"":""v2"",""created"":""Sun, 6 Aug 1995 05:50:07 GMT""},{""version"":""v3"",""created"":""Thu, 4 Apr 1996 04:59:30 GMT""}]","2008-02-03"

@@ -1,0 +1,118 @@
+"alg-geom/9505029","Teleman","Ch. Okonek and A. Teleman","Quaternionic Monopoles","LaTeX, 35 pages",,"10.1007/BF02099718",,"alg-geom hep-th math.AG",,"  We present the simplest non-abelian version of Seiberg-Witten theory:
+Quaternionic monopoles. These monopoles are associated with
+Spin^h(4)-structures on 4-manifolds and form finite-dimensional moduli spaces.
+On a Kahler surface the quaternionic monopole equations decouple and lead to
+the projective vortex equation for holomorphic pairs. This vortex equation
+comes from a moment map and gives rise to a new complex-geometric stability
+concept. The moduli spaces of quaternionic monopoles on Kahler surfaces have
+two closed subspaces, both naturally isomorphic with moduli spaces of
+canonically stable holomorphic pairs. These components intersect along
+Donaldsons instanton space and can be compactified with Seiberg-Witten moduli
+spaces. This should provide a link between the two corresponding theories.
+Notes: To appear in CMP The revised version contains more details concerning
+the Uhlenbeck compactfication of the moduli space of quaternionic monopoles,
+and possible applications are discussed. Attention ! Due to an ununderstandable
+mistake, the duke server had replaced all the symbols ""="" by ""=3D"" in the
+tex-file of the revised version we sent on February, the 2-nd. The command
+""\def{\ad}"" had also been damaged !
+","[{""version"":""v1"",""created"":""Sat, 27 May 1995 19:21:11 GMT""},{""version"":""v2"",""created"":""Mon, 10 Jul 1995 15:18:41 GMT""},{""version"":""v3"",""created"":""Fri, 2 Feb 1996 10:32:57 GMT""},{""version"":""v4"",""created"":""Mon, 5 Feb 1996 13:50:55 GMT""}]","2009-10-28"
+"astro-ph/9505127","Bev Wills","Beverley J. Wills and M. S. Brotherton (Univ. of Texas at Austin, USA)","AN IMPROVED MEASURE OF QUASAR ORIENTATION","7 pages (aastex), 3 figures added (1 file via uufiles)",,"10.1086/309614",,"astro-ph",,"  Radio core dominance, usually measured by R, the rest frame ratio of core to
+lobe flux density, has been used as an indicator of Doppler boosting of
+quasars' radio jets and hence the inclination of the central engine's spin axis
+to the line of sight. The use of lobe flux density as a means of normalizing
+the boosted core flux density to the available intrinsic power of the central
+engine introduces scatter. This is because the emission from the radio lobes
+depends strongly on the interaction of the jet with the environment at
+distances beyond several Kpc from the nucleus. Total kinetic power in the
+extended radio emission is approximately proportional to emission line
+luminosity, and emission line luminosity is proportional to the luminosity of
+AGNs' featureless continua -- both over 4 orders of magnitude. Thus, quasars'
+optical luminosity may be an excellent measure of available intrinsic jet
+power. Therefore we define a new core dominance parameter, R$_V$, the ratio of
+radio core to optical (rest frame V band) continuum luminosity, that is not
+directly dependent on jet interactions with the super-Kpc-scale environment. We
+show that the use of R$_V$, rather than R, results in significantly improved
+inverse correlations with the beaming angle as deduced from apparent
+superluminal velocities and inverse Compton scattered X-ray emission, and with
+the FWHM of quasars' broad H$\beta$ emission line. We discuss some implications
+and applications of the new parameter.
+","[{""version"":""v1"",""created"":""Sat, 27 May 1995 18:50:27 GMT""}]","2009-10-28"
+"astro-ph/9505128","Pavel Kroupa","Pavel Kroupa","ARE THE NEARBY AND PHOTOMETRIC STELLAR LUMINOSITY FUNCTIONS DIFFERENT?","14 pages, plain TeX, figures available on request, ApJ (to appear in
+  Nov.1 issue of Part I)",,"10.1086/176394","ARI-56","astro-ph",,"  The stellar luminosity function derived from the sample of stars within
+5.2--20~pc is the nearby luminosity function. The luminosity function obtained
+from deep low spatial resolution surveys to distances of typically 100--200~pc
+is the photometric luminosity function. We obtain and tabulate a best estimate
+of the parent distribution from which Malmquist corrected photometric
+luminosity functions are sampled. This is presently the most {\it accurate} and
+{\it precise} available estimate of the true distribution of stars with
+absolute magnitude for $M_{\rm V}\le16.5$, as derived from low-resolution
+surveys. Using rigorous statistical analysis we find that the hypothesis that
+the nearby and photometric luminosity functions estimate the same parent
+luminosity function can be discarded with 99~per~cent confidence or better for
+$M_{\rm V}>13,M_{\rm bol}>10$.
+","[{""version"":""v1"",""created"":""Sat, 27 May 1995 20:08:23 GMT""}]","2009-10-28"
+"astro-ph/9505129","Janusz Kaluzny","Janusz Kaluzny, Wojciech Krzeminski, Beata Mazur","CCD PHOTOMETRY OF VARIABLE STARS IN THE GLOBULAR CLUSTER RU 106","25 pages, uuencoded compressed postscript file (including 13 figures)",,"10.1086/117681",,"astro-ph",,"  BV photometry is presented for 12 RR Lyr variables discovered in the
+presumably young galactic globular cluster Ruprecht 106. All variables are type
+RRab, and their periods span a narrow range from 0.574 to 0.652 day. We report
+also on the discovery of 3 SX Phe variables among the cluster blue stragglers.
+A likely background RR Lyr variable and two foreground contact binaries were
+also found in the cluster field. The reddening of Ruprecht 106 is estimated at
+E(B-V)=0.20 based on the (B-V) colors exhibited by the cluster RR Lyr variables
+at minimum light. Analysis of the ""period"" versus ""amplitude"" and ""period""
+versus ""rise-time"" diagrams suggests similar metallicities of Ruprecht 106 and
+M3. A peak (or bump) is present in the luminosity function of the red giant
+branch of Ruprecht 106. Its position relative to the horizontal branch is
+consistent with a cluster metallicity of [Fe/H]>= -1.6.
+","[{""version"":""v1"",""created"":""Sat, 27 May 1995 23:30:40 GMT""}]","2009-10-28"
+"hep-lat/9505022","Robert Shrock","Victor Matveev and Robert Shrock (ITP, SUNY Stony Brook)","A Connection Between Complex-Temperature Properties of the 1D and 2D
+  Spin $s$ Ising Model","8 pages, latex, 2 uuencoded figures","Phys.Lett. A204 (1995) 353-358","10.1016/0375-9601(95)00501-S","ITP-SB-95-11","hep-lat cond-mat",,"  Although the physical properties of the 2D and 1D Ising models are quite
+different, we point out an interesting connection between their
+complex-temperature phase diagrams. We carry out an exact determination of the
+complex-temperature phase diagram for the 1D Ising model for arbitrary spin $s$
+and show that in the $u_s=e^{-K/s^2}$ plane (i) it consists of $N_{c,1D}=4s^2$
+infinite regions separated by an equal number of boundary curves where the free
+energy is non-analytic; (ii) these curves extend from the origin to complex
+infinity, and in both limits are oriented along the angles $\theta_n =
+(1+2n)\pi/(4s^2)$, for $n=0,..., 4s^2-1$; (iii) of these curves, there are
+$N_{c,NE,1D}=N_{c,NW,1D}=[s^2]$ in the first and second (NE and NW) quadrants;
+and (iv) there is a boundary curve (line) along the negative real $u_s$ axis if
+and only if $s$ is half-integral. We note a close relation between these
+results and the number of arcs of zeros protruding into the FM phase in our
+recent calculation of partition function zeros for the 2D spin $s$ Ising model.
+","[{""version"":""v1"",""created"":""Sat, 27 May 1995 18:29:11 GMT""}]","2009-10-28"
+"hep-ph/9505396","Peter Landshoff","P V Landshoff","\gamma p \to Vp and \gamma^* p \to Vp","6 pages including 7 figures, uuencoded ps file Based on talks given
+  in April 1995 at Photon '95 (Sheffield) and DIS '95 (Paris)",,,,"hep-ph",,"  Exclusive vector meson production from real and virtual photons is a good
+probe of pomeron physics. In particular, it sheds light on how the soft pomeron
+is related to nonperturbative QCD, and how it couples to heavy flavours. It
+also raises the question whether there are two pomerons, a soft one and a hard
+one.
+","[{""version"":""v1"",""created"":""Sun, 28 May 1995 09:02:51 GMT""}]","2007-05-23"
+"hep-th/9505171","Quevedo","C.P. Burgess, J.-P. Derendinger, F. Quevedo, M. Quiros","ON GAUGINO CONDENSATION WITH FIELD-DEPENDENT GAUGE COUPLINGS","54 pages, plain tex","Annals Phys. 250 (1996) 193-233","10.1006/aphy.1996.0092","CERN-TH/95-111, IEM-FT-105/95, McGill-95/05,NEIP-95-04","hep-th hep-ph",,"  We study in detail gaugino condensation in globally and locally
+supersymmetric Yang-Mills theories. We focus on models for which gauge-neutral
+matter couples to the gauge bosons only through nonminimal gauge kinetic terms,
+for the cases of one and several condensing gauge groups. Using only symmetry
+arguments, the low-energy expansion, and general properties of supersymmetry,
+we compute the low energy Wilson action, as well as the (2PI) effective action
+for the composite {\it classical} superfield $U\equiv\langle \Tr\WW \rangle$,
+with $W_\alpha$ the supersymmetric gauge field strength. The 2PI effective
+action provides a firmer foundation for the approach of Veneziano and
+Yankielowicz, who treated the composite superfield, $U$, as a quantum degree of
+freedom. We show how to rederive the Wilson action by minimizing the 2PI action
+with respect to $U$. We determine, in both formulations and for global and
+local supersymmetry, the effective superpotential, $W$, the non-perturbative
+contributions to the low-energy K\""ahler potential $K$, and the leading higher
+supercovariant derivative terms in an expansion in inverse powers of the
+condensation scale. As an application of our results we include the string
+moduli dependence of the super- and K\""ahler potentials for simple orbifold
+models.
+","[{""version"":""v1"",""created"":""Sun, 28 May 1995 12:41:21 GMT""}]","2009-10-28"
+"plasm-ph/9505001",,"James A. Rome","Stellarator News, Issue 39, May 1995","James A. Rome, Editor. 4 MB Adobe PDF format, available via anonymous
+  ftp at ftp://ftp.acl.lanl.gov/pub/dwf/SN39.pdf",,,,"plasm-ph physics.plasm-ph",,"  Special Issue: New Stellarators
+  New stellarators are being constructed throughout the world as part of a
+well-coordinated international program. This issue concentrates on the
+engineering and construction details of
+  Large Helical Device (LHD), Toki, Japan
+  Wendelstein 7-X (W7-X), Greifswald, Germany
+  Helias Stellarator Experiment (HSX), Madison Wisconsin, USA
+  TJ-II, Madrid, Spain
+","[{""version"":""v1"",""created"":""Sat, 27 May 1995 17:59:12 GMT""}]","2009-03-10"

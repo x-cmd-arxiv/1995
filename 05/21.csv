@@ -1,0 +1,107 @@
+"adap-org/9505001","Thorsten Poeschel","Jan Freund, Thorsten P\""oschel","A Statistical Approach to Vehicular Traffic","32 pages, uuencoded PostScript, figures included",,,,"adap-org nlin.AO",,"  A two--dimensional cellular automaton is introduced to model the flow and
+jamming of vehicular traffic in cities. Each site of the automaton represents a
+crossing where a finite number of cars can wait approaching the crossing from
+each of the four directions. The flow of cars obeys realistic traffic rules. We
+investigate the dependence of the average velocity of cars on the global
+traffic density. At a critical threshold for the density the average velocity
+reduces drastically caused by jamming. For the low density regime we provide
+analytical results which agree with the numerical results.
+","[{""version"":""v1"",""created"":""Sun, 21 May 1995 10:50:21 GMT""}]","2008-02-03"
+"cond-mat/9505090","Victor Barzykin","V. Barzykin and D. Pines","Magnetic scaling in cuprate superconductors","18 pages, RevTex, 18 figures are available upon request; submitted to
+  Phys. Rev. B",,"10.1103/PhysRevB.52.13585",,"cond-mat",,"  We determine the magnetic phase diagram for the YBa$_2$Cu$_3$O$_{6+x}$ and
+La$_{2-x}$Sr$_x$CuO$_4$ systems from various NMR experiments. We discuss the
+possible interpretation of NMR and neutron scattering experiments in these
+systems in terms of both the non-linear $\sigma$-model of nearly localized
+spins and a nearly antiferromagnetic Fermi liquid description of magnetically
+coupled quasiparticles. We show for both the 2:1:4 and 1:2:3 systems that bulk
+properties, such as the spin susceptibiltiy, and probes at the
+antiferromagnetic wavevector $(\pi, \pi)$, such as $^{63}T_1$, the $ ^{63}Cu$
+spin relaxation time, both display a crossover at a temperature $T_{cr}$, which
+increases linearly with decreasing hole concentration, from a non-universal
+regime to a $z=1$ scaling regime characterized by spin pseudogap behavior. We
+pursue the consequences of the ansatz that $T_{cr}$ corresponds to a fixed
+value of the antiferromagnetic correlation length, $\xi$, and show how this
+enables one to extract the magnitude and temperature dependence of $\xi$ from
+measurements of $T_1$ alone. We show that like $T_{cr}$, the temperature $T_*$
+which marks a crossover at low temperatures from the $z=1$ scaling regime to a
+quantum disordered regime, exhibits the same dependence on doping for the 2:1:4
+and 1:2:3 systems, and so arrive at a unified description of magnetic behavior
+in the cuprates, in which the determining factor is the planar hole
+concentration. We apply our quantitative results for YBa$_2$Cu$_3$O$_7$ to the
+recent neutron scattering experiments of Fong {\em et al}, and show that the
+spin excitation near $40 meV$ measured by them corresponds to a spin gap
+excitation, which is overdamped in the normal state, but becomes visible in the
+superconducting state.
+","[{""version"":""v1"",""created"":""Sat, 20 May 1995 17:15:23 GMT""}]","2009-10-28"
+"cond-mat/9505091","Victor Barzykin","Victor Barzykin and Lev P. Gor'kov","Singlet Magnetism in Heavy Fermions","12 pages, RevTex, no figures; Phys. Rev. Lett., to appear",,"10.1103/PhysRevLett.74.4301",,"cond-mat",,"  We consider singlet magnetism for the uranium ions in UPt$_3$ and
+URu$_2$Si$_2$ assuming that time-reversal symmetry is broken for the {\em
+coherent state of intermediate valence}. The relative weight of the two
+involved configurations should be different for UPt$_3$ and URu$_2$Si$_2$. If
+in UPt$_3$ the configuration $5f^1$ on the U-ion prevails in the coherent state
+below the magnetic transition, the magnetic moment would vanish for the
+particular choice of the {\em ionic} wave function. In case of URu$_2$Si$_2$,
+the phase transition is non-magnetic in the first approximation -- the magnetic
+moment arises from a small admixture of a half-integer spin configuration.
+","[{""version"":""v1"",""created"":""Sat, 20 May 1995 17:25:15 GMT""}]","2009-10-28"
+"hep-ph/9505352",,"Gustavo Burdman","Testing the Standard Model in $B\to K^{(*)} \ell^+\ell^-$","22 pages, RevTeX, 8 uuencoded figures","Phys.Rev. D52 (1995) 6400-6410","10.1103/PhysRevD.52.6400","FERMILAB-Pub-95/113-T","hep-ph",,"  We study the potential of $B\to K^{(*)} \ell^+\ell^-$ decays as tests of the
+standard model. After discussing the reliability of theoretical predictions for
+the hadronic matrix elements involved, we examine the impact of different new
+physics scenarios on various observables. We show that the angular information
+in \bks together with the dilepton mass distribution can highly constrain new
+physics. This is particularly true in the large dilepton mass region, where
+reliable predictions for the hadronic matrix elements can be made with
+presently available data. We compare the Standard Model predictions with those
+of a Two-Higgs doublet model as well as TopColor models, all of which give
+distinct signals in this region.
+","[{""version"":""v1"",""created"":""Sat, 20 May 1995 17:15:32 GMT""}]","2009-10-28"
+"hep-th/9505127","Camillo Imbimbo","Camillo Imbimbo and Sunil Mukhi","The Topological Matrix Model Of c=1 String","Uses harvmac, 18 pages(big) or 20 pages(little). Reference added","Nucl.Phys. B449 (1995) 553-568","10.1016/0550-3213(95)00334-O","CERN-TH/95-126, TIFR.TH/95-23","hep-th",,"  We derive a Kontsevich-type matrix model for the c=1 string directly from the
+W-infinity solution of the theory. The model that we obtain is different from
+previous proposals, which are proven to be incorrect. Our matrix model contains
+the Penner and Kontsevich cases, and we study its quantum effective action. The
+simplicity of our model leads to an encouraging interpretation in the context
+of background-independent noncritical string field theory.
+","[{""version"":""v1"",""created"":""Sun, 21 May 1995 14:55:07 GMT""},{""version"":""v2"",""created"":""Wed, 28 Jun 1995 09:35:31 GMT""}]","2009-10-28"
+"math/9505217","Christopher Gol\'e","Christopher Gol\'e, Ron Karidi","A note on Carnot geodesics in nilpotent Lie groups",,,,"Stony Brook IMS 1995/6","math.DG",,"  We show that strictly abnormal geodesics arise in graded nilpotent Lie
+groups. We construct such a group, for which some Carnot geodesics are strictly
+abnormal; in fact, they are not normal in any subgroup. In the step-2 case we
+also prove that these geodesics are always smooth. Our main technique is based
+on the equations for the normal and abnormal curves, that we derive (for any
+Lie group) explicitly in terms of the structure constants.
+","[{""version"":""v1"",""created"":""Sun, 21 May 1995 00:00:00 GMT""}]","2016-09-06"
+"nucl-th/9505028","Alexander Motovilov","A.K.Motovilov (JINR, Dubna)","Representations for Three-Body T-Matrix on Unphysical Sheets","123 Kb; LaTeX; Journal-ref was added (the title changed in the
+  journal)","Theor. Math. Phys. 107 (1996) 784-806; Teor. Mat. Fiz. 107:3
+  (1996) 450-477","10.1007/BF02070386",,"nucl-th funct-an math.FA",,"  Explicit representations are formulated for the Faddeev components of
+three-body T-matrix continued analytically on unphysical sheets of the energy
+Riemann surface. According to the representations, the T-matrix on unphysical
+sheets is obviously expressed in terms of its components taken on the physical
+sheet only. The representations for T-matrix are used then to construct similar
+representations for analytical continuation of three-body scattering matrices
+and resolvent. Domains on unphysical sheets are described where the
+representations obtained can be applied.
+","[{""version"":""v1"",""created"":""Sun, 21 May 1995 04:02:54 GMT""},{""version"":""v2"",""created"":""Mon, 5 Aug 1996 20:23:11 GMT""}]","2008-02-03"
+"nucl-th/9505029","Alexander Motovilov","A.K.Motovilov (JINR, Dubna)","Representations for Three-Body T-Matrix on Unphysical Sheets: Proofs","98 Kb; LaTeX; Journal-ref was added (the title changed in the
+  journal)","Theor. Math. Phys. 107 (1996) 807-824; Teor. Mat. Fiz. 107:3
+  (1996) 478-500","10.1007/BF02070387",,"nucl-th funct-an math.FA",,"  A proof is given for the explicit representations which have been formulated
+in the author's previous work (nucl-th/9505028) for the Faddeev components of
+three-body T-matrix continued analytically on unphysical sheets of the energy
+Riemann surface. Also, the analogous representations for analytical
+continuation of the three-body scattering matrices and resolvent are proved. An
+algorithm to search for the three-body resonances on the base of the Faddeev
+differential equations is discussed.
+","[{""version"":""v1"",""created"":""Sun, 21 May 1995 04:04:20 GMT""},{""version"":""v2"",""created"":""Tue, 6 Aug 1996 19:29:21 GMT""}]","2016-09-08"
+"nucl-th/9505030",,"A.K.Motovilov (JINR, Dubna)","Removal of the Energy Dependence from the Resolvent-like
+  Energy-Dependent Interactions","90 kB, LaTeX, no pictures; Final published version of the paper","Theor.Math.Phys. 104 (1996) 989-1007; Teor.Mat.Fiz. 104N2 (1995)
+  281-303","10.1007/BF02065979","JINR E5-94-259","nucl-th funct-an math.FA",,"  The spectral problem $(A + V(z))\psi=z\psi$ is considered with $A$, a
+self-adjoint Hamiltonian of sufficiently arbitrary nature. The perturbation
+$V(z)$ is assumed to depend on the energy $z$ as resolvent of another
+self-adjoint operator $A':$ $V(z)=-B(A'-z)^{-1}B^{*}$. It is supposed that
+operator $B$ has a finite Hilbert-Schmidt norm and spectra of operators $A$ and
+$A'$ are separated. The conditions are formulated when the perturbation $V(z)$
+may be replaced with an energy-independent ``potential'' $W$ such that the
+Hamiltonian $H=A +W$ has the same spectrum (more exactly a part of spectrum)
+and the same eigenfunctions as the initial spectral problem. The orthogonality
+and expansion theorems are proved for eigenfunction systems of the Hamiltonian
+$ H=A + W $. Scattering theory is developed for $H$ in the case when operator
+$A$ has continuous spectrum. Applications of the results obtained to few-body
+problems are discussed.
+","[{""version"":""v1"",""created"":""Sun, 21 May 1995 04:04:52 GMT""},{""version"":""v2"",""created"":""Tue, 11 Jun 1996 10:30:37 GMT""}]","2008-02-03"

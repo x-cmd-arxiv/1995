@@ -1,0 +1,357 @@
+"astro-ph/9506070","Edmund Bertschinger","Edmund Bertschinger","COSMICS: Cosmological Initial Conditions and Microwave Anisotropy Codes","20 pages of latex, programs at http://arcturus.mit.edu/cosmics/",,,"GC3-033","astro-ph",,"  COSMICS is a package of fortran programs useful for computing transfer
+functions and microwave background anisotropy for cosmological models, and for
+generating gaussian random initial conditions for nonlinear structure formation
+simulations of such models. Four programs are provided: {\bf linger\_con} and
+{\bf linger\_syn} integrate the linearized equations of general relativity,
+matter, and radiation in conformal Newtonian and synchronous gauge,
+respectively; {\bf deltat} integrates the photon transfer functions computed by
+the linger codes to produce photon anisotropy power spectra; and {\bf grafic}
+tabulates normalized matter power spectra and produces constrained or
+unconstrained samples of the matter density field.
+  Version 1.0 of COSMICS is available at http://arcturus.mit.edu/cosmics/ . The
+current release gives fortran-77 programs that run on workstations and
+vectorized supercomputers. Unix makefiles are included that make it simple to
+build and test the package. A future release will include portable parallel
+versions of the linger codes using standard message-passing libraries.
+","[{""version"":""v1"",""created"":""Mon, 12 Jun 1995 04:58:12 GMT""}]","2016-08-30"
+"astro-ph/9506072","Chung-Pei Ma","Chung-Pei Ma and Edmund Bertschinger","Cosmological Perturbation Theory in the Synchronous and Conformal
+  Newtonian Gauges","45 pages, AAS LaTeX v3.0, based in part on astro-ph/9401007; 6
+  figures included and are available by anonymous ftp://arcturus.mit.edu/","Astrophys.J. 455 (1995) 7-25","10.1086/176550",,"astro-ph hep-ph",,"  This paper presents a systematic treatment of the linear theory of scalar
+gravitational perturbations in the synchronous gauge and the conformal
+Newtonian (or longitudinal) gauge. It differs from others in the literature in
+that we give, in both gauges, a complete discussion of all particle species
+that are relevant to any flat cold dark matter (CDM), hot dark matter (HDM), or
+CDM+HDM models (including a possible cosmological constant). The particles
+considered include CDM, baryons, photons, massless neutrinos, and massive
+neutrinos (an HDM candidate), where the CDM and baryons are treated as fluids
+while a detailed phase-space description is given to the photons and neutrinos.
+Particular care is applied to the massive neutrino component, which has been
+either ignored or approximated crudely in previous works. Isentropic initial
+conditions on super-horizon scales are derived. The coupled, linearized
+Boltzmann, Einstein and fluid equations that govern the evolution of the metric
+and density perturbations are then solved numerically in both gauges for the
+standard CDM model and two CDM+HDM models with neutrino mass densities
+$\onu=0.2$ and 0.3, assuming a scale-invariant, adiabatic spectrum of
+primordial fluctuations. We also give the full details of the cosmic microwave
+background anisotropy, and present the first accurate calculations of the
+angular power spectra in the two CDM+HDM models including photon polarization,
+higher neutrino multipole moments, and helium recombination. The numerical
+programs for both gauges are available at http://arcturus.mit.edu/cosmics/ .
+","[{""version"":""v1"",""created"":""Sun, 11 Jun 1995 21:40:56 GMT""}]","2015-06-24"
+"astro-ph/9506073","Neil Trentham","Neil Trentham","How much of the extreme luminosity of IRAS F10214+4724 can be attributed
+  to gravitational lensing","30 pages, available by at ftp://hubble.ifa.hawaii.edu/pub/nat",,"10.1093/mnras/277.2.616","IFA95-37","astro-ph",,"  \noindent The galaxy IRAS F10214+4724, discovered in a spectroscopic survey
+of a 0.2 Jy sample by Rowan-Robinson and collaborators in 1991, is
+significantly more luminous than any other known galaxy. Its bolometric
+luminosity is comparable to those of the most luminous quasars. Recent
+obsservations have revealed a candidate foreground group of galaxies, which
+might gravitationally lens F10214+4724, thus explaining much of its luminosity.
+High-resolution imaging of F10214+4724 has revealed that most of its near-IR
+flux comes from a circularly symmetric arc; this also supports the
+gravitational lens interpretation. In such a scenario, F10214+4724 would be the
+high-redshift analogue of the ultraluminous IRAS galaxies observed locally.
+This work presents a simple statistical lensing model to investigate this
+possibility.
+","[{""version"":""v1"",""created"":""Mon, 12 Jun 1995 07:23:09 GMT""}]","2015-06-24"
+"astro-ph/9506074","Avi Loeb","Daniel J. Eisenstein and Abraham Loeb (Harvard Univ.)","Can the Tully-Fisher Relation be the Result of Initial Conditions?","14 pages, uuencoded compressed Postscript, 2 figures included","Astrophys.J. 459 (1996) 432","10.1086/176905",,"astro-ph",,"  We use Monte Carlo realizations of halo formation histories and a spherical
+accretion model to calculate the expected scatter in the velocity dispersions
+of galactic halos of a given mass due to differences in their formation times.
+Assuming that the rotational velocity of a spiral galaxy is determined by the
+velocity dispersion of its halo and that its luminosity is related to its total
+baryonic mass, this scatter translates to a minimum intrinsic scatter in the
+Tully-Fisher relation. For popular cosmological models we find that the scatter
+due to variations in formation histories is by itself greater than allowed by
+observations. Unless halos of spiral galaxies formed at high redshift (z>1) and
+did not later accrete any significant amount of mass, the Tully-Fisher relation
+is not likely to be the direct result of cosmological initial conditions but
+rather a consequence of a subsequent feedback process.
+","[{""version"":""v1"",""created"":""Mon, 12 Jun 1995 13:07:09 GMT""}]","2009-10-28"
+"astro-ph/9506075",,"S.J. McNally and J.A. Peacock","The small-scale clustering power spectrum and relativistic decays","MNRAS in press. 7 pages plain TeX in the form of a uu-encoded
+  postscript file. Figure .ps files, plus TeX source and macros available via
+  anonymous ftp at ftp://ftp.roe.ac.uk/pub/jap/pbump","Mon.Not.Roy.Astron.Soc. 277 (1995) 143","10.1093/mnras/277.1.143",,"astro-ph",,"  We present constraints on decaying-particle models in which an enhanced
+relativistic density allows an $\Omega=1$ Cold Dark Matter universe to be
+reconciled with acceptable values for the Hubble constant. Such models may
+contain extra small-scale power, which can have important consequences for
+enhanced object formation at high redshifts. Small-scale galaxy clustering and
+abundances of high-redshift damped Lyman-$\alpha$ absorption clouds give a
+preferred range for the mass of any such decaying particle of 2 to 30 keV and a
+lifetime of 0.5 to 100 years for models with a high Hubble constant ($h>0.75$).
+A lower Hubble constant, $h \simeq 0.5$, weakens the constraint to $0.5< m <
+30$ keV, $0.2 < \tau < 500$ years. In permitted versions of the model,
+reionization occurs at redshifts $\sim 10-200$, and this feature may be of
+importance in understanding degree-scale CMB anisotropies.
+","[{""version"":""v1"",""created"":""Mon, 12 Jun 1995 13:44:22 GMT""}]","2015-06-24"
+"astro-ph/9506078","Erick J. Guerra","Erick J. Guerra & Ruth A. Daly","Cygnus A and Other 3CR Sources in Cosmological Tests","8 pages, 6 figures in text, uuencoded compressed postscript file. To
+  appear in the proceedings of the Cygnus A Workshop",,,,"astro-ph",,"  Powerful extended radio galaxies like Cygnus A can be used for cosmological
+tests. The characteristic, time-independent length $D_*$ for several radio
+sources is calculated and compared to the average physical length for a sample
+of radio galaxies. The ratio of these two lengths as a function of redshift is
+used to constrain cosmological parameters. Cygnus A is the only low-redshift
+($z<0.5$) radio galaxy for which we have an estimate for $D_*$. We comment on
+the sensitivity to this one low-redshift point, and results including and
+excluding Cygnus A are shown. A low density universe is favored, and the one
+free model parameter is relatively well constrained.
+","[{""version"":""v1"",""created"":""Mon, 12 Jun 1995 15:50:44 GMT""}]","2007-05-23"
+"cond-mat/9506047","Michael Loss","Elliott Lieb, Michael Loss and Jan Philip Solovej","Stability of Matter in Magnetic Fields","10 pages, LaTex","Phys. Rev. Lett., 75 (1995) 985-989","10.1103/PhysRevLett.75.985",,"cond-mat hep-th",,"  In the presence of arbitrarily large magnetic fields, matter composed of
+electrons and nuclei was known to be unstable if $\alpha$ or $Z$ is too large.
+Here we prove that matter {\it is stable\/} if $\alpha<0.06$ and
+$Z\alpha^2<0.04$.
+","[{""version"":""v1"",""created"":""Sun, 11 Jun 1995 21:05:00 GMT""}]","2009-10-28"
+"cond-mat/9506048","Agha Afsar Ali","Agha Afsar Ali","Self organized criticality in a sandpile model with threshold
+  dissipation","4 pages, Revtex, 4 figures appended as uuencoded file",,,,"cond-mat",,"  We study a nonconservative sandpile model in one dimension, in which, if the
+height at any site exceeds a threshold value, the site topples by transferring
+one particle along each bond connecting it to its neighbours. Its height is
+then set to one, irrespective of the initial value. The model shows nontrivial
+critical behavior. We solve this model analytically in one dimension for all
+driving rates. We calculate all the two point correlation functions in this
+model, and find that the average local height decreases as inverse of the
+distance from the nearest boundary and the power spectrum of fluctuations of
+the total mass varies as $1/f$.
+","[{""version"":""v1"",""created"":""Mon, 12 Jun 1995 09:47:00 GMT""}]","2016-08-31"
+"cond-mat/9506049","Marc Potters","Giorgio Parisi and Marc Potters","On the number of metastable states in spin glasses","6 pages, LaTeX, no figures. Postscript directly available
+  http://chimera.roma1.infn.it/index_papers_complex.html",,"10.1209/0295-5075/32/1/003",,"cond-mat",,"  In this letter, we show that the formulae of Bray and Moore for the average
+logarithm of the number of metastable states in spin glasses can be obtained by
+calculating the partition function with $m$ coupled replicas with the symmetry
+among these explicitly broken according to a generalization of the `two-group'
+ansatz. This equivalence allows us to find solutions of the BM equations where
+the lower `band-edge' free energy equals the standard static free energy. We
+present these results for the Sherrington-Kirkpatrick model, but we expect them
+to apply to all mean-field spin glasses.
+","[{""version"":""v1"",""created"":""Mon, 12 Jun 1995 14:58:34 GMT""}]","2009-10-28"
+"cond-mat/9506050","Anirvan Sengupta","Satya N. Majumdar and Anirvan M. Sengupta","Non-equilibrium Dynamics Following a Quench to the Critical Point in a
+  Semi-infinite System","revtex, 9 pages, 2 figures available from the authors",,"10.1103/PhysRevLett.76.2394",,"cond-mat",,"  We study the non-equilibrium dynamics (purely dissipative and relaxational)
+in a semi-infinite system following a quench from the high temperature
+disordered phase to its critical temperature. We show that the local
+autocorrelation near the surface of a semi-infinite system decays algebraically
+in time with a new exponent which is different from the bulk. We calculate this
+new non-equilibrium surface exponent in several cases, both analytically and
+numerically.
+","[{""version"":""v1"",""created"":""Mon, 12 Jun 1995 15:32:22 GMT""}]","2009-10-28"
+"cond-mat/9506071",,"Sudhansu S. Mandal and V. Ravishankar","Theory of arbitrarily polarized quantum Hall states","10 Pages in Revtex style. resubmission with the addition of two
+  paragraphs",,,,"cond-mat hep-th",,"  We propose a global model which accounts for all the observed quantum Hall
+states in terms of an abelian doublet of Chern-Simons gauge fields, with the
+strength of the Chern-Simons term given by a coupling matrix. The model is
+employed within the composite fermion picture.
+","[{""version"":""v1"",""created"":""Mon, 12 Jun 1995 06:18:07 GMT""},{""version"":""v2"",""created"":""Mon, 26 Jun 1995 22:14:07 GMT""},{""version"":""v3"",""created"":""Mon, 11 Sep 1995 08:06:09 GMT""}]","2008-02-03"
+"hep-ph/9506292","Robert Harlander","R. Harlander, M. Jezabek and J.H. Kuehn","Higgs effects in top quark pair production","8 pages, LaTeX, 3 figures appended in a separate file. The complete
+  paper, including figures, is also available via anonymous ftp at
+  ftp://ttpux2.physik.uni-karlsruhe.de/, or via
+  http://ttpux2.physik.uni-karlsruhe.de/cgi-bin/preprints/","Acta Phys.Polon.B27:1781-1788,1996",,"TTP95-25","hep-ph",,"  Top quark production in $p\bar p$ and $e^+e^-$ collisions is enhanced by the
+exchange of a Higgs boson. The enhancement factors are calculated in the
+threshold region using the Greens function method.
+","[{""version"":""v1"",""created"":""Sun, 11 Jun 1995 16:55:31 GMT""}]","2011-07-19"
+"hep-ph/9506293","Morris","John M. Cornwall and Duncan A. Morris","Toy Models of Non-perturbative Asymptotic Freedom in $\phi^3_6$","30 pages (REVTeX), 9 figures in uuencoded compressed Postscript","Phys.Rev. D52 (1995) 6074-6086","10.1103/PhysRevD.52.6074","UCLA/95/TEP/20","hep-ph hep-th",,"  We study idealizations of the full nonlinear Schwinger-Dyson equations for
+the asymptotically free theory of $\phi^3$ in six dimensions in its meta-stable
+vacuum. We begin with the cubic nonlinearity and go on to all-order
+nonlinearities which contain instanton effects. We show how our toy models of
+the cubic Schwinger-Dyson equations contain the usual diseases of perturbation
+theory in the massless limit (e.g., factorially divergent $\beta-$functions,
+singular Borel-transform kernels associated with infrared renormalons) and show
+how these models yield specific mechanisms for removing such singularities when
+there is a mass gap. In the all-order nonlinear equation we show how to recover
+the usual renormalization-group-improved instanton effects and associated
+factorial divergences.
+","[{""version"":""v1"",""created"":""Sun, 11 Jun 1995 23:00:16 GMT""}]","2009-10-28"
+"hep-ph/9506294","Yuhsuke Yoshida","Yuhsuke Yoshida","Chiral Symmetry, Heavy Quark Symmetry and Bound States","86 pages + 15 uuencoded eps and ps figures, LaTeX",,,"KUNS-1350","hep-ph",,"  I investigate the bound state problems of lowest-lying mesons and heavy
+mesons. Chiral symmetry is essential when one consider lowest-lying mesons.
+Heavy quark symmetry plays an central role in considering the semi-leptonic
+form factors of heavy mesons. Various properties based on the symmetries are
+revealed using Bethe-Salpeter equations.
+","[{""version"":""v1"",""created"":""Mon, 12 Jun 1995 07:15:28 GMT""}]","2007-05-23"
+"hep-ph/9506295","Chao-Qiang GengT","S.L. Cheng, C.Q. Geng and W.-T. Ni","Axion-photon Couplings in Invisible Axion Models","14 pages, LaTeX file","Phys.Rev. D52 (1995) 3132-3135","10.1103/PhysRevD.52.3132","NHCU-HEP-94-20","hep-ph",,"  We reexamine the axion-photon couplings in various invisible axion models
+motivated by the recent proposal of using optical interferometry at the ASST
+facility in the SSCL to search for axion. We illustrate that the assignment of
+$U(1)_{PQ}$ charges for the fermion fields plays an important role in
+determining the couplings. Several simple non-minimal invisible axion models
+with suppressed and enhanced axion-photon couplings are constructed,
+respectively. We also discuss the implications of possible new experiments to
+detect solar axions by conversion to $X$-rays in a static magnetic apparatus
+tracking the sun.
+","[{""version"":""v1"",""created"":""Mon, 12 Jun 1995 09:18:10 GMT""}]","2009-10-28"
+"hep-ph/9506296","Ralf Hempfling","Ralf Hempfling","Gauge Coupling Unification in General SUSY Models","11 pages, 1 PS-figure, LATEX, uses world-sci.sty file appended at the
+  end",,,"MPI-PhT/95-51 talk given at the workshop ``Perspectives for
+  Electroweak Interactions in e+e- Collisions'', Ringberg, Germany, Feb. 5-8,
+  1995, to appear in the proceedings","hep-ph",,"  We study the effects of additional fields on the unification of gauge
+couplings in supersymmetric models. We find that the effects are quite
+constrained by the requirement of SU(5) gauge invariance. In general, we find
+that any extension of the MSSM will form complete SU(5) multiplets or spoil
+gauge coupling unification.
+","[{""version"":""v1"",""created"":""Mon, 12 Jun 1995 12:11:37 GMT""}]","2007-05-23"
+"hep-ph/9506297","Wolfgang Mantke","Wolfgang J. Mantke","Incompatibility of different customary kaon phase convention","5 pages, LaTex",,,"MPI-PhT/94-98","hep-ph",,"  The conventions that Wu and Yang assumed for the kaon phases in the context
+of $CP$ symmetrical two-pion decay channels fix the relative kaon phase. This
+fact, apparently not emphasized sufficiently in the past, has recently been
+overlooked by Hayakawa and Sanda. In particular, Wu and Yang fix the relative
+phase to a different value than the one resulting from the convention
+$CP|K^{0}\rangle = |\overline{K^{0}}\rangle$. The difference between the two
+values is made up of possible contributions from $CPT$- and direct
+$CP$-violations during the decay of a kaon into a two-pion state of isospin
+zero.
+","[{""version"":""v1"",""created"":""Mon, 12 Jun 1995 12:42:07 GMT""}]","2007-05-23"
+"hep-ph/9506298","Thorsten Feldmann","D.Ebert, T.Feldmann, C.Kettner, H.Reinhardt","A diquark model for baryons containing one heavy quark","9 pages + 8 figures, both as uuencoded PS, discussion of Bjorken
+  limit (1 par + 1 fig) added, to appear in Z.Phys.C","Z.Phys. C71 (1996) 329-336","10.1007/BF02906991","DESY 95-154, HUB-EP-95/4","hep-ph",,"  We present a phenomenological ansatz for coupling a heavy quark with two
+light quarks to form a heavy baryon. The heavy quark is treated in the heavy
+mass limit, and the light quark dynamics is approximated by propagating scalar
+and axial vector 'diquarks'. The resulting effective lagrangian, which
+incorporates heavy quark and chiral symmetry, describes interactions of heavy
+baryons with Goldstone bosons in the low energy region. As an application, the
+Isgur--Wise form factors are estimated.
+","[{""version"":""v1"",""created"":""Mon, 12 Jun 1995 13:18:57 GMT""},{""version"":""v2"",""created"":""Tue, 31 Oct 1995 11:54:42 GMT""}]","2009-10-28"
+"hep-th/9506075","Pietro Fre","A. Ceresole, M. Billo', R. D'Auria, S. Ferrara, P. Fre', T. Regge, P.
+  Soriani, A. Van Proeyen","A Search for Non-Perturbative Dualities of Local $N=2$ Yang--Mills
+  Theories from Calabi--Yau Threefolds","Latex. Version of previous paper with enlarged and revised appendix
+  35 pages, plain LaTeX","Class.Quant.Grav. 13 (1996) 831-864","10.1088/0264-9381/13/5/007","SISSA 64/95/EP, POLFIS-TH 07/95, CERN-TH 95/140, IFUM 508/FT,
+  KUL-TF-95/18, UCLA/95/TEP/19","hep-th",,"  The generalisation of the rigid special geometry of the vector multiplet
+quantum moduli space to the case of supergravity is discussed through the
+notion of a dynamical Calabi--Yau threefold. Duality symmetries of this
+manifold are connected with the analogous dualities associated with the
+dynamical Riemann surface of the rigid theory. N=2 rigid gauge theories are
+reviewed in a framework ready for comparison with the local case. As a
+byproduct we give in general the full duality group (quantum monodromy) for an
+arbitrary rigid $SU(r+1)$ gauge theory, extending previous explicit
+constructions for the $r=1,2$ cases. In the coupling to gravity, R--symmetry
+and monodromy groups of the dynamical Riemann surface, whose structure we
+discuss in detail, are embedded into the symplectic duality group $\Gamma_D$
+associated with the moduli space of the dynamical Calabi--Yau threefold.
+","[{""version"":""v1"",""created"":""Sun, 11 Jun 1995 17:47:38 GMT""},{""version"":""v2"",""created"":""Mon, 12 Jun 1995 19:37:49 GMT""},{""version"":""v3"",""created"":""Fri, 12 Jan 1996 07:36:59 GMT""}]","2009-10-28"
+"hep-th/9506076","John Schwarz","John H. Schwarz (Caltech)","Classical Symmetries of Some Two-Dimensional Models Coupled to Gravity","22 pages, latex","Nucl.Phys. B454 (1995) 427-448","10.1016/0550-3213(95)00455-2","CALT-68-1999","hep-th",,"  This paper is a sequel to one in which we examined the affine symmetry
+algebras of arbitrary classical principal chiral models and symmetric space
+models in two dimensions. It examines the extension of those results in the
+presence of gravity. The main result is that even though the symmetry
+transformations of the fields depend on the gravitational background, the
+symmetry algebras of these classical theories are completely unchanged by the
+presence of arbitrary gravitational backgrounds. On the other hand, we are
+unable to generalize the Virasoro symmetries of the flat-space theories to
+theories with gravity.
+","[{""version"":""v1"",""created"":""Sun, 11 Jun 1995 22:14:06 GMT""},{""version"":""v2"",""created"":""Thu, 24 Aug 1995 00:16:44 GMT""}]","2009-10-28"
+"hep-th/9506077","Nathan Seiberg","Nathan Seiberg","The Power of Duality -- Exact Results in 4D SUSY Field Theory","15 pages, uses harvmac, to appear in the Proc. of PASCOS 95 and in
+  the Proc. of the Oskar Klein lectures","Int.J.Mod.Phys.A16:4365-4376,2001","10.1142/S0217751X01005705","RU-95-37, IASSNS-HEP-95/46","hep-th hep-ph",,"  Recently the vacuum structure of a large class of four dimensional
+(supersymmetric) quantum field theories was determined exactly. These theories
+exhibit a wide range of interesting new physical phenomena. One of the main new
+insights is the role of ``electric-magnetic duality.'' In its simplest form it
+describes the long distance behavior of some strongly coupled, and hence
+complicated, ``electric theories'' in terms of weakly coupled ``magnetic
+theories.'' This understanding sheds new light on confinement and the Higgs
+mechanism and uncovers new phases of four dimensional gauge theories. We review
+these developments and speculate on the outlook.
+","[{""version"":""v1"",""created"":""Sun, 11 Jun 1995 23:42:52 GMT""}]","2009-09-15"
+"hep-th/9506078","Hiroshi Itoyama","N. Fumita, H. Itoyama and T. Oota","Motions of the String Solutions in the XXZ Spin Chain under a Varying
+  Twist","An important reference is added and mentioned at the end of the text","Int.J.Mod.Phys.A12:801-838,1997","10.1142/S0217751X97000633","OU-HET 211","hep-th",,"  We determine the motions of the roots of the Bethe ansatz equation for the
+ground state in the XXZ spin chain under a varying twist angle. This is done by
+analytic as well as numerical study at a finite size system. In the attractive
+critical regime $ 0< \Delta <1 $, we reveal intriguing motions of strings due
+to the finite size corrections to the length of the strings: in the case of
+two-strings, the roots collide into the branch points perpendicularly to the
+imaginary axis, while in the case of three-strings, they fluctuate around the
+center of the string. These are successfully generalized to the case of
+$n$-string. These results are used to determine the final configuration of the
+momenta as well as that of the phase shift functions. We obtain these as well
+as the period and the Berry phase also in the regime $ \Delta \leq -1$,
+establishing the continuity of the previous results at $ -1 < \Delta < 0 $ to
+this regime. We argue that the Berry phase can be used as a measure of the
+statistics of the quasiparticle ( or the bound state) involved in the process.
+","[{""version"":""v1"",""created"":""Mon, 12 Jun 1995 04:53:42 GMT""},{""version"":""v2"",""created"":""Sun, 6 Aug 1995 13:35:19 GMT""}]","2008-11-26"
+"hep-th/9506079","David Adams","David H. Adams and Siddhartha Sen","Phase and Scaling Properties of Determinants Arising in Topological
+  Field Theories","12 pages, Latex. To appear in Physics Letters B","Phys.Lett. B353 (1995) 495-500","10.1016/0370-2693(95)00590-H","TCD-95-7","hep-th",,"  In topological field theories determinants of maps with negative as well as
+positive eigenvalues arise. We give a generalisation of the zeta-regularisation
+technique to derive expressions for the phase and scaling-dependence of these
+determinants. For theories on odd-dimensional manifolds a simple formula for
+the scaling dependence is obtained in terms of the dimensions of certain
+cohomology spaces. This enables a non-perturbative feature of Chern-Simons
+gauge theory to be reproduced by path-integral methods.
+","[{""version"":""v1"",""created"":""Mon, 12 Jun 1995 11:21:24 GMT""}]","2009-10-28"
+"hep-th/9506080","Geoffrey Dixon","Geoffrey Dixon","OCTONIONS: INVARIANT LEECH LATTICE EXPOSED","5 pages, latex, no figures",,,"BRX TH-375","hep-th",,"  The structure of a previously developed representation of the Leech lattice,
+$\Lambda_{24}$, is exposed to further light with this unified and very simple
+construction.
+","[{""version"":""v1"",""created"":""Mon, 12 Jun 1995 14:34:47 GMT""}]","2007-05-23"
+"hep-th/9506083","Valeri Dvoeglazov","Valeri V. Dvoeglazov (Zacatecas University, M\'exico)","Lagrangian for the Majorana-Ahluwalia Construct","10pp., REVTeX 3.0 file","Nuovo Cim.A108:1467-1476,1995","10.1007/BF02821063","EFUAZ FT-95-15","hep-th",,"  The equations describing self/anti-self charge conjugate states, recently
+proposed by Ahluwalia, are re-written to covariant form. The corresponding
+Lagrangian for the neutral particle theory is proposed. From a
+group-theoretical viewpoint the construct is an example of the
+Nigam-Foldy-Bargmann-Wightman-Wigner-type quantum field theory based on the
+doubled representations of the extended Lorentz group. Relations with the
+Sachs-Schwebel and Ziino-Barut concepts of relativistic quantum theory are
+discussed.
+","[{""version"":""v1"",""created"":""Mon, 12 Jun 1995 06:05:30 GMT""}]","2011-07-19"
+"math/9506217","Lisa Mantini","John D. Lorch, Lisa A. Mantini","Inversion of an integral transform and ladder representations of U(1,q)",,,,"OSU Math 1995-4","math.RT",,"  An integral transform for G=U(1,q) is studied. The transform maps the
+positive spin ladder representations of G on a Bargmann-Segal-Fock space
+F_n^1,q into a space of polynomial-valued functions on the bounded realization
+B^q of G/K. An inversion is given for the transform and unitary structures are
+given for the geometric realization of the positive spin ladder representations
+over G/K.
+","[{""version"":""v1"",""created"":""Mon, 12 Jun 1995 00:00:00 GMT""}]","2016-09-06"
+"math/9506218","Roger Zierau","Edward G. Dunne, Roger Zierau","On the automorphism groups of complex homogeneous spaces",,,,"OSU Math 1995-5","math.RT",,"  If G is a (connected) complex Lie Group and Z is a generalized flag manifold
+for G, the the open orbits D of a (connected) real form G_0 of G form an
+interesting class of complex homogeneous spaces, which play an important role
+in the representation theory of G_0. We find that the group of automorphisms,
+i.e., the holomorphic diffeomorphisms, is a finite-dimensional Lie group,
+except for a small number of open orbits, where it is infinite dimensional. In
+the finite-dimensional case, we determine its structure. Our results have some
+consequences in representation theory.
+","[{""version"":""v1"",""created"":""Mon, 12 Jun 1995 00:00:00 GMT""}]","2008-02-03"
+"math/9506219","Akihiko Yukie","Akihiko Yukie","On the Shintani zeta function for the space of binary tri-Hermitian
+  forms",,,,"OSU Math 1995-6","math.RT",,"  In this paper, we consider the most non-split parabolic D_4 type
+prehomogeneous vector space. The vector space is an analogue of the space of
+Hermitian forms. We determine the principal part of the zeta function.
+","[{""version"":""v1"",""created"":""Mon, 12 Jun 1995 00:00:00 GMT""}]","2016-09-06"
+"math/9506220","Akihiko Yukie","Akihiko Yukie","On Shintani zeta functions for GL(2)",,,,"OSU Math 1995-7","math.RT",,"  In this paper we consider an analogue of the zeta function for not
+necessarily prehomogeneous representations of GL(2) and compute some of the
+poles.
+","[{""version"":""v1"",""created"":""Mon, 12 Jun 1995 00:00:00 GMT""}]","2009-09-25"
+"math/9506221","Weiping Li","Ronnie Lee, Weiping Li","Floer homologies for Lagrangian intersections and instantons",,,,"OSU Math 1995-8","math.GT",,"  In 1985 lectures at MSRI, A. Casson introduced an interesting integer valued
+invariant for any oriented integral homology 3-sphere Y via beautiful
+constructions on representation spaces (see [1] for an exposition). The Casson
+invariant \lambda(Y) is roughly defined by measuring the oriented number of
+irreducible representations of the fundamental group \pi_1(Y) in SU(2). Such an
+invariant generalized the Rohlin invariant and gives surprising corollaries in
+low dimensional topology.
+","[{""version"":""v1"",""created"":""Mon, 12 Jun 1995 00:00:00 GMT""}]","2016-09-06"
+"q-alg/9506012","Jerome Levine","Stavros Garoufalidis (MIT), Jerome Levine (Brandeis U.)","On Finite Type 3-Manifold Invariants II","28 pages, 15 figures, Uuencoded PostScript File",,,,"q-alg math.QA",,"  This paper continues the study of finite-type invariants of homology spheres
+studied by Ohtsuki and Garoufalidis. We apply the surgery classification of
+links to give a diagrammatic description, using ideas of Ohtsuki. This uses a
+computation of the surgery equivalence classes of pure braids. We show that the
+order of any invariant, in Ohtsukis sense, is a multiple of 3. We also study
+the relation between the order of an invariant and that of the knot invariant
+it defines.
+","[{""version"":""v1"",""created"":""Mon, 12 Jun 1995 13:57:43 GMT""}]","2008-02-03"
+"q-alg/9506013","Donin Joseph","J.Donin and S.Shnider","Cohomological construction of quantized universal enveloping algebras","amslatex, 33 pp",,,,"q-alg math.QA",,"  Given an associative algebra $A$, and the category, $\cC$, of its finite
+dimensional modules, additional structures on the algebra $A$ induce
+corresponding ones on the category $\cC$. Thus, the structure of a rigid
+quasi-tensor (braided monoidal) category on $Rep_A$ is induced by an algebra
+homomorphism $A\to A\otimes A$ (comultiplication), coassociative up to
+conjugation by $\Phi\in A^{\otimes 3}$ (associativity constraint) and
+cocommutative up to conjugation by $\cR\in A^{\otimes 2}$ (commutativity
+constraint), together with an antiautomorphism (antipode), $S$, of $A$
+satisfying the certain compatibility conditions. A morphism of quasi-tensor
+structures is given by an element $F\in A^{\otimes 2}$ with suitable induced
+actions on $\Phi$, $\cR$ and $S$. Drinfeld defined such a structure on
+$A=U(\cG)[[h]]$ for any semisimple Lie algebra $\cG$ with the usual
+comultiplication and antipode but nontrivial $\cR$ and $\Phi$ and proved that
+the corresponding quasi-tensor category is isomomorphic to the category of
+representations of the Drinfeld-Jimbo (DJ) quantum universal enveloping algebra
+(QUE), $U_h(\cG)$.
+  In the paper we give a direct cohomological construction of the $F$ which
+reduces $\Phi$ to the trivial associativity constraint, without any assumption
+on the prior existence of a strictly coassociative QUE. Thus we get a new
+approach to the DJ quantization. We prove that $F$ can be chosen to satisfy
+some additional invariance conditions under (anti)automorphisms of
+$U(\cG)[[h]]$, in particular, $F$ gives an isomorphism of rigid quasi-tensor
+categories. Moreover, we prove that for pure imaginary values of the
+deformation parameter, the elements $F$, $R$ and $\Phi$ can be chosen to be
+","[{""version"":""v1"",""created"":""Mon, 12 Jun 1995 13:13:32 GMT""},{""version"":""v2"",""created"":""Thu, 2 Nov 1995 11:35:39 GMT""}]","2008-02-03"
+"quant-ph/9506014","Arkadiusz Jadczyk","Ph. Blanchard and A. Jadczyk","Quantum Mechanics with Event Dynamics","Extended version of the talk given by the second author at the
+  XXVII-th Symposium of Reports on Mathematical Physics, Torun, 6-9 December,
+  1994. To appear in Rep.Math.Phys. 14 pages of Latex, Revised version of June
+  15 has re-written algorithm in section 2.1 and several misprints corrected in
+  sections 2.2 and 3.1",,"10.1016/0034-4877(96)83622-6",,"quant-ph cond-mat hep-th",,"  Event generating algorithm corresponding to a linear master equation of
+Lindblad's type is described and illustrated on two examples: that of a
+particle detector and of a fuzzy clock. Relation to other approaches to
+foundations of quantum theory and to description of quantum measurements is
+briefly discussed.
+","[{""version"":""v1"",""created"":""Mon, 12 Jun 1995 06:17:21 GMT""},{""version"":""v2"",""created"":""Wed, 14 Jun 1995 02:27:38 GMT""},{""version"":""v3"",""created"":""Wed, 14 Jun 1995 23:39:07 GMT""}]","2009-10-28"
+"quant-ph/9506015","Haret Rosu","H.C. Rosu","On Wolter's vortex in total reflection","replaced with published version","Revista Mexicana de Fisica 43 (March-April 1997) 240-247",,,"quant-ph",,"  The ""circulatory wave"" (""die zirkulierende Welle"") put into evidence in 1949
+by Wolter (Wolter's vortex) in total reflection is interpreted as a phase
+defect in the scalar theory of Green and Wolf of 1953, which is the Madelung
+(hydrodynamic) representation of the optical field. Some comments are added on
+its possible relevance for the Hamamatsu experiment aimed to clarify the
+wave-particle duality at the ""single photon"" level of down-converted laser
+beams
+","[{""version"":""v1"",""created"":""Mon, 12 Jun 1995 03:29:00 GMT""},{""version"":""v2"",""created"":""Wed, 26 Jun 1996 18:37:00 GMT""},{""version"":""v3"",""created"":""Thu, 8 May 1997 21:05:11 GMT""}]","2016-09-08"

@@ -1,0 +1,113 @@
+"astro-ph/9507088","Scilla Degl'Innocenti","F. Caputo, V. Castellani, S. Degl'Innocenti","Star luminosity function as an age indicator for the Dwarf spheroidal
+  Leo I","3 pages, postscript file uu-encoded plus 4 postscript figures
+  uu-encoded. For any problem please write to scilla@ibm-1.mpa-garching.mpg.de",,,,"astro-ph",,"  Star luminosity function, already recognized as an age indicator for old
+galactic globular clusters, can be used to contrains the age of younger stellar
+systems like the nearby dwarfs spheroidal Leo I. We compare the observed
+luminosity function of Leo I, presented by Lee et al. 1993, with theoretical
+expectations for three selected ages, 1, 1.5 and 2 billion years, deriving an
+age of about 1.5 Gyr. This result does not appear critically affected by
+assumptions about the cluster distance modulus or the Initial Mass Function.
+","[{""version"":""v1"",""created"":""Sun, 23 Jul 1995 15:35:54 GMT""}]","2007-05-23"
+"astro-ph/9507089","C. Xu","Cong Xu (MPIK, Heidelberg) and George Helou (IPAC, Pasadena)","High Resolution IRAS Maps and IR Emission of M31 --- I. Morphology and
+  Sources","23 pages uuencoded postcript. To appear in ApJ (the issue of January
+  1, 1996). 7 figures available on request",,"10.1086/176636","MPK-ASTRO-95-13","astro-ph",,"  The morphology of the IR emission and the properties of discrete FIR sources
+in M31 disk are studied using the HiRes maps from IRAS. Very thin and bright
+FIR arm segments are shown in these maps, which have similar structure as the
+HI gas but with much enhanced arm/inter-arm contrast, typically a factor of 5
+on the 60$\mu$m image. We identify 39 unconfused sources (excluding the
+nucleus) and 14 confused sources (7 pairs) at 60 $\mu$m by direct Gaussian
+fittings to the image. IRAS colors of 10 bright isolated sources are studied,
+which are presumably representative of the discrete sources in general. The
+colors follow the well known anticorrelation between the 60micron/100micron
+flux ratio and the 12micron/25micron flux ratio. All sources coincide with
+optical HII regions. A comparison with H$\alpha$ observations shows that the
+total luminosity (in the wavelength range 8 --- 1000$\mu$m) associated with HII
+regions is $7.2\pm 2.9 \; 10^8$L_sun, namely $30\pm 14$\% of the total IR
+emission of M31. This luminosity translates into a present-day star formation
+rate of 0.36$\pm 0.14$ M_sun/yr, about an order of magnitude lower than that of
+the Milky Way Galaxy.
+","[{""version"":""v1"",""created"":""Sun, 23 Jul 1995 13:12:31 GMT""}]","2009-10-28"
+"astro-ph/9507090","C. Xu","Cong Xu (MPIK, Heidelberg) and George Helou (IPAC, Pasadena)","High Resolution IRAS Maps and IR Emission of M31 --- II. Diffuse
+  Component and Interstellar Dust","32 pages uuencoded postcript. To appear in ApJ (the issue of January
+  1, 1996). 10 figures available on request",,"10.1086/176637","MPK-ASTRO-95-14","astro-ph",,"  Large-scale dust heating and cooling in the diffuse medium of M31 is studied
+using the HiRes IRAS maps in conjunction with UV, optical (UBV) and the HI
+maps. A dust heating/cooling model is developed based on a radiative transfer
+model which assumes a `Sandwich' configuration of dust and stars and takes
+fully into account the effect of scattering of dust grains. The model is
+applied to a complete sample of 'cells' (small areas of size $2'\times 2'$),
+generated from the above maps. The sample covers the M31 disk in the
+galactocentric radius range 2 --- 14 kpc, and includes only the cells for which
+the contribution of the discrete sources to the 60$\mu m$ surface brightness is
+negligible ($< 20$\%). This effectively excludes most of the bright arm regions
+from our analysis. We find that: (1) The mean optical depth (viewed from the
+inclination angle of 77$^\circ$) increases with radius from $\tau_V\sim 0.7$ at
+r=2kpc outwards, reaches a peak of ~1.6 near 10kpc, and stays quite flat out to
+14kpc, where the signal falls below the 5sigma level. (2) A correlation between
+$\tau_V$ and HI surface density is suggested by the similarity between their
+radial profiles. Significant differences are found between the radial profiles
+of the H_2 gas (estimated from CO) and of the dust (from $\tau_V$), which are
+most probably due to the large uncertainty in the CO-to-H_2 conversion factor,
+and to the under-representation of H_2-rich regions in the sample of cells of
+diffuse regions. (3) The $\tau_V / N(HI)$ ratio decreases with increasing
+radius in the disk of M31, with an exponential law fit yielding an e-folding
+scale length of $9.6\pm 0.4$ kpc. (4) The optical depth adjusted for this
+gradient, $\tau_{V,c}$, is strongly and linearly correlated with N(HI) over one
+and a half order of magnitude of column density, indicating that at a given
+","[{""version"":""v1"",""created"":""Sun, 23 Jul 1995 13:22:09 GMT""}]","2009-10-28"
+"comp-gas/9507002","Qisu Zou","Xiaoyi He (Center for Nonlinear Studies, Los Alamos National Lab, Los
+  Alamos, NM 87545, Theoretical Biology and Biophysics Group, Los Alamos
+  National Lab) and Qisu Zou (Theoretical Division, Los Alamos National Lab,
+  Dept. of Math., Kansas State University, Manhattan, KS 66506)","Analysis and boundary condition of the lattice Boltzmann BGK model with
+  two velocity components","12 pages, with one figure as boufig.uu following the paper",,,"Los Alamos preprint, LA-UR-95-2293.","comp-gas nlin.CG",,"  In this paper, we study the two dimensional lattice Boltzmann BGK model
+(LBGK) by analytically solving a simple flow in a 2~-D channel. The flow is
+driven by the movement of upper boundary with vertical injection fluid at the
+porous boundaries. The velocity profile is shown to satisfy a second-order
+finite-difference form of the simplified incompressible Navier-Stokes equation.
+With the analysis, different boundary conditions can be studied theoretically.
+A momentum exchange principle is also revealed at the boundaries. A general
+boundary condition for any given velocity boundary is proposed based on the
+analysis.
+","[{""version"":""v1"",""created"":""Sat, 22 Jul 1995 23:19:56 GMT""}]","2016-08-31"
+"hep-ph/9507382",,"B.A. Kniehl (FNAL and Madison) and M. Steinhauser (Karlsruhe)","Virtual Top Effects on Low-Mass Higgs Interactions at Next-to-Leading
+  Order in QCD","8 pages (Latex), 3 figures (uuencoded compressed tarred postscript)","Phys.Lett. B365 (1996) 297-301","10.1016/0370-2693(95)01251-6","FERMILAB-PUB-95/197-T, MAD/PH/896, MPI/PhT/95-65, TTP95-28","hep-ph",,"  We present the next-to-leading-order QCD corrections of O(alpha_s^2 G_F
+M_t^2) to the low-M_H effective l^+l^-H, ZZH, and W^+W^-H interaction
+Lagrangians in the high-M_t limit. In the on-shell scheme formulated with G_F,
+the O(alpha_s^2 G_F M_t^2) corrections support the O(alpha_s G_F M_t^2) ones
+and further increase the screening of the O(G_F M_t^2) terms. The coefficients
+of (alpha_s/pi)^2 range from -6.847 to -16.201, being in line with the value
+-14.594 recently found for Delta rho. All four QCD expansions converge
+considerably more rapidly, if they are written with mu_t=m_t(mu_t), where
+m_t(mu) is the MS-bar mass, rather than the pole mass, M_t.
+","[{""version"":""v1"",""created"":""Sat, 22 Jul 1995 16:23:24 GMT""}]","2009-10-28"
+"hep-ph/9507383","Mladen Martinis","M. Martinis and V. Mikuta-Martinis (Rudjer Boskovic Institute, Zagreb)","Intensity-dependent pion-nucleon coupling and the Wroblewski relation","16 pages, latex",,,"IRB-TH -7/95","hep-ph",,"  We propose an intensity-dependent pion-nucleon coupling Hamiltonian within a
+unitary multiparticle-production model of the AABS type in which the pion field
+is represented by the thermal-density matrix. Using this Hamiltonian, we
+explain the appearance of the negative- binomial (NB) distribution for pions
+and the well-known empirical relation, the so-called Wroblewski relation. The
+Hamiltonian of our model is expressed linearly in terms of the generators of
+the SU(1,1) group.
+","[{""version"":""v1"",""created"":""Sat, 22 Jul 1995 19:21:17 GMT""}]","2007-05-23"
+"hep-ph/9507385","Lee jae weon","Jae-weon Lee and In-guy Koh","Galactic Halos As Boson Stars","15 pages. Standard Latex file with 2 tex figures. Revised version to
+  be published in Phy. Rev. D. (Stability arguments are added.)","Phys.Rev.D53:2236-2239,1996","10.1103/PhysRevD.53.2236",,"hep-ph astro-ph",,"  We investigate the boson star with the self-interacting scalar field as a
+model of galactic halos. The model has slightly increasing rotation curves and
+allows wider ranges of the mass($m$) and coupling($\lambda$) of the halo dark
+matter particle than the non-interacting model previously
+suggested(ref.\cite{sin1}). Two quantities are related by
+$\lambda^{\frac{1}{2}} (m_p/m)^2\st{>}{\sim} 10^{50}$.
+","[{""version"":""v1"",""created"":""Sun, 23 Jul 1995 05:34:58 GMT""},{""version"":""v2"",""created"":""Thu, 30 Nov 1995 18:22:44 GMT""}]","2010-11-19"
+"hep-th/9507121","Edward Witten","Edward Witten","Some Comments On String Dynamics","26 pages",,,"IASSNS-HEP-95-63","hep-th",,"  Three subjects are considered here: a self-dual non-critical string that
+appears in Type IIB superstring theory at points in ${\rm K3}$ moduli space
+where the Type IIA theory has extended gauge symmetry; a conformal field theory
+singularity at such points which may signal quantum effects that persist even
+at weak coupling; and the rich dynamics of the real world under
+compactification, which may be relevant to some attempts to explain the
+vanishing of the cosmological constant.
+","[{""version"":""v1"",""created"":""Sun, 23 Jul 1995 14:01:30 GMT""}]","2007-05-23"
+"nucl-th/9507035","Oleg Kartavtsev","O.I.Kartavtsev","Antiprotonic Helium Atoms","9 pages, latex, no figures","Few Body Syst.Suppl.8:225-234,1995",,"JINR E4-95-322","nucl-th",,"  Metastable antiprotonic helium atoms $^{3,4}\! H\! e\bar pe$ have been
+discovered recently in experiments of the delayed annihilation of antiprotons
+in helium media. These exotic atoms survive for an enormous time (about tens of
+microseconds) and carry the extremely large total angular momentum $L\sim
+30-40$. The theoretical treatment of the intrinsic properties of antiprotonic
+helium atoms, their formation and collisions with atoms and molecules is
+discussed.
+","[{""version"":""v1"",""created"":""Sat, 22 Jul 1995 17:05:26 GMT""}]","2011-04-15"

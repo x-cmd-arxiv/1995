@@ -1,0 +1,155 @@
+"astro-ph/9501079","Nir J. Shaviv","Arnon Dar and Nir J. Shaviv","ORIGIN OF THE HIGH ENERGY EXTRAGALACTIC DIFFUSE GAMMA RAY BACKGROUND","9 pages, latex, 1 faxable figure available upon request from
+  shaviv@tx.technion.ac.il. Submitted to Phys Rev Lett.","Phys.Rev.Lett. 75 (1995) 3052-3055","10.1103/PhysRevLett.75.3052",,"astro-ph",,"  We show that cosmic rays in external galaxies, groups and clusters rich in
+gas, with an average flux similar to that observed in the Milky Way, could have
+produced the observed extragalactic diffuse gamma radiation.
+","[{""version"":""v1"",""created"":""Sun, 22 Jan 1995 15:49:07 GMT""}]","2016-08-30"
+"comp-gas/9501007","Balasubramanya Nadiga","Balu Nadiga and Dale Pullin (Graduate Aeronautical Laboratories,
+  Caltech, Pasadena, CA)","A Method for Near-Equilibrium Discrete-Velocity Gas Flows","19 pages including 4 figures. All in one postscript file (flw.ps)
+  compressed and uuencoded (flw.uu). Name mail file `flw.uu'. Edit so that
+  `#!/bin/csh -f' is the first line of flw.uu On a unix machine say `csh
+  flw.uu'. On a non-unix machine: uudecode flw.uu; uncompress flw.tar.Z; tar
+  -xvf flw.tar",,,"Journal of Computational Physics, Vol 112, No 1, May 1994, 162-172","comp-gas nlin.CG",,"  We present a simulation scheme for discrete-velocity gases based on {\em
+local thermodynamic equilibrium}. Exploiting the kinetic nature of
+discrete-velocity gases, in that context, results in a natural splitting of
+fluxes, and the resultant scheme strongly resembles the original processes. The
+kinetic nature of the scheme and the modeling of the {\em infinite collision
+rate} limit, result in a small value of the coefficient of
+(numerical)-viscosity, the behavior of which is remarkably physical [18]. A
+first order method, and two second order methods using the total variation
+diminishing principle are developed and an example application presented. Given
+the same computer resources, it is expected that with this approach, much
+higher Reynold's number will be achievable than presently possible with either
+lattice gas automata or lattice Boltzmann approaches. The ideas being general,
+the scheme is applicable to any discrete-velocity model, and to lattice gases
+as well.
+","[{""version"":""v1"",""created"":""Sun, 22 Jan 1995 01:20:53 GMT""},{""version"":""v2"",""created"":""Mon, 23 Jan 1995 18:22:05 GMT""}]","2008-02-03"
+"comp-gas/9501008","Balasubramanya Nadiga","Balu Nadiga and Brad Sturtevant (Graduate Aeronautical Laboratories,
+  Caltech, Pasadena, CA)","Shock structure in a nine-velocity gas","16 pages including 4 figures and 1 table. All in one postscript file
+  (shck.ps). Compressed and uuencoded (shck.uu). Name mail file `shck.uu'. Edit
+  so that `#!/bin/csh -f' is the first line of shck.uu. On a unix machine say
+  `csh shck.uu'. On a non-unix machine: uudecode adv.uu; uncompress adv.tar.Z;
+  tar -xvf adv.tar","Physica D 73 (1994) 205-216","10.1016/0167-2789(94)90157-0",,"comp-gas nlin.CG",,"  The exact structure of a shock is computed in a multiple-speed
+discrete-velocity gas, the nine-velocity gas, wherein the multiplicity of
+speeds ensures nontrivial thermodynamics. Obtained as a solution of the model
+Boltzmann equations, the procedure consists of tracking the shock as a
+trajectory of a three dimensional dynamical system connecting an equilibrium
+upstream state to an equilibrium downstream state. The two equilibria satisfy
+the jump conditions obtained from the model Euler equations. Comparison of the
+shock structure to that in a monatomic perfect gas, as given by the
+Navier-Stokes equation, shows excellent agreement. The shock in the
+nine-velocity gas has an overshoot in entropy alone, like in a monatomic gas.
+The near-equilibrium flow technique for discrete-velocity gases (Nadiga \&
+Pullin [2]), a kinetic flux-splitting method based on the local thermodynamic
+equilibrium, is also seen to capture the shock structure remarkably well.
+","[{""version"":""v1"",""created"":""Sun, 22 Jan 1995 01:58:47 GMT""},{""version"":""v2"",""created"":""Mon, 23 Jan 1995 18:23:03 GMT""}]","2009-10-28"
+"comp-gas/9501009","Balasubramanya Nadiga","Balu Nadiga Galcit (Caltech, Pasadena, CA)","Plane Waves in a Multispeed Discrete-Velocity Gas","18 pages including u figures. All in one postscript file (plane.ps).
+  Compressed and uuencoded (plane.uu). Name mail file `plane.uu'. Edit so that
+  `#!/bin/csh -f' is the first line of plane.uu. On a unix machine say `csh
+  plane.uu'. On a non-unix machine: uudecode plane.uu; uncompress plane.tar.Z;
+  tar -xvf plane.tar","Rarefied Gas Dynamics: Theory and Simulations. Vol. 159 of
+  Progress in Astronautics and Aeronautics (AIAA) Ed. B.D. Shizgal, D.P. Weaver",,,"comp-gas nlin.CG",,"  A kinetic flux-splitting procedure used in conjunction with local
+thermodynamic equilibrium in a finite volume allows us to investigate
+numerically discrete-velocity gas flows. The procedure, outlined for a general
+discrete-velocity gas, is used to simulate flows of the nine-velocity gas, a
+simple two dimensional multiple-speed discrete-velocity gas, wherein a
+multiplicity of speeds ensures nontrivial thermodynamics. After verifying the
+linear wave limit and the non-linear steepening of wavefronts, the stability
+and propagation of planar discontinuities in that model gas is studied. The
+supersonic-subsonic requirement for the stable propagation of a discontinuity,
+being kinematic in nature is the same in the model gas, as e.g., in a perfect
+gas. However, the finiteness of the velocity space in the model gas does not
+allow a translation of the above kinematic condition to the thermodynamic
+requirement of increasing entropy across a compressive shock: a case of an
+entropy decreasing compressive shock in the model gas is presented. Finally,
+the interaction of various types of waves--shock waves, rarefactions and
+contact surfaces--in the model gas are shown in a simulation of the shock tube
+problem.
+","[{""version"":""v1"",""created"":""Sun, 22 Jan 1995 02:23:32 GMT""},{""version"":""v2"",""created"":""Mon, 23 Jan 1995 18:24:26 GMT""}]","2008-02-03"
+"cond-mat/9501099","Jens Siewert","J. Siewert, Gerd Sch\""on, and Andrei D. Zaikin","Parity Effects and Higher Order Tunneling in Superconducting SET
+  Transistors","12 pages, revtex, 2 figures available as ps-files upon request",,,"TFP-Sie95","cond-mat",,"  Single electron tunneling into small superconducting islands is sensitive to
+the gap energy of the excitations created in the process and, hence, depends on
+the parity of the electron number in the island. We study these effects by
+analyzing the kinetics of the system. Since the interplay of Coulomb blockade
+and parity effects leads to a blocking of single electron tunneling, higher
+order tunneling processes become important. This is well-established for
+two-electron tunneling. Here we study processes of third and fourth order. We
+estimate the order of magnitude for these processes and discuss their relevance
+for recent experiments.
+","[{""version"":""v1"",""created"":""Sat, 21 Jan 1995 17:52:07 GMT""}]","2016-08-31"
+"cond-mat/9501100","Paul Lammert","John Toner, Paul E. Lammert and Daniel S. Rokhsar","Topology and Nematic Ordering II: Observable Critical Behavior","10 pages, RevTeX 3.0",,"10.1103/PhysRevE.52.1801",,"cond-mat",,"  This paper is the second in a pair treating a new lattice model for nematic
+media. In addition to the familiar isotropic (I) and nematically ordered (N)
+phases, the phase diagram established in the previous paper (Paper I) contains
+a new, topologically ordered phase (T) occuring at large suppression of
+topological defects and weak nematic interactions. This paper (Paper II) is
+concerned with the experimental signatures of the proposed phase diagram.
+Specific heat, light scattering and magnetic susceptibility near both the N/T
+and I/T transitions are studied, and critical behavior determined. The singular
+dependences of the Frank constants ($K_1$, $K_2$, $K_3$) and the dielectric
+tensor anisotropy ($\Delta \epsilon$) on temperature upon approaching the N/T
+transition are also found.
+","[{""version"":""v1"",""created"":""Sun, 22 Jan 1995 11:16:04 GMT""}]","2009-10-28"
+"cond-mat/9501101","Paul Lammert","Paul E. Lammert, Daniel S. Rokhsar and John Toner","Topology and Nematic Ordering I: A Gauge Theory","24 pages, uuencoded gzipped PostScript. This version is formatted for
+  US letter size paper, so that it works well on American printers.
+  Instructions for very minor editing are included to convert to European A4.
+  (It will probably come out OK without that if you want to try)",,"10.1103/PhysRevE.52.1778",,"cond-mat",,"  We consider the weakly first order phase transition between the isotropic and
+ordered phases of nematics in terms of the behavior of topological line
+defects. Analytical and Monte Carlo results are presented for a new
+coarse-grained lattice theory of nematics which incorporates nematic inversion
+symmetry as a local gauge invariance. The nematic-isotropic transition becomes
+more weakly first order as disclination core energy is increased, eventually
+splitting into two continuous transitions involving the unbinding and
+condensation of defects, respectively. These transitions are shown to be in the
+Ising and Heisenberg universality classes. A novel isotropic phase with
+topological order occurs between them.
+","[{""version"":""v1"",""created"":""Sun, 22 Jan 1995 11:15:55 GMT""},{""version"":""v2"",""created"":""Sat, 28 Jan 1995 12:29:16 GMT""}]","2009-10-28"
+"cond-mat/9501102","Walter Kob","Walter Kob (Institut f\""ur Physik, Johannes Gutenberg-Universit\""at,
+  Mainz) and Hans C. Andersen (Department of Chemistry, Stanford University)","Testing Mode-Coupling Theory for a Supercooled Binary Lennard-Jones
+  Mixture I: The van Hove Correlation Function","22 pages; figures available on request from W. Kob","Phys. Rev. E 51, 4626 (1995)","10.1103/PhysRevE.51.4626","KOMA-94-50","cond-mat",,"  We report the results of a large scale computer simulation of a binary
+supercooled Lennard-Jones liquid. We find that at low temperatures the curves
+for the mean squared displacement of a tagged particle for different
+temperatures fall onto a master curve when they are plotted versus rescaled
+time $tD(T)$, where $D(T)$ is the diffusion constant. The time range for which
+these curves follow the master curve is identified with the $\alpha$-relaxation
+regime of mode-coupling theory (MCT). This master curve is fitted well by a
+functional form suggested by MCT. In accordance with idealized MCT, $D(T)$
+shows a power-law behavior at low temperatures. The critical temperature of
+this power-law is the same for both types of particle and also the critical
+exponents are very similar. However, contrary to a prediction of MCT, these
+exponents are not equal to the ones determined previously for the divergence of
+the relaxation times of the intermediate scattering function [Phys. Rev. Lett.
+{\bf 73}, 1376 (1994)]. At low temperatures the van Hove correlation function
+(self as well as distinct part) shows hardly any sign of relaxation in a time
+interval that extends over about three decades in time. This time interval can
+be interpreted as the $\beta$-relaxation regime of MCT. From the investigation
+of these correlation functions we conclude that hopping processes are not
+important on the time scale of the $\beta$-relaxation for this system and for
+the temperature range investigated. We test whether the factorization property
+predicted by MCT holds and find that this is indeed the case for all
+correlation functions investigated. The distance dependence of the critical
+amplitudes are in qualitative accordance with the ones predicted by MCT for
+some other mixtures. The non-gaussian parameter for the self part of the van
+","[{""version"":""v1"",""created"":""Sun, 22 Jan 1995 13:11:04 GMT""}]","2016-08-31"
+"hep-lat/9501026","Richard C. Brower","R. C. Brower, K. Orginos and C-I Tan","The Chiral Extension of Lattice QCD","7 pages, LATTICE 94 talk by R. Brower: Latex file with 2 postscript
+  figures for encapsulation","Nucl.Phys.Proc.Suppl. 42 (1995) 42-48","10.1016/0920-5632(95)00185-C","BU-CCS-950101","hep-lat",,"  The chiral extension of Quantum Chromodynamics (XQCD) adds to the standard
+lattice action explicit pseudoscalar meson fields for the chiral condensates.
+With this action, it is feasible to do simulations at the chiral limit with
+zero mass Goldstone modes. We review the arguments for why this is expected to
+be in the same universality class as the traditional action. We present
+preliminary results on convergence of XQCD for naive fermions and on the
+methodology for introducing counter terms to restore chiral symmetry for Wilson
+fermions.
+","[{""version"":""v1"",""created"":""Sat, 21 Jan 1995 18:19:24 GMT""}]","2009-10-28"
+"nucl-th/9501024","Klaus Werner","Klaus WERNER and Joerg AICHELIN","Linking Dynamical and Thermal Models of Ultrarelativistic Nuclear
+  Scattering","Complete paper enclosed as postscript file (uuencoded)","Phys.Rev.Lett. 76 (1996) 1027-1030","10.1103/PhysRevLett.76.1027","HD-TVP-94-23","nucl-th hep-ph",,"  To analyse ultrarelativistic nuclear interactions, usually either dynamical
+models like the string model are employed, or a thermal treatment based on
+hadrons or quarks is applied. String models encounter problems due to high
+string densities, thermal approaches are too simplistic considering only
+average distributions, ignoring fluctuations. We propose a completely new
+approach, providing a link between the two treatments, and avoiding their main
+shortcomings: based on the string model, connected regions of high energy
+density are identified for single events, such regions referred to as quark
+matter droplets. Each individual droplet hadronizes instantaneously according
+to the available n-body phase space. Due to the huge number of possible hadron
+configurations, special Monte Carlo techniques have been developed to calculate
+this disintegration.
+","[{""version"":""v1"",""created"":""Sat, 21 Jan 1995 20:16:53 GMT""}]","2016-09-08"

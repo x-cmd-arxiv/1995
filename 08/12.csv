@@ -1,0 +1,190 @@
+"astro-ph/9508055",,"Reinhard Schlickeiser (Max-Planck-Institut f\""ur Radioastronomie) and
+  Charles D. Dermer (Naval Research Laboratory)","Method for Organizing the Multiwavelength Data of Radio-Loud Active
+  Galactic Nuclei","4 pages, 2 figures, uuencoded compressed postscript file. Corrections
+  to eqs. (5), (6), and (7) Astronomy and Astrophysics Letters, 300, L29 (1995)",,,"NRL 7653-14","astro-ph",,"  The broadband emission observed from radio galaxies, BL Lac objects and
+quasars is thought to be produced by energetic electrons confined in plasma
+blobs which are ejected from supermassive black holes at relativistic speeds.
+The lower energy radio-through-optical component is almost certainly nonthermal
+electron synchrotron radiation, while the higher-energy $\gamma$-ray component
+is probably due to Compton scattering of target photons by these same
+electrons. If the high-energy component is formed by jet electrons
+Compton-scattering radiation from outside the jet, such as the direct or
+rescattered accretion-disk photons, then the ratio of the power in the
+high-energy Compton component to the power in the low-energy synchrotron
+component stands in a simple relation depending on the observing angle to the
+jet and the plasma outflow speed. When combined with contemporaneous VLBI
+measurements of apparent transverse speed, we find that a simple diagram
+relates different classes of radio-loud active galactic nuclei (AGNs) and makes
+definite predictions for multiwavelength observations of these sources. If an
+equipartition parameter remains constant between episodes of plasma ejection,
+then multiple observations of a single source can in principle determine the
+Hubble constant.
+","[{""version"":""v1"",""created"":""Fri, 11 Aug 1995 17:03:41 GMT""},{""version"":""v2"",""created"":""Wed, 30 Aug 1995 15:38:14 GMT""}]","2008-02-03"
+"astro-ph/9508056","Kris Sellgren","K. Sellgren (Ohio State University), T. Y. Brooke (Jet Propulsion
+  Laboratory), and R. G. Smith (University of New South Wales)","A New 3.25 Micron Absorption Feature toward Mon R2/IRS-3","12 pages (26 kB), AASTex format. Also 1 Postscript figure (39 kB),
+  tarred, compressed and uuencoded, added with 'figure' command. Postscript
+  file or hardcopy available upon request to sellgren@payne.mps.ohio-state.edu.
+  ApJL, in press",,"10.1086/309627",,"astro-ph",,"  A new 3.2--3.5~$\mu$m spectrum of the protostar Mon~R2/IRS-3 confirms our
+previous tentative detection of a new absorption feature near 3.25 $\mu$m. The
+feature in our new spectrum has a central wavelength of 3.256 $\mu$m (3071
+cm$^{-1}$) and has a full-width at half maximum of 0.079 $\mu$m (75 cm$^{-1}$).
+We explore a possible identification with aromatic hydrocarbons at low
+temperatures, which absorb at a similar wavelength. If the feature is due to
+aromatics, the derived column density of C--H bonds is $\sim$1.8 $\times$
+$10^{18}$ cm$^{-2}$. If the absorbing aromatic molecules are of roughly the
+same size as those responsible for aromatic emission features in the
+interstellar medium, then we estimate that $\sim$9\% of the cosmic abundance of
+carbon along this line of sight would be in aromatic hydrocarbons, in agreement
+with abundance estimates from emission features.
+","[{""version"":""v1"",""created"":""Fri, 11 Aug 1995 17:34:02 GMT""}]","2009-10-28"
+"cmp-lg/9508006","Arturo Trujillo","Arturo Trujillo (SCMS, The Robert Gordon University, Aberdeen)","Bi-Lexical Rules for Multi-Lexeme Translation in Lexicalist MT","21 pages; tarred, compressed, uuencoded Latex. In `Proceedings of the
+  Sixth International Conference on Theoretical and Methodological Issues in
+  Machine Translation', Leuven, Belgium, July 1995, pp. 48--66",,,,"cmp-lg cs.CL",,"  The paper presents a prototype lexicalist Machine Translation system (based
+on the so-called `Shake-and-Bake' approach of Whitelock (1992) consisting of an
+analysis component, a dynamic bilingual lexicon, and a generation component,
+and shows how it is applied to a range of MT problems. Multi-Lexeme
+translations are handled through bi-lexical rules which map bilingual lexical
+signs into new bilingual lexical signs. It is argued that much translation can
+be handled by equating translationally equivalent lists of lexical signs,
+either directly in the bilingual lexicon, or by deriving them through
+bi-lexical rules. Lexical semantic information organized as Qualia structures
+(Pustejovsky 1991) is used as a mechanism for restricting the domain of the
+rules.
+","[{""version"":""v1"",""created"":""Sat, 12 Aug 1995 13:42:24 GMT""}]","2008-02-03"
+"cond-mat/9508044","G. Haran","G. Haran (Politechnika Wroclawska, Poland), G.A. Gehring (University
+  of Sheffield, UK)","Magnetism of Superconducting UPt3","17 pages, figures available on request to
+  haran@rainbow.if.pwr.wroc.pl",,"10.1088/0953-8984/7/42/011",,"cond-mat",,"  The phase diagram of superconducting $U\!Pt_{3}$ in pressure-temperature
+plane, together with the neutron scattering data is studied within a two
+component superconducting order parameter scenario. In order to give a
+qualitative explanation to the experimental data a set of two linearly
+independent antiferromagnetic moments which emerge appropriately at the
+temperature \mbox{$T_{N}\sim 10\cdot T_{c}$} and \mbox{$T_{m}\sim T_{c}$} and
+couple to superconductivity is proposed. Several constraints on the fourth
+order coefficients in the Ginzburg-Landau free energy are obtained.
+","[{""version"":""v1"",""created"":""Fri, 11 Aug 1995 17:06:31 GMT""}]","2009-10-28"
+"dg-ga/9508005","Jan Vacter Yang","Jan Vacter Yang (Chinese University of Hong Kong)","Introduction to Seiberg-Witten's Invariants, Part I: Theory of Spinors","72 pages, AmsLaTeX TWICE, A4 papers, printed with 120 percent
+  magnification. Resubmitted trying to put the complete copy of 160kb",,,,"dg-ga alg-geom hep-th math.AG math.DG",,"  In 1994, Witten has defined a monopole invariant and he has shown the
+equivalence of this invariant with Donaldson's polynomial using his result in
+\( \SS \)-duality. This new invariant is very powerful because the gauge group
+is abelian. By using such an invariant, many new results are found in the
+smooth, K\""{a}hler and even the symplectic categories. However, almost every
+paper in this topic write the monopole equations in a different way. Therefore
+is it necessary to clarify the basic idea behind the definition of such an
+invariant.
+  In this paper we investigate the algebraic structure (Clifford algebra and
+\(\spinc\) representation ) underlying this invariant and explain the equations
+explicitly, especially the K\""{a}hlerian case. Details of the computations are
+shown explicitly, and some minute mistakes in the existing papers are
+corrected.
+","[{""version"":""v1"",""created"":""Sat, 12 Aug 1995 05:56:35 GMT""},{""version"":""v2"",""created"":""Mon, 14 Aug 1995 10:15:00 GMT""},{""version"":""v3"",""created"":""Tue, 15 Aug 1995 05:24:03 GMT""}]","2016-08-31"
+"hep-lat/9508015","Osamu Miyamura","O.Miyamura and S.Origuchi","QCD Monopoles and Chiral Symmetry Breaking on SU(2) Lattices","16 pages of A4 format including 10 figures(eps files)",,"10.1142/9789814447140_0028",,"hep-lat",,"  Pseudoscalar correlator is measured in a singular (monopole dominant) and a
+regular (photon dominant) parts of a maximal abelian field on SU(2) lattice. In
+the abelian field and its singular part, light pseudoscalar boson are observed
+similar to that in SU(2) field. On the other hand , the correlator in the
+regular part behaves like a product of free quark and anti-quark. Obtained
+results give a support for a possibility that monopole condensation is
+responsible for chiral symmetry breaking as well as confinement. Correlation
+between monopoles and instantons is also investigated by observing topological
+charge. A field including monopoles carrys topological charge with good
+correlation to that in original SU(2) gauge field while that including only
+photons shows no topological charge.
+","[{""version"":""v1"",""created"":""Sat, 12 Aug 1995 10:56:20 GMT""}]","2016-11-03"
+"hep-ph/9508287","Roxanne P. Springer","M.J. Savage and R.P. Springer","Kaon-Nucleon Couplings for Weak Decays of Hypernuclei","uuencoded latex file with figures, 14 pages. A factor of two in the
+  numerical values given for the p-wave amplitudes is corrected","Phys.Rev.C53:441-447,1996; Erratum-ibid.C54:2786,1996","10.1103/PhysRevC.53.441 10.1103/PhysRevC.54.2786","DUKE-94-77, CMU-HEP95-10","hep-ph nucl-th",,"  We investigate the weak kaon-nucleon (NNK) S-wave and P-wave interactions
+using heavy baryon chiral perturbation theory. The leading 1-loop SU(3)
+breaking contributions to the $ppK$, $pnK$, and $nnK$ couplings are computed.
+We find that they suppress all NNK amplitudes by $30\%$ to $50\%$. The ratio of
+neutron-induced to proton-induced hypernuclear decay widths is sensitive to
+such reductions. It has been argued that the discrepancy between the predicted
+and observed P-wave amplitudes in $\Delta s=1$ hyperon decay results from an
+accidental cancellation between tree-level amplitudes, and is not a fundamental
+problem for chiral perturbation theory. Agreement between experimentally
+determined NNK P-wave amplitudes and our estimates would support this
+explanation.
+","[{""version"":""v1"",""created"":""Fri, 11 Aug 1995 21:53:24 GMT""},{""version"":""v2"",""created"":""Fri, 2 Aug 1996 21:58:18 GMT""}]","2014-11-17"
+"hep-ph/9508288",,"Nima Arkani-Hamed, Hsin-Chia Cheng and L.J. Hall","Flavor Mixing Signals For Realistic Supersymmetric Unification","53 pages, LaTeX, 11 uuencoded figures included","Phys.Rev. D53 (1996) 413-436","10.1103/PhysRevD.53.413","LBL-37343","hep-ph",,"  The gauge interactions of any supersymmetric extension of the standard model
+involve new flavor mixing matrices. The assumptions involved in the
+construction of minimal supersymmetric models, both $SU(3) \times SU(2) \times
+U(1)$ and grand unified theories, force a large degree of triviality on these
+matrices. However, the requirement of realistic quark and lepton masses in
+supersymmetric grand unified theories forces these matrices to be non-trivial.
+This leads to important new dominant contributions to the neutron electric
+dipole moment and to the decay mode $p \to K^o\mu^+$, and suggests that there
+may be important weak scale radiative corrections to the Yukawa coupling matrix
+of the up quarks. The lepton flavor violating signal $\mu \to e\gamma$ is
+studied in these theories when $\tan\beta$ is sufficiently large that radiative
+effects of couplings other than $\lambda_t$ must be included. The naive
+expectation that large $\tan\beta$ will force sleptons to unacceptably large
+masses is not borne out: radiative suppressions to the leptonic flavor mixing
+angles allow regions where the sleptons are as light as 300 GeV, provided the
+top Yukawa coupling in the unified theory is near the minimal value consistent
+with $m_t$.
+","[{""version"":""v1"",""created"":""Fri, 11 Aug 1995 23:27:10 GMT""},{""version"":""v2"",""created"":""Sat, 12 Aug 1995 16:59:57 GMT""}]","2009-10-28"
+"hep-th/9508049","Vitor Emanuel Rodino Lemes","V.E.R. Lemes, A.L.M.A. Nogueira, J.A. Helay\""el-Neto","Supersymmetric Generalization of the Tensor Matter Fields","12 pages, Latex, no figures. The section concerning symmetry breaking
+  is revised, leading to new conclusions. A discussion on the spinorial degrees
+  of freedom is included, and references are added","Int.J.Mod.Phys. A13 (1998) 3145-3156","10.1142/S0217751X98001554","CBPF-NF 054/95","hep-th",,"  The supersymmetric generalization of a recently proposed Abelian axial gauge
+model with antisymmetric tensor matter fields is presented.
+","[{""version"":""v1"",""created"":""Fri, 11 Aug 1995 21:27:31 GMT""},{""version"":""v2"",""created"":""Thu, 14 Aug 1997 22:14:26 GMT""}]","2009-10-28"
+"hep-th/9508050","Anne Schilling","Anne Schilling (SUNY Stony Brook)","Polynomial Fermionic Forms for the Branching Functions of the Rational
+  Coset Conformal Field Theories $\widehat{su}(2)_{M}\times
+  \widehat{su}(2)_{N}/\widehat{su}(2)_{M+N}$}","40 pages, LATEX, no figures; revised version to appear in Nuclear
+  Physics B","Nucl.Phys. B459 (1996) 393-436","10.1016/0550-3213(95)00572-2","ITP-SB 95-26","hep-th",,"  General fermionic expressions for the branching functions of the rational
+coset conformal field theories $\widehat{su}(2)_{M}\times
+\widehat{su}(2)_N/\widehat{su}(2)_{M+N}$ are given. The equality of the bosonic
+and fermionic representations for the branching functions is proven by
+introducing polynomial truncations of these branching functions which are the
+configuration sums of the RSOS models in regime III. The path space
+interpretation of the RSOS models provides recursion relations for the
+configuration sums. The proof of the recursion relations for the fermionic
+expressions is given by using telescopic expansion techniques. The
+configuration sums of the RSOS model in regime II which correspond to the
+branching functions of the $Z_{M+N}$-parafermion conformal field theory are
+obtained by the duality transformation $q\rightarrow q^{-1}$.
+","[{""version"":""v1"",""created"":""Fri, 11 Aug 1995 20:41:09 GMT""},{""version"":""v2"",""created"":""Fri, 18 Aug 1995 02:56:27 GMT""},{""version"":""v3"",""created"":""Tue, 31 Oct 1995 21:56:48 GMT""}]","2009-10-28"
+"hep-th/9508052","Fernando C. Lombardo","Fernando Lombardo and Francisco Mazzitelli","Coarse graining and decoherence in quantum field theory","21 pages (RevTeX) and 5 encapsulated postscript figures","Phys.Rev.D53:2001-2011,1996","10.1103/PhysRevD.53.2001",,"hep-th gr-qc",,"  We consider a $\lambda \phi^4$ theory in Minkowski spacetime. We compute a
+""coarse grained effective action"" by integrating out the field modes with
+wavelength shorter than a critical value. From this effective action we obtain
+the evolution equation for the reduced density matrix (master equation). We
+compute the diffusion coefficients of this equation and analyze the decoherence
+induced on the long- wavelength modes. We generalize the results to the case of
+a conformally coupled scalar field in DeSitter spacetime. We show that the
+decoherence is effective as long as the critical wavelength is taken to be not
+shorter than the Hubble radius.
+","[{""version"":""v1"",""created"":""Fri, 11 Aug 1995 20:38:12 GMT""}]","2008-11-26"
+"hep-th/9508053","Senarath P. de Alwis","S.P. de Alwis","Remarks on supersymmetric effective actions and supersymmetry breaking","18 pages, Latex, Two references added, some minor changes and some
+  additional discussion in concluding section, cover letter removed!",,,"COLO-HEP-363","hep-th",,"  We discuss some issues related to the definition of different effective
+actions, in connection with the work on supersymmetric theories by Seiberg and
+collaborators. We also comment on the possibility of extending this work to
+broken supersymmetric theories.
+","[{""version"":""v1"",""created"":""Sat, 12 Aug 1995 02:48:54 GMT""},{""version"":""v2"",""created"":""Wed, 29 Nov 1995 20:23:07 GMT""},{""version"":""v3"",""created"":""Thu, 30 Nov 1995 20:12:59 GMT""}]","2008-02-03"
+"hep-th/9508054",,"Roberto Zucchini","Drinfeld--Sokolov Gravity","48 pages, Plain TeX, no figures, requires AMS font files AMSSYM.DEF
+  and AMSSYM.TEX","Commun.Math.Phys. 181 (1996) 529-568","10.1007/BF02101286","DFUB 95--17","hep-th",,"  A lagrangian euclidean model of Drinfeld--Sokolov (DS) reduction leading to
+general $W$--algebras on a Riemann surface of any genus is presented. The
+background geometry is given by the DS principal bundle $K$ associated to a
+complex Lie group $G$ and an $SL(2,\Bbb C)$ subgroup $S$. The basic fields are
+a hermitian fiber metric $H$ of $K$ and a $(0,1)$ Koszul gauge field $A^*$ of
+$K$ valued in a certain negative graded subalgebra $\goth x$ of $\goth g$
+related to $\goth s$. The action governing the $H$ and $A^*$ dynamics is the
+effective action of a DS field theory in the geometric background specified by
+$H$ and $A^*$. Quantization of $H$ and $A^*$ implements on one hand the DS
+reduction and on the other defines a novel model of $2d$ gravity, DS gravity.
+The gauge fixing of the DS gauge symmetry yields an integration on a moduli
+space of DS gauge equivalence classes of $A^*$ configurations, the DS moduli
+space. The model has a residual gauge symmetry associated to the DS gauge
+transformations leaving a given field $A^*$ invariant. This is the DS
+counterpart of conformal symmetry. Conformal invariance and certain non
+perturbative features of the model are discussed in detail.
+","[{""version"":""v1"",""created"":""Sat, 12 Aug 1995 14:26:16 GMT""}]","2009-10-28"
+"q-alg/9508005","Theodore Th. Voronov","Theodore Voronov","Quantum categories. Quantization of the category of linear spaces","AMS-LaTeX. Minor editing was made",,,,"q-alg math.QA",,"  We define generalized bialgebras and Hopf algebras and on this basis we
+introduce quantum categories and quantum groupoids. The quantization of the
+category of linear (super)spaces is constructed. We establish a criterion for
+the classical value of the dimension of the polynomial function algebra on the
+full subcategory of this quantum category specified by Sudbery type commutation
+relations for quantum vector spaces (the ``Poincare -- Birkhoff -- Witt
+property''). The criterion is the equality of the ``quantum constants''
+$c_\a=c_\b^{\pm 1}$ of the quantum vector spaces. (These constants appeared in
+earlier works on PBW for the multiparameter quantization of the general linear
+group.) Links with the Yang-Baxter equation and the Yang -- Baxter structures
+of quantum linear spaces are established. The role of categories as a
+generalization of groups is discussed.
+","[{""version"":""v1"",""created"":""Fri, 11 Aug 1995 19:51:45 GMT""},{""version"":""v2"",""created"":""Thu, 5 Oct 1995 11:45:47 GMT""},{""version"":""v3"",""created"":""Thu, 23 Nov 1995 08:13:12 GMT""},{""version"":""v4"",""created"":""Tue, 18 Nov 1997 04:05:48 GMT""}]","2008-02-03"

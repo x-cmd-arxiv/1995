@@ -1,0 +1,175 @@
+"astro-ph/9504048","Gary Steigman","GARY STEIGMAN","COSMIC LITHIUM: GOING UP OR COMING DOWN ?","Submitted to the ApJ (Part 1), April 14, 1995","Astrophys.J. 457 (1996) 737","10.1086/176768","OSU-TA-4/95","astro-ph",,"  Observations of interstellar lithium provide a valuable complement to studies
+of lithium in Pop I and Pop II stars. Large corrections for unseen LiII and for
+non-gas phase lithium have provided obstacles to using interstellar data for
+abundance determinations. An approach to surmounting these difficulties is
+proposed and is applied to the Galaxy and the LMC. The key is that since
+potassium and lithium behave similarly regarding ionization and depletion,
+their observed ratio (LiI/KI) can be used to probe the abundance and evolution
+of lithium. For ten lines-of-sight in the interstellar medium of the Galaxy
+(ISM) the Li/K ratio observed $(\log (N_{Li}/N_K)_{ISM} = - 1.88 \pm 0.09)$ is
+entirely consistent with the solar system value $(\log (N_{Li}/N_{K})_{\odot} =
+- 1.82 \pm 0.05)$. The absence of LiI in front of SN87A in the LMC, coupled
+with the observed KI, corresponds to an upper bound (at $\rsim 95 \% \ CL$) of
+$\log (N_{Li}/N_K)_{LMC} < - 0.3 + \log (N_{Li}/N_K)_{ISM}.$ This low upper
+bound to LMC lithium suggests that cosmic lithium is on its way up from a
+primordial abundance lower, by at least a factor of two, than the present Pop I
+value of $[Li]_{PopI} \equiv 12 + \log (Li/H)_{PopI} = 3.2 \pm 0.1$.
+","[{""version"":""v1"",""created"":""Fri, 14 Apr 1995 19:59:13 GMT""}]","2009-10-28"
+"astro-ph/9504049","David A. Buote","David A. Buote and Claude R. Canizares","X-ray Constraints on the Intrinsic Shapes and Baryon Fractions of Five
+  Abell Clusters","29 pages (2 figures), PostScript, to appear in ApJ on February 1,
+  1996. No changes to the text -- the publication date given before was
+  incorrect","Astrophys.J. 457 (1996) 565","10.1086/176753","CSR-95-10 (Abstract modified for xxx)","astro-ph",,"  We analyzed ROSAT PSPC images of the bright, nearby $(z<0.1)$ galaxy clusters
+A401, A1656 (Coma), A2029, A2199, and A2256 to constrain their intrinsic shapes
+and baryon fractions. Following Buote & Tsai we probed the aggregate structure
+of the clusters on scales $\sim 1.5h^{-1}_{80}$ Mpc to reduce effects of
+possible substructure on smaller scales ($\lesssim$ a few hundred kpc). The
+ellipticities of the X-ray isophotes are typically $\epsilon\approx 0.15 -
+0.25$ and display negative radial gradients significant (except Coma). By
+assuming hydrostatic equilibrium and a variety of mass models we obtain
+ellipticities $\epsilon_{mass} \approx 0.40-0.55$ for isothermal models of the
+total gravitating matter of the clusters; the $\epsilon_{mass}$ constraints
+change by $<10%$ upon consideration of the small temperature gradients shown by
+ASCA to be typical for rich clusters; the observed X-ray ellipticity gradients
+require that mass models with constant ellipticity have steep density profiles,
+$\rho\propto r^{-4}$. Estimates of the gas masses are highly insensitive to the
+ellipticities of the X-ray isophotes. The clusters in our sample have
+increasing fractions of gas mass to total mass with radius and have
+$M_{gas}/M_{tot} = (4% - 11%)h^{-3/2}_{80}$ within a radius $1.5h^{-1}_{80}$
+Mpc, in excellent agreement with the results of White & Fabian and the Baryon
+Catastrophe proposed by White et al. (1993). Finally, the ellipticities of the
+dark matter distributions are essentially identical to $\epsilon_{mass}$ and
+are consistent with the shapes of dark halos predicted by N-body simulations
+and the shapes of the galaxy isopleths in the clusters in contrast to our
+previous conclusions using {\it Einstein} data.
+","[{""version"":""v1"",""created"":""Sat, 15 Apr 1995 00:45:30 GMT""},{""version"":""v2"",""created"":""Tue, 1 Aug 1995 21:52:05 GMT""},{""version"":""v3"",""created"":""Wed, 2 Aug 1995 14:41:19 GMT""}]","2009-10-28"
+"gr-qc/9504021","Bill Hiscock","Tsunefumi Tanaka and William A. Hiscock (Montana State University)","Massive scalar field in multiply connected flat spacetimes","19 pages, REVTeX, 5 figures in separate uuencoded compressed file","Phys.Rev.D52:4503-4511,1995","10.1103/PhysRevD.52.4503",,"gr-qc",,"  The vacuum expectation value of the stress-energy tensor $\left\langle
+0\left| T_{\mu\nu} \right|0\right\rangle$ is calculated in several multiply
+connected flat spacetimes for a massive scalar field with arbitrary curvature
+coupling. We find that a nonzero field mass always decreases the magnitude of
+the energy density in chronology-respecting manifolds such as $R^3 \times S^1$,
+$R^2 \times T^2$, $R^1 \times T^3$, the M\""{o}bius strip, and the Klein bottle.
+In Grant space, which contains nonchronal regions, whether $\left\langle
+0\left| T_{\mu\nu} \right|0\right\rangle$ diverges on a chronology horizon or
+not depends on the field mass. For a sufficiently large mass $\left\langle
+0\left| T_{\mu\nu} \right|0\right\rangle$ remains finite, and the metric
+backreaction caused by a massive quantized field may not be large enough to
+significantly change the Grant space geometry.
+","[{""version"":""v1"",""created"":""Fri, 14 Apr 1995 17:17:49 GMT""}]","2010-11-01"
+"hep-lat/9504009","Gudmar Thorleifsson","S. Catterall, G. Thorleifsson, M. Bowick and V. John","Scaling and the Fractal Geometry of Two-Dimensional Quantum Gravity","16 pages, LaTeX format, 8 eps figures","Phys.Lett. B354 (1995) 58-68","10.1016/0370-2693(95)00623-S","SU-4240-607","hep-lat hep-th",,"  We examine the scaling of geodesic correlation functions in two-dimensional
+gravity and in spin systems coupled to gravity. The numerical data support the
+scaling hypothesis and indicate that the quantum geometry develops a
+non-perturbative length scale. The existence of this length scale allows us to
+extract a Hausdorff dimension. In the case of pure gravity we find d_H approx.
+3.8, in support of recent theoretical calculations that d_H = 4. We also
+discuss the back-reaction of matter on the geometry.
+","[{""version"":""v1"",""created"":""Fri, 14 Apr 1995 17:09:18 GMT""}]","2009-10-28"
+"hep-ph/9504302","Andre Likhoded","A.V.Berezhnoy, A.K.Likhoded, O.P.Yushchenko","Some Features of the Hadronic $B_c^{(*)}$-meson Production at Large
+  $p_T$","4 pages, REVTEX file, 5 figures (uuencoded compressed tar-file)","Phys.Atom.Nucl. 59 (1996) 709-713; Yad.Fiz. 59N4 (1996) 742-746",,"IHEP 95-59, Protvino","hep-ph",,"  Calculations of the hadronic $B^{(*)}_c$-mesons production performed in the
+framework of the perturbative QCD taking into account $O(\alpha_s^4)$ Feynmann
+diagrams are presented. A comparison of the exact calculations with those based
+on the fragmentation model of $\bar b\rightarrow B^{(*)}_c+X$ shows the large
+discrepancy between them. The exact calculations of the $B^{(*)}_c$-mesons
+production cross-sections as the function of $p_T$ at the energy of the FNAL
+Tevatron ($\sqrt{s}=1.8$ TeV) are given. The predicted ratio of the vector to
+the pseudoscalar state cross-sections is about $R\sim 3$ instead of $R\sim 1.4$
+for the fragmentation model.
+","[{""version"":""v1"",""created"":""Fri, 14 Apr 1995 16:24:56 GMT""},{""version"":""v2"",""created"":""Fri, 6 Oct 1995 13:31:25 GMT""}]","2016-09-01"
+"hep-ph/9504307","Hitoshi Murayama","Mary K. Gaillard (UC Berkeley, LBL), Hitoshi Murayama (LBL), Keith A.
+  Olive (U. Minnesota)","Preserving Flat Directions During Inflation","12 pages, no figures","Phys.Lett.B355:71-77,1995","10.1016/0370-2693(95)00773-E","LBL-37019, UMN-TH-1334/95, UCB-95/109","hep-ph astro-ph hep-th",,"  Supersymmetry is generally broken by the non-vanishing vacuum energy density
+present during inflation. In supergravity models, such a source of
+supersymmetry breaking typically makes a contribution to scalar masses of order
+${\tilde m}^2 \sim H^2$, where $H^2 \sim V/M_P^2$ is the Hubble parameter
+during inflation. We show that in supergravity models which possess a
+Heisenberg symmetry, supersymmetry breaking makes no contribution to scalar
+masses, leaving supersymmetric flat directions flat at tree-level. One-loop
+corrections in general lift the flat directions, but naturally give small
+negative squared masses $\sim - g^2 H^2/(4\pi)^2$ for all flat directions that
+do not involve the stop. No-scale supergravity of the SU(N,1) type and the
+untwisted sectors from orbifold compactifications are special cases of this
+general set of models. We point out the importance of the preservation of flat
+directions for baryogenesis.
+","[{""version"":""v1"",""created"":""Sat, 15 Apr 1995 00:57:06 GMT""}]","2009-09-15"
+"hep-ph/9504308",,"Robin G. Stuart","Unstable Particles","15 pages LaTeX 2e; blank line generated by line spill in mailer
+  causes LaTeX error and has been corrected",,,"UM-TH-95-13","hep-ph",,"  Unstable particles cannot be treated as asymptotic external states in
+$S$-matrix theory and when they occur as resonant states cannot be described by
+finite-order perturbation theory. The known facts concerning unstable particles
+are reviewed and it is shown how to construct gauge-invariant expressions for
+matrix elements containing intermediate unstable particles and physically
+meaningful production cross-sections for unstable particles. The results and
+methodology presented are relevant for $Z^0$ resonance physics, $W^+W^-$ and
+$Z^0Z^0$ pair production and can be straightforwardly applied to other
+processes.
+","[{""version"":""v1"",""created"":""Sat, 15 Apr 1995 04:12:59 GMT""},{""version"":""v2"",""created"":""Mon, 17 Apr 1995 19:31:02 GMT""}]","2008-02-03"
+"hep-ph/9504309","Nonaka Toshihiko","Masayuki Koike, Toshihiko Nonaka and Tadashi Kon","Polarization Effects in Chargino Production at High Energy
+  $\gamma\gamma$ Colliders","7 pages, latex , 3 figures are available upon request","Phys.Lett. B357 (1995) 232-236","10.1016/0370-2693(95)00759-E","RUP-5-95 ,ITP-SU-95/01","hep-ph",,"  We investigate the chargino production process
+$\gamma\gamma\rightarrow\tilde{W}^{+}\tilde{W}^{-}$ at high energy
+$\gamma\gamma$ colliders in the framework of the minimal supersymmetric
+standard model (MSSM). Here the high energy $\gamma$ beams are obtained by the
+backward Compton scattering of the laser flush by the electron in the basic
+linear TeV $ee$ colliders. We consider the polarization of the laser photons as
+well as the electron beams. Appropriate beam polarization could be effective to
+enhance the cross section and for us to extract the signal from the dominant
+background $\gamma\gamma\rightarrow{W}^{+}{W}^{-}$.
+","[{""version"":""v1"",""created"":""Sat, 15 Apr 1995 06:40:32 GMT""}]","2019-08-15"
+"hep-th/9504076","Geoffrey Harris","Vl.S Dotsenko, G. Harris, E. Marinari, E. Martinec, M. Picco & P.
+  Windey","Self Avoiding Surfaces in the 3D Ising Model","latex file, followed by 34 ps figures (no epsf)","Nucl.Phys. B448 (1995) 577-620","10.1016/0550-3213(95)00278-Z","PAR-LPTHE 9513, SU-HEP 4241-608, EFI 95-17","hep-th cond-mat hep-lat",,"  We examine the geometrical and topological properties of surfaces surrounding
+clusters in the 3--$d$ Ising model. For geometrical clusters at the percolation
+temperature and Fortuin--Kasteleyn clusters at $T_c$, the number of surfaces of
+genus $g$ and area $A$ behaves as $A^{x(g)}e^{-\mu(g)A}$, with $x$
+approximately linear in $g$ and $\mu$ constant. These scaling laws are the same
+as those we obtain for simulations of 3--$d$ bond percolation. We observe that
+cross--sections of spin domain boundaries at $T_c$ decompose into a
+distribution $N(l)$ of loops of length $l$ that scales as $l^{-\tau}$ with
+$\tau \sim 2.2$. We also present some new numerical results for 2--$d$
+self-avoiding loops that we compare with analytic predictions. We address the
+prospects for a string--theoretic description of cluster boundaries.
+","[{""version"":""v1"",""created"":""Fri, 14 Apr 1995 17:32:06 GMT""}]","2009-10-28"
+"hep-th/9504077","Sergei Ketov","S. James Gates Jr. (U. of Maryland) and Sergei V. Ketov (U. of
+  Hannover)","2D (4,4) Hypermultiplets","13 pages, macros included; revised: a few references added","Phys.Lett. B418 (1998) 111-118","10.1016/S0370-2693(97)01504-9","ITP-UH-15/95 and UMDEPP 95-116, April 1995","hep-th",,"  The structure of on-shell and off-shell 2D, (4,4) supersymmetric scalar
+multiplets is investigated, in components and in superspace. We reach the
+surprising result that there exist eight {\underline {distinct}} on-shell
+versions and an even greater variety of off-shell ones. The off-shell
+generalised tensor and relaxed N = 4 multiplets are introduced in superspace,
+and their universal invariant self-interaction is constructed.
+","[{""version"":""v1"",""created"":""Sat, 15 Apr 1995 15:24:07 GMT""},{""version"":""v2"",""created"":""Wed, 19 Apr 1995 15:58:07 GMT""}]","2009-10-28"
+"math/9504220","Shelah Office","Renling Jin, Saharon Shelah","Can a small forcing create Kurepa trees?",,"Ann. Pure Appl. Logic 85 (1997), 47--68",,"Shelah [JiSh:563]","math.LO",,"  In the paper we probe the possibilities of creating a Kurepa tree in a
+generic extension of a model of CH plus no Kurepa trees by an
+omega_1-preserving forcing notion of size at most omega_1. In the first section
+we show that in the Levy model obtained by collapsing all cardinals between
+omega_1 and a strongly inaccessible cardinal by forcing with a countable
+support Levy collapsing order many omega_1-preserving forcing notions of size
+at most omega_1 including all omega-proper forcing notions and some proper but
+not omega-proper forcing notions of size at most omega_1 do not create Kurepa
+trees. In the second section we construct a model of CH plus no Kurepa trees,
+in which there is an omega-distributive Aronszajn tree such that forcing with
+that Aronszajn tree does create a Kurepa tree in the generic extension. At the
+end of the paper we ask three questions.
+","[{""version"":""v1"",""created"":""Sat, 15 Apr 1995 00:00:00 GMT""}]","2016-09-06"
+"math/9504221","Shelah Office","James Cummings, Mirna D\v{z}amonja, Saharon Shelah","A consistency result on weak reflection",,"Fund. Math. 148 (1995), 91--100",,"Shelah [CDSh:571]","math.LO",,"  In this paper we study the notion of strong non-reflection, and its
+contrapositive weak reflection. We say theta strongly non-reflects at lambda
+iff there is a function F: theta ---> lambda such that for all alpha < theta
+with cf(alpha)= lambda there is C club in alpha such that F restriction C is
+strictly increasing. We prove that it is consistent to have a cardinal theta
+such that strong non-reflection and weak reflection each hold on an unbounded
+set of cardinals less than theta .
+","[{""version"":""v1"",""created"":""Sat, 15 Apr 1995 00:00:00 GMT""}]","2009-09-25"
+"q-alg/9504008","Chongying Dong","Chongying Dong, Haisheng Li and Geoffrey Mason","Simple currents and extensions of vertex operator algebras","Latex, 41 pages; One important reference is added plus some minor
+  changes",,"10.1007/BF02099628",,"q-alg hep-th math.QA",,"  We consider how a vertex operator algebra can be extended to an abelian
+intertwining algebra by a family of weak twisted modules which are {\em simple
+currents} associated with semisimple weight one primary vectors. In the case
+that the extension is again a vertex operator algebra, the rationality of the
+extended algebra is discussed. These results are applied to affine Kac-Moody
+algebras in order to construct all the simple currents explicitly (except for
+$E_8$) and to get various extensions of the vertex operator algebras associated
+with integrable representations.
+","[{""version"":""v1"",""created"":""Fri, 14 Apr 1995 22:32:39 GMT""},{""version"":""v2"",""created"":""Wed, 19 Apr 1995 20:22:25 GMT""}]","2009-10-28"
+"quant-ph/9504011","Karol Grudzinski","Hubert Grudzinski (Institute of Physics, Nicholas Copernicus
+  University, Torun, Poland)","The N-representability problem, the pseudo-spectral decomposition of
+  antisymmetric 1-body operators, and collective behaviour","28 pages, compressed and uuencoded Postscript, 2 figures",,"10.1016/0034-4877(96)89765-5",,"quant-ph supr-con",,"  The pseudo--spectral decomposition of an $N$--particle antisymmetric 1--body
+positive--semidefinite operator that corresponds to the canonical convex
+decomposition into the extreme elements of the dual cone of the set of fermion
+$N$--representable $1$--density operators has been derived. An attempt at
+constucting a mathematical model for collective behaviour of a system of
+$N$--fermions that originates from the pseudo--spectral decomposition is
+presented.
+","[{""version"":""v1"",""created"":""Sat, 15 Apr 1995 15:13:33 GMT""}]","2009-10-28"

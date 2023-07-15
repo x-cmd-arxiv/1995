@@ -1,0 +1,350 @@
+"adap-org/9503002","Kelvin Chan","N. E. Israeloff, M. Kagalenko, and K. Chan (Northeastern University)","Comment on ""Linguistic Features of Noncoding DNA Sequences""","2 Pages Latex, one figure (PS) available separately, contact the
+  Authors",,,,"adap-org nlin.AO q-bio",,"  In a recent Physical Review Letter, Mantegna et. al., report that certain
+statistical signatures of natural language can be found in non-coding DNA
+sequences. In this comment we show that random noise with power-law correlation
+similar to $1/f$ noise, exhibits the same ""linguistic"" signature as those found
+in non-coding DNA. We conclude that these signatures cannot distinguish
+languages from noise.
+","[{""version"":""v1"",""created"":""Sat, 18 Mar 1995 04:44:04 GMT""},{""version"":""v2"",""created"":""Sat, 25 Mar 1995 01:07:26 GMT""}]","2008-02-03"
+"alg-geom/9503009","Bozidar Ilic","Bo Ilic","Geometric Properties of the Double-Point Divisor","31 pages. AMSTeX with amsppt",,,,"alg-geom math.AG",,"  Let $X^n \subset P^N$ be a nonsingular, nondegenerate projective variety of
+dimension $n$ and codimension $N-n \ge 2$. Let $|C_X|$ be the linear system
+determined by the double-point divisor obtained by generically projecting $X$
+to a hypersurface in $P^{n+1}$. We classify those varieties for which $C_X$ is
+not ample, or equivalently, does not separate points of $X$. We call such
+varieties Roth varieties and prove that they exist for all dimensions $n \ge 2$
+and give a description of their properties. For example, in many cases Roth
+varieties are Castelnuovo varieties. Positivity results for the double-point
+divisor are analogous to positivity results for the ramification divisor which
+are studied in adjunction theory.
+","[{""version"":""v1"",""created"":""Fri, 17 Mar 1995 17:11:19 GMT""}]","2008-02-03"
+"astro-ph/9503073","Tereasa Brainerd","Tereasa Brainerd, Roger Blandford, and Ian Smail","MEASURING GALAXY MASSES USING GALAXY-GALAXY GRAVITATIONAL LENSING","uuencoded, compressed PostScript; 26 pages (6 figures included)","Astrophys.J. 466 (1996) 623","10.1086/177537","LANL-TGB-9501","astro-ph",,"  We report a significant detection of weak, tangential distortion of the
+images of cosmologically distant, faint galaxies due to gravitational lensing
+by foreground galaxies. A mean image polarisation of $<p>=0.011\pm 0.006$ is
+measured for 3202 pairs of source galaxies with magnitudes $23< r \le 24$ and
+lens galaxies with magnitudes $20\le r\le 23$. The signal remains strong for
+lens-source separations $\lo 90''$, consistent with quasi-isothermal galaxy
+halos extending to large radii ($\go 100h^{-1}$ kpc). Our observations thus
+provide the first evidence from weak gravitational lensing of large scale dark
+halos associated with individual galaxies. The observed polarisation is also
+consistent with the signal expected on the basis of simulations incorporating
+measured properties of local galaxies and modest extrapolations of the observed
+redshift distribution of faint galaxies. From the simulations we derive a
+best-fit halo circular velocity of $V\sim 220$ km/s and characteristic radial
+extent of $s \go 100h^{-1}$ kpc. Our best-fit halo parameters imply typical
+masses for the lens galaxies within a radius of $100h^{-1}$ kpc on the order of
+$1.0^{+1.1}_{-0.7}\times 10^{12}h^{-1} M_\odot$, in good agreement with recent
+dynamical estimates of the masses of local spiral galaxies. This is
+particularly encouraging as the lensing and dynamical mass estimators rely on
+different sets of assumptions. Contamination of the gravitational lensing
+signal by a population of tidally distorted satellite galaxies can be ruled out
+with reasonable confidence. The prospects for corroborating and improving this
+measurement seem good, especially using deep HST archival data.
+","[{""version"":""v1"",""created"":""Fri, 17 Mar 1995 21:28:52 GMT""}]","2016-08-30"
+"cond-mat/9503098","Roland Preuss","W. von der Linden, R. Preuss, and W. Hanke","Consistent Application of Maximum Entropy to Quantum-Monte-Carlo Data","13 pages, RevTeX, 2 uuencoded PostScript figures",,"10.1088/0953-8984/8/21/013",,"cond-mat",,"  Bayesian statistics in the frame of the maximum entropy concept has widely
+been used for inferential problems, particularly, to infer dynamic properties
+of strongly correlated fermion systems from Quantum-Monte-Carlo (QMC) imaginary
+time data. In current applications, however, a consistent treatment of the
+error-covariance of the QMC data is missing. Here we present a closed Bayesian
+approach to account consistently for the QMC-data.
+","[{""version"":""v1"",""created"":""Fri, 17 Mar 1995 16:50:12 GMT""}]","2016-08-31"
+"cond-mat/9503099",,"Thadeu J.P. Penna","A Bit-String Model for Biological Aging","LaTeX file, 4 PS figures included",,"10.1007/BF02180147","IFUFF-002/95","cond-mat q-bio",,"  We present a simple model for biological aging. We studied it through
+computer simulations and we have found this model to reflect some features of
+real populations.
+","[{""version"":""v1"",""created"":""Fri, 17 Mar 1995 19:56:28 GMT""}]","2009-10-28"
+"cond-mat/9503100",,"T.J.P.Penna and D.Stauffer","Efficient Monte Carlo Simulation of Biological Aging","PostScript file to appear in Int.J.Mod.Phys.C",,"10.1142/S0129183195000186","IFUFF-006/95","cond-mat q-bio",,"  A bit-string model of biological life-histories is parallelized, with
+hundreds of millions of individuals. It gives the desired drastic decay of
+survival probabilities with increasing age for 32 age intervals.
+","[{""version"":""v1"",""created"":""Fri, 17 Mar 1995 20:01:30 GMT""}]","2015-06-25"
+"cond-mat/9503101",,"C.G. Carvalhaes, A.T. Costa Jr. and T.J.P. Penna","Preprocessing in Attractor Neural Networks","to appear in Int.J.Mod.Phys.C, PostScript file",,"10.1142/S0129183195000022","IFUFF-019/95","cond-mat",,"  Preprocessing the input patterns seems the simplest approach to invariant
+pattern recognition by neural networks. The Fourier transform has been proposed
+as an appropriate and elegant preprocessor. Nevertheless, we show in this work
+that the performance of this kind of preprocessor is strongly affected by the
+number of stored informations. This is because the phase of the Fourier
+transform plays a more important role than the amplitude in the recognition
+process.
+","[{""version"":""v1"",""created"":""Fri, 17 Mar 1995 20:06:29 GMT""}]","2015-06-25"
+"cond-mat/9503102","Paulo Murilo C. Oliveira","P.M.C. de Oliveira, S.M. Moss de Oliveira, C.E. Cordeiro and D.
+  Stauffer","FINITE SIZE SCALING FOR FIRST ORDER TRANSITIONS: POTTS MODEL","5 pages, plain tex, 5 EPS figures, in file POTTS.UU (uufiles)",,"10.1007/BF02179879","UFF-004/95, to appear in J. Stat. Phys.","cond-mat",,"  The finite-size scaling algorithm based on bulk and surface renormalization
+of de Oliveira (1992) is tested on q-state Potts models in dimensions D = 2 and
+3. Our Monte Carlo data clearly distinguish between first- and second-order
+phase transitions. Continuous-q analytic calculations performed for small
+lattices show a clear tendency of the magnetic exponent Y = D - beta/nu to
+reach a plateau for increasing values of q, which is consistent with the
+first-order transition value Y = D. Monte Carlo data confirm this trend.
+","[{""version"":""v1"",""created"":""Fri, 17 Mar 1995 20:55:51 GMT""}]","2016-08-31"
+"cond-mat/9503103","Rolf Heid","R. Heid","On the Thermodynamic Stability of Odd-Frequency Superconductors","10 pages, REVTEX 3.0, accepted for publication in Z. Phys. B",,"10.1007/s002570050003",,"cond-mat",,"  The thermodynamic stability of odd-frequency pairing states is investigated
+within an Eliashberg-type framework. We find the rigorous result that in the
+weak coupling limit a continuous transition from the normal state to a
+spatially homogeneous odd-in-$\omega$ superconducting state is forbidden,
+irrespective of details of the pairing interaction and of the spin symmetry of
+the gap function. For isotropic systems, it is shown that the inclusion of
+strong coupling corrections does not invalidate this result. We discuss a few
+scenarios that might escape these thermodynamic constraints and permit stable
+odd-frequency pairing states.
+","[{""version"":""v1"",""created"":""Fri, 17 Mar 1995 21:31:43 GMT""}]","2016-08-31"
+"cond-mat/9503104","Steven White","Steven R. White","Equivalence of the antiferromagnetic Heisenberg ladder to a single $S=1$
+  chain","10 pages, 5 postscript figures",,"10.1103/PhysRevB.53.52",,"cond-mat",,"  I introduce two continuous transformations between the $S=1$ Heisenberg chain
+and the antiferromagnetic $S=1/2$ Heisenberg ladder. Both transformations
+couple diagonally situated {\it next nearest neighbor} $S=1/2$'s to form each
+$S=1$. Using the density matrix renormalization group, I demonstrate that the
+two systems are in the same phase. Furthermore, I find that the hidden
+topological long-range order characterizing the $S=1$ system is even stronger
+in the isotropic two-chain system.
+","[{""version"":""v1"",""created"":""Fri, 17 Mar 1995 23:51:55 GMT""}]","2016-08-31"
+"cond-mat/9503105","J. Sauls","J. A. Sauls (Northwestern University)","Effects of Magnetic Order on the Upper Critical Field of UPt$_3$","9 pages in a RevTex (3.0) file plus 2 postscript figures (uuencoded).
+  Submitted to Physical Review B (December 20, 1994).","Phys. Rev. B 53 (1996) 8543","10.1103/PhysRevB.53.8543",,"cond-mat",,"  I present a Ginzburg-Landau theory for hexagonal oscillations of the upper
+critical field of UPt$_3$ near $T_c$. The model is based on a $2D$
+representation for the superconducting order parameter,
+$\vec{\eta}=(\eta_1,\eta_2)$, coupled to an in-plane AFM order parameter,
+$\vec{m}_s$. Hexagonal anisotropy of $H_{c2}$ arises from the weak in-plane
+anisotropy energy of the AFM state and the coupling of the superconducting
+order parameter to the staggered field. The model explains the important
+features of the observed hexagonal anisotropy [N. Keller, {\it et al.}, Phys.
+Rev. Lett. {\bf 73}, 2364 (1994).] including: (i) the small magnitude, (ii)
+persistence of the oscillations for $T\rightarrow T_c$, and (iii) the change in
+sign of the oscillations for $T> T^{*}$ and $T< T^{*}$ (the temperature at the
+tetracritical point). I also show that there is a low-field crossover
+(observable only very near $T_c$) below which the oscillations should vanish.
+","[{""version"":""v1"",""created"":""Sat, 18 Mar 1995 04:12:35 GMT""}]","2016-08-31"
+"cond-mat/9503106","J. Sauls","M. J. Graf, Mario Palumbo, D. Rainer (Universit\""at Bayreuth), J. A.
+  Sauls (Northwestern University)","Infrared Conductivity in Layered $d$-wave Superconductors","18 pages in a RevTex (3.0) file plus 5 postscript figures
+  (uuencoded). Replaced with minor changes as it will appear in the Physical
+  Review B {\bf 52} issue 1 Oct. 1995","Phys. Rev. B 52 (1995) 10588","10.1103/PhysRevB.52.10588",,"cond-mat",,"  We calculate the infrared conductivity of a stack of coupled, two-dimensional
+superconducting planes within the Fermi liquid theory of superconductivity. We
+include the effects of random scattering processes and show that the presence
+of even a small concentration of resonant impurities, in a $d$-wave
+superconductor, has an important effect on both the in-plane and $c$-axis
+transport properties, which could serve as signatures for $d$-wave pairing.
+","[{""version"":""v1"",""created"":""Sat, 18 Mar 1995 04:56:26 GMT""},{""version"":""v2"",""created"":""Sat, 16 Sep 1995 18:47:18 GMT""}]","2009-10-28"
+"gr-qc/9503032","Erick J. Weinberg","Erick J. Weinberg,","Magnetically Charged Black Holes with Hair","45 pages; 3 figures available as .uu file",,,"CU-TP-672","gr-qc hep-th",,"  In these lectures the properties of magnetically charged black holes are
+described. In addition to the standard Reissner-N\""ordstrom solution, there are
+new types of static black holes that arise in theories containing electrically
+charged massive vector mesons. These latter solutions have nontrivial matter
+fields outside the horizon; i.e., they are black holes with hair. While the
+solutions carrying unit magnetic charge are spherically symmetric, those with
+more than two units of magnetic charge are not even axially symmetric. These
+thus provide the first example of time-independent black hole solutions that
+have no rotational symmetry.
+","[{""version"":""v1"",""created"":""Fri, 17 Mar 1995 19:03:18 GMT""}]","2016-08-31"
+"hep-ex/9503012",,"S. Abachi, et al. (D0 Collaboration)","Search for $W$ boson pair production in $p\bar{p}$ collisions at
+  $\sqrt{s}~=~1.8~$~TeV","14 pages, 1 table, and 2 figures","Phys.Rev.Lett.75:1023-1027,1995","10.1103/PhysRevLett.75.1023","Fermilab-Pub-95-044-E, Submitted to PRL","hep-ex",,"  The results of a search for $W$ boson pair production in $p\bar{p}$
+collisions at $\sqrt{s}=1.8$ TeV with subsequent decay to dilepton ($e\mu, ee
+$, and $\mu\mu$) channels are presented. One event is observed with an expected
+background of $0.56\pm0.13$ events with an integrated luminosity of
+approximately 14 pb$^{-1}$. %$13.9\pm1.7$ pb$^{-1}$. Assuming equal strengths
+for the $WWZ$ and $WW\gamma$ gauge boson coupling parameters $\kappa$ and
+$\lambda$, limits on the CP-conserving anomalous coupling constants are
+$-2.6<\Delta\kappa<2.8$ and $-2.2<\lambda<2.2$ at the 95% confidence level.
+","[{""version"":""v1"",""created"":""Fri, 17 Mar 1995 21:18:57 GMT""}]","2008-11-26"
+"hep-ex/9503013","Mark W. Bailey","F. Abe, et al. (The CDF Collaboration)","Measurement of the $B$ Meson Differential Cross Section, $d\sigma/dp_T$,
+  in $p\bar{p}$ Collisions at $\sqrt{s} = 1.8$ TeV","14 pages. Submitted to Phys. Rev. Lett. The postscript file is at
+  http://www-cdf.fnal.gov/physics/pub95/cdf2893_bexcl_xsection.ps","Phys.Rev.Lett.75:1451-1455,1995","10.1103/PhysRevLett.75.1451","FERMILAB-Pub-95/48-E","hep-ex",,"  This paper presents the first direct measurement of the $B$ meson
+differential cross section, $d\sigma/dp_T$, in $p\bar{p}$ collisions at
+$\sqrt{s}=1.8$ TeV using a sample of $19.3 \pm 0.7$ pb$^{-1}$ accumulated by
+the Collider Detector at Fermilab (CDF). The cross section is measured in the
+central rapidity region $|y| < 1$ for $p_T(B) > 6.0$ GeV/$c$ by fully
+reconstructing the $B$ meson decays $B^{+}\to J/\psi K^{+}$ and $B^{0}\to
+J/\psi K^{*0}(892)$, where $J/\psi \to \mu^+\mu^-$ and $K^{*0} \to K^+ \pi^-$.
+A comparison is made to the theoretical QCD prediction calculated at
+next-to-leading order.
+","[{""version"":""v1"",""created"":""Sat, 18 Mar 1995 11:26:07 GMT""},{""version"":""v2"",""created"":""Sat, 18 Mar 1995 17:04:58 GMT""}]","2010-05-12"
+"hep-ph/9503362","Sandro AMBROSANIO-Univ. Roma1","S.Ambrosanio and B.Mele","Neutralino Production as SuSy Discovery Process at CERN LEP2","37 pages, no figures, REVTeX. A gzipped postscript file of the
+  complete paper (48 pages, 24 figs) is available via anonymous ftp at
+  ftp://hpteo.roma1.infn.it/pub/preprints/ambr-mele/Rome1-1094.ps.gz (2.7Mb -->
+  16 Mb). Error in Higgs couplings corrected. Some comments and 3 figures
+  added. In press in Phys. Rev. D","Phys.Rev. D52 (1995) 3900-3918","10.1103/PhysRevD.52.3900","ROME1-1094/95","hep-ph",,"  A thorough study is performed on pair production and signatures of
+supersymmetric neutralinos in the MSSM at LEP2. Particular attention is paid to
+the region of the SuSy parameter space where the associated production of
+lightest and next-to-lightest neutralinos is the only visible allowed
+supersymmetric process. In that region, the signal is critically dependent on
+the selectron masses m(e_L,R). For sqrt(s)/2 < m(e_L,R) < 200-300 GeV and
+charginos above the threshold for pair production, neutralinos arising from
+e+e- --> X0(1)X0(2) could be the only SuSy signal detectable at LEP2.
+","[{""version"":""v1"",""created"":""Fri, 17 Mar 1995 18:30:33 GMT""},{""version"":""v2"",""created"":""Wed, 2 Aug 1995 13:14:04 GMT""}]","2009-10-28"
+"hep-ph/9503363","Masato Jimbo","Masato JIMBO, Hidekazu TANAKA, Toshiaki KANEKO, Tadashi KON and
+  MINAMI-TATEYA collaboration","The SUSY-GRACE system","total 7 pages",,,"TMCP-95-1","hep-ph",,"  We introduce a new method to treat Majorana fermions on the GRACE system
+which has been developed for the computation of the matrix elements for the
+processes of the standard model. In the standard model, we already have such
+particles as Dirac fermions, gauge bosons and scalar bosons in the system. On
+the other hand, in the SUSY models there are Majorana fermions. In the first
+instance, we have constructed a system for the automatic computation of
+cross-sections for the processes of the SUSY QED. It is remarkable that our
+system is also applicable to another model including Majorana fermions (e.g.
+MSSM) once the definition of the model file is given.
+","[{""version"":""v1"",""created"":""Fri, 17 Mar 1995 17:54:29 GMT""}]","2016-09-01"
+"hep-ph/9503364","Masato Jimbo","Masato Jimbo, Tadashi Kon and Minami-Tateya collaboration","The automatic computation for SUSY processes","total 4 pages",,"10.24532/soken.92.1_A31","TMCP-95-2","hep-ph",,"  We have constructed a system for the automatic computation of cross-sections
+for the processes of the SUSY QED by the extension of the GRACE system
+including a Majorana fermion. The system has also been applied to another model
+including Majorana fermions, MSSM, by the definition of the model file.
+","[{""version"":""v1"",""created"":""Fri, 17 Mar 1995 18:23:20 GMT""},{""version"":""v2"",""created"":""Fri, 17 Mar 1995 18:30:35 GMT""}]","2023-05-08"
+"hep-ph/9503365","Masato Jimbo","Masato JIMBO and MINAMI-TATEYA collaboration","The GRACE system for SUSY processes","total 10 pages",,,"TMCP-95-3","hep-ph",,"  We introduce a new method to treat Majorana fermions on the GRACE system
+which has been developed for the automatic computation of the matrix elements
+for the processes of the standard model. In the GRACE system, we already have
+such particles as Dirac fermions, gauge bosons and scalar bosons within the
+standard model. On the other hand, in the SUSY models there are Majorana
+fermions. In the first instance, we have constructed a system for the automatic
+computation of cross-sections for the processes of the SUSY QED. The system has
+also been applied to another model including Majorana fermions, the minimal
+SUSY standard model (MSSM), by the re-definition of the model file.
+","[{""version"":""v1"",""created"":""Fri, 17 Mar 1995 18:39:24 GMT""}]","2016-09-01"
+"hep-ph/9503366",,"Zurab Berezhiani","SUSY SU(6) GIFT for doublet-triplet splitting and fermion masses","15 pages, LATEX, 4 figures are included","Phys.Lett. B355 (1995) 481-491","10.1016/0370-2693(95)00705-P","INFN-FE 02-95","hep-ph",,"  The supersymmetric $SU(6)$ model equipped by the flavour-blind discrete gauge
+symmetry $Z_3$ is considered. It provides simultaneous solution to the
+doublet-triplet splitting problem, $\mu$-problem and leads to natural
+understanding of fermion flavour. The Higgs doublets arise as Goldstone modes
+of the spontaneously broken {\em accidental} global symmetry $SU(6)\times U(6)$
+of the Higgs superpotential. Their couplings to fermions have peculiarities
+leading to the consistent picture of the quark and lepton masses and mixing,
+without invoking the horizontal symmetry or zero texture concepts. In
+particular, the only particle that has direct $O(1)$ Yukawa coupling with the
+Higgs doublet is top quark. Other fermion masses arise from the higher order
+operators, with natural mass hierarchy described in terms of small ratios
+$\eps_\Sigma=V_\Sigma/V_H$ and $\eps_H=V_H/M$, where $V_H$ and $V_\Sigma$
+correspondingly are the $SU(6)$ and $ SU(5)$ symmetry breaking scales, and $M$
+is a large (Planck or string) scale. The model automatically implies $b-\tau$
+Yukawa unification. Specific mass formulas are also obtained, relating the down
+quark and charged lepton masses. Neutrinos get small ($\sim 10^{-5}\,$eV)
+masses which can be relevant for solving the solar neutrino problem via long
+wavelength vacuum oscillation.
+","[{""version"":""v1"",""created"":""Fri, 17 Mar 1995 19:54:40 GMT""}]","2016-09-01"
+"hep-ph/9503367",,"Zurab Berezhiani and Enrico Nardi","Realistic SUSY model with four fermion families, natural R parity and
+  $\nu_\tau$ in the eV Range","12 pages, LATEX","Phys.Lett. B355 (1995) 199-208","10.1016/0370-2693(95)00729-5","INFN-FE 03-95, WIS-95/12/Mar-PH","hep-ph",,"  We study an extension of the supersymmetric standard model with four families
+and gauged horizontal symmetry $SU(4)_H$, in which R parity automatically
+follows as a consequence of gauge invariance and of the field content of the
+model. Beyond ensuring R parity conservation, the horizontal symmetry allows
+for the dynamical generation of a hierarchical pattern of fermion masses,
+without the need of any ad hoc choice of small Yukawa couplings. The structure
+of the mass matrices implies that the fourth family does not mix with the other
+three, and that the $b',t',\tau',\nu'$ masses are all naturally in the 100 GeV
+range. The model has other interesting phenomenological implications. The scale
+of the horizontal symmetry breaking is constrained by cosmological and
+astrophysical arguments to be $\sim 10^{11}$ GeV. Then the late $b'$ decays
+could explain a magnitude of the isotropic cosmic gamma flux. In addition, a
+lower bound of a few eV is found for the mass of the $\tau$-neutrino, which can
+thus provide a hot component for the cosmological dark matter. Due to R parity
+conservation, the lightest supersymmetric particle is stable and can provide
+the cold component. The $\nu_e$ and $\nu_\mu$ masses can naturally be in the
+correct ranges for a solution of the solar or atmospheric neutrino problems via
+neutrino oscillations.
+","[{""version"":""v1"",""created"":""Fri, 17 Mar 1995 19:24:20 GMT""}]","2016-09-01"
+"hep-ph/9503368",,"John D. Anderson, Eunice L. Lau, Timothy P. Krisher, Duane A. Dicus,
+  Doris C. Rosenbaum and Vigdor L. Teplitz","Improved bounds on non-luminous matter in solar orbit","23 pages, Latex",,"10.1086/176017","CPP-93-18","hep-ph",,"  We improve, using a larger set of observations including Voyager 2 Neptune
+flyby data, previous bounds on the amount of dark matter (DM) trapped in a
+spherically symmetric distribution about the sun. We bound DM by noting that
+such a distribution would increase the effective mass of the sun as seen by the
+outer planets and by finding the uncertainty in that effective mass for Uranus
+and Neptune in fits to the JPL Developmental Ephermeris residuals, including
+optical data and those two planets' Voyager 2 flybys. We extend our previous
+procedure by fitting more parameters of the developmental ephemerides.
+Additionally, we present here the values for Pioneer 10 and 11 and Voyager 1
+and 2 Jupiter ranging normal points (and incorporate these data as well). Our
+principal result is to limit DM in spherically symmetric distributions in orbit
+about the sun interior to Neptune's orbit to less than an earth mass and
+interior to Uranus' orbit to about 1/6 of an earth's mass.
+","[{""version"":""v1"",""created"":""Fri, 17 Mar 1995 21:01:26 GMT""}]","2016-09-01"
+"hep-ph/9503369",,"Sandip Pakvasa","NEUTRINO OSCILLATIONS WITH BEAMS FROM AGN'S AND GRB'S","5 pages, latex, no figures",,,"UH-511-821-95","hep-ph",,"  I discuss how a 1 KM3 neutrino detector can be used to study $\nu_\tau$
+oscillations at PeV energies with neutrinos from AGN's and to study neutrinos
+from GRB's.
+","[{""version"":""v1"",""created"":""Fri, 17 Mar 1995 23:29:03 GMT""}]","2016-09-01"
+"hep-ph/9503370","PostDoc Its","N.G. Deshpande and Xiao-Gang He","HADRONIC PENGUINS IN $B$ DECAYS AND EXTRACTION OF $\alpha$, $\beta$ AND
+  $\gamma$","3 pages, Talk presented at the Beyond the Standard Model IV, Lake
+  Tahoe, California, December 13 - 18, 1994",,,"OITS-572","hep-ph",,"  Electroweak penguin operators become important when $m_t \approx 174$ GeV. We
+discuss their implications for measuring CP violating phases $\alpha$, $\beta$
+and $\gamma$.
+","[{""version"":""v1"",""created"":""Fri, 17 Mar 1995 23:55:41 GMT""}]","2016-09-01"
+"hep-ph/9503371","PostDoc Its","Xiao-Gang He","TEST OF CP VIOLATION IN NON-LEPTONIC HYPERON DECAYS","3 pages. Talk presented at the Beyond the Standard Model IV, Lake
+  Tahoe, California, December 13 - 18, 1994",,,"OITS-573","hep-ph",,"  In this talk I discuss CP violation in hyperon decays in Left-Right symmetric
+models. I show that the asymmetry in polarization in $\Lambda \to p\pi^-$ can
+be as large as $6\times 10^{-4}$ in these models, which is an order of
+magnitude larger than the Standard Model prediction.
+","[{""version"":""v1"",""created"":""Sat, 18 Mar 1995 00:05:58 GMT""}]","2016-09-01"
+"hep-ph/9503372","Papageorgiu","E. Papageorgiu","An intermediate-mass Higgs boson in two-photon coherent processes at the
+  LHC","10 pages of LATEX + 3 Figures (postscript)","Phys.Lett. B352 (1995) 394-399","10.1016/0370-2693(95)00434-M","LPTHE-ORSAY 95-03","hep-ph",,"  We reexamine the prospects of searching for a neutral Higgs boson in the
+intermediate-mass range, using the proton- and ion-beam facilities of the LHC
+to study coherent two-photon processes. Considering realistic design
+luminosities for the different ion beams, we find that beams of light-to-medium
+size ions like calcium will give the highest production rates. With a suitable
+trigger and assuming a b-quark identification efficiency of $30\%$ and a
+$b{\bar b}$ mass resolution of 10 GeV one could expect to see a Higgs signal in
+the $b{\bar b}$ channel with a 3-4 $\sigma$ statistical significance in the
+first phase of operation of the LHC with beams of calcium.
+","[{""version"":""v1"",""created"":""Sat, 18 Mar 1995 01:57:26 GMT""}]","2016-09-01"
+"hep-ph/9503373",,"A. Brandenburg, L. Dixon and Y. Shadmi","TRIPLE-PRODUCT SPIN-MOMENTUM CORRELATIONS IN POLARIZED Z DECAYS TO THREE
+  JETS.","4 pages, LaTeX file. One figure not included available upon request
+  from yael@slacvm.slac.stanford.edu. Text with encapsulated figures also
+  available in postscript form by anonymous ftp from
+  ftp://preprint.slac.stanford.edu/preprints/hep-ph/9503 . Talk given at the
+  4th International Conference on Physics Beyond the Standard Model, Lake
+  Tahoe, CA, December 94, by Y. S.",,,"SLAC--PUB--6785","hep-ph",,"  We discuss hard rescattering effects that can be measured using CP-even,
+T$_{\rm N}$-odd triple-product observables in polarized $Z$ decays to three
+jets. We show that the standard model contributions, from both QCD and
+electroweak rescattering, are very small. Thus these measurements are
+potentially sensitive to physics beyond the standard model. We investigate one
+such contribution which involves a new gauge boson coupling to baryon number.
+","[{""version"":""v1"",""created"":""Sat, 18 Mar 1995 01:08:00 GMT""},{""version"":""v2"",""created"":""Sat, 18 Mar 1995 01:39:00 GMT""}]","2008-02-03"
+"hep-ph/9503374",,"Fu-guang Cao, Tao Huang and Chuan-wang Luo","Re-examination of the Perturbative Pion Form Factor with Sudakov
+  Suppression","11 pages, LaTex file, 2 figures as uu-encoded postscript file.","Phys.Rev.D52:5358-5361,1995","10.1103/PhysRevD.52.5358","BIHEP-TH-94-45","hep-ph",,"  The perturbative pion form factor with Sudakov suppression is re-examined.
+Taking into account the multi-gluon exchange in the law $Q^2$ regions, we
+suggest that the running coupling constant should be frozen at
+$\alpha_s(t=\sqrt{<{\bf k}_{T}^{2}>})$ and $\sqrt{<{\bf k}_{T}^{2}>}$ is the
+average transverse momentum which can be determined by the pionic wave
+function. In addition, we correct the previous calculations about the Sudakov
+suppression factor which plays an important role in the perturbative
+predictions for the pion form factor.
+","[{""version"":""v1"",""created"":""Sat, 18 Mar 1995 15:53:07 GMT""}]","2016-09-01"
+"hep-th/9503113","Thomas","Scott Thomas","Moduli Inflation from Dynamical Supersymmetry Breaking","14 pages, latex, improved discussion of reheating for composite
+  inflatons","Phys.Lett. B351 (1995) 424-430","10.1016/0370-2693(95)00417-J","SLAC-PUB-6762","hep-th astro-ph hep-ph",,"  Moduli fields, which parameterize perturbative flat directions of the
+potential in supersymmetric theories, are natural candidates to act as
+inflatons. An inflationary potential on moduli space can result if the scale of
+dynamical SUSY breaking in some sector of the theory is determined by a moduli
+dependent coupling. The magnitude of density fluctuations generated during
+inflation then depends on the scale of SUSY breaking in this sector. This can
+naturally be hierarchically smaller than the Planck scale in a dynamical model,
+giving small fluctuations without any fine tuning of parameters. It is also
+natural for SUSY to be restored at the minimum of the moduli potential, and to
+leave the universe with zero cosmological constant after inflation. Acceptable
+reheating can also be achieved in this scenario.
+","[{""version"":""v1"",""created"":""Sat, 18 Mar 1995 00:58:25 GMT""},{""version"":""v2"",""created"":""Wed, 14 Jun 1995 04:38:16 GMT""}]","2009-10-28"
+"hep-th/9503114",,"T.Banks, M.Berkooz, G.Moore, S.H.Shenker, P.J.Steinhardt","Modular Cosmology","harvmac, 37 pages, 3 figures as a separate uuencoded tar file","Phys.Rev.D52:3548-3562,1995","10.1103/PhysRevD.52.3548","RU-94-93","hep-th astro-ph hep-ph",,"  An exploratory study of the cosmology of moduli in string theory. Moduli are
+argued to be natural inflaton fields and lead to a robust inflationary
+cosmology in which inflation takes place at the top of domain walls. The
+amplitude of microwave background fluctuations constrains the dynamics
+responsible for inflation to take place at a higher scale than supersymmetry
+breaking. Models explaining this difference in scales and also preventing the
+dilaton from running to infinity are proposed. The problem of dilaton
+domination of the energy density of the universe is not resolved.
+","[{""version"":""v1"",""created"":""Sat, 18 Mar 1995 00:57:25 GMT""}]","2016-09-06"
+"hep-th/9503115",,"D. Finnell and P. Pouliot","INSTANTON CALCULATIONS VERSUS EXACT RESULTS IN 4 DIMENSIONAL SUSY GAUGE
+  THEORIES.","17 pages, uses harvmac.","Nucl.Phys. B453 (1995) 225-239","10.1016/0550-3213(95)00318-M","RU-95-14, SLAC-PUB-95-6768","hep-th",,"  We relate the non-perturbative exact results in supersymmetry to perturbation
+theory using several different methods: instanton calculations at weak or
+strong coupling, a method using gaugino condensation and another method
+relating strong and weak coupling. This allows many precise numerical checks of
+the consistency of these methods, especially the amplitude of instanton
+effects, and of the network of exact solutions in supersymmetry. However, there
+remain difficulties with the instanton computations at strong coupling.
+","[{""version"":""v1"",""created"":""Sat, 18 Mar 1995 02:54:00 GMT""}]","2016-09-06"
+"hep-th/9503116","Kazuo Gouroku","Kazuo Ghoroku","Quantized 2d Dilaton Gravity and Black Holes","12 pages, LaTex","Phys.Lett. B357 (1995) 12-18","10.1016/0370-2693(95)00870-Q","FIT-HE-95-31","hep-th",,"  We have examined a modified dilaton gravity whose action is separable into
+the kinetic and the cosmological terms for the sake of the quantization. The
+black hole solutions survive even in the quantized theory, but the ADM mass of
+the static solution is unbounded from below. Quantum gravitational effect on
+the interacting matter field and the string susceptibility of the dilaton
+gravity are also examined.
+","[{""version"":""v1"",""created"":""Sat, 18 Mar 1995 02:15:04 GMT""}]","2016-09-06"
+"hep-th/9503117",,"M.Alimohammadi and A.Shafei Deh Abad","Quantum group symmetry of the Quantum Hall effect on the non-flat
+  surfaces","8 pages,latex,no figure","J.Phys.A29:559-564,1996","10.1088/0305-4470/29/3/010",,"hep-th",,"  After showing that the magnetic translation operators are not the symmetries
+of the QHE on non-flat surfaces , we show that there exist another set of
+operators which leads to the quantum group symmetries for some of these
+surfaces . As a first example we show that the $su(2)$ symmetry of the QHE on
+sphere leads to $su_q(2)$ algebra in the equator . We explain this result by a
+contraction of $su(2)$ . Secondly , with the help of the symmetry operators of
+QHE on the Pioncare upper half plane , we will show that the ground state wave
+functions form a representation of the $su_q(2)$ algebra .
+","[{""version"":""v1"",""created"":""Sat, 18 Mar 1995 08:15:17 GMT""},{""version"":""v2"",""created"":""Sun, 19 Mar 1995 06:37:23 GMT""}]","2016-09-06"
+"math/9503219","Kenneth A. Ribet","Kenneth A. Ribet","Galois representations and modular forms","28 pages","Bull. Amer. Math. Soc. (N.S.) 32 (1995) 375-402",,"MSRI 1995-032; Bulletin migration 11/99","math.NT",,"  In this article, I discuss material which is related to the recent proof of
+Fermat's Last Theorem: elliptic curves, modular forms, Galois representations
+and their deformations, Frey's construction, and the conjectures of Serre and
+of Taniyama--Shimura.
+","[{""version"":""v1"",""created"":""Sat, 18 Mar 1995 00:00:00 GMT""}]","2008-02-03"
+"solv-int/9503001","Liu Qing-ping","Q.P. Liu","Supersymmetric Harry Dym Type Equations","4 pages, latex, no figures",,"10.1088/0305-4470/28/8/004","CUMT-MATH-95-01","solv-int nlin.SI",,"  A supersymmetric version is proposed for the well known Harry Dym system. A
+general class super Lax operator which leads to consistent equations is
+considered.
+","[{""version"":""v1"",""created"":""Fri, 17 Mar 1995 16:25:25 GMT""}]","2016-09-08"

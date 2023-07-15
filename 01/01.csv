@@ -1,0 +1,261 @@
+"astro-ph/9412097","Ng Ka Lok","Ka Lok Ng & Kin-Wang Ng, 19 pages, latex, 10 figures, available upon
+  request","Large-angle Polarization of the Cosmic Microwave Background Radiation
+  and Reionization","Changes in the revised version: 1. Below Eq. (2), we demonstrate the
+  method of our numerical work, by adding the evolution equations for the
+  Legendre coefficents for both the scalar and tensor mode pertubations. 2.
+  Below Eq. (9), we added a paragraph on discussing the basis we employed in
+  computing the polarization correlation function. 3. In Sec. 4, we have
+  rewritten the first and second paragraphs, where we illustrate how to the
+  explain the discrepancies with the previous work","Astrophys.J. 456 (1996) 413-421","10.1086/176665","IP-ASTP-24-94","astro-ph",,"  We discuss the effect of matter reionization on the large-angular-scale
+anisotropy and polarization of the cosmic microwave background radiation (CMBR)
+in the standard CDM model. We separate three cases in which the anisotropy is
+induced by pure scalar, pure tensor, and mixed metric perturbations
+respectively. It is found that, if reionization occurs early enough, the
+polarization can reach a detectable level of sequentially $6\%$, $9\%$, and
+$6.5\%$ of the anisotropy. In general, a higher degree of polarization implies
+a dominant contribution from the tensor mode or reionization at high redshift.
+Since early reionization will suppress small-scale CMBR anisotropies and
+polarizations significantly, measuring the polarization on few degree scales
+can be a direct probe of the reionization history of the early universe.
+","[{""version"":""v1"",""created"":""Sat, 31 Dec 1994 16:04:05 GMT""},{""version"":""v2"",""created"":""Thu, 23 Feb 1995 01:00:02 GMT""}]","2009-10-22"
+"cs/9501101",,"T. G. Dietterich, G. Bakiri","Solving Multiclass Learning Problems via Error-Correcting Output Codes","See http://www.jair.org/ for any accompanying files","Journal of Artificial Intelligence Research, Vol 2, (1995),
+  263-286",,,"cs.AI",,"  Multiclass learning problems involve finding a definition for an unknown
+function f(x) whose range is a discrete set containing k &gt 2 values (i.e., k
+``classes''). The definition is acquired by studying collections of training
+examples of the form [x_i, f (x_i)]. Existing approaches to multiclass learning
+problems include direct application of multiclass algorithms such as the
+decision-tree algorithms C4.5 and CART, application of binary concept learning
+algorithms to learn individual binary functions for each of the k classes, and
+application of binary concept learning algorithms with distributed output
+representations. This paper compares these three approaches to a new technique
+in which error-correcting codes are employed as a distributed output
+representation. We show that these output representations improve the
+generalization performance of both C4.5 and backpropagation on a wide range of
+multiclass learning tasks. We also demonstrate that this approach is robust
+with respect to changes in the size of the training sample, the assignment of
+distributed representations to particular classes, and the application of
+overfitting avoidance techniques such as decision-tree pruning. Finally, we
+show that---like the other methods---the error-correcting code technique can
+provide reliable class probability estimates. Taken together, these results
+demonstrate that error-correcting output codes provide a general-purpose method
+for improving the performance of inductive learning programs on multiclass
+problems.
+","[{""version"":""v1"",""created"":""Sun, 1 Jan 1995 00:00:00 GMT""}]","2014-11-17"
+"cs/9501102",,"S. Hanks, D. S. Weld","A Domain-Independent Algorithm for Plan Adaptation","See http://www.jair.org/ for any accompanying files","Journal of Artificial Intelligence Research, Vol 2, (1995),
+  319-360",,,"cs.AI",,"  The paradigms of transformational planning, case-based planning, and plan
+debugging all involve a process known as plan adaptation - modifying or
+repairing an old plan so it solves a new problem. In this paper we provide a
+domain-independent algorithm for plan adaptation, demonstrate that it is sound,
+complete, and systematic, and compare it to other adaptation algorithms in the
+literature. Our approach is based on a view of planning as searching a graph of
+partial plans. Generative planning starts at the graph's root and moves from
+node to node using plan-refinement operators. In planning by adaptation, a
+library plan - an arbitrary node in the plan graph - is the starting point for
+the search, and the plan-adaptation algorithm can apply both the same
+refinement operators available to a generative planner and can also retract
+constraints and steps from the plan. Our algorithm's completeness ensures that
+the adaptation algorithm will eventually search the entire graph and its
+systematicity ensures that it will do so without redundantly searching any
+parts of the graph.
+","[{""version"":""v1"",""created"":""Sun, 1 Jan 1995 00:00:00 GMT""}]","2014-11-17"
+"cs/9501103",,"P. Cichosz","Truncating Temporal Differences: On the Efficient Implementation of
+  TD(lambda) for Reinforcement Learning","See http://www.jair.org/ for any accompanying files","Journal of Artificial Intelligence Research, Vol 2, (1995),
+  287-318",,,"cs.AI",,"  Temporal difference (TD) methods constitute a class of methods for learning
+predictions in multi-step prediction problems, parameterized by a recency
+factor lambda. Currently the most important application of these methods is to
+temporal credit assignment in reinforcement learning. Well known reinforcement
+learning algorithms, such as AHC or Q-learning, may be viewed as instances of
+TD learning. This paper examines the issues of the efficient and general
+implementation of TD(lambda) for arbitrary lambda, for use with reinforcement
+learning algorithms optimizing the discounted sum of rewards. The traditional
+approach, based on eligibility traces, is argued to suffer from both
+inefficiency and lack of generality. The TTD (Truncated Temporal Differences)
+procedure is proposed as an alternative, that indeed only approximates
+TD(lambda), but requires very little computation per action and can be used
+with arbitrary function representation methods. The idea from which it is
+derived is fairly simple and not new, but probably unexplored so far.
+Encouraging experimental results are presented, suggesting that using lambda
+&gt 0 with the TTD procedure allows one to obtain a significant learning
+speedup at essentially the same cost as usual TD(0) learning.
+","[{""version"":""v1"",""created"":""Sun, 1 Jan 1995 00:00:00 GMT""}]","2008-02-03"
+"hep-lat/9412114","Jacek Wosiek","P. Sawicki and J. Wosiek (Jagellonian University, Cracow)","Hubbard Model with Luscher fermions","talk presented at the XII International Symposium LATTICE94,
+  Bielefeld, Germany, September 1994, to appear in the Proceedings. 3 pages,
+  LATEX, required Elsevier espcrc2.sty style file is attached at the end of
+  this LATEX text. Postscript figures included in the latex document with the
+  epsf facility","Nucl.Phys.Proc.Suppl. 42 (1995) 932-934","10.1016/0920-5632(95)00426-A","TPJU-32/94","hep-lat",,"  First applications of the new algorithm simulating dynamical fermions are
+reported. The method reproduces previous results obtained with different
+techniques.
+","[{""version"":""v1"",""created"":""Sat, 31 Dec 1994 16:05:39 GMT""}]","2009-10-28"
+"hep-ph/9412396","G. Domokos and S. Kovesi-Domokos","G. Domokos and S. Kovesi-Domokos (Johns Hopkins Univ)","Field Theoretic Description of High Energy Neutrino Interactions","12 pages, LateX, no macros",,,"JHU-TIPAC-940019","hep-ph",,"  In this paper we begin the development of a formalism for the description of
+high energy neutrino interactions. It is based upon field theory quantized on a
+null plane.
+  We set up the general formalism as well as some techniques needed to perform
+phenomenological calculations. We show that the formalism developed by
+Wolfenstein is recovered at the cost of making two approximations: one has to
+treat the charged lepton fields in the Hartree--Fock approximation and one has
+to take the short distance limit of the Hartree--Fock correlation function. As
+an example, we discuss the resonant interaction of electron neutrinos in an
+electron gas.
+","[{""version"":""v1"",""created"":""Sat, 31 Dec 1994 22:35:08 GMT""}]","2007-05-23"
+"hep-ph/9412397","Jihn E. Kim","Kiwoon Choi, Jihn E. Kim and Gye T. Park","Phenomenology of Soft Terms in the Presence of Nonvanishing Hidden
+  Sector Potential Energy","21 pages, REVTex, 8 figures available as one uuencoded file, 0.15MB,
+  from gtpark@phyb.snu.ac.kr","Nucl.Phys. B442 (1995) 3-20","10.1016/S0550-3213(95)00146-8",,"hep-ph",,"  We argue that the hidden sector potential energy is generically of order the
+intermediate scale although the true cosmological constant does vanish. This
+would significantly change the predicted values of soft parameters for a
+variety of supergravity models including those derived from string theory. We
+stress that this point is particularly relevant for supergravity models in
+which the soft masses of observable fields vanish at tree level. Implications
+of a nonzero hidden sector potential energy for low energy phenomenology are
+also studied.
+","[{""version"":""v1"",""created"":""Sun, 1 Jan 1995 07:00:06 GMT""},{""version"":""v2"",""created"":""Sun, 15 Jan 1995 23:38:45 GMT""}]","2009-10-28"
+"hep-ph/9412398","Nikolai Uraltsev","M. Shifman and N.G. Uraltsev","A Closer Look at Perturbative Corrections in the b->c Semileptonic
+  Transitions","9 pages, no figures, revised: One reference added and some styllistic
+  changes made","Int.J.Mod.Phys.A10:4705-4714,1995","10.1142/S0217751X95002199","TPI-MINN-94/41-T, UMN-TH-1322-94","hep-ph",,"  We comment on two recent calculations of the second order perturbative
+corrections in the heavy flavor semileptonic transitions within the
+Brodsky-Lepage-Mackenzie approach. It is pointed out that the results do not
+show significant enhancement either in the inclusive $b\rightarrow c$ decays or
+in the exclusive amplitudes at zero recoil provided that the expansion
+parameter is chosen in a way appropriate to the kinematics at hand. The values
+of the second-order coefficients inferred from the BLM-type calculations appear
+to be of order unity in the both cases. Thus, in both cases no significant
+uncertainty in extracting $V_{cb}$ can be attributed to perturbative effects.
+The theoretical accuracy is mostly determined by the existing uncertainty in
+$1/m_c^2$ nonperturbative corrections in the exclusive $B\rightarrow D^*$
+amplitude, and, to a lesser extent, by the uncertainty in the estimated value
+of the kinetic energy matrix element $\mu_\pi^2$ in the case of $\Gamma_{\rm
+sl}(b\rightarrow c)$. The theoretical accuracy of the inclusive method of
+determination of $V_{cb}$ seemingly competes with and even exceeds the
+experimental accuracy.
+","[{""version"":""v1"",""created"":""Sun, 1 Jan 1995 03:57:19 GMT""},{""version"":""v2"",""created"":""Mon, 2 Jan 1995 05:30:32 GMT""},{""version"":""v3"",""created"":""Wed, 11 Jan 1995 01:46:45 GMT""}]","2010-11-01"
+"hep-th/9412241","Volovich Igor","L.Accardi, Y.G.Lu and I.Volovich","Non--Commutative (Quantum) Probability, Master Fields and Stochastic
+  Bosonization","38 pages, Tex",,,"CVV-198-94","hep-th math.QA q-alg",,"  In this report we discuss some results of non--commutative (quantum)
+probability theory relating the various notions of statistical independence and
+the associated quantum central limit theorems to different aspects of
+mathematics and physics including: $q$--deformed and free central limit
+theorems; the description of the master (i.e. central limit) field in matrix
+models along the recent Singer suggestion to relate it to Voiculescu's results
+on the freeness of the large $N$ limit of random matrices; quantum stochastic
+differential equations for the gauge master field in QCD; the theory of
+stochastic limits of quantum fields and its applications to stochastic
+bosonization of Fermi fields in any dimensions; new structures in QED such as a
+nonlinear modification of the Wigner semicircle law and the interacting Fock
+space: a natural explicit example of a self--interacting quantum field which
+exhibits the non crossing diagrams of the Wigner semicircle law.
+","[{""version"":""v1"",""created"":""Sat, 31 Dec 1994 18:43:12 GMT""}]","2008-02-03"
+"hep-th/9412244","Theordpt","A. A. Deriglazov","Notes on Lagrangean and Hamiltonian Symmetries","7 pages, LaTeX",,,,"hep-th",,"  The Hamiltonization of local symmetries of the form $\delta q^A =
+\ea{R_a}^A(q,\dot q)$ or $\delta q^A = \dot\ea{R_a}^A (q,\dot q)$ for arbitrary
+Lagrangean model $L(q^A,\dot q^A)$ is considered. We show as the initial
+symmetries are transformed in the transition from $L$ to first order action,
+and then to the Hamiltonian action $S_H=\int{\rm d}\tau(p_A\dot
+q^A-H_0-v^\alpha\Phi_\alpha)$, where $\Phi_\alpha$ are the all (first and
+second class) primary constraints. An exact formulae for local symmetries of
+$S_H$ in terms of the initial generators ${R_a}^A$ and all primary constraints
+$\Phi_\alpha$ are obtained.
+","[{""version"":""v1"",""created"":""Sun, 1 Jan 1995 15:13:09 GMT""}]","2007-05-23"
+"math/9501216",,"Solomon Friedberg, Herv\'e Jacquet","The Fundamental Lemma for the Shalika Subgroup of GL$(4)$",,,,"MSRI 1995-019","math.RT math.NT",,"  The authors establish the fundamental lemma for a relative trace formula.
+This trace formula compares generic automorphic representations of GSp$(4)$
+with automorphic representations of GL$(4)$ which are distinguished with
+respect to a character of the Shalika subgroup, the subgroup of matrices of
+$2\times 2$ block form $$ \pmatrix g&0\\0&g\endpmatrix \pmatrix
+I&0\\X&O\endpmatrix. $$
+  The fundamental lemma, giving the equality of two orbital integrals, amounts
+to a comparison of certain exponential sums arising from these two different
+groups. On the GSp$(4)$ side one has the Kloosterman sums for this group, and
+on the GL$(4)$ side certain, new, relative Kloosterman sums. To show that these
+are equal for each relevant Weyl group element, the authors compute the Mellin
+transforms of the sums and match them in all cases.
+  The file available from the MSRI preprint server gives the first chapter of
+the manuscript. The entire manuscript, 147 pages long, is available as an MSRI
+preprint.
+","[{""version"":""v1"",""created"":""Sun, 1 Jan 1995 00:00:00 GMT""}]","2016-09-06"
+"math/9501224","Alan Edelman","Alan Edelman, Eric Kostlan","How many zeros of a random polynomial are real?","37 pages","Bull. Amer. Math. Soc. (N.S.) 32 (1995) 1-37",,"Bulletin migration 11/99","math.CA",,"  We provide an elementary geometric derivation of the Kac integral formula for
+the expected number of real zeros of a random polynomial with independent
+standard normally distributed coefficients. We show that the expected number of
+real zeros is simply the length of the moment curve $(1,t,\ldots,t^n)$
+projected onto the surface of the unit sphere, divided by $\pi$. The
+probability density of the real zeros is proportional to how fast this curve is
+traced out. We then relax Kac's assumptions by considering a variety of random
+sums, series, and distributions, and we also illustrate such ideas as integral
+geometry and the Fubini-Study metric.
+","[{""version"":""v1"",""created"":""Sun, 1 Jan 1995 00:00:00 GMT""}]","2016-09-06"
+"math/9501225","Peter Borwein","Peter Borwein, Tam\'as Erd\'elyi","M\""untz spaces and Remez inequalities","5 pages","Bull. Amer. Math. Soc. (N.S.) 32 (1995) 38-42",,"Bulletin migration 11/99","math.CA math.FA",,"  Two relatively long-standing conjectures concerning M\""untz polynomials are
+resolved. The central tool is a bounded Remez type inequality for non-dense
+M\""untz spaces.
+","[{""version"":""v1"",""created"":""Sun, 1 Jan 1995 00:00:00 GMT""}]","2009-09-25"
+"math/9501226","Yoav Benyamini","Yaakov Ben Natan, Yoav Benyamini, H{\aa}kan Hedenmalm, Yitzhak Weit","Wiener's Tauberian theorem in L^1(G//K) and harmonic functions in the
+  unit disk","7 pages","Bull. Amer. Math. Soc. (N.S.) 32 (1995) 43-49",,"Bulletin migration 11/99","math.CA",,"  Our main result is to give necessary and sufficient conditions, in terms of
+Fourier transforms, on a closed ideal $I$ in $\loneg$, the space of radial
+integrable functions on $G=SU(1,1)$, so that $I=\loneg$ or $I=\lonez$---the
+ideal of $\loneg$ functions whose integral is zero. This is then used to prove
+a generalization of Furstenberg's theorem which characterizes harmonic
+functions on the unit disk by a mean value property and a ``two circles"" Morera
+type theorem (earlier announced by Agranovski\u{\i}).
+","[{""version"":""v1"",""created"":""Sun, 1 Jan 1995 00:00:00 GMT""}]","2016-09-06"
+"math/9501227","Eugene Gutkin","Eugene Gutkin, Nicolai Haydn","Topological entropy of generalized polygon exchanges","7 pages. Detailed proofs of results announced here have appeared in
+  Ergodic Theory Dynam. Systems 17 (1997), 849-867","Bull. Amer. Math. Soc. (N.S.) 32 (1995) 50-56",,"Bulletin migration 11/99","math.DS math.MG",,"  We obtain geometric upper bounds on the topological entropy of generalized
+polygon exchange transformations. As an application of our results, we show
+that billiards in polygons and rational polytopes have zero topological
+entropy.
+","[{""version"":""v1"",""created"":""Sun, 1 Jan 1995 00:00:00 GMT""}]","2008-02-03"
+"math/9501228","Liming Ge","Liming Ge","A splitting property for subalgebras of tensor products","4 pages","Bull. Amer. Math. Soc. (N.S.) 32 (1995) 57-60",,"Bulletin migration 11/99","math.OA",,"  We prove a basic result about tensor products of a $\text{II}_1$ factor with
+a finite von Neumann algebra and use it to answer, affirmatively, a question
+asked by S. Popa about maximal injective factors.
+","[{""version"":""v1"",""created"":""Sun, 1 Jan 1995 00:00:00 GMT""}]","2009-09-25"
+"math/9501229","Victor Reiner","Paul H. Edelman, Victor Reiner","Not all free arrangements are $K(\pi,1)$","5 pages","Bull. Amer. Math. Soc. (N.S.) 32 (1995) 61-65",,"Bulletin migration 11/99","math.AT math.CO",,"  We produce a one-parameter family of hyperplane arrangements that are
+counterexamples to the conjecture of Saito that the complexified complement of
+a free arrangement is $K(\pi,1)$. These arrangements are the restriction of a
+one-parameter family of arrangements that arose in the study of tilings of
+certain centrally symmetric octagons. This other family is discussed as well.
+","[{""version"":""v1"",""created"":""Sun, 1 Jan 1995 00:00:00 GMT""}]","2008-02-03"
+"math/9501230","Konstantin Mischaikow","Konstantin Mischaikow, Marian Mrozek","Chaos in the Lorenz equations: a computer-assisted proof","7 pages","Bull. Amer. Math. Soc. (N.S.) 32 (1995) 66-72",,"Bulletin migration 11/99","math.DS",,"  A new technique for obtaining rigorous results concerning the global dynamics
+of nonlinear systems is described. The technique combines abstract existence
+results based on the Conley index theory with computer- assisted computations.
+As an application of these methods it is proven that for an explicit parameter
+value the Lorenz equations exhibit chaotic dynamics.
+","[{""version"":""v1"",""created"":""Sun, 1 Jan 1995 00:00:00 GMT""}]","2016-09-06"
+"math/9501231",,"Felix Lazebnik, Vasiliy A. Ustimenko, Andrew J. Woldar","A new series of dense graphs of high girth","7 pages","Bull. Amer. Math. Soc. (N.S.) 32 (1995) 73-79",,"Bulletin migration 11/99","math.CO",,"  Let $k\ge 1$ be an odd integer, $t=\lfloor {{k+2}\over 4}\rfloor$, and $q$ be
+a prime power. We construct a bipartite, $q$-regular, edge-transitive graph
+$C\!D(k,q)$ of order $v \le 2q^{k-t+1}$ and girth $g \ge k+5$. If $e$ is the
+the number of edges of $C\!D(k,q)$, then $e =\Omega(v^{1+ {1\over {k-t+1}}})$.
+These graphs provide the best known asymptotic lower bound for the greatest
+number of edges in graphs of order $v$ and girth at least $g$, $ g\ge 5$, $g
+\not= 11,12$. For $g\ge 24$, this represents a slight improvement on bounds
+established by Margulis and Lubotzky, Phillips, Sarnak; for $5\le g\le 23$,
+$g\not= 11,12$, it improves on or ties existing bounds.
+","[{""version"":""v1"",""created"":""Sun, 1 Jan 1995 00:00:00 GMT""}]","2016-09-06"
+"math/9501232",,"Andreas Juhl","Secondary invariants and the singularity of the Ruelle zeta-function in
+  the central critical point","8 pages","Bull. Amer. Math. Soc. (N.S.) 32 (1995) 80-87",,"Bulletin migration 11/99","math.DS math.NT",,"  The Ruelle zeta-function of the geodesic flow on the sphere bundle $S(X)$ of
+an even-dimensional compact locally symmetric space $X$ of rank $1$ is a
+meromorphic function in the complex plane that satisfies a functional equation
+relating its values in $s$ and $-s$. The multiplicity of its singularity in the
+central critical point $s = 0$ only depends on the hyperbolic structure of the
+flow and can be calculated by integrating a secondary characteristic class
+canonically associated to the flow- invariant foliations of $S(X)$ for which a
+representing differential form is given.
+","[{""version"":""v1"",""created"":""Sun, 1 Jan 1995 00:00:00 GMT""}]","2016-09-06"
+"q-alg/9412017","Vadim Schechtman","M. Finkelberg, V. Schechtman","Localization of $\frak{u}$-modules. II. Configuration spaces and quantum
+  groups","59 pages, amslatex. A number of corrections made; an error in sec. 12
+  corrected. We recommend this version for those who want to get a more
+  technical acquaintance with the article",,,,"q-alg alg-geom math.AG math.QA",,"  This paper is a sequel to ""Localization of $\frak{u}$-modules. I"",
+hep-th/9411050. We are starting here the geometric study of the tensor category
+$\cal{C}$ associated with a quantum group (corresponding to a Cartan matrix of
+finite type) at a root of unity. The main results establish isomorphisms
+between homogeneous components of irreducible objects in $\cal{C}$ and spaces
+of vanishing cycles at the origin of certain Goresky-MacPherson sheaves on
+configuration spaces; establish isomorphisms of the stalks at the origin of the
+above GM sheaves with certain Hochschild complexes (which compute the
+Hochschild homology of a certain ""triangular"" subalgebra of our quantum group
+with coefficients in the coresponding irreducible representation); establish
+the analogous results for tensor products of irreducibles. In geometry, the
+tensor product of representations corresponds to a ""fusion"" of sheaves on
+configuration spaces --- operation defined using the functor of nearby cycles.
+","[{""version"":""v1"",""created"":""Sun, 1 Jan 1995 00:13:47 GMT""},{""version"":""v2"",""created"":""Mon, 2 Jan 1995 15:01:14 GMT""},{""version"":""v3"",""created"":""Thu, 5 Jan 1995 16:05:41 GMT""},{""version"":""v4"",""created"":""Sun, 22 Jan 1995 00:17:58 GMT""}]","2008-02-03"
+"quant-ph/9412012","Daniel C. Galehouse","Daniel C. Galehouse","Quantization Failure in Unified Field Theories","10 pages, latex/revtex, no figures",,,"QFUFT-6.0-12/26/94","quant-ph gr-qc",,"  Studies of geometrical theories suggest that fundmental problems of
+quantization arise from the disparate usage of displacement operators. These
+may be the source of a concealed inconsistency in the accepted formalism of
+quantum physics. General relativity and related theories cannot be quantized by
+the classical procedure. It is necessary to avoid the construction of
+differential equations by operators applied algebraically. For such theories,
+Von Neumann's theorem concerning hidden variables is avoided. A specified
+alternative class of gravitational-quantum-electrodynamic theories is possible.
+","[{""version"":""v1"",""created"":""Sun, 1 Jan 1995 05:47:55 GMT""}]","2007-05-23"

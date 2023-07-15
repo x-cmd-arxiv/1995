@@ -1,0 +1,399 @@
+"alg-geom/9509001","Brian Harbourne","Brian Harbourne","Anticanonical Rational Surfaces","14 pp. The preprint itself is not contained in the Duke archive;
+  plainTeX textfile and dvi versions of this preprint can instead be obtained
+  via the author's www site, http://www.math.unl.edu/~bharbour/ . Comments and
+  requests can be directed to bharbourne@unl.edu","Transactions of the American Mathematical Society 349(1997),
+  1191-1208","10.1090/S0002-9947-97-01722-4",,"alg-geom math.AG",,"  A determination of the fixed components, base points and irregularity is made
+for arbitrary numerically effective divisors on any smooth projective rational
+surface having an effective anticanonical divisor. All of the results are
+proven over an algebraically closed field of arbitrary characteristic.
+Applications, treated in separate papers, include questions involving: points
+in good position, birational models of rational surfaces in projective space,
+and resolutions for ideals of fat point subschemes of $P^2$.
+","[{""version"":""v1"",""created"":""Fri, 1 Sep 1995 16:04:52 GMT""},{""version"":""v2"",""created"":""Wed, 24 Jan 1996 00:00:00 GMT""}]","2009-09-25"
+"alg-geom/9509002","Brian Harbourne","Brian Harbourne","Free Resolutions of Fat Point Ideals on $P^2$","plain tex, 15 pp. The preprint itself is not contained in the Duke
+  archive; plainTeX textfile and dvi versions of this preprint can instead be
+  obtained via the author's www site, http://www.math.unl.edu/~bharbour/ .
+  Comments and requests can be directed to bharbourne@unl.edu","Journal of Pure and Applied Algebra, 125(1998), 213-234","10.1016/S0022-4049(96)00126-0",,"alg-geom math.AG",,"  By defining a fat point subscheme of $P^2$ to be a 0-dimensional subscheme
+defined by a sheaf of integrally closed ideals one extends the notion of fat
+point subschemes to allow infinitely near points. With this notion of fat
+points, this preprint determines the number of generators in each degree in a
+minimal homogeneous set of generators for the homogeneous ideal defining any
+fat point subscheme supported at points of any plane conic, smooth or not.
+Special cases for points on a cubic are also studied. All work is over an
+algebraically closed field of arbitrary characteristic.
+","[{""version"":""v1"",""created"":""Fri, 1 Sep 1995 16:05:40 GMT""},{""version"":""v2"",""created"":""Thu, 18 Jun 1998 00:00:00 GMT""}]","2009-09-25"
+"alg-geom/9509003","Brian Harbourne","Brian Harbourne","Generators for Symbolic Powers of Ideals Defining General Points of
+  $P^2$","plain tex, 11 pp. The preprint itself is not contained in the Duke
+  archive; plainTeX textfile and dvi versions of this preprint and related
+  software (as described in the abstract) can instead be obtained via the
+  author's www site, http://www.math.unl.edu/~bharbour/ . Comments and requests
+  can be directed to bharbourne@unl.edu",,,,"alg-geom math.AG",,"  Given distinct points $p_1,\cdots,p_r$ of the projective plane $P^2$ and a
+positive integer $m$, the homogeneous ideal defining the fat point subscheme
+$Z=m(p_1+\cdots+p_r)$ is the symbolic power $I^{(m)}$ of the homogeneous ideal
+$I$ defining the smooth union of the $r$ points $p_1,\ldots,p_r$. If
+$p_1,\ldots,p_r$ are sufficiently general, it is known that the maximal rank
+conjecture holds for $I$; i.e., for every $d$ the multiplication map
+$I_1\otimes I_d\to I_{(d+1)}$ on homogeneous components has maximal rank
+(meaning the map is either injective or surjective). One easily sees this fails
+for symbolic powers of ideals defining general points; this preprint relates
+the failure to the occurrence of (in Nagata's terminology) uniform abnormal
+curves, and, for $r<10$, takes complete account of the failure, thereby
+completely determining the modules in a minimal free resolution of $I^{(m)}$
+when $r<10$. It is also conjectured that maximal rank holds if $r>9$. Assuming
+this and a previous conjecture of the author, one can completely determine the
+modules in a minimal free resolution of $I^{(m)}$ for any $r>0$ general points
+and any $m>0$.
+  The author's www site, http://www.math.unl.edu/~bharbour, makes available, in
+addition to plainTeX textfile and dvi versions of this preprint, a Macintosh
+(stuffed and bin hexed) executable and a C source textfile program which output
+the (conjectural for $r>9$) modules in a minimal free resolution of $I^{(m)}$
+for any $r>0$ general plane points and any $m>0$. Web visitors can also run a
+version of
+","[{""version"":""v1"",""created"":""Fri, 1 Sep 1995 16:06:38 GMT""}]","2011-11-09"
+"astro-ph/9509002",,"J.P. Lasota","Mechanisms for Dwarf Nova Outbursts and Soft X-Ray Transients","13 pages, no figures, (available as uuencoded compressed tar file).
+  Invited review at IAU Symposium 165 ""Compact Stars in Binaries"", Den Haag,
+  15-19 August 1994","IAU Symp.165:43,1996",,,"astro-ph",,"  I review models trying to explain dwarf-nova outbursts and soft X-ray
+transients. The disc-instability model for dwarf-novae is still in its
+preliminary state of development: its predictions depend very strongly on the
+unknown viscosity mechanism. It is also doubtful that a {\sl pure}
+disc-instability phenomenon will be able to describe {\sl all} types of
+dwarf-nova outbursts, in particular superoutbursts. The disc-instability model
+for SXTs suffers from the same difficulties but in addition its predictions are
+contradicted by observations of transient sources in quiescence. The
+illuminated mass-transfer model cannot describe correctly the time-scales of
+SXT events for main-sequence secondaries with masses less than 1$M_{\odot}$.
+The existence of at least three systems with $P_{\rm orb} < 10$ hr seems to
+rule it out as an explanation of the SXT phenomenon.
+","[{""version"":""v1"",""created"":""Fri, 1 Sep 1995 22:47:02 GMT""}]","2011-04-15"
+"astro-ph/9509003",,"J.P. Lasota","Models of Soft X-Ray Transients and Dwarf Novae","10 pages, 3 figures (available as uuencoded compressed tar file).
+  Invited review at IAU Colloquium 158 ""Cataclysmic Variables and Related
+  Objects"", Keele. 26-30 June 1995","Astrophys.Space Sci.Libr. 208 (1996) 385","10.1007/978-94-009-0325-8_118",,"astro-ph",,"  Models of Soft X--ray Transients are presented and compared with
+observations. The importance of inner advection--dominated flows in quiescent
+transient sources is discussed, as well as the problem of global stability of
+the standard outer accretion disc. A comparison is made with similar problems
+in dwarf nova models.
+","[{""version"":""v1"",""created"":""Fri, 1 Sep 1995 23:08:20 GMT""}]","2016-01-27"
+"astro-ph/9509004",,"J.P. Lasota, J.M. Hameury and J.M. Hure","Dwarf Novae at Low Mass Transfer Rates","4 pages (available as gzipped postscript file). Submitted for
+  publication in Astronomy & Astrophysics Letteres","Astron.Astrophys.302:L29,1995",,,"astro-ph",,"  We show that if the inner regions of accretion discs in quiescent dwarf nova
+systems are removed by magnetic disruption or evaporated by siphon flows, the
+remaining disc is globally stable for mass transfer rates $\lta 10^{15}$ g
+s$^{-1}$. This implies that (super)outbursts in these systems have to be
+triggered by an enhanced mass transfer form the companion. We suggest that the
+lack of normal outbursts in WZ Sge results only from its low mass transfer rate
+and that the viscosity in its disc does not have to be few orders of magnitude
+lower than in other quiescent dwarf novae.
+","[{""version"":""v1"",""created"":""Fri, 1 Sep 1995 23:34:43 GMT""}]","2011-05-23"
+"astro-ph/9509005","Thomas Buchert","T. Buchert","Lagrangian Perturbation Approach to the Formation of Large-scale
+  Structure","23 pages, uuencoded gzipped tar-file, coming in 2 parts, Proc.
+  ``International School of Physics Enrico Fermi'', Course CXXXII: Dark Matter
+  in the Universe, Varenna 1995, eds.: S. Bonometto, J. Primack, A. Provenzale,
+  IOP, to appear","IOP Press Amsterdam (1996) 543-564",,,"astro-ph gr-qc",,"  The present lecture notes address three columns on which the Lagrangian
+perturbation approach to cosmological dynamics is based: 1. the formulation of
+a Lagrangian theory of self--gravitating flows in which the dynamics is
+described in terms of a single field variable; 2. the procedure, how to obtain
+the dynamics of Eulerian fields from the Lagrangian picture, and 3. a precise
+definition of a Newtonian cosmology framework in which Lagrangian perturbation
+solutions can be studied. While the first is a discussion of the basic
+equations obtained by transforming the Eulerian evolution and field equations
+to the Lagrangian picture, the second exemplifies how the Lagrangian theory
+determines the evolution of Eulerian fields including kinematical variables
+like expansion, vorticity, as well as the shear and tidal tensors. The third
+column is based on a specification of initial and boundary conditions, and in
+particular on the identification of the average flow of an inhomogeneous
+cosmology with a ``Hubble--flow''. Here, we also look at the limits of the
+Lagrangian perturbation approach as inferred from comparisons with N--body
+simulations and illustrate some striking properties of the solutions.
+","[{""version"":""v1"",""created"":""Fri, 1 Sep 1995 17:23:58 GMT""}]","2007-05-23"
+"astro-ph/9509006","Maximilian Ruffert","M. Ruffert, H.-Th. Janka, G. Schaefer","Coalescing Neutron Stars -- a Step Towards Physical Models. I.
+  Hydrodynamic Evolution and Gravitational-Wave Emission","uuencoded compressed postscript, approximately 340KB, 34 pages.
+  includes some figures. the postscript file with more figures (770KB!) can be
+  retrieved via ftp from ftp://ftp.mpa-garching.mpg.de/pub/mor/burst1.ps.gz .
+  the remaining 6 figures are available (fax) on request from
+  mor@mpa-garching.mpg.de . hardcopies (preprints) will be available too","Astron.Astrophys.311:532-566,1996",,"MPA report no 889. submitted to A&A","astro-ph",,"  We investigate the dynamics and evolution of coalescing neutron stars.
+Although the code (Piecewise Parabolic Method) is purely Newtonian, we do
+include the emission of gravitational waves and their backreaction on the
+hydrodynamic flow. The properties of neutron star matter are described by the
+physical equation of state of Lattimer \& Swesty (1991). Energy loss by all
+types of neutrinos and changes of the electron fraction due to the emission of
+electron neutrinos and antineutrinos are taken into account by an elaborate
+``neutrino leakage scheme''. We simulate the coalescence of two identical, cool
+neutron stars with a baryonic mass of $\approx\!1.6\,M_\odot$ and a radius of
+$\approx\!15$~km and with an initial center-to-center distance of 42~km. The
+initial distributions of density and electron concentration are given from a
+model of a cold neutron star in hydrostatic equilibrium (central temperature
+about $8\,{\rm MeV}$). We investigate three cases which differ by the initial
+velocity distribution in the neutron stars, representing different cases of the
+neutron star spins relative to the direction of the orbital angular momentum
+vector. Within about 1~ms the neutron stars merge into a rapidly spinning
+($P_{\rm spin}\approx 1$~ms), high-density body ($\rho\approx
+10^{14}$~g/cm$^3$) with a surrounding thick disk of material with densities
+$\rho\approx 10^{10}-10^{12}$~g/cm$^3$ and orbital velocities of~0.3--0.5~c. In
+this work we evaluate the models in detail with respect to the gravitational
+wave emission using the quadrupole approximation. In a forthcoming paper we
+will concentrate on the neutrino emission and implications for gamma-ray
+bursters. A maximum luminosity in excess of $10^{55}$~erg/s is reached for
+about 1~ms.
+","[{""version"":""v1"",""created"":""Fri, 1 Sep 1995 17:28:54 GMT""}]","2008-11-26"
+"astro-ph/9509007","Rosemary Wyse","Rosemary F.G. Wyse (JHU; IoA, Cambridge; CfPA, Berkeley) and Gerard
+  Gilmore (IoA, Cambridge)","Chemistry and Kinematics in the Solar Neighborhood: Implications for
+  Stellar Populations and for Galaxy Evolution","Plain tex file, to appear in Astron J (Dec 1995 scheduled). Figures
+  hard copy only available from Rosie Wyse at JHU address","Astron.J.110:2771,1995","10.1086/117729",,"astro-ph",,"  The immediate Solar neighborhood should be a fair sample of the local Galaxy.
+However, the chemical abundance distribution of long-lived disk stars very near
+the Sun contains a factor of five to ten more metal-poor stars, $-1 \simlt {\rm
+[Fe/H]} \simlt -0.4$ dex, than is consistent with modern star-count models of
+larger scale Galactic structure. The metallicity distribution of complete
+samples of long-lived stars has long been recognised as providing unique
+constraints on the early stages of chemical evolution of the Galaxy, so that
+one would like to resolve this anomaly. We present a new derivation of the
+local G-dwarf metallicity distribution, based on the Third Gliese catalog
+combined with Olsen's (1983) Str\""omgren photometry. Kinematic data for these
+same stars, as well as for a high-precision sample studied by Edvardsson {\sl
+et al.} (1993), provide clear evidence that the abundance distribution below
+[Fe/H]$\sim -0.4$ contains two over-lapping distributions, the thick disk and
+the thin disk. We achieve a reliable deconvolution of the relative numbers in
+each population by comparing the local metallicity distribution with a recent
+determination (Gilmore, Wyse \& Jones 1995) of the metallicity distribution of
+F/G stars {\sl in situ} some 1500pc from the Sun. The gravitational sieve of
+the Galactic potential acts on this second sample to segregate the low velocity
+dispersion, thin-disk, component of the local sample, leaving predominantly the
+second, higher velocity dispersion component. The combination of these two
+datasets allows us to determine the source of the local paradox: there is a
+substantial tail of the thin disk (defined kinematically) metallicity
+distribution, which extends below ${\rm [Fe/H] \approx -0.4}$dex. This is a
+robust conclusion, being consistent with the sum of star count, stellar spatial
+","[{""version"":""v1"",""created"":""Fri, 1 Sep 1995 20:30:24 GMT""}]","2011-05-05"
+"astro-ph/9509008","Lars Lindberg Christensen","D.I. Novikov and H.E. Jorgensen","The Topology of The Cosmic Microwave Background Anisotropy on The Scale
+  1 degree","34 pages, 12 postscript figures are available upon request from
+  henning@astro.ku.dk","Int.J.Mod.Phys. D5 (1996) 319-362","10.1142/S0218271896000229",,"astro-ph",,"  In this paper we develop the theory of clusterization of peaks in a Gaussian
+random field. We have obtained new mathematical results from this theory and
+the theory of percolation and have proposed a topological method of analysis of
+sky maps based on these results. We have simulated $10^o\times10^o$ sky maps of
+the cosmic microwave background anisotropy expected from different cosmological
+models with $0.5^o-1^o$ resolution in order to demonstrate how this method can
+be used for detection of non-Gaussian noise in the maps and detection of the
+Doppler-peak in the spectrum of perturbation of $\gD T/T$.
+","[{""version"":""v1"",""created"":""Sat, 2 Sep 1995 13:18:46 GMT""}]","2009-10-28"
+"astro-ph/9509009","Andrew P. Gould","Andrew Gould","Theory of Pixel Lensing","31 pages, uuencoded postscript, includes 1 embedded figure. New
+  result (eq. 9.14) shows that noise generated in image differences by PSF
+  variation and pixelization contributes sqrt{8} times less to photometry
+  errors relative to naive empirical estimates","Astrophys.J.470:201,1996","10.1086/177861","OSU-TA-19/95","astro-ph",,"  Pixel lensing, gravitational microlensing of unresolved stars, is potentially
+much more sensitive and much more widely applicable than is generally
+recognized. I give explicit expressions for the pixel noise induced by a
+time-variable PSF, by photometric and geometric misalignment, and by discrete
+pixelization, and I show that these can all be reduced below the photon noise.
+Pixel lensing can be divided into two regimes. In the ``semi-classical''
+regime, it is similar to classical lensing in that it measures the time scale
+of individual events. In the ``spike'' regime, it measures the total optical
+depth but not individual time scales. I present simple expressions for the
+boundary between the two regimes and for the event rate in the latter one.
+These expressions can be used to quickly classify all potential pixel lensing
+experiments. Pixel lensing can measure the luminosity function as well as the
+mass function of stars in target galaxies to a distance of a few Mpc. Future
+space-based pixel lensing could be $\sim 5$ times more effective in the
+infrared than in the optical, depending on developments in detector technology.
+Pixel techniques can also be applied to non-pixel-lensing problems including
+the search for unresolved variable stars and follow up observations of lensing
+events found in classical lensing searches. To benefit fully from pixel-lensing
+techniques, follow-up observations should have resolutions of at least 5 pixels
+per FWHM.
+","[{""version"":""v1"",""created"":""Sat, 2 Sep 1995 15:58:34 GMT""},{""version"":""v2"",""created"":""Wed, 7 Feb 1996 16:52:19 GMT""}]","2008-11-26"
+"cond-mat/9509007","Leonid Rokhinson","L. P. Rokhinson, B. Su, and V. J. Goldman (Department of Physics, SUNY
+  at Stony Brook)","Logarithmic temperature dependence of conductivity at half-integer
+  filling factors: Evidence for interaction between composite fermions","uses revtex macros",,"10.1103/PhysRevB.52.R11588",,"cond-mat",,"  We have studied the temperature dependence of diagonal conductivity in
+high-mobility two-dimensional samples at filling factors $\nu=1/2$ and 3/2 at
+low temperatures. We observe a logarithmic dependence on temperature, from our
+lowest temperature of 13 mK up to 400 mK. We attribute the logarithmic
+correction to the effects of interaction between composite fermions, analogous
+to the Altshuler-Aronov type correction for electrons at zero magnetic field.
+  The paper is accepted for publication in Physical Review B, Rapid
+Communications.
+","[{""version"":""v1"",""created"":""Fri, 1 Sep 1995 18:19:41 GMT""}]","2016-08-31"
+"cond-mat/9509008","Pierre Ledoussal","Thierry Giamarchi and Pierre Le Doussal","Variational theory of elastic manifolds with correlated disorder and
+  localization of interacting quantum particles","34 pages, REVTeX, no figures","Phys. Rev. B {\bf 53} 15206 (1996)","10.1103/PhysRevB.53.15206",,"cond-mat",,"  We apply the gaussian variational method (GVM) to study the equilibrium
+statistical mechanics of the two related systems: (i) classical elastic
+manifolds, such as flux lattices, in presence of columnar disorder correlated
+along the $\tau$ direction (ii) interacting quantum particles in a static
+random potential. We find localization by disorder, the localized phase being
+described by a replica symmetry broken solution confined to the mode
+$\omega=0$. For classical systems we compute the correlation function of
+relative displacements. In $d=2+1$, in the absence of dislocations, the GVM
+allows to describes the Bose glass phase. Along the columns the displacements
+saturate at a length $l_{\perp}$ indicating flux-line localization.
+Perpendicularly to the columns long range order is destroyed. We find divergent
+tilt modulus $c_{44}=\infty$ and a $x \sim \tau^{1/2}$ scaling. Quantum systems
+are studied using the analytic continuation from imaginary to real time $\tau
+\to i t$. We compute the conductivity and find that it behaves at small
+frequency as $\sigma(\omega) \approx \omega^2$ in all dimensions ($d < 4$) for
+which disorder is relevant. We compute the quantum localization length $\xi$.
+In $d=1$, where the model also describes interacting fermions in a static
+random potential, we find a delocalization transition and obtain analytically
+both the low and high frequency behavior of the conductivity for any value of
+the interaction. We show that the marginality condition appears as the
+condition to obtain the correct physical behavior. Agreement with
+renormalization group results is found whenever it can be compared.
+","[{""version"":""v1"",""created"":""Sat, 2 Sep 1995 15:44:55 GMT""}]","2009-10-28"
+"gr-qc/9509002","Jorge Pullin","Jorge Pullin","MATTERS OF GRAVITY, The newsletter of the APS Topical Group on
+  Gravitation","31 pages, plain TeX, one figure included with epsf (minor correction
+  in date and volume number)",,,"MOG-6","gr-qc",,"  Contents:
+  -Report from the APS Topical Group in Gravitation, Beverly Berger
+  -Some remarks on the passing of S. Chandrasekhar, Robert Wald
+  -LIGO Project Status, Syd Meshkov and Stan Whitcomb
+  -New Hyperbolic forms of the Einstein Equations, Andrew Abrahams
+  -Massless Black Holes, Gary Horowitz
+  -A plea for theoretical help from the gravity wave co-op, William Hamilton
+  -Why Quantum Cosmologists are Interested in Quantum Mechanics, James Hartle
+  -Probing the Early Universe with the Cosmic Microwave Background, Rahul Dave
+  and Paul Steinhardt
+  -G measurements, Riley Newman
+  -Is general relativity about null surfaces?, Carlo Rovelli
+  -ITP program solicitation, James Hartle
+  -7th Gregynog workshop in general relativity, Miguel Alcubierre
+  -Third Annual Penn State Conference: Astrophysical Sources of Gravitational
+  Waves, Curt Cutler
+  -General news from GR14, Abhay Ashtekar
+  -VIth Canadian General Relativity Conference, Jack Gegenberg
+","[{""version"":""v1"",""created"":""Fri, 1 Sep 1995 23:02:31 GMT""},{""version"":""v2"",""created"":""Mon, 4 Sep 1995 14:32:38 GMT""}]","2016-08-31"
+"gr-qc/9509003",,"Giampiero Esposito and Giovanni Platania","Inflationary Solutions in Quantum Cosmology","22 pages, plain-tex, published in Classical and Quantum Gravity,
+  volume 5, year 1988, pages 937-949","Class.Quant.Grav.5:937-949,1988","10.1088/0264-9381/5/7/003","DAMTP R 88/6","gr-qc",,"  We prove that in the Hartle-Hawking approach to quantum cosmology the
+existence of an inflationary phase is a general property of minisuperspace
+models given by a closed Friedmann-Robertson-Walker universe containing a
+massless scalar field with a $\lambda\phi^{n}$ self-interaction. The evolution
+in time of the cosmic scale factor and of the scalar field in the very early
+universe is derived, together with the conditions to be satisfied in order to
+solve the horizon and flatness problems.
+","[{""version"":""v1"",""created"":""Sat, 2 Sep 1995 10:38:14 GMT""}]","2010-04-06"
+"hep-ex/9509001","Ralph Eichler","H1-collaboration","Measurement of the Total Photon Proton Cross Section and its
+  Decomposition at 200~GeV Centre of Mass Energy","20 pages, latex, 6 figures appended as uuencoded file","Z.Phys.C69:27-38,1995","10.1007/s002880050003","DESY 95-162","hep-ex",,"  We present a new measurement of the total photoproduction cross section
+performed with the H1 detector at HERA. For an average centre of mass energy of
+200~GeV a value of $\sigma_{tot}^{\gamma{p}}= 165\pm2\pm11\mu$b has been
+obtained. A detailed analysis of the data in adequate kinematic regions enabled
+a decomposition of the total cross section in its elastic, single diffractive
+dissociation and remaining non-diffractive parts, based on safe assumptions on
+the double diffractive dissociation contribution.
+","[{""version"":""v1"",""created"":""Sat, 2 Sep 1995 15:13:04 GMT""}]","2008-11-26"
+"hep-lat/9509002","Doug Toussaint","Thomas C. Blum, James E. Hetrick, Doug Toussaint","High density QCD with static quarks","LaTeX, 18 pages, uses epsf.sty, postscript figures included","Phys.Rev.Lett. 76 (1996) 1019-1022","10.1103/PhysRevLett.76.1019","AZPH-TH/95-22","hep-lat",,"  We study lattice QCD in the limit that the quark mass and chemical potential
+are simultaneously made large, resulting in a controllable density of quarks
+which do not move. This is similar in spirit to the quenched approximation for
+zero density QCD. In this approximation we find that the deconfinement
+transition seen at zero density becomes a smooth crossover at any nonzero
+density, and that at low enough temperature chiral symmetry remains broken at
+all densities.
+","[{""version"":""v1"",""created"":""Fri, 1 Sep 1995 19:53:01 GMT""}]","2009-10-28"
+"hep-lat/9509003","Mark Fischler","Mark Fischler and Mike Uchima (Fermilab)","Performance of the Cray T3D and Emerging Architectures on Canopy QCD
+  Applications","4 pages, to be published in Proceedings of Lattice '95. LaTeX using
+  Elsevere's espcrc2.sty style file (espcrc2.sty and .tex appended at end of
+  submission)","Nucl.Phys.Proc.Suppl. 47 (1996) 808-811","10.1016/0920-5632(96)00180-6",,"hep-lat",,"  The Cray T3D, an MIMD system with NUMA shared memory capabilities and in
+principle very low communications latency, can support the Canopy framework for
+grid-oriented applications. CANOPY has been ported to the T3D, with the intent
+of making it available to a spectrum of users. The performance of the T3D
+running Canopy has been benchmarked on five QCD applications extensively run on
+ACPMAPS at Fermilab, requiring a variety of data access patterns. The net
+performance and scaling behavior reveals an efficiency relative to peak Gflops
+almost identical to that achieved on ACPMAPS. Detailed studies of the major
+factors impacting performance are presented. Generalizations applying this
+analysis to the newly emerging crop of commercial systems reveal where their
+limitations will lie. On these applications, efficiencies of above 25\% are not
+to be expected; eliminating overheads due to Canopy will improve matters, but
+by less than a factor of two.
+","[{""version"":""v1"",""created"":""Fri, 1 Sep 1995 21:08:15 GMT""}]","2009-10-28"
+"hep-ph/9509208","C.-P. Yuan","Douglas O. Carlson and C.-P. Yuan (Michigan State Univ.)","Probing New Physics from the Single-Top Production","7 pages, uuencoded PS file. Talk given by C.-P. Yuan at the Workshop
+  on Physics of the Top Quark, IITAP, Iowa State University, Ames, Iowa, May 25
+  \& 26, 1995",,,"MSUHEP-50823","hep-ph",,"  We show that the production rate of the single-top quark event from the
+$W$-gluon fusion process is sensitive to new physics which strongly modifies
+the interactions of the top quark. The measurement of its production rate gives
+the partial decay width of the top quark which combined with the branching
+ratio measurement from the $t \bar t$ pair event determines the lifetime of the
+top quark.
+","[{""version"":""v1"",""created"":""Sat, 2 Sep 1995 01:46:25 GMT""}]","2007-05-23"
+"hep-ph/9509210",,"Eric Braaten","New Insights into the Production of Heavy Quarkonium","8 pages, LaTeX",,,"NUHEP-TH-95-11","hep-ph",,"  Recent data from the Tevatron have revealed that the production rate of
+prompt charmonium is more than an order of magnitude larger than the best
+theoretical predictions of a few years ago. This surprising result can be
+understood by taking into account new production mechanisms that include
+fragmentation and the formation of charmonium from color-octet $c \bar c$
+pairs.
+","[{""version"":""v1"",""created"":""Fri, 1 Sep 1995 18:06:46 GMT""}]","2007-05-23"
+"hep-ph/9509211","Carlo Gobbi","Carlo Gobbi, Carlos L. Schat and Norberto N. Scoccola","Hyperon Polarizabilities in the Bound State Soliton Model","19 pages, plain Latex, no figures","Nucl.Phys. A598 (1996) 318-334","10.1016/0375-9474(95)00474-2","FNT/T-95/21","hep-ph",,"  A detailed calculation of electric and magnetic static polarizabilities of
+octet hyperons is presented in the framework of the bound state soliton model.
+Both seagull and dispersive contributions are considered, and the results are
+compared with different model predictions.
+","[{""version"":""v1"",""created"":""Sat, 2 Sep 1995 08:48:59 GMT""}]","2009-10-28"
+"hep-th/9509004","Barry McCoy","Barry M. McCoy and William P. Orrick","Analyticity and Integrabiity in the Chiral Potts Model","31 pages in harvmac including 9 tables, several misprints eliminated","J.Statist.Phys. 83 (1996) 839","10.1007/BF02179547","ITPSB 95-14","hep-th",,"  We study the perturbation theory for the general non-integrable chiral Potts
+model depending on two chiral angles and a strength parameter and show how the
+analyticity of the ground state energy and correlation functions dramatically
+increases when the angles and the strength parameter satisfy the integrability
+condition. We further specialize to the superintegrable case and verify that a
+sum rule is obeyed.
+","[{""version"":""v1"",""created"":""Fri, 1 Sep 1995 17:53:11 GMT""},{""version"":""v2"",""created"":""Fri, 8 Sep 1995 15:42:13 GMT""}]","2009-10-28"
+"hep-th/9509005","Fred Dilkes","F.A. Dilkes and D.G.C. McKeon (University of Western Ontario)","Off-Diagonal Elements of the DeWitt Expansion from the Quantum
+  Mechanical Path Integral","16pp, REVTeX. One additional appendix concerning end-point effects
+  for finite proper-time intervals; inclusion of these effects seem to make our
+  results consistent with those from explicit heat-kernel methods","Phys.Rev. D53 (1996) 4388-4396","10.1103/PhysRevD.53.4388",,"hep-th",,"  The DeWitt expansion of the matrix element $M_{xy} = \left\langle x \right|
+\exp -[\case{1}{2} (p-A)^2 + V]t \left| y \right\rangle$, $(p=-i\partial)$ in
+powers of $t$ can be made in a number of ways. For $x=y$ (the case of interest
+when doing one-loop calculations) numerous approaches have been employed to
+determine this expansion to very high order; when $x \neq y$ (relevant for
+doing calculations beyond one-loop) there appear to be but two examples of
+performing the DeWitt expansion. In this paper we compute the off-diagonal
+elements of the DeWitt expansion coefficients using the Fock-Schwinger gauge.
+Our technique is based on representing $M_{xy}$ by a quantum mechanical path
+integral. We also generalize our method to the case of curved space, allowing
+us to determine the DeWitt expansion of $\tilde M_{xy} = \langle x| \exp
+\case{1}{2} [\case{1}{\sqrt {g}} (\partial_\mu - i
+A_\mu)g^{\mu\nu}{\sqrt{g}}(\partial_\nu - i A_\nu) ] t| y \rangle$ by use of
+normal coordinates. By comparison with results for the DeWitt expansion of this
+matrix element obtained by the iterative solution of the diffusion equation,
+the relative merit of different approaches to the representation of $\tilde
+M_{xy}$ as a quantum mechanical path integral can be assessed. Furthermore, the
+exact dependence of $\tilde M_{xy}$ on some geometric scalars can be
+determined. In two appendices, we discuss boundary effects in the
+one-dimensional quantum mechanical path integral, and the curved space
+generalization of the Fock-Schwinger gauge.
+","[{""version"":""v1"",""created"":""Fri, 1 Sep 1995 20:24:09 GMT""},{""version"":""v2"",""created"":""Sun, 3 Sep 1995 01:07:04 GMT""},{""version"":""v3"",""created"":""Sun, 3 Sep 1995 18:38:41 GMT""},{""version"":""v4"",""created"":""Sun, 15 Oct 1995 20:43:44 GMT""}]","2009-10-28"
+"hep-th/9509006","Ahmed Hindawi","Ahmed Hindawi, Burt A. Ovrut, and Daniel Waldram","Higher-Derivative Gravitation in Bosonic and Superstring Theories and a
+  New Mechanism for Supersymmetry Breaking","12 pages, LaTeX2e and AMS-LaTeX 1.2, Talk presented at the
+  International Seminar on Quantum Gravity, Institute for Nuclear Research of
+  the Russian Academy of Sciences, Moscow, Russia, June 12-19, 1995",,,"UPR-675T","hep-th gr-qc",,"  A discussion of the number of degrees of freedom, and their dynamical
+properties, in higher derivative gravitational theories is presented. The
+complete non-linear sigma model for these degrees of freedom is exhibited using
+the method of auxiliary fields. As a by-product we present a consistent
+non-linear coupling of a spin-2 tensor to gravitation. It is shown that
+non-vanishing $(C_{\mu\nu\alpha\beta})^{2}$ terms arise in $N=1$, $D=4$
+superstring Lagrangians due to one-loop radiative corrections with light field
+internal lines. We discuss the general form of quadratic $(1,1)$ supergravity
+in two dimensions, and show that this theory is equivalent to two scalar
+supermultiplets coupled to the usual Einstein supergravity. It is demonstrated
+that the theory possesses stable vacua with vanishing cosmological constant
+which spontaneously break supersymmetry.
+","[{""version"":""v1"",""created"":""Fri, 1 Sep 1995 17:49:50 GMT""},{""version"":""v2"",""created"":""Sat, 9 Sep 1995 21:46:35 GMT""},{""version"":""v3"",""created"":""Tue, 26 Sep 1995 19:59:39 GMT""}]","2008-02-03"
+"hep-th/9509007","Nial J. MacKay","G.M. Gandenberger, N.J. MacKay and G.M.T. Watts","Twisted algebra R-matrices and S-matrices for $b_n^{(1)}$ affine Toda
+  solitons and their bound states","Latex, 24 pages. Various misprints corrected. New section added
+  clarifying relationship between R-matrices and S-matrices","Nucl.Phys. B465 (1996) 329-349","10.1016/0550-3213(96)00054-5","CRM-2314, DAMTP-95-49","hep-th",,"  We construct new $U_q(a^{(2)}_{2n-1})$ and $U_q(e^{(2)}_6)$ invariant
+$R$-matrices and comment on the general construction of $R$-matrices for
+twisted algebras. We use the former to construct $S$-matrices for $b^{(1)}_n$
+affine Toda solitons and their bound states, identifying the lowest breathers
+with the $b^{(1)}_n$ particles.
+","[{""version"":""v1"",""created"":""Fri, 1 Sep 1995 21:52:18 GMT""},{""version"":""v2"",""created"":""Mon, 20 Nov 1995 18:19:06 GMT""}]","2009-10-28"
+"hep-th/9509008","We-Fu Chang","Darwin Chang and We-Fu Chang ( Physics Department,National Tsing-Hua
+  University, Hsinchu, Taiwan)","On Exactly Solvable Potentials","13 pages, Latex, to appear in Chineses Journal of Physics","Chin.J.Phys. 33 (1995) 493-504",,"NHCU-HEP-95-07","hep-th",,"  We investigate two methods of obtaining exactly solvable potentials with
+analytic forms.
+","[{""version"":""v1"",""created"":""Sat, 2 Sep 1995 08:30:28 GMT""}]","2007-05-23"
+"math/9509218",,"Jos\'e Pantoja, Jorge Soto-Andrade","Construction g\'eometrique de representations de Weil sur un corps fini",,,,"MSRI 1995-067","math.RT math.GR",,"  We construct, by contraction of a suitable complex vector bundle, the Weil
+representation of the finite symplectic group $Sp(A)$. We give an explicit
+description of the space of all lagrangian subspaces, which we use to compute
+the cocycle of our representation in terms of a geometric Gauss sum. We recover
+in this way previously constructed generalized Weil representations (see
+\cite{ast,cor}) by restriction of our representation to an appropiate embedding
+of $SL(n) $ into $Sp(A)$.
+","[{""version"":""v1"",""created"":""Sat, 2 Sep 1995 00:00:00 GMT""}]","2016-09-06"
+"nucl-th/9509004","Silvano Simula","F. Cardarelli, I. Grach, I. Narodetskii, G. Salme', S. Simula","Radiative $\pi \rho$ and $\pi \omega$ transition form factors in a
+  light-front constituent quark model","9 pages, latex, 4 figures available as separate .uu file, to appear
+  in Phys. Lett. B","Phys.Lett. B359 (1995) 1-7","10.1016/0370-2693(95)01058-X","preprint INFN-ISS 95/6","nucl-th hep-ph",,"  The form factors of the $\pi \rho$ and $\pi \omega$ radiative transitions are
+evaluated within a light-front constituent quark model, using for the first
+time the eigenfunctions of a light-front mass operator reproducing the meson
+mass spectrum and including phenomenological Dirac and Pauli quark form factors
+in the one-body electromagnetic current operator. The sensitivity of the
+transition form factors both to the meson wave functions and to the constituent
+quark form factors is illustrated. It is shown that the measurement of the $\pi
+\rho$ and $\pi \omega$ radiative transitions could help in discriminating among
+various models of the meson structure.
+","[{""version"":""v1"",""created"":""Sat, 2 Sep 1995 12:20:00 GMT""},{""version"":""v2"",""created"":""Tue, 5 Sep 1995 08:31:49 GMT""}]","2009-10-28"

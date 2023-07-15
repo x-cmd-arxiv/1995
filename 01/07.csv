@@ -1,0 +1,210 @@
+"adap-org/9501003","Yoshihiro Taguchi","Y-h. Taguchi (Department of Physics, Tokyo Institute of Technology,
+  Oh-okayama, Meguro-ku, Tokyo 152, Japan) and Hideki Takayasu (Graduate School
+  of Information Sciences, Tohoku University, Aoba-ku, Sendai 980, Japan)","A set of hard spheres with tangential inelastic collision as a model of
+  granular matter: $1/f^\alpha$ fluctuation, non-Gaussian distribution, and
+  convective motion","8 pages, REVTEX + uuencoded compressed-tar file of 7 figures, (4
+  latex pictures + 5 postscript pictures) ; paper submitted to PRL",,,,"adap-org cond-mat nlin.AO",,"  A set of hard spheres with tangential inelastic collision is found to
+reproduce observations of real and numerical granular matter. After time is
+scaled so as to cancel energy dissipation due to inelastic collisions out,
+inelastically colliding hard spheres in two dimensional space come to have
+$1/f^\alpha$ fluctuation of total energy, non-Gaussian distribution of
+displacement vectors, and convective motion of spheres, which hard spheres with
+elastic collision, a conventional model of granular matter, cannot reproduce.
+","[{""version"":""v1"",""created"":""Sat, 7 Jan 1995 02:08:36 GMT""}]","2008-02-03"
+"alg-geom/9501002","Rick Miranda","Ciro Ciliberto, Angelo Lopez, and Rick Miranda","Remarks on the Obstructedness of Cones Over Curves of Low Genus","18 pages, TeX",,,,"alg-geom math.AG",,"  Remarks on the Obstructedness of Cones Over Curves of Low Genus. Reason for
+replacement: proof of the main lemma was significantly improved.
+","[{""version"":""v1"",""created"":""Fri, 6 Jan 1995 18:35:04 GMT""},{""version"":""v2"",""created"":""Wed, 8 Nov 1995 21:53:19 GMT""}]","2008-02-03"
+"astro-ph/9501016","Peter Dunsby","Roy Maartens, George F. R. Ellis and William R. Stoeger,","LIMITS ON ANISOTROPY AND INHOMOGENEITY FROM THE COSMIC BACKGROUND
+  RADIATION,","18 pages Latex.","Phys.Rev. D51 (1995) 1525-1535","10.1103/PhysRevD.51.1525",,"astro-ph",,"  We consider directly the equations by which matter imposes anisotropies on
+freely propagating background radiation, leading to a new way of using
+anisotropy measurements to limit the deviations of the Universe from a
+Friedmann-Robertson-Walker (FRW) geometry. This approach is complementary to
+the usual Sachs-Wolfe approach: the limits obtained are not as detailed, but
+they are more model-independent. We also give new results about combined
+matter-radiation perturbations in an almost-FRW universe, and a new exact
+solution of the linearised equations.
+","[{""version"":""v1"",""created"":""Fri, 6 Jan 1995 16:18:45 GMT""}]","2016-08-30"
+"astro-ph/9501017","Steinn Sigurdsson","Lars Hernquist, Steinn Sigurdsson and Greg L. Bryan","A Parallel Self--Consistent Field Code","22 pages uuencoded compressed postscript, including 1 table. Accepted
+  for publication Astrophysical Journal.",,"10.1086/175829","Lick Preprint Unassigned number","astro-ph",,"  We describe a version of an algorithm for evolving self-gravitating
+collections of particles that should be nearly ideal for parallel
+architectures. Our method is derived from the ``self-consistent field'' (SCF)
+approach suggested previously by Clutton-Brock and others. Owing to the use of
+a global description of the gravitational field, the particles in an SCF
+simulation do not interact with one another directly, minimizing communications
+overhead between nodes in a parallel implementation. Ideal load-balancing is
+achieved since precisely the same number of operations are needed to compute
+the acceleration for each particle. Consequently, the SCF technique is
+perfectly scalable and the size of feasible applications will grow in simple
+proportion to advances in computational hardware. We describe an SCF code
+developed for and tested on a Connection Machine 5. Empirical tests demonstrate
+the efficient and scalable nature of the algorithm. Depending on the
+application, simulations with particle numbers in the range $N\sim 10^7 -
+10^{8.5}$ are now possible. Larger platforms should make simulations with
+billions of particles feasible in the near future. Specific astrophysical
+applications are discussed in the context of collisionless dynamics.
+","[{""version"":""v1"",""created"":""Fri, 6 Jan 1995 16:12:00 GMT""},{""version"":""v2"",""created"":""Fri, 6 Jan 1995 16:20:00 GMT""}]","2016-08-30"
+"astro-ph/9501018","Maggie Best","John N. Bahcall, Sofia Kirhakos and Donald P. Schneider","HST Images of Nearby Luminous Quasars II: Results for Eight Quasars and
+  Tests of the Detection Sensitivity","uuencoded Z-compressd postscript file (43 pages when decoded and
+  uncompressed). Figures 1, 2, 4, 5, 7-10 available as postscript files via at
+  ftp://eku.ias.edu/pub/best/ . Figures 3 and 6 only available in hardcopy form
+  if requested from best@sns.ias.edu.","Astrophys.J. 450 (1995) 486-500","10.1086/176159","IAS preprint number 95/1.","astro-ph",,"  HST observations of eight intrinsically luminous quasars with redshifts
+between $0.16$ and~$0.29$ are presented. Seven companion galaxies brighter than
+$M_V = -16.5$ lie within a projected distance of 25 kpc of the quasars; three
+of the companions are located closer than $3''$ (6 kpc projected distance) from
+the quasars, well within the volume that would be enclosed by a typical $L^*$
+host galaxy. The observed association of quasars and companion galaxies is
+statistically significant and may be an important element in the
+luminous-quasar phenomenon. Evidence for candidate host galaxies is presented
+for the three most promising cases: PG 1116+215, 3C 273, and PG 1444+407, but
+additional observations are required before the characteristics of the
+candidate hosts can be regarded as established. Upper limits are placed on the
+visual-band brightnesses of representative galactic hosts for all of the
+quasars. These limits are established by placing galaxy images obtained with
+HST underneath the quasars and measuring at what faintness level the known
+galaxies are detected. On average, the HST spirals would have been detected if
+they were one magnitude fainter than $L^*$ or brighter and the early-type
+galaxies could have been detected down to a brightness level of about $L^*$,
+where $L^*$ is the Schechter characteristic luminosity of field galaxies.
+","[{""version"":""v1"",""created"":""Fri, 6 Jan 1995 19:21:24 GMT""}]","2016-08-30"
+"comp-gas/9501002","Bruce Boghosian","Bruce M. Boghosian (Center for Computational Science, Boston
+  University), and Washington Taylor (Center for Theoretical Physics,
+  Laboratory for Nuclear Science and Department of Physics, MIT)","Renormalized Equilibria of a Schloegl Model Lattice Gas","21 pages, REVTeX",,"10.1007/BF02179980","BU-CCS-941102, MIT-CTP-2385","comp-gas chem-ph cond-mat nlin.CG",,"  A lattice gas model for Schloegl's second chemical reaction is described and
+analyzed. Because the lattice gas does not obey a semi-detailed-balance
+condition, the equilibria are non-Gibbsian. In spite of this, a self-consistent
+set of equations for the exact homogeneous equilibria are described, using a
+generalized cluster-expansion scheme. These equations are solved in the
+two-particle BBGKY approximation, and the results are compared to numerical
+experiment. It is found that this approximation describes the equilibria far
+more accurately than the Boltzmann approximation. It is also found, however,
+that spurious solutions to the equilibrium equations appear which can only be
+removed by including effects due to three-particle correlations.
+","[{""version"":""v1"",""created"":""Sat, 7 Jan 1995 00:26:13 GMT""}]","2016-08-31"
+"cond-mat/9501017","Alberto Rojo","A.G.Rojo and C.A.Balseiro","Superconductor--insulator transition in d-wave superconductors","RevTex file, 4 pages. One figure available upon request.",,,"no report number","cond-mat",,"  We address the question of whether an anisotropic gap $d_{x^2-y^2}$ symmetry
+is compatible with localized states in the normal phase. The issue is important
+in high $T_c$ superconductors where a superconductor to insulator transition is
+observed in the underdoped regime, together with a number of experiments that
+support $d$-wave pairing. We find a reentrant behavior of superconductivity in
+the strongly disorder phase.
+","[{""version"":""v1"",""created"":""Fri, 6 Jan 1995 16:28:42 GMT""}]","2016-08-31"
+"cond-mat/9501018","Lev Mikheev","Lev Mikheev (Nordita)","From surface to random criticality in layered planar Ising models","11 pages; REVTeX 3.1",,,"NORDITA- 94/37 S","cond-mat",,"  A general case of a spatially nonuniform planar layered Ising model, or an
+equivalent quantum Ising chain, is analysed with an exact functional real space
+renormalization group. Various surface, finite size, quasiperiodic and random
+layer (McCoy-Wu) universality classes are obtained and discussed within a
+single theoretical framework leading to new insights into the nature of random
+criticality.
+","[{""version"":""v1"",""created"":""Fri, 6 Jan 1995 18:29:22 GMT""}]","2016-08-31"
+"cond-mat/9501019",,"S.-R. Eric Yang and A.H. MacDonald","Interactions, Localization, and the Integer Quantum Hall Effect","10 pages, latex (revtex 3.0), 3 figures are avaiable from S.R. Eric
+  Yang (e-mail yang@cm7.phy.nrc.ca)",,"10.1103/PhysRevLett.74.3229","IUCM95-001","cond-mat",,"  We report on numerical studies of the influence of Coulomb interactions on
+localization of electronic wavefunctions in a strong magnetic field.
+Interactions are treated in the Hartree-Fock approximation. Localization
+properties are studied both by evaluating participation ratios of Hartree-Fock
+eigenfunctions and by studying the boundary-condition dependence of
+Hartree-Fock eigenvalues. We find that localization properties are independent
+of interactions. Typical energy level spacings near the Fermi level and the
+sensitivity of those energy levels to boundary condition show similar large
+enhancements so that the Thouless numbers of the Hartree-Fock eigenvalues are
+similar to those of non-interacting electrons.
+","[{""version"":""v1"",""created"":""Fri, 6 Jan 1995 20:36:28 GMT""}]","2009-10-28"
+"cond-mat/9501020","Paul Krapivsky","P.L.Krapivsky","Diffusion-Limited Annihilation with Initially Separated Reactants","9 pages, Plain TeX",,"10.1103/PhysRevE.51.4774",,"cond-mat",,"  A diffusion-limited annihilation process, A+B->0, with species initially
+separated in space is investigated. A heuristic argument suggests the form of
+the reaction rate in dimensions less or equal to the upper critical dimension
+$d_c=2$. Using this reaction rate we find that the width of the reaction front
+grows as $t^{1/4}$ in one dimension and as $t^{1/6}(\ln t)^{1/3}$ in two
+dimensions.
+","[{""version"":""v1"",""created"":""Fri, 6 Jan 1995 20:48:03 GMT""}]","2016-08-31"
+"cond-mat/9501021","Sergei Esipov","Sergei E. Esipov","COUPLED BURGERS EQUATIONS - A MODEL OF POLYDISPERSIVE SEDIMENTATION","35 pages, PHYZZX.TEX, six figures upon request (please enclose your
+  postal address)",,"10.1103/PhysRevE.52.3711",,"cond-mat",,"  This paper compares theory and experiment for the kinetics of time-dependent
+sedimentation. We discuss non-interacting suspensions and colloids which may
+exhibit behavior similar to the one-dimensional motion of compressible gas. The
+velocity of sedimentation (or creaming) depends upon the volume fraction of the
+constituting particles and leads to Burgers-like equations for concentration
+profiles. It is shown that even the bi-dispersive system of two coupled Burgers
+equations has rich dynamics. The study of polydispersive case reveals a
+continuous ``renormalization'' of the polydispersity. We compare the Burgers
+system evolution with the experimental results on mono- and polydispersive
+sedimentation. The influence of thermal fluctuations is briefly discussed.
+","[{""version"":""v1"",""created"":""Sat, 7 Jan 1995 00:19:52 GMT""}]","2016-08-31"
+"cond-mat/9501022","Antonio Castro Neto","A. Zee","Quantum Hall Fluids","82 pages, TeX, Preprint ITP (This version comes with ALL the MACROS
+  appended at the end of the file).",,"10.1007/BFb0113369",,"cond-mat",,"  We review the effective field theory treatment of topological quantum fluids,
+focussing on the Hall fluids.
+","[{""version"":""v1"",""created"":""Sat, 7 Jan 1995 01:26:16 GMT""},{""version"":""v2"",""created"":""Thu, 12 Jan 1995 21:38:41 GMT""}]","2016-08-31"
+"hep-ph/9501226","Kim Yeong Gyun","Yeong Gyun Kim, Jae Yong Lee, Kang Young Lee and Jae Kwan Kim","$B \rightarrow {\tau}{\nu}X$ decays in a two Higgs doublet model","15 pages, revtex, 1 postscript figure is attached.",,,"KAIST--CHEP--94/13","hep-ph",,"  We calculate the decay rate for inclusive $B \rightarrow {\tau}{\nu}X$ decays
+in a two Higgs doublet model using heavy quark expansion and operator product
+expansion. Combined with the recent measurement of Br($B \ra \tau \nu X$), we
+find a limit $\tan \beta < 0.58 m_H/\mbox{GeV}$ at 90\%\ C.L..
+","[{""version"":""v1"",""created"":""Fri, 6 Jan 1995 19:36:59 GMT""},{""version"":""v2"",""created"":""Mon, 9 Jan 1995 18:18:32 GMT""}]","2016-09-01"
+"hep-ph/9501229","Hermann Schulz","F. Flechsig and H. Schulz","On the Gluon Plasmon Self-Energy at O(g)","14 pages, LaTeX","Phys.Lett. B349 (1995) 504-512","10.1016/0370-2693(95)00249-K","DESY 94-240 and ITP-UH 20/94","hep-ph",,"  The next-to-leading order contribution $\d\P\omn (\o ,\vc q )$ to the
+polarization function of the hot gluon system is analysed at non-zero wave
+vectors $\vc q \,$. Using Braaten-Pisarski resummation and general covariant
+gauges, $\d\P\omn$ is found to be gauge-fixing independent and transverse on
+the longitudinal mass-shell. The real part of the longitudinal component
+$\d\P_\ell$ is UV and IR stable (for real $q$). At imaginary $q$ it is IR
+singular, and at the point $\o=0$, $q^2=-3m^2$ it coincides with the result of
+Rebhan for next-to-leading order Debye screening. When $q$ approaches the
+lightcone, $\d\P_\ell $ diverges like $1 / \wu {\o^2 - q^2} $, reflecting the
+breakdown of the Braaten-Pisarski decomposition scheme in this limit.
+","[{""version"":""v1"",""created"":""Fri, 6 Jan 1995 17:35:49 GMT""}]","2016-09-01"
+"hep-ph/9501230",,"J. Huston, E. Kovacs, S. Kuhlmann, H. L. Lai, J. F. Owens, W. K. Tung","A GLOBAL QCD STUDY OF DIRECT PHOTON PRODUCTION","8 page Latex file using epsf.sty for figures. 6 eps figures submitted
+  separately in uuencoded file.","Phys.Rev.D51:6139-6145,1995","10.1103/PhysRevD.51.6139","Michigan State Report # MSU-HEP-41027 and CTEQ-407","hep-ph",,"  A global QCD analysis of the direct photon production process from both fixed
+target and collider experiments is presented. These data sets now completely
+cover the parton $x$ range from 0.01 to 0.6, thereby providing a stringent test
+of perturbative QCD and parton distributions. Previous detailed studies of
+direct photons emphasized fixed target data. We find most data sets have a
+steeper $p_t$ distribution than the QCD prediction. Neither global fits with
+new parton distributions nor improved photon fragmentation functions can
+resolve this problem since the deviation occurs at different $x$ values for
+experiments at different energies. A more likely explanation is the need for
+additional broadening of the $k_t$ of the initial state partons. The magnitude
+and the possible physical origin of this effect are investigated and discussed.
+","[{""version"":""v1"",""created"":""Fri, 6 Jan 1995 20:27:18 GMT""}]","2014-11-17"
+"hep-ph/9502238",,"I.I. Bigi and H. Yamamoto","Interference Between Cabibbo Allowed and Doubly Forbidden Transitions in
+  $D\ra K_{S,L} + \pi '$s Decays","6 pages, latex, no figures","Phys.Lett.B349:363-366,1995","10.1016/0370-2693(95)00285-S","UND-HEP-94-BIG09, HUTP-94/A029","hep-ph",,"  Both Cabibbo allowed and doubly forbidden transitions contribute coherently
+to $D\rightarrow K_{S,L}+\pi 's$ decays. This leads to several intriguing and
+even quantitatively significant consequences, among them: (i) A difference
+between $\Gamma (D^+\rightarrow K_S \pi ^+)$ and $\Gamma (D^+\rightarrow K_L
+\pi ^+)$ and between $\Gamma (D^0\rightarrow K_S \pi ^0)$ and $\Gamma
+(D^0\rightarrow K_L \pi ^0)$ of roughly 10\% ; similarly $\Gamma
+(D^+\rightarrow [K_S\pi ^0]_{K^*} \pi ^+) \neq \frac{1}{4}\Gamma
+(D^+\rightarrow [K^-\pi ^+]_{K^*} \pi ^+)$, and more generally $\Gamma
+(D\rightarrow \bar K^0+\pi 's) \neq 2\Gamma (D\rightarrow K_S+\pi 's)$. (ii) A
+change in the relative phase between the isospin 3/2 and 1/2 amplitudes as
+extracted from the observed branching ratios for $D^+\rightarrow K_S\pi ^+$,
+$D^0\rightarrow K_S\pi ^0 ,\, K^-\pi ^+$. (iii) If New Physics intervenes to
+provide the required {\em weak} phase, then CP asymmetries of up to a few per
+cent can arise in $D^+\rightarrow K_S\pi ^+$ vs. $D^-\rightarrow K_S\pi ^-$,
+$D^0\rightarrow K_S\pi ^0$ vs. $\bar D^0\rightarrow K_S\pi ^0$, $D^+\rightarrow
+[K_S\pi ^0]_{K^*}\pi ^+$ vs. $D^-\rightarrow [K_S\pi ^0]_{K^*}\pi ^-$, etc.; an
+asymmetry of the same size, but opposite in sign occurs when the $K_S$ is
+replaced by a $K_L$ in the final state.
+","[{""version"":""v1"",""created"":""Sat, 7 Jan 1995 04:41:30 GMT""}]","2016-09-01"
+"hep-th/9501018","Henrik Aratyn","H. Aratyn, E. Nissimov and S. Pacheva","Darboux-Backlund Solutions of SL(p,q) KP-KdV Hierarchies, Constrained
+  Generalized Toda Lattices, and Two-Matrix String Model","LaTeX, 13 pgs, minor typos corrected (incl. in eq. (90))","Phys.Lett. A201 (1995) 293-305","10.1016/0375-9601(95)00295-E","BGU-94/25/December - PH, UICHEP-TH/94-12","hep-th",,"  We present an unifying description of the graded $SL(p,q)$ KP-KdV
+hierarchies, including the Wronskian construction of their tau-functions as
+well as the coefficients of the pertinent Lax operators, obtained via
+successive applications of special Darboux-B\""{a}cklund transformations. The
+emerging Darboux-B\""{a}cklund structure is identified as a constrained
+generalized Toda lattice system relevant for the two-matrix string model. Also,
+the exact Wronskian solution for the two-matrix model partition function is
+found.
+","[{""version"":""v1"",""created"":""Fri, 6 Jan 1995 22:44:53 GMT""},{""version"":""v2"",""created"":""Mon, 5 Jun 1995 23:02:39 GMT""}]","2009-10-28"
+"hep-th/9501021","Victor Gurarie","V. Gurarie","Field Theory and the Phenomenon of Turbulence","17 pages, plain TEX.",,,"PUPT-1525","hep-th",,"  We study the phenomenon of turbulence from the point of view of statistical
+physics. We discuss what makes the turbulent states different from the
+thermodynamic equilibrium and give the turbulent analog of the partition
+function. Then, using the soluble theory of turbulence of waves as an example,
+we construct the turbulent action and show how one can compute the turbulent
+correlation functions perturbatively thus developing the turbulent Feynman
+diagrams. And at last, we discuss which part of what we learnt from the
+turbulence of waves can be used in other types of turbulence, in particular,
+the hydrodynamic turbulence of fluids. This paper is based on the talk
+delivered at SMQFT (1993) conference at the University of Southern California.
+","[{""version"":""v1"",""created"":""Fri, 6 Jan 1995 20:33:43 GMT""}]","2016-09-06"
+"math/9501204","Juris Steprans","Juris Stepr\=ans","Decomposing with smooth sets",,,,"Logic E-prints January 07, 1995","math.LO",,"  A subset of Euclidean space will be said to be $n$-smooth if it has an
+$n$-dimensional tangent plane at each of its points. Let ${\frak d}_n$ denote
+the least number $n$-smooth sets into which $n+1$-dimensional Euclidean space
+can be decomposed. For each $n$ it is shown to be consistent that ${\frak d}_n
+> {\frak d}_{n+1} $. Moreover, the inequalities ${\frak d}_{n+1}^+ \geq ${\frak
+d}_n$ are established where ${\frak d}_1$ is defined to be the continuum. The
+cardinal invariant ${\frak d}_2$ is shown to be the same as the least $\kappa$
+such that each continuous function from the reals to the reals can be
+decomposed into $\kappa$ differentiable functions.
+","[{""version"":""v1"",""created"":""Sat, 7 Jan 1995 00:00:00 GMT""}]","2016-09-06"

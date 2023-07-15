@@ -1,0 +1,90 @@
+"alg-geom/9504008","Scott Nollet","Scott Nollet","Integral Subschemes of Codimension Two","26 pages, amstex",,,,"alg-geom math.AC math.AG",,"  In this paper we study the problem of describing the integral subschemes
+within a fixed even linkage class $\L$ of subschemes in $\Pn$ of codimension
+two. In the case that $\L$ is not the class of arithmetically Cohen-Macaulay
+subschemes, we associate to any $X \in \L$ two invariants $\theta_X$ and
+$\eta_X$. When taken with the height $h_X$, each of these invariants determines
+the location of $X$ in $\L$, thought of as a poset under domination. In terms
+of these invariants, necessary conditions are given for integral subschemes.
+The necessary conditions are almost sufficient in the sense that if a subscheme
+$X$ satisfies the necessary conditions and dominates an integral subscheme $Y$,
+then $X$ can be deformed with constant cohomology through subschemes in $\L$ to
+an integral subscheme. In particular, if an even linkage class has a minimal
+element which is integral, then the conditions are both necessary and
+sufficient.
+","[{""version"":""v1"",""created"":""Sat, 15 Apr 1995 20:38:26 GMT""}]","2015-06-30"
+"astro-ph/9504050","Matthias Steinmetz","Matthias Steinmetz","GRAPESPH: Cosmological SPH simulations with the special purpose hardware
+  GRAPE","23 pages, uuencoded postscript file, 2 figures included",,"10.1093/mnras/278.4.1005",,"astro-ph",,"  A combined N--body/SPH code is presented which benefits from the high speed
+of the special purpose hardware GRAPE (GRAvity PipE). Besides gravitational
+forces, GRAPE also returns the list of neighbours and can, therefore, be used
+to speed up the hydrodynamical part, too. After the interaction list has been
+passed, density, pressure forces, propagation and interpolation of particles
+etc. are calculated on the front end, a 50 MHz SUN SPARC 10. In order to
+combine SPH and GRAPE, possible limitations due to the hardware design of GRAPE
+are carefully analyzed and modifications compared to current SPH codes are
+discussed. The resulting code, GRAPESPH, is similarly flexible as TREESPH. It
+seems especially well suited to investigate the formation of individual objects
+in a large scale structure environment, like eg. galaxies or clusters. The
+total performance is at least half as good as treesph on a CRAY and for most
+applications it seems to be even better. The CPU time per time step is only
+slightly dependent on the clustering state. GRAPESPH, therefore, provides a
+very attractive alternative to the use of supercomputers in cosmology.
+","[{""version"":""v1"",""created"":""Sat, 15 Apr 1995 21:34:01 GMT""}]","2015-06-24"
+"cmp-lg/9504011","Owen Rambow","Owen Rambow and Aravind K. Joshi","A Processing Model for Free Word Order Languages","23 pages, uuencoded compressed ps file. In {\em Perspectives on
+  Sentence Processing}, C. Clifton, Jr., L. Frazier and K. Rayner, editors.
+  Lawrence Erlbaum Associates, 1994",,,,"cmp-lg cs.CL",,"  Like many verb-final languages, Germn displays considerable word-order
+freedom: there is no syntactic constraint on the ordering of the nominal
+arguments of a verb, as long as the verb remains in final position. This effect
+is referred to as ``scrambling'', and is interpreted in transformational
+frameworks as leftward movement of the arguments. Furthermore, arguments from
+an embedded clause may move out of their clause; this effect is referred to as
+``long-distance scrambling''. While scrambling has recently received
+considerable attention in the syntactic literature, the status of long-distance
+scrambling has only rarely been addressed. The reason for this is the
+problematic status of the data: not only is long-distance scrambling highly
+dependent on pragmatic context, it also is strongly subject to degradation due
+to processing constraints. As in the case of center-embedding, it is not
+immediately clear whether to assume that observed unacceptability of highly
+complex sentences is due to grammatical restrictions, or whether we should
+assume that the competence grammar does not place any restrictions on
+scrambling (and that, therefore, all such sentences are in fact grammatical),
+and the unacceptability of some (or most) of the grammatically possible word
+orders is due to processing limitations. In this paper, we will argue for the
+second view by presenting a processing model for German.
+","[{""version"":""v1"",""created"":""Sat, 15 Apr 1995 19:18:35 GMT""}]","2008-02-03"
+"cond-mat/9504063",,"Yong Baek Kim, Patrick A. Lee, and Xiao-Gang Wen","Quantum Boltzmann equation of composite fermions interacting with a
+  gauge field","44 pages, Plain Tex, 5 figures (ps files) available upon request",,"10.1103/PhysRevB.52.17275","MIT-CMT-95/APR/14","cond-mat",,"  We derive the quantum Boltzmann equation (QBE) of composite fermions at/near
+the $\nu = 1/2$ state using the non-equilibrium Green's function technique. The
+lowest order perturbative correction to the self-energy due to the strong gauge
+field fluctuations suggests that there is no well defined
+Landau-quasi-particle. Therefore, we cannot assume the existence of the
+Landau-quasi-particles {\it a priori} in the derivation of the QBE. Using an
+alternative formulation, we derive the QBE for the generalized Fermi surface
+displacement which corresponds to the local variation of the chemical potential
+in momentum space. {}From this QBE, one can understand in a unified fashion the
+Fermi-liquid behaviors of the density-density and the current-current
+correlation functions at $\nu = 1/2$ (in the long wave length and the low
+frequency limits) and the singular behavior of the energy gap obtained from the
+finite temperature activation behavior of the compressibility near $\nu = 1/2$.
+Implications of these results to the recent experiments are also discussed.
+","[{""version"":""v1"",""created"":""Sun, 16 Apr 1995 15:57:24 GMT""},{""version"":""v2"",""created"":""Tue, 18 Apr 1995 03:03:34 GMT""}]","2009-10-28"
+"gr-qc/9504022","Andrei Linde","Juan Garcia-Bellido and Andrei Linde","STATIONARY SOLUTIONS IN BRANS-DICKE STOCHASTIC INFLATIONARY COSMOLOGY","19 pages, LaTeX","Phys.Rev.D52:6730-6738,1995","10.1103/PhysRevD.52.6730","SU-ITP-95-8, IEM-FT-86/95, SUSSEX-AST-95/4-2","gr-qc astro-ph hep-ph hep-th",,"  In Brans-Dicke theory the Universe becomes divided after inflation into many
+exponentially large domains with different values of the effective
+gravitational constant. Such a process can be described by diffusion equations
+for the probability of finding a certain value of the inflaton and dilaton
+fields in a physical volume of the Universe. For a typical chaotic inflation
+potential, the solutions for the probability distribution never become
+stationary but grow forever towards larger values of the fields. We show here
+that a non-minimal conformal coupling of the inflaton to the curvature scalar,
+as well as radiative corrections to the effective potential, may provide a
+dynamical cutoff and generate stationary solutions. We also analyze the
+possibility of large nonperturbative jumps of the fluctuating inflaton scalar
+field, which was recently revealed in the context of the Einstein theory. We
+find that in the Brans--Dicke theory the amplitude of such jumps is strongly
+suppressed.
+","[{""version"":""v1"",""created"":""Sat, 15 Apr 1995 19:24:06 GMT""}]","2009-09-29"
+"hep-th/9504078","Hagen Kleinert","H. Kleinert, H. Meyer","Variational Calculation of Effective Classical Potential at $T \neq 0$
+  to Higher Orders","PostScript, http://www.physik.fu-berlin.de/kleinert.html","Phys.Lett. A184 (1994) 319","10.1016/0375-9601(94)90454-5",,"hep-th",,"  Using the new variational approach proposed recently for a systematic
+improvement of the locally harmonic Feynman-Kleinert approximation to path
+integrals we calculate the partition function of the anharmonic oscillator for
+all temperatures and coupling strength with high accuracy.
+","[{""version"":""v1"",""created"":""Sun, 16 Apr 1995 06:58:28 GMT""}]","2009-10-28"

@@ -1,0 +1,73 @@
+"acc-phys/9502001","Robert Ryne","Robert D. Ryne (Los Alamos National Laboratory)","Finding matched rms envelopes in rf linacs: A Hamiltonian approach","10 pages, uuencoded gzipped PostScript (88K)",,,"LA-UR-95-391","acc-phys physics.acc-ph",,"  We present a new method for obtaining matched solutions of the rms envelope
+equations. In this approach, the envelope equations are first expressed in
+Hamiltonian form. The Hamiltonian defines a nonlinear mapping, $\cal M$, and
+for periodic transport systems the fixed points of the one-period map are the
+matched envelopes. Expanding the Hamiltonian around a fiducial trajectory one
+obtains a linear map, $M$, that describes trajectories (rms envelopes) near the
+fiducial trajectory. Using $\cal M$ and $M$ we construct a contraction mapping
+that can be used to obtain the matched envelopes. The algorithm is
+quadratically convergent. Using the zero-current matched parameters as starting
+values, the contraction mapping typically converges in a few to several
+iterations. Since our approach uses numerical integration to obtain all the
+mappings, it includes the effects of nonidealized, $z$-dependent transverse and
+longitudinal focusing fields. We present numerical examples including finding a
+matched beam in a quadrupole channel with rf bunchers.
+","[{""version"":""v1"",""created"":""Sun, 12 Feb 1995 03:25:31 GMT""}]","2012-08-29"
+"cond-mat/9502045","Felix Ritort","Vicente Azcoiti, Eduardo Follana and Felix Ritort","Static Chaos in Spin Glasses against quenched disorder perturbations","13 Pages + 7 Figures, Latex File, figures uuencoded at end of file",,"10.1088/0305-4470/28/14/008","MA/UC3M/03/95 (Universidad Carlos III de Madrid, Spain), DFTUZ/95/04
+  (Universidad de Zaragoza, Spain)","cond-mat",,"  We study the chaotic nature of spin glasses against perturbations of the
+realization of the quenched disorder. This type of perturbation modifies the
+energy landscape of the system without adding extensive energy. We exactly
+solve the mean-field case, which displays a very similar chaos to that observed
+under magnetic field perturbations, and discuss the possible extension of these
+results to the case of short-ranged models. It appears that dimension four
+plays the role of a specific critical dimension where mean-field theory is
+valid. We present numerical simulation results which support our main
+conclusions.
+","[{""version"":""v1"",""created"":""Sat, 11 Feb 1995 21:05:41 GMT""}]","2016-08-31"
+"cond-mat/9502046","Yinlong Sun","Yinlong Sun and George Kirczenow","Theory of Interacting Parallel Quantum Wires","RevTeX, 23 papes, 8 compressed tar figures in a separate file, to be
+  published in the Canadian Journal of Physics.",,"10.1139/p95-050","YSGK-9502","cond-mat",,"  We present self-consistent numerical calculations of the electronic structure
+of parallel Coulomb-confined quantum wires, based on the Hohenberg-Kohn-Sham
+density functional theory of inhomogeneous electron systems. We find that the
+corresponding transverse energy levels of two parallel wires lock together when
+the wires' widths are similar and their separation is not too small. This
+energy level locking is an effect of Coulomb interactions and of the the
+density of states singularities that are characteristic of quasi-
+one-dimensional Fermionic systems. In dissimilar parallel wires level lockings
+are much less likely to occur. Energy level locking in similar wires persists
+to quite large wire separations, but is gradually suppressed by inter-wire
+tunneling when the separation becomes small. Experimental implications of these
+theoretical results are discussed.
+","[{""version"":""v1"",""created"":""Sun, 12 Feb 1995 07:16:21 GMT""},{""version"":""v2"",""created"":""Mon, 13 Feb 1995 02:21:58 GMT""},{""version"":""v3"",""created"":""Tue, 14 Feb 1995 01:23:03 GMT""}]","2015-06-25"
+"gr-qc/9502029","Javier Muniain","Javier P. Muniain, Dardo Piriz (UC Riverside)","Critical Behavior of Dimensionally Continued Black Holes","21 pages in Latex format, no figures, vastly improved version to
+  appear in Phys. Rev. D","Phys.Rev. D53 (1996) 816-823","10.1103/PhysRevD.53.816",,"gr-qc",,"  The critical behavior of black holes in even and odd dimensional spacetimes
+is studied based on Ba\~nados-Teitelboim-Zanelli (BTZ) dimensionally continued
+black holes. In even dimensions it is found that asymptotically flat and anti
+de-Sitter Reissner-Nordstr\""om black holes present up to two second order phase
+transitions. The case of asymptotically anti-de-Sitter Schwarzschild black
+holes present only one critical transition and a minimum of temperature, which
+occurs at the transition. Finally, it is shown that phase transitions are
+absent in odd dimensions.
+","[{""version"":""v1"",""created"":""Sun, 12 Feb 1995 03:30:16 GMT""},{""version"":""v2"",""created"":""Mon, 6 Nov 1995 00:55:28 GMT""}]","2009-10-28"
+"hep-ph/9502280","Francesca Borzumati","F.M. Borzumati, G. Kramer","INCLUSIVE PARTICLE PRODUCTION IN $\pbp$ COLLISIONS","the file containing the figures has been replaced: we correct a
+  mistake in the uuencoding procedure and we give the real Fig 4 instead of the
+  spurious one which was accidentally included in the previous file. the text
+  is unchanged.","Z.Phys. C67 (1995) 137-142","10.1007/BF01564829","DESY 95-020. TUM-T31-84/95","hep-ph",,"  We calculate the inclusive production of charged hadrons in $\pbp$ collisions
+to next-to-leading order (NLO) in the QCD improved parton model using a new set
+of NLO fragmentation functions for charged pions and kaons. We predict
+transverse-momentum distributions and compare them with experimental data from
+the CERN S$\pbp$S Collider and the Fermilab Tevatron.
+","[{""version"":""v1"",""created"":""Sat, 11 Feb 1995 18:31:39 GMT""},{""version"":""v2"",""created"":""Mon, 13 Feb 1995 19:03:03 GMT""}]","2016-09-01"
+"hep-th/9502067","Yu-kui-Zhou","Yu-kui Zhou and Paul Pearce","SOLUTION OF FUNCTIONAL EQUATIONS OF RESTRICTED $A_{n-1}^{(1)}$ FUSED
+  LATTICE MODELS","25 pages;latex file(epic.tex needed);Res.Rep.No 39;Tex Prob. fixed.","Nucl.Phys. B446 (1995) 485-510","10.1016/0550-3213(95)00210-J",,"hep-th",,"  Functional equations, in the form of fusion hierarchies, are studied for the
+transfer matrices of the fused restricted $A_{n-1}^{(1)}$ lattice models of
+Jimbo, Miwa and Okado. Specifically, these equations are solved analytically
+for the finite-size scaling spectra, central charges and some conformal
+weights. The results are obtained in terms of Rogers dilogarithm and correspond
+to coset conformal field theories based on the affine Lie algebra
+$A_{n-1}^{(1)}$ with GKO pair $A^{(1)}_{n-1}\; \oplus A^{(1)}_{n-1}\;\supset \;
+A^{(1)}_{n-1}$.
+","[{""version"":""v1"",""created"":""Sun, 12 Feb 1995 04:34:42 GMT""},{""version"":""v2"",""created"":""Mon, 13 Feb 1995 23:09:35 GMT""}]","2016-09-06"
+"math/9502235","Jan Kiwi","Jan Kiwi","Non-accessible critical points of Cremer polynomials",,,,"Stony Brook IMS 1995/2","math.DS",,"  It is shown that a polynomial with a Cremer periodic point has a
+non-accessible critical point in its Julia set provided that the Cremer
+periodic point is approximated by small cycles.
+","[{""version"":""v1"",""created"":""Sun, 12 Feb 1995 00:00:00 GMT""}]","2008-02-03"

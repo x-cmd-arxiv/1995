@@ -1,0 +1,363 @@
+"alg-geom/9503012","P. G. J. Nijsse","Pieter Nijsse","The irreducibility of the moduli space of stable vector bundles of rank
+  2 on a quintic in $\pp^3$","AMSTeX, 12 pages",,,"Leiden University preprint W95-02","alg-geom math.AG",,"  In this paper I consider a quintic surface in $\pp^3$, general in the sense
+of Noether-Lefschetz theory. The vector bundles of rank 2 on this surface which
+are $\mu$-stable with respect to the hyperplane section and have $c_1 = K$, the
+canonical class of the surface and fixed $c_2$, are parametrized by a moduli
+space. This space is known to be irreducible for large $c_2$ (work of K.G.
+O'Grady). I give an explicit bound, namely $c_2 \geq 16$.
+","[{""version"":""v1"",""created"":""Wed, 22 Mar 1995 10:56:51 GMT""}]","2008-02-03"
+"alg-geom/9503013","Claus Hertling","G.-M. Greuel, C. Hertling, and G. Pfister","Moduli spaces of semiquasihomogeneous singularities with fixed principal
+  part","31 pages. AMSLaTeX",,,,"alg-geom math.AG",,"  We construct coarse moduli spaces of semiquasihomogeneous hypersurface
+singularities with respect to right equivalence and contact equivalence. We
+have to fix the principal part of the semiquasihomogeneous singularities. For
+the moduli spaces with respect to contact equivalence we also fix the Hilbert
+function of the Tjurina algebra induced by the weights.
+","[{""version"":""v1"",""created"":""Wed, 22 Mar 1995 12:58:16 GMT""}]","2008-02-03"
+"alg-geom/9503014","Christian Gantz","Christian Gantz and Brian Steer","Stable Parabolic Bundles over Elliptic Surfaces and over Orbifold
+  Riemann Surfaces","12 pages, LaTeX",,,,"alg-geom math.AG",,"  For an elliptic surface $q:Y \to \Sigma$, with prescribed singular fibres,
+Stefan Bauer proved directly via algebraic geometry that the stable bundles
+over $Y$, whose chern classes are pull backs from $\Sigma$, correspond to the
+stable (V-)bundles over $\Sigma$.
+  We show, via a short proof in differential geometry, a generalisation to
+stable parabolic bundles. This uses extensions of Donaldson's deep result,
+giving the existence of Hermitian-Yang-Mills (or anti-self-dual) connections on
+stable parabolic bundles. In our cases these connections are flat and hence,
+correspond to representations of certain fundamental groups, which in turn are
+isomorphic, by Ue's work.
+  To generalize Bauer's equivalence of the corresponding moduli spaces of
+stable bundles, we combine his arguments with Kronheimer & Mrowka's
+construction of the moduli spaces of stable parabolic bundles. Finally, we
+consider the pulling back of smooth parabolic bundles via $q$.
+","[{""version"":""v1"",""created"":""Wed, 22 Mar 1995 15:21:07 GMT""}]","2008-02-03"
+"astro-ph/9503082","Martin Pohl","M. Pohl, W. Reich, T. P. Krichbaum, K. Standke, S. Britzen, H. P.
+  Reuter, P. Reich, R. Schlickeiser, R. L. Fiedler, E. B. Waltman, F. D. Ghigo,
+  K. J. Johnston","Radio observations of the gamma-ray quasar 0528+134: Superluminal motion
+  and an extreme scattering event","16 pages, compressed and uuencoded postscript-file",,,"MPE Preprint 314","astro-ph",,"  We report on multifrequency radio observations made with the Effelsberg 100-m
+telescope, the IRAM 30-m telescope and the Green Bank Interferometer between
+1992 and 1994 of the $\gamma$-ray quasar 0528+134. We present a new VLBI based
+map of 0518+134 at 22 GHz with sub-mas angular resolution observed in November
+1992, which shows a one-sided core jet structure of $\sim$ 5 mas length. One
+component, seen also previously at 8.4 GHz & 22 GHz, shows apparent
+superluminal motion with $\beta_{app}$=4.4$\pm$1.7. In summer 1993 we observed
+a major outburst at all frequencies higher than a few GHz, which peaked a few
+months after a strong outburst in high energy $\gamma$-rays and showed the
+canonical time evolution of a cooling and/or expanding electron distribution.
+Our data indicate that the outburst in the EGRET range originated very close to
+the central object of the AGN and that a remnant of this outburst moved further
+outward in the jet until it became optically thin at radio frequencies after a
+few months. During the flare in July 1993 we observed with the Effelsberg 100-m
+telescope an unusually strong decrease of the flux density by about 50% at 4.75
+GHz and 10.55 GHz and slightly less at 2.695 GHz. This behaviour is also seen
+in the monitoring data at 2.25 GHz and 8.3 GHz taken with the Green Bank
+Interferometer (NRL-GBI). An extreme scattering event by a small dense plasma
+cloud in the line of sight is able to match the observed time lag in the
+lightcurves if we take into account the mas-structure of the source and
+different spectra of the components on the basis of their brightness in the
+VLBI maps.
+","[{""version"":""v1"",""created"":""Wed, 22 Mar 1995 09:56:37 GMT""}]","2007-05-23"
+"cmp-lg/9503023","Lyon","Caroline Lyon and Bob Dickerson (University of Hertfordshire)","A fast partial parse of natural language sentences using a connectionist
+  method","8 pages, 3 Postscript figures, uses eaclap.sty it needs LaTeX2e and
+  uses begin{filecontents*} to write out the 3 PostScript figures.",,,,"cmp-lg cs.CL",,"  The pattern matching capabilities of neural networks can be used to locate
+syntactic constituents of natural language. This paper describes a fully
+automated hybrid system, using neural nets operating within a grammatic
+framework. It addresses the representation of language for connectionist
+processing, and describes methods of constraining the problem size. The
+function of the network is briefly explained, and results are given.
+","[{""version"":""v1"",""created"":""Wed, 22 Mar 1995 11:29:41 GMT""}]","2008-02-03"
+"cond-mat/9503120","Dietmar Weinmann","D. Weinmann, A. Mueller-Groeling, J.-L. Pichard and K. Frahm","$h/2e$--Oscillations for Correlated Electron Pairs in Disordered
+  Mesoscopic Rings","4 pages, uuencoded PostScript, containing 5 figures.","Phys. Rev. Lett. 75 1995 1598","10.1103/PhysRevLett.75.1598",,"cond-mat",,"  The full spectrum of two interacting electrons in a disordered mesoscopic
+one--dimensional ring threaded by a magnetic flux is calculated numerically.
+For ring sizes far exceeding the one--particle localization length $L_1$ we
+find several $h/2e$--periodic states whose eigenfunctions exhibit a pairing
+effect. This represents the first direct observation of interaction--assisted
+coherent pair propagation, the pair being delocalized on the scale of the whole
+ring.
+","[{""version"":""v1"",""created"":""Tue, 21 Mar 1995 16:42:57 GMT""}]","2009-10-28"
+"cond-mat/9503121","Yue Yu","Yue Yu, Yanmin Li, Nick d'Ambrumenil","Scaling Law for a Magnetic Impurity Model with Two-Body Hybridization","14 pages, latex, 1 figure included.",,"10.1103/PhysRevB.51.16417",,"cond-mat",,"  We consider a magnetic impurity coupled to the hybridizing and screening
+channels of a conduction band. The model is solved in the framework of poor
+man's scaling and Cardy's generalized theories. We point out that it is
+important to include a two-body hybridization if the scaling theory is to be
+valid for the band width larger than $U$. We map out the boundary of the
+Fermi-non-Fermi liquid phase transition as a function of the model parameters.
+","[{""version"":""v1"",""created"":""Tue, 21 Mar 1995 22:03:11 GMT""}]","2009-10-28"
+"cond-mat/9503122","Jan De Boer","Jan de Boer and Andreas Schadschneider","Exact ground states of generalized Hubbard models","Revtex, 8 pages",,"10.1103/PhysRevLett.75.4298","ITP-SB-95-06","cond-mat",,"  We present a simple method for the construction of exact ground states of
+generalized Hubbard models in arbitrary dimensions. This method is used to
+derive rigorous criteria for the stability of various ground state types, like
+the $\eta$-pairing state, or N\'eel and ferromagnetic states. Although the
+approach presented here is much simpler than the ones commonly used, it yields
+better bounds for the region of stability.
+","[{""version"":""v1"",""created"":""Tue, 21 Mar 1995 22:57:26 GMT""}]","2009-10-28"
+"cond-mat/9503123","Angel Sanchez","F. Dominguez-Adame, A. Sanchez and Yu. S. Kivshar","Soliton pinning by long-range order in aperiodic systems","4 pages, REVTeX 3.0 + epsf, 3 figures in accompanying PostScript file
+  (Submitted to Phys Rev E Rapid Comm)",,"10.1103/PhysRevE.52.R2183","MA/UC3M/4/95","cond-mat nlin.PS patt-sol",,"  We investigate propagation of a kink soliton along inhomogeneous chains with
+two different constituents, arranged either periodically, aperiodically, or
+randomly. For the discrete sine-Gordon equation and the Fibonacci and
+Thue-Morse chains taken as examples, we have found that the phenomenology of
+aperiodic systems is very peculiar: On the one hand, they exhibit soliton
+pinning as in the random chain, although the depinning forces are clearly
+smaller. In addition, solitons are seen to propagate differently in the
+aperiodic chains than on periodic chains with large unit cells, given by
+approximations to the full aperiodic sequence. We show that most of these
+phenomena can be understood by means of simple collective coordinate arguments,
+with the exception of long range order effects. In the conclusion we comment on
+the interesting implications that our work could bring about in the field of
+solitons in molecular (e.g., DNA) chains.
+","[{""version"":""v1"",""created"":""Wed, 22 Mar 1995 12:23:54 GMT""}]","2009-10-28"
+"funct-an/9503001","Liflyand elijah","Elijah Liflyand (Bar-Ilan University, Israel)","Some Conditions for Existence and Integrability of the Fourier Transform","33 pages, AMSTEX, no figures",,,"BIMACS-9502","funct-an math.FA",,"  The Fourier transform is naturally defined for integrable functrions.
+Otherwise, it should be stipulated in which sense the Fourier transform is
+understood. We consider some class of radial and, generally saying,
+nonintegrable functions. The Fourier transform is calculated as an improper
+integral and the limit coincides with the Fourier transform in the
+distributional sense. The inverse Fourier formula is proved as well. Given are
+some applications of the result obtained.
+","[{""version"":""v1"",""created"":""Wed, 22 Mar 1995 09:08:59 GMT""},{""version"":""v2"",""created"":""Sun, 10 Dec 1995 15:15:07 GMT""}]","2008-02-03"
+"gr-qc/9503034","Neil Cornish","Neil J. Cornish","The Unholey Solution to Black Hole Information Loss","4 pages, RevTeX, 1 figure (uuencode, compressed).",,,"UTPT-95-03","gr-qc",,"  The simplest solution to the black hole information loss problem is to
+eliminate black holes. Modifications of Einstein gravity which accomplish this
+are discussed and the possibility that string theory is free of black holes is
+considered.
+","[{""version"":""v1"",""created"":""Tue, 21 Mar 1995 21:35:03 GMT""}]","2007-05-23"
+"gr-qc/9503035","Alex Ridgway","S. Alexander Ridgway and Erick J. Weinberg (Columbia University)","Static Black Hole Solutions without Rotational Symmetry","42 pages, phyzzx. 4 figures (PostScript, 1.7 MB when uncompressed)
+  available by email from the Authors on request","Phys.Rev.D52:3440-3456,1995","10.1103/PhysRevD.52.3440","CU-TP-673","gr-qc hep-th",,"  We construct static black hole solutions that have no rotational symmetry.
+These arise in theories, including the standard electroweak model, that include
+charged vector mesons with mass $m\ne 0$. In such theories, a magnetically
+charged Reissner-Nordstrom black hole with horizon radius less than a critical
+value of the order of $m^{-1}$ is classically unstable against the development
+of a nonzero vector meson field just outside the horizon, indicating the
+existence of static black hole solutions with vector meson hair. For the case
+of unit magnetic charge, spherically symmetric solutions of this type have
+previously been studied. For other values of the magnetic charge, general
+arguments show that any new solution with hair cannot be spherically symmetric.
+In this paper we develop and apply a perturbative scheme (which may have
+applicability in other contexts) for constructing such solutions in the case
+where the Reissner-Nordstrom solution is just barely unstable. For a few low
+values of the magnetic charge the black holes retain a rotational symmetry
+about a single axis, but this axial symmetry disappears for higher charges.
+While the vector meson fields vanish exponentially fast at distances greater
+than $O(m^{-1})$, the magnetic field and the metric have higher multipole
+components that decrease only as powers of the distance from the black hole.
+","[{""version"":""v1"",""created"":""Wed, 22 Mar 1995 00:19:54 GMT""}]","2010-11-19"
+"gr-qc/9503036","David Scialom","P. Molnar","Numerical Solutions of the Einstein-Yang-Mills System with Cosmological
+  Constant","35 pages, latex file",,,"ZU-TH 7/95","gr-qc",,"  Numerical evidence for a cosmological version of the Bartnik-McKinnon family
+of particle-like solutions of the Einstein-Yang-Mills system is presented. Our
+solutions are also static, but space has the topology of a three-sphere. By
+adjusting the cosmological constant we found numerically a spherically
+symmetric solution which can be regarded as an excitation of the unique
+SO(4)-invariant solution. We expect that for each node number there exists such
+a solution without a cosmological horizon.
+","[{""version"":""v1"",""created"":""Wed, 22 Mar 1995 15:38:27 GMT""},{""version"":""v2"",""created"":""Tue, 25 Apr 1995 09:18:00 GMT""},{""version"":""v3"",""created"":""Thu, 4 May 1995 13:03:01 GMT""}]","2008-02-03"
+"gr-qc/9503037",,"Joachim Schirmer","Triad formulations of Canonical Gravity without a fixed reference frame","35 pages, LaTeX",,,"FR-THEP-95/8","gr-qc",,"  One can simplify the triad formulations of canonical gravity by abandoning
+any relation to a fixed coordinate system. That means in case of the \ADM
+formalism that one can determine the momentum by direct derivation of the
+Lagrange-3-form w.r.t the time-derivative of the triad-1-forms, thus the
+momentum is most naturally a 2-form. We apply this concept to the Palatini
+formulation where we can closely follow Dirac's concept to find and eliminate
+the second class constraints. Following the same way for the Ashtekar theory it
+will turn out to be equivalent to two successive canonical transformations
+where the first makes explicit use of the spatial dimension being 3 and the
+second is usually hidden in the use of densities. At the end we can give a
+simple version of the reality constraints.
+","[{""version"":""v1"",""created"":""Wed, 22 Mar 1995 11:59:35 GMT""}]","2007-05-23"
+"gr-qc/9503038","Sardanashvily Gennadi","G. Sardanashvily (Moscow State University)","Stress-Energy-Momentum Tensors in Constraint Field Theories","25 pp, LaTeX file","J.Math.Phys. 38 (1997) 847-866","10.1063/1.531873","TP\95\043","gr-qc dg-ga hep-th math.DG",,"  One has not any conventional energy-momentum conservation law in Lagrangian
+field theory, but relations involving different stress-energy-momentum tensors
+associated with different connections. It is not obvious how to choose the true
+energy-momentum tensor. This problem is solved in the framework of the
+multimomentum Hamiltonian formalism which provides the adequate description of
+constraint field systems. The goal is that, for different solutions of the same
+constraint field model, one should choose different stress-energy-momentum
+tensors in general. Gauge theory illustrates this result. The
+stress-energy-momentum tensors of affine-metric gravity are examined.
+","[{""version"":""v1"",""created"":""Wed, 22 Mar 1995 15:54:58 GMT""}]","2009-10-28"
+"hep-ph/9503388","Tatsuo Kobayashi","R.Altendorfer and T.Kobayashi","Implications of Non-universal Soft Masses on Gauge Coupling Unification","25 pages, Latex, 4 figures (not included)","Int.J.Mod.Phys. A11 (1996) 903-920","10.1142/S0217751X96000419","LMU-TPW 95-2","hep-ph",,"  We study the gauge coupling unification of the minimal supersymmetric
+standard model with non-universal soft scalar and gaugino masses. The
+unification scale of the gauge couplings is estimated for non-universal cases.
+It is sensitive to the non-universality. It turns out that these cases can be
+combined with the assumption of string unification, which leads to a prediction
+of $\sin^2 \theta_W(M_Z)$ and $k_1$, the normalisation of the $U(1)_Y$
+generator. String unification predicts $k_1=1.3 - 1.4$. These values have
+non-trivial implications on string model building. Two-loop corrections are
+also calculated. Some of these cases exhibit a large discrepancy between
+experiment and string unification. We calculate string threshold corrections to
+explain the discrepancy.
+","[{""version"":""v1"",""created"":""Tue, 21 Mar 1995 23:31:55 GMT""}]","2015-06-25"
+"hep-ph/9503401","Slava Ilyin","V.A. Ilyin, A.E. Pukhov, V.I. Savrin, A.V. Semenov, W.B. von Schlippe","Single leptoquark production associated with hard photon emission in ep
+  collisions at high energies","11 pages, one figure is prepared in 'eps' format and stored in the
+  file 'raz_cms.uu' compressed and uuencoded by standard script 'uufiles'","Phys.Lett. B351 (1995) 504-509; Erratum-ibid. B352 (1995) 500","10.1016/0370-2693(94)00537-H","INP MSU Preprint-95-1/365, QMW-PH-95-6","hep-ph",,"  In this paper we consider single leptoquark resonance production associated
+with the emission of a hard photon. We have obtained analytical formulae for
+differential and total cross sections for the cases of scalar and vector
+leptoquarks. We have found that in reactions with scalar leptoquarks there is
+no photon radiation in some directions depending on the leptoquark electric
+charge (the radiative amplitude zero - the RAZ effect).
+  For vector leptoquarks the exact RAZ is present only in the case of
+Yang-Mills coupling. We propose to use the RAZ effect to determine the types of
+leptoquarks. We conclude also that this effect opens a possibility to measure
+the leptoquark anomalous magnetic moment.
+","[{""version"":""v1"",""created"":""Tue, 21 Mar 1995 22:50:44 GMT""},{""version"":""v2"",""created"":""Wed, 17 May 1995 09:40:27 GMT""}]","2009-10-28"
+"hep-ph/9503402","Robert Leigh","Robert G. Leigh and Riccardo Rattazzi (Rutgers University)","Supersymmetry, Finite Temperature and Gravitino Production in the Early
+  Universe","15 pages, harvmac","Phys.Lett. B352 (1995) 20-28","10.1016/0370-2693(95)00466-X","RU-94-100","hep-ph astro-ph",,"  We reconsider post-inflation gravitino production, in the context of hidden
+sector supergravity models. We discuss the possible role of supersymmetry
+breaking from finite temperature effects in enhancing the rate for gravitino
+production and argue that there is no such enhancement. Our conclusion is based
+on a simple decoupling argument, which is independent of temperature. We also
+characterize the properties of goldstino-like hydrodynamic fluctuations that
+arise in supersymmetric models at finite temperature. We show that they cannot
+lead to enhanced gravitino emission via infrared divergences. We comment on an
+analogy with axion emission from hadronic matter.
+","[{""version"":""v1"",""created"":""Tue, 21 Mar 1995 23:26:14 GMT""}]","2009-10-28"
+"hep-ph/9503403","M. Biyajima","Naomichi Suzuki, Minoru Biyajima, and Akinori Ohsawa","Wavelet Spectra of JACEE Events","9 pages, latex, 6 figures (not included, available on request)","Prog.Theor.Phys. 94 (1995) 91-104","10.1143/ptp/94.1.91","SULDP-1995-4","hep-ph",,"  Pseudo-rapidity distributions of two high multiplicity events Ca-C and
+Si-AgBr observed by the JACEE are analysed by the wavelet transform. Wavelet
+spectra of those events are calculated and compared with the simulation
+calculations. The wavelet spectrum of Ca-C event somewhat resembles to that
+simulated with the uniform random numbers. That of Si-AgBr event is not
+reproduced by simulation calculations with Poisson random numbers, uniform
+random numbers, or a p-model.
+","[{""version"":""v1"",""created"":""Wed, 22 Mar 1995 01:56:04 GMT""}]","2017-02-01"
+"hep-ph/9503404","Nikolai Uraltsev","N.G. Uraltsev","Do Higher Order Perturbative Corrections Upset |V_{cb}| and |V_{ub}|
+  Determined from Semileptonic Widths?","16 pages, no figures; to appear in IJMPA. SUMMARY of CHANGES made for
+  the journal version: 1. The Comment on the Luke's theorem is added as a
+  footnote after Eq.(18). 2. Misprint in sign is corrected in Eq.(18) 3.
+  Obvious misprint in the normalization of BR(b->u) in Eqs.(25), (27) is
+  eliminated; the results of numerical analysis of b->u are formulated in a
+  more precise way. Coefficients in Eqs.(19) and (20) changed insignificantly
+  due to using the normalization scale 1.3GeV instead of","Int.J.Mod.Phys.A11:515-532,1996","10.1142/S0217751X96000237","TPI-MINN-95/5-T, UMN-TH-1332-95","hep-ph",,"  It is shown that large perturbative corrections found previously for
+semileptonic beauty and charm decays are associated with using inappropriate
+pole masses. The latter, in the perturbative expansion, suffer from the 1/m_Q
+infrared renormalon which is absent in the widths, which leads to similar large
+corrections in m_Q. Pole masses are neither measured directly in experiment. If
+the widths are related to parameters determined in experiment, the overall
+impact of the calculated second order corrections becomes strongly suppressed
+and leads to less than 1\% change in |V_{cb}| and |V_{ub}|. Even in charm
+decays the perturbative corrections appear to be very moderate in the
+consistent OPE-compliant treatment. The updated estimate of |V_{cb}| is given,
+based on recent accurate determination of m_b and \alpha_s(1 GeV). The
+theoretical accuracy of determination of |V_{ub}| from \Gamma_{sl}(b->u)
+appears to be good as well.
+","[{""version"":""v1"",""created"":""Wed, 22 Mar 1995 05:32:14 GMT""},{""version"":""v2"",""created"":""Fri, 16 Jun 1995 14:33:05 GMT""}]","2014-11-17"
+"hep-ph/9503406","Kazuhiro Tanaka","K. Tanaka (Dept. of Physics, Hiroshima Univ.)","Fermionic excitation in quark matter","10pages, latex, 3 figures obtainable from author, talk presented at
+  YITP Workshop on ``From Hadronic Matter to Quark Matter: Evolving View of
+  Hadronic Matter'', YITP, Kyoto Japan, October (1994).","Prog.Theor.Phys.Suppl.120:177-186,1995","10.1143/PTPS.120.177","HUPD-9511","hep-ph",,"  We discuss the fermionic excitation spectra of the dense QCD and QED plasma
+at zero temperature, and analyze the stability of the normal (perturbative)
+ground state. The standard re-summed perturbation theory breaks down because
+the infrared (IR) divergences show up in the spectra near the Fermi surface. We
+employ the effective field theory approach and the renormalization group to
+investigate the dynamics near the Fermi surface. Our results indicate that the
+dense QCD and QED plasma are non-Fermi-liquids.
+","[{""version"":""v1"",""created"":""Wed, 22 Mar 1995 07:14:14 GMT""}]","2008-11-26"
+"hep-ph/9503407",,"F. Halzen, M.C. Gonzalez-Garcia, T. Stelzer and R.A. Vazquez","SIGNATURES OF CP-VIOLATION IN THE PRESENCE OF MULTIPLE B-PAIR PRODUCTION
+  AT HADRON COLLIDER","14 pages, Latex file using ReVTeX. 7 figures. To Appear in Phys Rev D","Phys.Rev.D51:4861-4866,1995","10.1103/PhysRevD.51.4861",,"hep-ph",,"  We calculate the production of 2 b-quark pairs in hadron collisions. Sources
+of multiple pairs are multiple interactions and higher order perturbative QCD
+mechanisms. We subsequently investigate the competing effects of multiple
+b-pair production on measurements of CP-violation: i) the increase in event
+rate with multiple b-pair cross sections which may reach values of order 1 barn
+in the presence of multiple interactions and ii) the dilution of $b$ versus
+$\bar b$ tagging efficiency because of the presence of events with 4
+$B$-mesons. The impact of multiple $B$-meson production is small unless the
+cross section for producing a single pair exceeds 1~mb. We show that even for
+larger values of the cross section the competing effects i) and ii) roughly
+compensate so that there is no loss in the precision with which CP-violating
+CKM angles can be determined.
+","[{""version"":""v1"",""created"":""Wed, 22 Mar 1995 08:19:36 GMT""}]","2010-11-01"
+"hep-ph/9503408",,"Patrick Peter","SURFACE CURRENT-CARRYING DOMAIN WALLS","11 pages, LaTeX-ReVTeX v.3, 2 figures available upon request","J.Phys.A29:5125-5136,1996","10.1088/0305-4470/29/16/030","DAMTP-R95/6","hep-ph",,"  Domain walls, arising from the spontaneous breaking of a discrete symmetry,
+can be coupled to charge carriers. In much the same way as the Witten model for
+superconducting cosmic string, an investigation is made here in the case of
+$U(1)\times Z_2 \to U(1)$, where a bosonic charge carrier is directly coupled
+to the wall-forming Higgs field. All internal quantities, such as the energy
+per unit surface and the surface current, are calculated numerically to provide
+the first complete analysis of the internal structure of a surface
+current-carrying domain wall.
+","[{""version"":""v1"",""created"":""Wed, 22 Mar 1995 14:35:38 GMT""}]","2009-09-25"
+"hep-ph/9503410","W. Hollik","Wolfgang Hollik (Karlsruhe)","Electroweak precision observables - an indirect access to the top quark","8 pages (latex), talk at the 138. Heraeus Seminar on Heavy Quark
+  Physics, Bad Honnef, Germany, December 1994",,,"KA-TP-2-1995 (to appear in the proceedings)","hep-ph",,"  The role of the top quark in the Standard Model predictions for electroweak
+precision observables is reviewed and the implications of the experimental data
+for the indirect determination of the top mass range is discussed.
+","[{""version"":""v1"",""created"":""Wed, 22 Mar 1995 15:58:38 GMT""}]","2009-09-25"
+"hep-th/9503134","Nobuyuki Ishibashi","Nobuyuki Ishibashi and Hikaru Kawai (KEK Theory Group)","A Background Independent Formulation of Noncritical String Theory","13 pages, LaTex file","Phys.Lett. B352 (1995) 75-82","10.1016/0370-2693(95)00465-W","KEK-TH-431","hep-th",,"  Using the string field theory recently proposed by the authors and
+collaborators, we give a background independent formulation of rational
+noncritical string theories with $c\leq 1$. With a little modification of the
+string field Hamiltonians previously constructed, we obtain string field
+theories which include various rational noncritical string theories as
+classical backgrounds.
+","[{""version"":""v1"",""created"":""Wed, 22 Mar 1995 05:01:41 GMT""}]","2009-10-28"
+"hep-th/9503141","Philippe Ruelle","T. Gannon, P. Ruelle and M. Walton","Automorphism Modular Invariants of Current Algebras","32 pages, plain TeX","Commun.Math.Phys. 179 (1996) 121-156","10.1007/BF02103717","LETH-PHY-3/95, US-FT/22-94, UCL-IPT-95/4","hep-th",,"  We consider those two-dimensional rational conformal field theories (RCFTs)
+whose chiral algebras, when maximally extended, are isomorphic to the current
+algebra formed from some affine non-twisted Kac--Moody algebra at fixed level.
+In this case the partition function is specified by an automorphism of the
+fusion ring and corresponding symmetry of the Kac--Peterson modular matrices.
+We classify all such partition functions when the underlying finite-dimensional
+Lie algebra is simple. This gives all possible spectra for this class of RCFTs.
+While accomplishing this, we also find the primary fields with second smallest
+quantum dimension.
+","[{""version"":""v1"",""created"":""Tue, 21 Mar 1995 16:02:07 GMT""}]","2009-10-28"
+"hep-th/9503142","Nikolaos Batakis","Nikolaos A. Batakis","A new class of spatially homogeneous 4D string backgrounds","LaTeX, 13 pages, no figures.","Phys.Lett. B353 (1995) 450-456","10.1016/0370-2693(95)00632-U","CERN-TH/95-70","hep-th",,"  A new class of spatially homogeneous 4D string backgrounds, the
+$X(d\rightarrow)$ according to a recent classification, is presented and shown
+to contain only five generic types. In contrast to the case of $X(d\uparrow)$
+(which contains as a subclass all possible FRW backgrounds), exact $SO(3)$
+isotropy is always broken in the $X(d\rightarrow)$ class. This is due to the
+$H$-field, whose dual is necessarily along a principal direction of anisotropy.
+Nevertheless, FRW symmetry can be attained asymptotically for Bianchi-types $I$
+and $VII_0$ in a rather appealing physical context. Other aspects of the
+solutions found for types $X=I,II,III,VI_{-1}$, and of the $VII_0$ case are
+briefly discussed.
+","[{""version"":""v1"",""created"":""Tue, 21 Mar 1995 21:10:58 GMT""}]","2009-10-28"
+"hep-th/9503143",,"Korkut Bardakci, Luis M. Bernardo","The Conformal Points of the Generalized Thirring Model II","20 pages (latex, no other macros needed). This replaces an earlier
+  version.A typo and some sign mistakes are corrected, and a paragraph added;
+  Full postscript available from
+  http://thoer1.lbl.gov/www/theorgroup/papers/36926.ps","Nucl.Phys. B450 (1995) 695-712","10.1016/0550-3213(95)00324-L","LBL-36926, UCB-PTH-95/07.","hep-th",,"  In the large N limit, conditions for the conformal invariance of the
+generalized Thirring model are derived, using two different approaches: the
+background field method and the Hamiltonian method based on an operator
+algebra, and the agreement between them is established. A free field
+representation of the relevant algebra is presented, and the structure of the
+stress tensor in terms of free fields (and free currents) is studied in detail.
+","[{""version"":""v1"",""created"":""Tue, 21 Mar 1995 20:22:30 GMT""},{""version"":""v2"",""created"":""Fri, 26 May 1995 21:03:59 GMT""}]","2009-10-28"
+"hep-th/9503145",,"T.Banks","Vertex Operators in 2K Dimensions","Minor change in notation. Change in references.","Phys.Rev. D52 (1995) 2462-2465","10.1103/PhysRevD.52.2462","RU-95-04","hep-th",,"  A formula is proposed which expresses free fermion fields in 2K dimensions in
+terms of the Cartan currents of the free fermion current algebra. This leads,
+in an obvious manner, to a vertex operator construction of nonabelian free
+fermion current algebras in arbitrary even dimension. It is conjectured that
+these ideas may generalize to a wide class of conformal field theories.
+","[{""version"":""v1"",""created"":""Tue, 21 Mar 1995 22:14:38 GMT""},{""version"":""v2"",""created"":""Tue, 28 Mar 1995 20:10:50 GMT""}]","2009-10-28"
+"hep-th/9503146",,"B.O.Kerbikov and Yu.A.Simonov","PATH INTEGRAL BOSONIZATION OF THREE FLAVOUR QUARK DYNAMICS","10 pages",,,"ITEP 16-95","hep-th",,"  Chiral symmetry breaking due to instanton-produced fermion zero modes in the
+confining vacuum is considered. Zero modes provide 'tHooft-type determinant
+quark interaction, which is bosonized by introduction of auxiliary fields. For
+three flavours this procedure becomes nontrivial and a method is suggested
+which allows to derive effective Lagrangian for massless Nambu--Goldstone
+modes.
+","[{""version"":""v1"",""created"":""Wed, 22 Mar 1995 13:06:18 GMT""}]","2007-05-23"
+"hep-th/9503147",,"B. Sazdovi\'c","CHIRAL SYMMETRIES OF THE WZNW MODEL BY HAMILTONIAN METHODS","8 pages, Plain Tex","Phys.Lett. B352 (1995) 64-68","10.1016/0370-2693(95)00453-R","IF-3/95","hep-th",,"  The connection between the Kac-Moody algebras of currents and the chiral
+symmetries of the two dimensional WZNW model is clarified. It is shown that
+only the zero modes of the Kac-Moody currents are the first class constraints,
+and that, consequently, the corresponding gauge symmetries are chiral.
+","[{""version"":""v1"",""created"":""Wed, 22 Mar 1995 11:58:00 GMT""}]","2009-10-28"
+"hep-th/9503148","M. Blagojevic","M. Blagojevi\'c and T. Vuka\v{s}inac","BRST Analysis of Gauge Theories Based on Nonlinear Algebras in 2d","15 pages, Plain Tex",,,"IF-S5/95","hep-th",,"  Covariant quantization of theories based on nonlinear extensions of Lie
+algebras in 2d is studied by using a generalized Lagrangian BRST formalism. The
+quantum action is constructed to be invariant under the off--shell nilpotent
+BRST transformations by using a set of independent antifields as auxiliary,
+nonpropagating variables in the quantum theory. The general results are applied
+to the quantization of nonlinear gauge theory based on quadratic Poincar\'e
+algebra, which is closely related to 2d gravity with dynamical torsion.
+","[{""version"":""v1"",""created"":""Wed, 22 Mar 1995 11:49:00 GMT""}]","2007-05-23"
+"math/9503209","Serge Chernatskiy","Douglas Burke","Precipitous Towers of Normal Filters",,,,"Logic E-prints March 22, 1995","math.LO",,"  We prove that every tower of normal filters of height $\gd$ ($\gd$
+supercompact) is precipitous assuming that each normal filter in the tower is
+the club filter restricted to a stationary set. We give an example to show that
+this assumption is necessary. We also prove that every normal filter can be
+generically extended to a well-founded $V$-ultrafilter (assuming large
+cardinals).
+","[{""version"":""v1"",""created"":""Wed, 22 Mar 1995 00:00:00 GMT""}]","2016-09-06"
+"q-alg/9503012","Alexander Kirillov","Alexander Kirillov Jr.","Traces of intertwining operators and Macdonald's polynomials","Author's Ph.D. thesis; AmsTeX, 105 pages, PostScript figures; uses
+  ""psfig"". Most of the results of this thesis are contained in already
+  published papers of the Author and Pavel Etingof; however, the exposition is
+  improved. Also, some results about elliptic KZ (KZB) equations are new",,,,"q-alg hep-th math.QA",,"  Let $\Phi:V\to V\otimes U$ be an intertwining operator between
+representations of a simple Lie algebra (quantum group, affine Lie algebra). We
+define its generalized character to be the following function on the Cartan
+subalgebra with values in $U$:
+  $\chi_\Phi(h)=\Tr_V (\Phi e^h)$.
+  These generalized characters are a rich source of special functions,
+possessing many interesting properties; for example, they are common
+eigenfunctions of a family of commuting differential (difference) operators. We
+show that the special functions that can be obtained this way include
+Macdonald's polynomials of type $A$, and this technique allows to prove inner
+product and symmetry identities for these polynomials (though proved earlier by
+other methods).
+  Generalized characters for affine Lie algebras are closely related with
+so-called correlation functions on the torus in the Wess-Zumino-Witten (WZW)
+model of conformal field theory. We derive differential equations satisfied by
+these correlation functions (elliptic Knizhnik-Zamolodchikov, or
+Knizhnik-Zamolodchikov-Bernard equations) and study their monodromies.
+","[{""version"":""v1"",""created"":""Tue, 21 Mar 1995 21:41:09 GMT""}]","2016-09-08"

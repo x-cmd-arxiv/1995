@@ -1,0 +1,194 @@
+"astro-ph/9504046","David A. Buote","David A. Buote and John C. Tsai","Quantifying the Morphologies and Dynamical Evolution of Galaxy Clusters.
+  II. Application to a Sample of ROSAT Clusters","31 pages (8 figures), PostScript, to appear in ApJ on February 10,
+  1996. In this version we added four more clusters to our sample and revised
+  the error estimates for the power ratios (and the corresponding figures)","Astrophys.J. 458 (1996) 27","10.1086/176790","CSR-95-09","astro-ph",,"  We quantify the morphologies and dynamical states of 59 galaxy clusters using
+the power-ratio technique of Buote & Tsai applied to ROSAT PSPC X-ray images.
+The clusters exhibit a particularly strong $P_2/P_0 - P_4/P_0$ correlation in
+the $1h^{-1}_{80}$ Mpc aperture which may be interpreted as an evolutionary
+track; the location of a cluster on the correlation line indicates the
+dynamical state of the cluster and the distribution of clusters along this
+track measures the rate of formation and evolution of clusters in our sample.
+The power ratios anti-correlate with the cooling-flow rate indicating a
+reasonable dependence of the flow rate on cluster morphology. The relationship
+of the power ratios to the optical Bautz-Morgan (BM) Type is more complex. This
+is because the power ratios are sensitive to unrelaxed regions of clusters
+within a specified scale, whereas BM types are sensitive to unrelaxed regions
+over many scales. We discuss further astrophysical applications exploiting the
+relationship between the power ratios and the evolutionary states of clusters.
+","[{""version"":""v1"",""created"":""Thu, 13 Apr 1995 21:36:35 GMT""},{""version"":""v2"",""created"":""Thu, 17 Aug 1995 18:40:06 GMT""}]","2009-10-28"
+"astro-ph/9504047","David Earn","David J.D. Earn and J.A. Sellwood","THE OPTIMAL N-BODY METHOD FOR STABILITY STUDIES OF GALAXIES","Accepted for publication in The Astrophysical Journal, to appear
+  October 1, 1995; 16 pages including 4 figures, self-unpacking uuencoded
+  gzipped postscript, also available by email from earn@astro.huji.ac.il","Astrophys.J. 451 (1995) 533-541","10.1086/176241","Rutgers Astrophysics Preprint No 162","astro-ph",,"  The stability of a galaxy model is most easily assessed through N-body
+simulation. Particle-mesh codes have been widely used for this purpose, since
+they enable the largest numbers of particles to be employed. We show that the
+functional expansion technique, originally proposed by Clutton-Brock for other
+simulation problems, is in fact superior for stability work. For simulations of
+linear evolution it is not much slower than grid methods using the same number
+of particles, and reproduces analytical results with much greater accuracy.
+This success rests on its ability to represent global modes with a modest
+number of basis functions; grid methods may be more effective for other
+applications, however. Our conclusions are based on implementations of
+functional expansion and grid algorithms for disk galaxies.
+","[{""version"":""v1"",""created"":""Fri, 14 Apr 1995 13:31:00 GMT""}]","2009-10-28"
+"chem-ph/9504002","Kikuo Harigaya","Kikuo Harigaya","Metal-Insulator Transition in C60-Polymers",,"Phys. Rev. B 52 (1995) 7968-7971","10.1103/PhysRevB.52.7968",,"chem-ph cond-mat mtrl-th physics.chem-ph",,"  Variations in the band structures of C60-polymers are studied, when
+pi-conjugation conditions are changed. We look at band structures in order to
+discuss a metal-insulator transition, using a semi-empirical model with the
+Su-Schrieffer-Heeger type electron-phonon interactions. We find that electronic
+structures change among direct-gap insulators and the metal, depending on the
+degree of pi-conjugations. High pressure experiments could observe such
+pressure-induced metal-insulator transitions.
+","[{""version"":""v1"",""created"":""Fri, 14 Apr 1995 10:43:36 GMT""}]","2008-02-03"
+"cond-mat/9504061","Geza Odor","N. Menyhard, G. Odor","Non-equilibrium phase transitions in one-dimensional kinetic Ising
+  models","15 pages, revtex file, figures available at request from
+  odor@r1.atki.kfki.hu in postscript format, submitted to J.Phys.A","J.Phys. A28 (1995) 4505-4514","10.1088/0305-4470/28/16/009",,"cond-mat hep-lat",,"  A family of nonequilibrium kinetic Ising models, introduced earlier, evolving
+under the competing effect of spin flips at {\it zero temperature} and nearest
+neighbour random spin exchanges is further investigated here. By increasing the
+range of spin exchanges and/or their strength the nature of the phase
+transition 'Ising-to-active' becomes of (dynamic) mean-field type and a first
+order tricitical point is located at the Glauber ($\delta=0$) limit.
+Corrections to mean-field theory are evaluated up to sixth order in a cluster
+approximation and found to give good results concerning the phase boundary and
+the critical exponent $\beta$ of the order parameter which is obtained as
+$\beta\simeq1.0$.
+","[{""version"":""v1"",""created"":""Fri, 14 Apr 1995 08:12:42 GMT""}]","2009-10-28"
+"cond-mat/9504062","Roland Combescot","L.A. de Vaulchier, J.P. Vieren, Y. Guldner, N. Bontemps, R. Combescot,
+  Y. Lemaitre, J.C. Mage","Linear Temperature Variation of the Penetration Depth in YBCO Thin Films","12 pages, revtex, 4 uuencoded figures",,"10.1209/epl/i1996-00314-9",,"cond-mat",,"  We have measured the penetration depth $\lambda(T)$ on $\rm
+YBa_{2}Cu_{3}O_{7}$ thin films from transmission at 120, 330 and 510~GHz,
+between 5 and 50~K. Our data yield simultaneously the absolute value and the
+temperature dependence of $\lambda(T)$. In high quality films $\lambda(T)$
+exhibits the same linear temperature dependence as single crystals, showing its
+intrinsic nature, and $\lambda(0)=1750\,{\rm \AA}$. In a lower quality one, the
+more usual $T^2$ dependence is found, and $\lambda(0)=3600\,{\rm \AA}$. This
+suggests that the $T^2$ variation is of extrinsic origin. Our results put the
+$d$-wave like interpretation in a much better position.
+","[{""version"":""v1"",""created"":""Fri, 14 Apr 1995 10:58:07 GMT""}]","2009-10-28"
+"gr-qc/9504019","Bill Hiscock","Paul R. Anderson (Wake Forest University), William A. Hiscock and
+  Daniel J. Loranz (Montana State University)","Semiclassical Stability of the Extreme Reissner-Nordstrom Black Hole","10 pages, REVTeX, 4 figures in separate uuencoded compressed file","Phys.Rev.Lett.74:4365-4368,1995","10.1103/PhysRevLett.74.4365",,"gr-qc hep-th",,"  The stress-energy tensor of a free quantized scalar field is calculated in
+the extreme Reissner-Nordstr\""{o}m black hole spacetime in the zero temperature
+vacuum state. The stress-energy appears to be regular on the event horizon,
+contrary to the suggestion provided by two-dimensional calculations. An
+analytic calculation on the event horizon for a thermal state shows that if the
+temperature is nonzero then the stress-energy diverges strongly there.
+","[{""version"":""v1"",""created"":""Thu, 13 Apr 1995 19:43:49 GMT""}]","2008-11-26"
+"gr-qc/9504020",,"A. Buonanno, M. Gattobigio, M. Maggiore, L. Pilo and C. Ungarelli","Effective Lagrangian for Quantum Black Holes","24 pages, Latex, Nucl. Phys. B, to appear","Nucl.Phys.B451:677-698,1995","10.1016/0550-3213(95)00351-R","IFUP-TH 14/95","gr-qc hep-th",,"  We discuss the most general effective Lagrangian obtained from the assumption
+that the degrees of freedom to be quantized, in a black hole, are on the
+horizon. The effective Lagrangian depends only on the induced metric and the
+extrinsic curvature of the (fluctuating) horizon, and the possible operators
+can be arranged in an expansion in powers of $\mpl/M$, where $\mpl$ is the
+Planck mass and $M$ the black hole mass. We perform a semiclassical expansion
+of the action with a formalism which preserves general covariance explicitly.
+Quantum fluctuations over the classical solutions are described by a single
+scalar field living in the 2+1 dimensional world-volume swept by the horizon,
+with a given coupling to the background geometry. We discuss the resulting
+field theory and we compute the black hole entropy with our formalism.
+","[{""version"":""v1"",""created"":""Fri, 14 Apr 1995 10:17:02 GMT""},{""version"":""v2"",""created"":""Mon, 17 Jul 1995 10:20:41 GMT""}]","2010-11-01"
+"hep-ex/9504005","Matthew Spencer","M. B. Spencer et. al","A Measurement of the Branching Ratio and Form Factor of K_L->mu mu gamma","10 pages of text, 4 figures in separate files","Phys.Rev.Lett.74:3323-3326,1995","10.1103/PhysRevLett.74.3323",,"hep-ex",,"  We report on a measurement of the decay $K_L\rightarrow\mu^+\mu^-\gamma$ from
+Fermilab experiment E799. We observe $207$ candidate signal events with an
+estimated background of $10.5 \pm 4.0$ events and establish
+$B(K_L\rightarrow\mu^+\mu^-\gamma) = (3.23\pm 0.23(stat) \pm 0.19(sys))\times
+10^{-7}$. This provides the first measurement of the $K\gamma\gamma^*$ form
+factor in the muonic Dalitz decay mode of the $K_L$.
+","[{""version"":""v1"",""created"":""Thu, 13 Apr 1995 21:00:48 GMT""},{""version"":""v2"",""created"":""Fri, 14 Apr 1995 17:49:41 GMT""},{""version"":""v3"",""created"":""Fri, 21 Apr 1995 20:55:03 GMT""}]","2010-04-08"
+"hep-ph/9504297","Hermann Hessling","Hermann Hessling","On particle--like jets","15 pages, latex, 4 figures appended as unencoded file",,,"DESY 95-069","hep-ph",,"  Under which conditions does a jet appear as a particle--like signal from the
+hidden realm of quarks and gluons? Motivated by this question jet clustering
+conditions are formulated, in order to characterize jet clustering algorithms,
+which can be used for a determination of particle--like jets. Jets are
+understood as particle--like, if they behave like free particles. The simplest
+solution to the jet clustering conditions leads to a new jet algorithm: a
+Lorentz invariant generalization of the JADE algorithm. It is found that this
+generalization amplifies hadronization effects in certain phase space regions
+in such a way, that hadronization models might become testable in jet physics
+at the electron--proton collider HERA. Moreover, a method is suggested, which
+can be used at HERA, in order to determine a region in the phase space, where
+hadronization effects from the proton remnant are small and where parton jets
+are particle--like.
+","[{""version"":""v1"",""created"":""Thu, 13 Apr 1995 21:38:08 GMT""},{""version"":""v2"",""created"":""Fri, 14 Apr 1995 11:26:46 GMT""}]","2008-02-03"
+"hep-ph/9504298","M. B. Paranjape","T. Gisiger and M. B. Paranjape","LOW ENERGY NUCLEON-NUCLEON SCATTERING IN THE SKYRME MODEL","Latex, Proceedings of the Lake Louise Winter Institute 95, style file
+  ll.sty appended",,,"UdeM-GPP-TH-95-26","hep-ph",,"  We present the study of the influence of the leading contribution from the
+kinetic energy of the Skyrme Lagrangian on the scattering of low energy
+nucleons. This classical kinetic energy for the 2-body system is computed using
+the product ansatz and is correct for low energy, well separated Skyrmions. We
+quantize the rotational degrees of freedom of the Skyrmions in order to give
+them the right spin and isospin values. We are then able to compute
+analytically the scattering angles for some angular momenta polarizations.
+","[{""version"":""v1"",""created"":""Thu, 13 Apr 1995 21:11:20 GMT""}]","2007-05-23"
+"hep-ph/9504299","Andre Sopczak","A. Sopczak (PPE Division, CERN)","Limits on Extensions of the Minimal Standard Model from Combined LEP
+  Lineshape Data","8 pages, 1 figure, PS file","Mod.Phys.Lett. A10 (1995) 1057-1064","10.1142/S0217732395001174",,"hep-ph",,"  The high statistics of the combined LEP lineshape data are used to derive
+constraints on hypothetical extensions of the Minimal Standard Model. The data
+comprises about eight million visible Z decays, recorded between 1989 and 1993.
+This letter gives limits for simple tests on models which predict additional Z
+boson decays or modified Z-couplings. As an application the two-doublet Higgs
+model is considered.
+","[{""version"":""v1"",""created"":""Fri, 14 Apr 1995 00:58:24 GMT""}]","2015-06-25"
+"hep-ph/9504300","Andre Sopczak","A. Sopczak (PPE Division, CERN)","Status of Higgs Hunting at LEP -- Five Years of Progress","20 pages, 49 figures, PS file",,,,"hep-ph",,"  New results from general searches for the Higgs boson of the Minimal Standard
+Model (MSM), and for neutral and charged Higgs bosons of non-minimal Higgs
+models are reviewed from the four LEP experiments at CERN: ALEPH, DELPHI, L3,
+and OPAL. Much progress has been made due to the analysis of new data sets. A
+total of about 13 million hadronic Z decays are recorded from 1989 to 1994. The
+Higgs boson discovery potential for LEP2 is presented.
+","[{""version"":""v1"",""created"":""Fri, 14 Apr 1995 01:37:11 GMT""}]","2007-05-23"
+"hep-ph/9504301",,"A.V. Sidorov and D.B.Stamenov","""Fixed point"" QCD Analysis of the CCFR Data on Deep Inelastic Neutrino-
+  Nucleon Scattering","7 pages, LaTex",,,"JINR E2-95-107","hep-ph",,"  The results of LO \it {Fixed Point} QCD (FP - QCD) analysis of the CCFR data
+for the nucleon structure function $~xF_3(x,Q^2)~$ are presented. The predic-
+tions of FP - QCD, in which $~\alpha_s(Q^2)~$ tends to a nonzero coupling
+constant $~\alpha_0~$ as $~Q^2\to \infty~$, are in good agreement with the
+data. The description of the data is even better than that in the case of LO
+QCD. The FP-QCD parameter $~\alpha_0~$ is determined with a good accuracy:
+$~\alpha_0 = 0.198\pm 0.009~$. Having in mind the recent QCD fits to the same
+data we conclude that unlike the high precision and large $~(x,Q^2)~$ kinematic
+range of the CCFR data they cannot discriminate between QCD and FP - QCD
+predictions for $~xF_3(x,Q^2)~$.
+","[{""version"":""v1"",""created"":""Fri, 14 Apr 1995 12:04:05 GMT""}]","2007-05-23"
+"hep-ph/9504303","Berndt Mueller","T.S. Biro, S.G. Matinyan, and B. Muller","Chaos Driven by Soft-Hard Mode Coupling in Thermal Yang-Mills Theory","10 pages, REVTeX, revised manuscript, new title",,"10.1016/0370-2693(95)01205-5","DUKE-TH-95-90","hep-ph",,"  We argue on a basis of a simple few mode model of SU(2) Yang-Mills theory
+that the color off-diagonal coupling of the soft plasmon to hard thermal
+excitations of the gauge field drives the collective plasma oscillations into
+chaotic motion despite the presence of the plasmon mass.
+","[{""version"":""v1"",""created"":""Fri, 14 Apr 1995 13:52:09 GMT""},{""version"":""v2"",""created"":""Fri, 8 Sep 1995 00:53:06 GMT""},{""version"":""v3"",""created"":""Fri, 8 Sep 1995 12:56:01 GMT""}]","2009-10-28"
+"hep-ph/9504304","Bing An Li","Bing An Li (Dept of Physics and Astronomy, University of Kentucky)","U(2)_{L}\times U(2)_{R} Chiral Theory of Mesons","55 pages, send e-mail to LI@ukcc.uky.edu to get the figure","Phys.Rev.D52:5165-5183,1995","10.1103/PhysRevD.52.5165","UK/95-03","hep-ph",,"  A $U(2)_{L}\times U(2)_{R}$ chiral theory of pseudoscalar, vector, and
+axial-vector mesons has been proposed. VMD has been revealed from this theory.
+The physical processes of normal parity and abnormal parity have been studied
+by using the same lagrangian and the universality of coupling has been
+revealed. Two new mass relations between vector and axial-vector mesons have
+been found. Weinberg's first sum rule and new relations about the amplitude of
+$a_{1}$ decay are satisfied. KSFR sum rule is satisfied pretty well. The $\rho$
+pole in pion form factor has been achieved. The theoretical results of
+$\rho\rightarrow\pi\pi$, $\omega\rightarrow \pi\pi$, $a_{1}\rightarrow\rho\pi$
+and $\pi\gamma$, $\tau\rightarrow \rho\nu$, $\tau\rightarrow a_{1}\nu$,
+$\pi^{0}\rightarrow \gamma\gamma$, $\omega \rightarrow\pi\gamma$,
+$\rho\rightarrow\pi\gamma$, $f_{1} \rightarrow\rho\pi\pi$,
+$f_{1}\rightarrow\eta\pi\pi$, $\rho\rightarrow\eta\gamma$, $\omega
+\rightarrow\eta\gamma$ are in good agreement with data. Weinberg's $\pi\pi$
+scattering lengths and slopes and $a^{0}_{2}$, $a^{2}_{2}$, and $b^{1}_{1}$
+have been obtained. Especially, the $\rho$ resonance in the amplitude
+$T^{1}_{1}$ of $\pi\pi$ scattering has been revealed from this theory. Two
+coefficients of chiral perturbation theory have been determined and they are
+close to the values used by chiral perturbation theory.
+","[{""version"":""v1"",""created"":""Fri, 14 Apr 1995 14:20:48 GMT""}]","2014-11-17"
+"hep-ph/9504305","Bing An Li","Bing An Li (Dept of Physics and Astronomy, University of Kentucky)","Revisit of Weinberg's sum rules","8 pages",,,"UK/95-02","hep-ph",,"  By applying the Ward identity found by Weinberg two new relations of the
+amplitude of $a_{1}\rightarrow\rho\pi$ with other physical quantities have been
+found.
+","[{""version"":""v1"",""created"":""Fri, 14 Apr 1995 14:21:48 GMT""}]","2007-05-23"
+"hep-th/9504073","Fred Cooper","Fred Cooper (Theoretical Division, Los Alamos National Lab)","Nonequilibrium problems in quantum field theory and Schwinger's Closed
+  Time Path formalism","19 pages, 4 figures",,,,"hep-th",,"  We review the closed time path formalism of Schwinger using a path integral
+approach. We apply this formalism to the study of pair production from strong
+external fields as well as the time evolution of a nonequilibrium chiral phase
+transition.
+","[{""version"":""v1"",""created"":""Thu, 13 Apr 1995 19:46:20 GMT""}]","2007-05-23"
+"hep-th/9504074","Peter Bouwknegt","Peter Bouwknegt, Andreas W.W. Ludwig and Kareljan Schoutens","SPINON BASIS FOR (sl2^)_k INTEGRABLE HIGHEST WEIGHT MODULES AND NEW
+  CHARACTER FORMULAS","9 pages, plain TeX + amssym.def, to appear in the proceedings of
+  `Statistical Mechanics and Quantum Field Theory,' USC, May 16-21, 1994",,,"USC 94/22, PUPT-1537","hep-th",,"  In this note we review the spinon basis for the integrable highest weight
+modules of sl2^ at levels k\geq1, and give the corresponding character formula.
+We show that our spinon basis is intimately related to the basis proposed by
+Foda et al. in the principal gradation of the algebra. This gives rise to new
+identities for the q-dimensions of the integrable modules.
+","[{""version"":""v1"",""created"":""Fri, 14 Apr 1995 02:56:32 GMT""}]","2007-05-23"
+"hep-th/9504075","Aida","T.Aida and Y.Kitazawa","Quantum Gravity with Boundaries near Two Dimensions","14 pages","Mod.Phys.Lett.A10:1351-1364,1995","10.1142/S0217732395001472","TIT-HEP-288","hep-th",,"  We evaluate the quantum corrections of the Einstein-Hilbert action with
+boundaries in the $2+\epsilon$ dimensional expansion approach. We find the
+Einstein-Hilbert action with boundaries to be renormalizable to the one loop
+order. We compute the geometric entropy beyond the semiclassical approximation.
+It is found that the exact geometric entropy is related to the string
+succeptibility by the analytic continuation in the central charge. Our results
+also show that we can renormalize the divergent quantum corrections for the
+Bekenstein-Hawking entropy of blackholes by the gravitational coupling constant
+renormalization beyond two dimensions.
+","[{""version"":""v1"",""created"":""Fri, 14 Apr 1995 09:06:36 GMT""}]","2010-11-01"

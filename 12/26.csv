@@ -1,0 +1,177 @@
+"alg-geom/9512016","Goncharov","Alexander Goncharov","Deninger's conjecture on $L$-function of elliptic curves at $s=3$","LaTeX",,,,"alg-geom math.AG",,"  I compute explicitly the regulator map on $K_4(X)$ for an arbitrary curve $X$
+over a number field. Using this and Beilinson's theorem about regulators for
+modular curves ([B2]) I prove a formula expressing the value of the
+$L$-function $L(E,s)$ of a modular elliptic curve $E$ over $\Bbb Q$ at $s=3$ by
+the double Eisenstein-Kronecker series.
+","[{""version"":""v1"",""created"":""Mon, 25 Dec 1995 20:28:39 GMT""},{""version"":""v2"",""created"":""Fri, 2 Feb 1996 18:04:47 GMT""}]","2008-02-03"
+"astro-ph/9512161","Alejandro Gangui","Alejandro Gangui","CMB Anisotropies and Theories of the Early Universe","SISSA Ph.D. Thesis, October 1995. 162pp LaTeX, many figures.
+  Self-unpacking uuencoded compressed files. Also available as a single
+  PostScript file with figures at http://www.sissa.it/~gangui/thesis/",,,,"astro-ph",,"  I present recent work aimed at showing how currently competing theories of
+the early universe leave their imprint on the temperature anisotropies of the
+CMB radiation. We consider the 3-point correlation function, as well as the
+inherent theoretical uncertainties associated with it, for which we derive
+explicit analytic formulae. We apply them in the study of non-Gaussian features
+that arise on large scales in the framework of both inflationary and
+topological defects models. For inflation, we develop a perturbative analysis
+for the study of spatial correlations in the inflaton in the context of the
+stochastic approach to inflation. We also include an analysis of a particular
+geometry, the so-called `collapsed' 3-point function, in the case of post
+recombination integrated effects, arising generically whenever the mildly non
+linear growth of perturbations is taken into account. We also devote a part of
+the thesis to the study of recently proposed analytic models of topological
+defects, and implement them in the analysis of both the CMB excess kurtosis
+(for cosmic strings) and the CMB collapsed 3-point function and skewness (for
+textures). Lastly, we present a study of the CMB anisotropies on the degree
+angular scale in the framework of the global texture scenario, and show the
+relevant features that arise; among these, the Doppler peaks.
+","[{""version"":""v1"",""created"":""Tue, 26 Dec 1995 13:24:49 GMT""}]","2007-05-23"
+"cond-mat/9512169","Hal Tasaki","Hal Tasaki","The Hubbard Model: Introduction and Selected Rigorous Results","LaTeX2e, 34 pages, 11 epsf figures. Completely revised and extended
+  in December 1997",,,,"cond-mat.str-el",,"  The Hubbard model is a ""highly oversimplified model"" for electrons in a solid
+which interact with each other through extremely short ranged repulsive
+(Coulomb) interaction. The Hamiltonian of the Hubbard model consists of two
+pieces; H_hop which describes quantum mechanical hopping of electrons, and Hint
+which describes nonlinear repulsive interaction. Either H_hop or H_int alone is
+easy to analyze, and does not favor any specific order. But their sum
+H=H_hop+H_int is believed to exhibit various nontrivial phenomena including
+metal-insulator transition, antiferromagnetism, ferrimagnetism, ferromagnetism,
+Tomonaga-Luttinger liquid, and superconductivity. It is believed that we can
+find various interesting ""universality classes"" of strongly interacting
+electron systems by studying the idealized Hubbard model.
+  In the present article we review some mathematically rigorous results on the
+Hubbard model which shed light on ""physics"" of this fascinating model. We
+mainly concentrate on magnetic properties of the model at its ground states. We
+discuss Lieb-Mattis theorem on the absence of ferromagnetism in one dimension,
+Koma-Tasaki bounds on decay of correlations at finite temperatures in
+two-dimensions, Yamanaka-Oshikawa-Affleck theorem on low-lying excitations in
+one-dimension, Lieb's important theorem for half-filled model on a bipartite
+lattice, Kubo-Kishi bounds on the charge and superconducting susceptibilities
+of half-filled models at finite temperatures, and three rigorous examples of
+saturated ferromagnetism due to Nagaoka, Mielke, and Tasaki. We have tried to
+make the article accessible to nonexperts by describing basic definitions and
+elementary materials in detail.
+","[{""version"":""v1"",""created"":""Tue, 26 Dec 1995 03:33:51 GMT""},{""version"":""v2"",""created"":""Wed, 27 Dec 1995 09:19:43 GMT""},{""version"":""v3"",""created"":""Mon, 4 Mar 1996 05:54:45 GMT""},{""version"":""v4"",""created"":""Fri, 19 Dec 1997 12:25:51 GMT""}]","2008-02-03"
+"gr-qc/9512042","Edgardo Salomon Cheb Terrab","E.S.Cheb-Terrab and H.P. de Oliveira (Symb. Comp. Group, DFT-UERJ,
+  Brazil)","Poincare Sections of Hamiltonian Systems","15 pages, LaTeX, 21 figures, submitted to Computer Physics
+  Communications. Soft-package (On-Line Help) and sample MapleV session
+  available at: ftp://dft.if.uerj.br/poincare or
+  http://dft.if.uerj.br/symbcomp.htm","Comput.Phys.Commun. 95 (1996) 171-189","10.1016/0010-4655(96)00032-X",,"gr-qc astro-ph",,"  A set of Maplev R.3 software routines, for plotting 2D/3D projections of
+Poincar\'e surfaces-of-section of Hamiltonian dynamical systems, is presented.
+The package consists of a plotting-command plus a set of facility-commands for
+a quick setup of the Hamilton equations of motion, initial conditions for
+numerical experiments, and for the zooming of plots.
+","[{""version"":""v1"",""created"":""Tue, 26 Dec 1995 04:29:11 GMT""}]","2009-10-28"
+"hep-lat/9512030",,"M.N. Chernodub, M.I. Polikarpov and A.I. Veselov","Monopole Order Parameter in SU(2) Lattice Gauge Theory","6 pages (LaTeX) + 2 figures; The complete paper is also available via
+  WWW at http://venus.itep.ru/preprints/1995/95TH14.ps.gz; Talk given at the
+  29--th International Symposium on the Theory of Elementary Particles, Buckov,
+  29 August - 2 September, 1995. Revision: figures added","Nucl.Phys.Proc.Suppl. 49 (1996) 307-311","10.1016/0920-5632(96)00349-0","ITEP-TH-14/95","hep-lat hep-ph hep-th",,"  We present the results of the numerical calculation of the probability
+distribution of the value of the monopole creation operator in $SU(2)$ lattice
+gluodynamics. We work in the maximal abelian projection. It occurs that at the
+low temperature, below the deconfinement phase transition the maximum of the
+distribution is shifted from zero, which means that the effective constraint
+potential is of the Higgs type. Above the phase transition the minimum of the
+potential (the maximum of the monopole field distribution) is at the zero value
+of the monopole field. This is the direct proof of the existence of the abelian
+monopole condensate in the confinement phase of the gluodynamics, which
+confirms the dual superconductor model of the confining vacuum.
+","[{""version"":""v1"",""created"":""Mon, 25 Dec 1995 16:59:33 GMT""},{""version"":""v2"",""created"":""Wed, 22 May 1996 08:46:32 GMT""}]","2009-10-28"
+"hep-ph/9512419","Arkady Vainshtein","Arkady Vainshtein","Review of Selected Topics in HQET","9 pages, LaTex, no figures. To appear in the Proceedings of European
+  Physical Society Conference on High Energy Physics, Brussels, July 1995",,,"TPI-MINN-95/34-T, UMN-TH-1420-95","hep-ph",,"  A few topics on the expansion in heavy quark mass are discussed. The
+theoretical framework is the Wilson Operator Product Expansion rather than the
+Heavy Quark Effective Theory.
+","[{""version"":""v1"",""created"":""Tue, 26 Dec 1995 05:31:28 GMT""}]","2007-05-23"
+"hep-ph/9512420","K. V. L. Sarma","K.V.L. Sarma (Tata Institute, Bombay)","Nobel Leptons","12 pages + 2 figures (supplied on request), latex, to appear in
+  Current Science (Indian Academy of Sciences)",,,"TIFR/TH/95-56, November 1995","hep-ph",,"  The 1995 Nobel Prize in Physics is shared equally by the American physicists
+Frederick J. Reines and Martin L. Perl for their pioneering experimental
+contributions to lepton physics. Following is a brief account of their
+discoveries.
+","[{""version"":""v1"",""created"":""Mon, 25 Dec 1995 19:09:33 GMT""}]","2009-09-25"
+"hep-ph/9512422",,"S. R. Choudhury, Mamta and Sukanta Dutta","Triviality Bound on Lightest Higgs Mass in NMSSM","Plain Tex, 12 pages","Pramana 50 (1998) 163-171","10.1007/BF02847527",,"hep-ph",,"  We study the implication of triviality on Higgs sector in next to minimal
+supersymmetric model (NMSSM) using variational field theory. It is shown that
+mass of the lightest Higgs boson in NMSSM has an upper bound $\sim 10\, M_W$
+which is of the same order as that in standard model.
+","[{""version"":""v1"",""created"":""Tue, 26 Dec 1995 06:08:27 GMT""}]","2015-06-25"
+"hep-ph/9512423",,"Ashok Goyal and Sukanta Dutta","Constraining the Right Handed Interactions from Pion Condensate Matter","Plain Tex, 14 pages. No Figures","Int.J.Mod.Phys. A15 (2000) 509-522","10.1142/S0217751X00000240",,"hep-ph",,"  We consider right handed neutrino emission from charged and neutral pion
+condensate matter likely to be present in the supernova core associated with SN
+1987 A. This is used to constrain the strength of right handed interaction and
+we get excluded range of values for the right handed $W$ boson and extra
+neutral $Z'$ boson masses. For vanishing $W_L-W_R$ mixing we obtain $
+(1.3-1.8)\,M_{W_L} \,\approx \leq\,M_{W_R} \, \leq\approx 100\, M_{W_L} \, {\rm
+and}\, (1.3-1.8)\,M_{W_L}\, \approx \leq \, M_{N'}\,\leq\approx \,225
+\,M_{W_L}$
+","[{""version"":""v1"",""created"":""Tue, 26 Dec 1995 07:56:48 GMT""}]","2009-10-28"
+"hep-ph/9512424","Oscar Vives","J. Bernabeu (1), F.J. Botella (1 and 2), O. Vives (1) ((1) Dep. Fisica
+  Teorica, U. de Valencia and IFIC, (2) Inst. for Nuclear Theory, U. of
+  Washington)","$\gamma$ - Z interferometry at a $\Phi$-factory","29 pages + 6 figures. Some changes concerning $a_1$ observables,
+  especially related with possible 2 $\gamma$ contributions","Nucl.Phys. B472 (1996) 659-682","10.1016/0550-3213(96)00227-1","FTUV/95-66 ; IFIC/95-69 ; DOE/ER/40561-225-INT95-17-10","hep-ph",,"  We analyze the possibilities that the proposed $\Phi$-factories offer to
+measure $\gamma-Z$ interference. In the unpolarized beam case, we study
+different signatures in the $\rho \pi$ channel, taking advantage of the
+presence of the near-by $a_1$ resonance. We build a C-odd forward-backward
+asymmetry, estimated to be around $10^{-5}$, and (P-even, T-even) and (P-odd,
+T-odd) alignments of the $\rho$, to be seen from the angular distribution of
+its $\pi \pi$ decay products. With polarized electrons a left-right asymmetry
+around $2\times 10^{-4}$ is present in all channels. At leading order this
+asymmetry is independent of hadronic matrix elements and is sensitive to the
+$Z^0-s\bar{s}$ vector coupling. In the $\rho \pi$ channel, a combined
+left-right forward-backward asymmetry is considered.
+","[{""version"":""v1"",""created"":""Tue, 26 Dec 1995 10:36:22 GMT""},{""version"":""v2"",""created"":""Thu, 25 Apr 1996 08:17:40 GMT""}]","2009-10-28"
+"hep-ph/9512425","Kaoru Hagiwara","Kaoru Hagiwara","Implications of Precision Electroweak Data","32 pages(LaTeX file), with uufiled 15 EPS files and 4 style files
+  (111KB). PostScript version of complete paper available at
+  ftp://ftp.kek.jp/kek/preprints/TH/TH-461/kekth461.ps.gz",,,"KEK-TH-461, KEK preprint 95-184","hep-ph",,"  There are two aspects to the 1995 summer update of the combined preliminary
+electroweak data from LEP and SLC. On the one hand, agreement between
+experiments and the Standard Model (SM) has improved for the line-shape and the
+asymmetry data. The $\tau$ widths and asymmetries are now consistent with
+$e$--$\mu$--$\tau$ universality, and all the asymmetry data including the
+left-right asymmetry from SLC are consistent with the SM (16\%CL). On the other
+hand, a discrepancy between experiments and SM predictions is sharpened for two
+observables, $R_b$ and $R_c$, where $R_q$ is the partial $Z$ boson width ratio
+$\Gamma_q/\Gamma_h$. $R_b$ is 3\% larger (3.7$\sigma$) and $R_c$ is 11\%
+smaller (2.5$\sigma$) than the SM predictions. When combined, the SM is ruled
+out at the 99.99\%CL for $m_t>170$GeV. It is difficult to interpret the $11\pm
+4$\% deficit of $R_c$, since if we allow only $\Gamma_b$ and $\Gamma_c$ to
+deviate from the SM then the precisely measured ratio
+$R_h=\Gamma_h/\Gamma_\ell$ forces the QCD coupling to be $\alpha_s\equiv
+\alpha_s(m_Z)_{\overline{\rm MS}}=0.185\pm 0.041$, which is uncomfortably
+large. The data can be consistent with the prefered $\alpha_s$
+($0.10<\alpha_s<0.13$) only if the sum $\Gamma_h=\Sigma_q \Gamma_q$ does not
+deviate significantly from the SM prediction. Possible experimental causes for
+the under-estimation of $R_c$ are discussed. By assuming the SM value for
+$R_c$, the discrepancy in $R_b$ decreases to 2\% (3$\sigma$). The double
+tagging technique used for the $R_b$ measurements is critically reviewed. A few
+theoretical models that can explain large $R_b$ and small $\alpha_s$ ($=
+0.104\pm 0.008$) are discussed. If the QCD coupling $\alpha_s$ is allowed to be
+fitted by the data, the standard $S$, $T$, $U$ analysis for a new physics
+","[{""version"":""v1"",""created"":""Tue, 26 Dec 1995 11:39:49 GMT""}]","2007-05-23"
+"hep-ph/9512426","Tavartkiladze Zurab","I.Gogoladze, A.Kobakhidze and Z.Tavartkiladze","Missing Doublet Multiplet as the Origin of the Doublet-Triplet Splitting
+  in SUSY SU(6)","11 pages, LaTex","Phys.Lett. B372 (1996) 246-252","10.1016/0370-2693(96)00071-8","IC/95/401","hep-ph",,"  In a $SU(6)$ gauge theory we found the irreducible representation (175-plet)
+which does not contain the Higgs doublet. Using this representation we
+construct two SUSY $SU(6)$ models in which the doublet-triplet splitting occurs
+naturally, without fine tuning. The crucial role is played by the ``custodial""
+global $SU(2)_H$ in combination with discrete or continuous $R$ symmetries.
+","[{""version"":""v1"",""created"":""Tue, 26 Dec 1995 13:11:47 GMT""}]","2009-10-28"
+"hep-ph/9512427","Robert Peschanski","A.Bialas and R.Peschanski","Hard Diffraction in the QCD Dipole Picture","9 pages, latex, no figures, misprints corrected in equations (2),(7)","Phys.Lett.B378:302-306,1996","10.1016/0370-2693(96)00423-6","TPJU-19/95 (Krakow), T 95/150 (Saclay)","hep-ph",,"  Using the QCD dipole picture of the BFKL pomeron, the gluon contribution to
+the cross-section for single diffractive dissociation in deep-inelastic
+high-energy scattering is calculated. The resulting contribution to the proton
+diffractive structure function integrated over $t$ is given in terms of
+relevant variables, $x_{\cal P}, Q^2, $ and $\beta = x_{Bj}/x_{\cal P}.$ It
+factorizes into an explicit $x_{\cal P}-$dependent Hard Pomeron flux factor and
+structure function. The flux factor is found to have substantial logarithmic
+corrections which may account for the recent measurements of the Pomeron
+intercept in this process. The triple Pomeron coupling is shown to be strongly
+enhanced by the resummation of leading logs. The obtained pattern of scaling
+violation at small $\beta$ is similar to that for $F_2$ at small $x_{Bj}.$
+","[{""version"":""v1"",""created"":""Tue, 26 Dec 1995 13:48:02 GMT""},{""version"":""v2"",""created"":""Thu, 4 Jan 1996 09:40:06 GMT""}]","2008-11-26"
+"quant-ph/9512026","Mohammad Ardehali","M. Ardehali","A simple quantum oblivious transfer protocol","11 pages, LaTeX file, no figures. The structure of the OT protocol is
+  the same as before: Alice sends two particles to Bob, with the spin of the
+  particles along the horizontal or vertical axis. The proof of the security of
+  the protocol has been made more clear. Some new references have been added",,,,"quant-ph",,"  A simple and efficient protocol for quantum oblivious transfer is proposed.
+The protocol can easily be implemented with present technology and is secure
+against cheaters with unlimited computing power provided the receiver does not
+have the technology to store the particles for an arbitrarily long period of
+time. The proposed protocol is a significant improvement over the previous
+protocols. Unlike the protocol of Cr\'epeau and Kilian which is secure if only
+if the spin of the particle is measured along the $x$ or the $y$ axis, the
+present protocol is perfectly secure no matter along which axes the spin of the
+particles are measured, and unlike the protocol of Bennett et al. which
+requires tens of thousand of particles, the present protocol requires only two
+particles.
+","[{""version"":""v1"",""created"":""Tue, 26 Dec 1995 05:59:07 GMT""},{""version"":""v2"",""created"":""Thu, 25 Jun 1998 09:23:26 GMT""}]","2008-02-03"

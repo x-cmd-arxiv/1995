@@ -1,0 +1,415 @@
+"chao-dyn/9502018","David K. Campbell","David K. Campbell (Physics Department, University of Illinois, 1110 W.
+  Green St., Urbana, IL 61801), Roza Galeeva (UMPA, ENS, 46 Allee d'Italie
+  69364 Lyon Cedex 07, France), Charles Tresser (I.B.M. PO Box 218, Yorktown
+  Heights, NY 10598), and David J. Uherka (Mathematics Department, University
+  of North Dakota, Grand Forks, ND 58202-8376)","Piecewise Linear Models for the Quasiperiodic Transition to Chaos","75 pages, plain TeX, 47 figures (available on request)",,"10.1063/1.166159",,"chao-dyn nlin.CD",,"  We formulate and study analytically and computationally two families of
+piecewise linear degree one circle maps. These families offer the rare
+advantage of being non-trivial but essentially solvable models for the
+phenomenon of mode-locking and the quasi-periodic transition to chaos. For
+instance, for these families, we obtain complete solutions to several questions
+still largely unanswered for families of smooth circle maps. Our main results
+describe (1) the sets of maps in these families having some prescribed rotation
+interval; (2) the boundaries between zero and positive topological entropy and
+between zero length and non-zero length rotation interval; and (3) the
+structure and bifurcations of the attractors in one of these families. We
+discuss the interpretation of these maps as low-order spline approximations to
+the classic ``sine-circle'' map and examine more generally the implications of
+our results for the case of smooth circle maps. We also mention a possible
+connection to recent experiments on models of a driven Josephson junction.
+","[{""version"":""v1"",""created"":""Fri, 24 Feb 1995 14:48:22 GMT""}]","2009-10-28"
+"cmp-lg/9502029","Student","Kuang-hua Chen (Department of Computer Science and Information
+  Engineering, National Taiwan University)","Topic Identification in Discourse","5 pages, uuencoded and compressed postscript file (EACL 95)",,,,"cmp-lg cs.CL",,"  This paper proposes a corpus-based language model for topic identification.
+We analyze the association of noun-noun and noun-verb pairs in LOB Corpus. The
+word association norms are based on three factors: 1) word importance, 2) pair
+co-occurrence, and 3) distance. They are trained on the paragraph and sentence
+levels for noun-noun and noun-verb pairs, respectively. Under the topic
+coherence postulation, the nouns that have the strongest connectivities with
+the other nouns and verbs in the discourse form the preferred topic set. The
+collocational semantics then is used to identify the topics from paragraphs and
+to discuss the topic shift phenomenon among paragraphs.
+","[{""version"":""v1"",""created"":""Thu, 23 Feb 1995 19:14:36 GMT""}]","2016-08-31"
+"cmp-lg/9502032","Dominique Estival","Dominique Estival (ISSCO, Universite de Geneve) and Francoise Gayral
+  (LIPN, Universite Paris-Nord)","An NLP Approach to a Specific Type of Texts: Car Accident Reports","20 pages",,,,"cmp-lg cs.CL",,"  The work reported here is the result of a study done within a larger project
+on the ``Semantics of Natural Languages'' viewed from the field of Artificial
+Intelligence and Computational Linguistics. In this project, we have chosen a
+corpus of insurance claim reports. These texts deal with a relatively
+circumscribed domain, that of road traffic, thereby limiting the
+extra-linguistic knowledge necessary to understand them. Moreover, these texts
+present a number of very specific characteristics, insofar as they are written
+in a quasi-institutional setting which imposes many constraints on their
+production. We first determine what these constraints are in order to then show
+how they provide the writer with the means to create as succint a text as
+possible, and in a symmetric way, how they provide the reader with the means to
+interpret the text and to distinguish between its factual and argumentative
+aspects.
+","[{""version"":""v1"",""created"":""Thu, 23 Feb 1995 17:47:57 GMT""}]","2016-08-31"
+"cmp-lg/9502034","C. Huckle","Christopher C. Huckle (University of Edinburgh)","Grouping Words Using Statistical Context","This file should be converted using uudecode followed by uncompress.
+  It is in PostScript format, and 3 pages in length",,,,"cmp-lg cs.CL",,"  This paper (cmp-lg/yymmnnn) has been accepted for publication in the student
+session of EACL-95. It outlines ongoing work using statistical and unsupervised
+neural network methods for clustering words in untagged corpora. Such
+approaches are of interest when attempting to understand the development of
+human intuitive categorization of language as well as for trying to improve
+computational methods in natural language understanding. Some preliminary
+results using a simple statistical approach are described, along with work
+using an unsupervised neural network to distinguish between the sense classes
+into which words fall.
+","[{""version"":""v1"",""created"":""Fri, 24 Feb 1995 13:25:14 GMT""}]","2008-02-03"
+"cond-mat/9502097","Mohamed Azzouz","Mohamed Azzouz and Thierry Dombre","The motion of holes on the triangular lattice: t-J model","Latex, 25 pages, 6 figures available upon request",,,,"cond-mat",,"  The motion of holes on the triangular lattice is studied using the t-J model.
+Within the Born self-consistent approximation and the exact Lanczos
+diagonalization, the single hole physics is first analyzed. Then the spiral
+theory of Shraiman and Siggia is used to investigate the case of a finite
+density of holes.
+","[{""version"":""v1"",""created"":""Thu, 23 Feb 1995 18:09:30 GMT""}]","2016-08-31"
+"cond-mat/9502098","Jim Freericks","J. K. Freericks (Georgetown University) and Mark Jarrell (University
+  of Cincinnati)","Competition between electron-phonon attraction and weak Coulomb
+  repulsion","13 pages in ReVTex including 3 encapsulated postscript files
+  (embedded in the text). The encapsulated postscript files are compressed and
+  uuencoded after the TeX file.",,"10.1103/PhysRevLett.75.2570",,"cond-mat",,"  The Holstein-Hubbard model is examined in the limit of infinite dimensions.
+Conventional folklore states that charge-density-wave (CDW) order is more
+strongly affected by Coulomb repulsion than superconducting order because of
+the pseudopotential effect. We find that both incommensurate CDW and
+superconducting phases are stabilized by the Coulomb repulsion, but,
+surprisingly, the commensurate CDW transition temperature is more robust than
+the superconducting transition temperature. This puzzling feature is resolved
+by a detailed analysis of perturbation theory.
+","[{""version"":""v1"",""created"":""Thu, 23 Feb 1995 19:24:22 GMT""}]","2016-08-31"
+"cond-mat/9502099","Georgios Andreas Georgakis","G. A. Georgakis and Qian Niu","Electron Depletion Due to Bias of a T-Shaped Field-Effect Transistor","16 pages, LaTex (RevTex), 8 figs",,"10.1063/1.360323",,"cond-mat",,"  A T-shaped field-effect transistor, made out of a pair of two-dimensional
+electron gases, is modeled and studied. A simple numerical model is developed
+to study the electron distribution vs. applied gate voltage for different gate
+lengths. The model is then improved to account for depletion and the width of
+the two-dimensional electron gases. The results are then compared to the
+experimental ones and to some approximate analytical calculations and are found
+to be in good agreement with them.
+","[{""version"":""v1"",""created"":""Thu, 23 Feb 1995 21:59:54 GMT""}]","2009-10-28"
+"cond-mat/9502101","Italo Marino","Italo Marino","Giant Shapiro Steps in Josephson Arrays: Analytical Results","23 pages, plain TEX file, 6 figures available upon request.",,,,"cond-mat",,"  We study two-dimensional frustrated Josephson arrays driven by a combined DC
+plus AC current. We propose {\it ansatz} solutions that are a generalization of
+the solutions obtained in the DC case by Marino and Halsey (PRB {\bf 50}, 6289
+(1994)). Using these solutions we derive expressions for the Shapiro step
+widths for $f=1/2$ and $f=1/3$ for the first few winding numbers. We show that
+the qualitative difference in the behaviors of the fractional and integer steps
+is related to the relative size of the vertical supercurrent with respect to
+the normal current.
+","[{""version"":""v1"",""created"":""Fri, 24 Feb 1995 02:04:57 GMT""}]","2016-08-31"
+"cond-mat/9502102","Wolfgang Kinzel","E. Eisenstein, I. Kanter, D.A. Kessler (Bar Ilan University) and W.
+  Kinzel ( Universitaet Wuerzburg )","THE BIT GENERATOR AND TIME SERIES PREDICTION","Postscript file",,,,"cond-mat",,"  Generation and prediction of time series is analyzed for the case of a
+Bit-Generator: a perceptron where in each time step the input units are shifted
+one bit to the right with the state of the leftmost input unit set equal to the
+output unit in the previous time step. The long-time dynamical behavior of the
+Bit-Generator consists of cycles whose typical period scale polynomially with
+the size of the network and whose spatial structure is periodic with a typical
+finite wave length. The generalization erroron a cycle is zero for a finite
+training set and global dynamical behaviors such as the cycle period can also
+be learned in a finite time. Hence, a projection of a rule can be learned in a
+finite time.
+","[{""version"":""v1"",""created"":""Fri, 24 Feb 1995 09:10:48 GMT""}]","2016-08-31"
+"cond-mat/9502103","Debnarayan Jana","Debnarayan Jana","Universal Diamagnetism of Charged Scalar Fields","16 pages, Revtex[version2], 3 Postscript figures (figures are
+  available from deb@rri.ernet.in), Submitted to Physical Review B.",,,,"cond-mat hep-th",,"  We show that charged scalar fields are always diamagnetic, even in the
+presence of interactions and at finite temperatures. This generalises earlier
+work on the diamagnetism of charged spinless bosons to the case of infinite
+degrees of freedom.
+","[{""version"":""v1"",""created"":""Fri, 24 Feb 1995 10:33:21 GMT""}]","2016-08-31"
+"cond-mat/9502104","Erwin Mueller-Hartmann","E. Mueller-Hartmann","Ferromagnetism in Hubbard Models: Low Density Route","6 pages, latex, in press in J. Low Temp. Phys.",,"10.1007/BF00752307",,"cond-mat",,"  Thirty years ago the Hubbard model was introduced by Gutzwiller, Hubbard and
+Kanamori with the main purpose of mimicking the ferromagnetism of transition
+metals. Soon after, Nagaoka and Thouless pointed out a basic mechanism for
+ferromagnetism in strongly correlated electron systems by studying the motion
+of a single hole in a half--filled Hubbard model. This important work was hoped
+to shed light onto metallic ferromagnetism from the low doping regime.
+Unfortunately, this low doping route towards ferromagnetism has not been
+successful as far as rigorous results for finite doping concentrations are
+concerned. In the work presented here, we start from the opposite limit of low
+particle concentrations. In this limit we provide the first proof of a fully
+polarized metallic ground state for a Hubbard model. The proof proceeds by
+mapping Hubbard ``zigzag'' chains onto a continuum model with an additional
+degree of freedom and local first Hund's rule coupling. For this model the
+maximum total spin multiplet is shown to be the unique ground state for
+infinite Hubbard coupling. Our proof may open a low density route towards the
+understanding of the ferromagnetism of Hubbard models.
+","[{""version"":""v1"",""created"":""Fri, 24 Feb 1995 11:23:46 GMT""}]","2016-08-31"
+"cond-mat/9502105","Anu","A. Jagannathan","Model for the thermal conductivity of a quasicrystalline alloy","10 pages, Revtex, 1 figure, uuencoded with text",,,,"cond-mat mtrl-th",,"  We present a simple model for the observed temperature dependence of the
+thermal conductivity of AlPdMn (Chernikov et al, Phys.Rev.B vol.51,
+(1995),153). We account for the low temperature data, upto and including the
+plateau of the thermal conductivity, and discuss the similarities and the
+differences between the quasicrystal and amorphous solids.
+","[{""version"":""v1"",""created"":""Fri, 24 Feb 1995 13:01:56 GMT""}]","2016-08-31"
+"cond-mat/9502106",,"C. Zhou and H. J. Schulz","Quantum fluctuations in the spiral phase of the Hubbard model","Figures are NOW appended via uuencoded postscript file",,"10.1103/PhysRevB.52.R11557",,"cond-mat",,"  We study the magnetic excitations in the spiral phase of the two--dimensional
+Hubbard model using a functional integral method. Spin waves are strongly
+renormalized and a line of near--zeros is observed in the spectrum around the
+spiral pitch $\pm{\bf Q}$. The possibility of disordered spiral states is
+examined by studying the one--loop corrections to the spiral order parameter.
+We also show that the spiral phase presents an intrinsic instability towards an
+inhomogeneous state (phase separation, CDW, ...) at weak doping. Though phase
+separation is suppressed by weak long--range Coulomb interactions, the CDW
+instability only disappears for sufficiently strong Coulomb interaction.
+","[{""version"":""v1"",""created"":""Fri, 24 Feb 1995 12:59:49 GMT""},{""version"":""v2"",""created"":""Tue, 28 Feb 1995 17:04:37 GMT""}]","2016-08-31"
+"cond-mat/9502107","Sven Luebeck","S. Luebeck (Theoretische Physik, University Duisburg Germany), K.D.
+  Usadel (Theoretische Physik, University Duisburg Germany), B. Tadic (Jozef
+  Stefan Institute, University of Ljubljana, Slovenia)","Fractal properties of relaxation clusters and phase transition in a
+  stochastic sandpile automaton","11 pages",,,,"cond-mat",,"  We study numerically the spatial properties of relaxation clusters in a two
+dimensional sandpile automaton with dynamic rules depending stochastically on a
+parameter p, which models the effects of static friction. In the limiting cases
+p=1 and p=0 the model reduces to the critical height model and critical slope
+model, respectively. At p=p_c, a continuous phase transition occurs to the
+state characterized by a nonzero average slope. Our analysis reveals that the
+loss of finite average slope at the transition is accompanied by the loss of
+fractal properties of the relaxation clusters.
+","[{""version"":""v1"",""created"":""Fri, 24 Feb 1995 13:45:56 GMT""}]","2016-08-31"
+"hep-lat/9502018",,"Julius Kuti (Department of Physics, UCSD)","Nontrivial Fixed Point in the 4D $\Phi^4$ Lattice Model with Internal
+  $O(N)$ Symmetry","Plenary talk given at the XII International Symposium on Lattice
+  Field Theory, September 27 - October 1, 1994, Bielefeld, Germany. To appear
+  in the conference proceedings; uuencoded compressed Postscript file (7
+  pages.)","Nucl.Phys.Proc.Suppl. 42 (1995) 113-119","10.1016/0920-5632(95)00193-D","UCSD/PTH 94-28","hep-lat hep-ph",,"  It is shown that the infinite dimensional critical surface of general
+euclidean lattice actions in a generic four-dimensional scalar field theory
+with $\Phi^4$ interactions has a domain of special multicritical points where
+higher dimensional operators play a special role. Renormalized trajectories of
+higher derivative continuum field theories with nontrivial interactions are
+traced back to special ultraviolet stable fixed points on the manifold of
+multicritical points. These fixed points have an infinite number of relevant
+directions which identify the universality classes of critical higher
+derivative field theories. The relevance of the new fixed point structure is
+discussed within the context of the triviality Higgs mass bound.
+","[{""version"":""v1"",""created"":""Thu, 23 Feb 1995 23:28:47 GMT""}]","2016-08-31"
+"hep-lat/9502019","Erhard Seiler","A.Patrascioiu and E.Seiler","Comment on `Asymptotic Scaling in the Two-Dimensional O(3) sigma-Model
+  at Correlation Length 10^5' by S. Caracciolo et al","3 pages, latex, no figures","Phys.Rev.Lett. 76 (1996) 1178","10.1103/PhysRevLett.76.1178",,"hep-lat",,"  We explain why in our view an extrapolation from small lattices containing
+only perturbative information cannot be sufficient to determine nonperturbative
+qunatities and therefore cannot lead to a trustworthy determination of the
+correlation length.
+","[{""version"":""v1"",""created"":""Fri, 24 Feb 1995 10:04:58 GMT""}]","2016-08-31"
+"hep-ph/9502379",,"Yi-Yen Wu (Lawrence Berkeley Laboratory)","Triviality Bounds in the Next to Minimal Supersymmetric Standard Model","Three references are added","Phys.Rev. D51 (1995) 5276-5284","10.1103/PhysRevD.51.5276","LBL-35682, UCB-PTH-94/11","hep-ph",,"  We study the implications of the triviality problem for the Higgs masses and
+other relevant parameters in the Next to Minimal Supersymmetric Standard Model
+(NMSSM). By means of triviality, a new way to constrain parameters is proposed,
+and therefore we are able to derive triviality bounds on the heaviest-Higgs
+mass, the lightest-Higgs mass, the soft SUSY- breaking parameters, and the
+vacuum expectation value of the Higgs gauge singlet through a thorough
+examination of the parameter space. The triviality upper bound on the
+lightest-Higgs mass predicted by NMSSM is indeed larger than the upper bound
+predicted by MSSM.
+","[{""version"":""v1"",""created"":""Fri, 24 Feb 1995 04:14:11 GMT""},{""version"":""v2"",""created"":""Wed, 15 Mar 1995 04:13:19 GMT""}]","2016-09-01"
+"hep-ph/9502380",,"Yi-Yen Wu (Lawrence Berkeley Laboratory)","The Minimal Supersymmetric Model of Higgs-Higgs Condensation","The discussion of the following two topics are included, (1). How
+  large can the lightest-Higgs mass be in the supersymmetric standard models?
+  (2). The triviality bound of the Higgs mass, with the conclusion that the
+  SUSY model of Higgs-Higgs condensation will be the most promising candidate
+  if the lightest-Higgs mass of the MSSM is excluded by the future experiments","Phys.Rev. D52 (1995) 6562-6576","10.1103/PhysRevD.52.6562","LBL-36516, UCB-PTH-94/34","hep-ph",,"  This paper is motivated by three issues associated with the supersymmetric
+extension of the standard model: the $\mu$ problem, the possibility of raising
+the upper bound on the lightest-Higgs mass, and the triviality problem
+associated with the Higgs sector. A new scheme based on the Higgs-Higgs
+condensation is proposed, and it is shown that these three issues are well
+solved by this scheme. As the first realization of this new scheme, the Minimal
+Supersymmetric Model of Higgs-Higgs Condensation (MSMHHC) is constructed and
+studied in detail. The MSMHHC is identical with the MSSM (Minimal
+Supersymmetric Standard Model) in the fundamental particle content, and their
+lagrangians differ only in the Higgs sector. The Higgs sector of the MSMHHC is
+based on the softly-broken supersymmetric Nambu$-$Jona-Lasinio model with the
+four-field interaction of the Higgs doublets. At low energy, these two Higgs
+doublets condense into two neutral Higgs gauge singlets, and the low-energy
+effective lagrangian of the MSMHHC has the form of the non-minimal
+supersymmetric standard model which contains two more Higgs singlets than the
+MSSM. Another unique feature of the MSMHHC is that heavy top quark always
+implies strongly-interacting low-energy Higgs sector, i.e., a large mass for
+the lightest Higgs boson. A systematic study of the parameter space is also
+made in order to reveal the qualitative features of the MSMHHC. Finally, we
+comment on the question ""How large can the lightest-Higgs mass be?"" with the
+conclusion that the supersymmetric model of Higgs-Higgs condensation will be
+the most promising candidate if the lightest-Higgs mass of the MSSM is excluded
+by the future experiments.
+","[{""version"":""v1"",""created"":""Fri, 24 Feb 1995 04:30:45 GMT""},{""version"":""v2"",""created"":""Wed, 15 Mar 1995 04:14:42 GMT""},{""version"":""v3"",""created"":""Tue, 4 Jul 1995 04:53:12 GMT""}]","2009-10-28"
+"hep-ph/9502381","Takeshi Kurimoto","T. Kurimoto","On the Phase of $B^0$--$\bar {B^0}$ Mixing Matrix Elements in the SUSY
+  Standard Model","8 pages, LaTeX file, figures appended in uuencoded gzipped EPS format","Mod.Phys.Lett.A10:1577-1582,1995","10.1142/S0217732395001691","OS-GE 44-95","hep-ph",,"  It is shown that the complex phase of $B^0$--$\bar {B^0}$ mixing matrix
+element is same as that of the standard model one up to the minor correction of
+the order of $(m_c/m_t)^2$ or less in the SUSY standard model. This conclusion
+is valid as far as the Yukawa coupling constants are perturbative and
+realistic, and can be available for other realistic models where generation
+mixing and CP violation are solely due to Yukawa interaction among quarks and
+Higgs doublets.
+","[{""version"":""v1"",""created"":""Fri, 24 Feb 1995 04:54:25 GMT""}]","2016-09-01"
+"hep-ph/9502382",,"J.Speth and V.R.Zoller,","Exclusive high-$Q^2$ electroproduction: light-cone wave functions and
+  electromagnetic form factors of mesons,",,"Phys.Lett.B351:533-540,1995","10.1016/0370-2693(95)00445-Q","ITEP-12-95.","hep-ph",,"  We apply the light-cone technique to electroproduction reaction $ep\to
+e\pi^+n$ long considered as a means of measuring the electromagnetic form
+factor of the pion. We show that the interpretation of the long-standing puzzle
+of large transverse cross section ($\sigma_T$) in terms of the $\gamma^*\rho\to
+\pi$ transition on the $\rho$ mesons in the light-cone proton is possible, but
+requires quite a slow decrease of the $F_{\rho\pi}(\q2)$ form factor. This
+interpretation can be tested in the related $ep\to e\pi^0p$ reaction.
+Corrections which are due to the final-state meson-baryon interactions (FSI)
+are evaluated and are shown to amount to a $25\%$ effect at moderately large
+$\q2$. Vanishing FSI with increasing $Q^2$ - the color transparency phenomenon
+- is shown to be very strong.
+","[{""version"":""v1"",""created"":""Fri, 24 Feb 1995 12:05:23 GMT""},{""version"":""v2"",""created"":""Tue, 7 Mar 1995 14:45:30 GMT""}]","2010-11-01"
+"hep-ph/9502383","Jiri Chyla","Jiri Chyla and A. Kataev","Theoretical Ambiguities of QCD Predictions at the Z^0 Peak.","latex + epsfig, 28 pages, 3 uuencoded figures",,,"PRA-HEP/95-03","hep-ph",,"  We discuss uncertainties of QCD predictions for the hadronic width of the
+$Z^0$ boson. Emphasis is put on quantitative estimates, taking into account the
+current precision of experimental data.
+","[{""version"":""v1"",""created"":""Fri, 24 Feb 1995 13:30:35 GMT""}]","2016-09-01"
+"hep-ph/9502384","G. T. Gabadadze","G.T. Gabadadze, A.L. Kataev","On Connection between Coefficient Functions for Deep-Inelastic and
+  Annihilation Processes","5 p., LATEX file.","JETP Lett. 61 (1995) 448-452; Pisma Zh.Eksp.Teor.Fiz. 61 (1995)
+  439",,"Preprint JINR E2-95-76 (1995), to be published in ""Pisma JETP"" v.
+  61, 1995.","hep-ph",,"  It has been shown that the one-loop behavior of the axial anomaly, occurring
+when the axial current is appropriately normalized, leads to the cancellation
+of the corrections of type $C_F^N{\bar \alpha}_s^N,~~ (N\geq 1) $ in the
+Crewther relation for the coefficient functions of deep-inelastic and
+annihilation processes. The arguments in favour of the overall factorization of
+the factor $\beta({\bar \alpha}_s)/ {\bar \alpha}_s$ in all orders of
+perturbation theory in this relation are presented.
+","[{""version"":""v1"",""created"":""Fri, 24 Feb 1995 12:48:25 GMT""}]","2016-09-01"
+"hep-ph/9502385","Martin Hirsch","M. Hirsch, H.V. Klapdor-Kleingrothaus and S.G. Kovalenko","Supersymmetry and Neutrinoless Double Beta Decay","Latex, 38 pages, plus 11 figures (660kb) submitted seperately as
+  uuencoded Postscript file","Phys.Rev.D53:1329-1348,1996","10.1103/PhysRevD.53.1329","MPI-H-V 6-1995","hep-ph",,"  Neutrinoless double beta decay ($\znbb$) induced by superparticle exchange is
+investigated. Such a supersymmetric (SUSY) mechanism of $\znbb$ decay arises
+within SUSY theories with R-parity non-conservation (\rp). We consider the
+minimal supersymmetric standard model (MSSM) with explicit \rp terms in the
+superpotential (\rp MSSM). The decay rate for the SUSY mechanism of $\znbb$
+decay is calculated. Numerical values for nuclear matrix elements for the
+experimentally most interesting isotopes are calculated within pn-QRPA.
+Constraints on the \rp MSSM parameter space are extracted from current
+experimental half-life limits. The most stringent limits are derived from data
+on $^{76}$Ge. It is shown that these constraints are more stringent than those
+from other low-energy processes and are competitive to or even more stringent
+than constraints expected from accelerator searches.
+","[{""version"":""v1"",""created"":""Fri, 24 Feb 1995 15:06:15 GMT""}]","2014-11-17"
+"hep-th/9502136","Nikolaos Batakis","Nikolaos A. Batakis","On the Classification of Spatially Homogeneous String Backgrounds","12 pages, LaTeX, one Table included, no figures.",,,"CERN--TH/95--41","hep-th",,"  A classification of all possible spatially homogeneous 4D string backgrounds
+(HSBs) has been obtained by appropriate ramification of the existing nine
+Bianchi types of homogeneous 3D spaces. A total of $24^2=576$ HSBs which have
+been classified as distinct contains a subclass of 192 which includes all
+possible FRW models as well as those in which SO(3) isotropy is attained
+asymptotically. A discussion of these results also aims to fascilitate the
+identification of HSBs which have already appeared in the literature. The basic
+physical perspective of the parameters of classification is outlined together
+with certain features relating to deeper aspects of string theory.
+","[{""version"":""v1"",""created"":""Thu, 23 Feb 1995 18:10:07 GMT""}]","2016-09-06"
+"hep-th/9502137","Jorge Stephany Ruiz","M.I.Caicedo, R.Gianvittorio, A.Restuccia and J.Stephany","BRST QUANTIZATION OF NON-ABELIAN BF TOPOLOGICAL THEORIES","13 pages, amstex","Phys.Lett. B354 (1995) 292-299","10.1016/0370-2693(95)00677-D",,"hep-th",,"  The off-shell nilpotent BRST charge and the BRST invariant effective action
+for non-abelian BF topological theories over D-dimensional manifolds are
+explicitly constructed. These theories have the feature of being reducible with
+exactly D-3 stages of reducibility. The adequate extended phase space including
+the different levels of ghosts for ghosts is explicitly obtained. Using the
+structure of the resulting BRST charge we show that for topological BF theories
+the semi-classical approximation completely describes the quantum theory. The
+independence of the partition function on the metric also follows from our
+explicit construction in a straightforward way.
+","[{""version"":""v1"",""created"":""Fri, 24 Feb 1995 02:08:13 GMT""}]","2016-09-06"
+"hep-th/9502138","Paul Montague","P.S. Montague","Third and Higher Order NFPA Twisted Constructions of Conformal Field
+  Theories from Lattices","LaTeX 46 pages","Nucl.Phys.B441:337-382,1995","10.1016/0550-3213(95)00115-9",,"hep-th",,"  We investigate orbifold constructions of conformal field theories from
+lattices by no-fixed-point automorphisms (NFPA's) $Z_p$ for $p$ prime, $p>2$,
+concentrating on the case $p=3$. Explicit expressions are given for most of the
+relevant vertex operators, and we consider the locality relations necessary for
+these to define a consistent conformal field theory. A relation to
+constructions of lattices from codes, analogous to that found in earlier work
+in the $p=2$ case which led to a generalisation of the triality structure of
+the Monster module, is also demonstrated.
+","[{""version"":""v1"",""created"":""Fri, 24 Feb 1995 05:11:15 GMT""}]","2010-11-01"
+"hep-th/9502140",,"Jordi Par\'is (K. U. Leuven)","Nonlocally Regularized Antibracket-Antifield Formalism and Anomalies in
+  Chiral $W_3$ Gravity","32 pages, LaTeX (uses feynman), 3 figures (few typos corrected, 3
+  references added, final version to appear in Nucl.Phys.B)","Nucl.Phys. B450 (1995) 357-396","10.1016/0550-3213(95)00304-B","KUL-TF-95/3","hep-th",,"  The nonlocal regularization method, recently proposed in
+ref.\,\ct{emkw91,kw92,kw93}, is extended to general gauge theories by
+reformulating it along the ideas of the antibracket-antifield formalism. From
+the interplay of both frameworks a fully regularized version of the
+field-antifield (FA) formalism arises, being able to deal with higher order
+loop corrections and to describe higher order loop contributions to the BRST
+anomaly. The quantum master equation, considered in the FA framework as the
+quantity parametrizing BRST anomalies, is argued to be incomplete at two and
+higher order loops and conjectured to reproduce only the one-loop corrections
+to the $\hbar^p$ anomaly generated by the addition of $O(\hbar^{k})$, $k<p$,
+counterterms. Chiral $W_3$ gravity is used to exemplify the nonlocally
+regularized FA formalism. First, the regularized one-loop quantum master
+equation is used to compute the complete one-loop anomaly. Its two-loop order,
+however, is shown to reproduce only the modification to the two-loop anomaly
+produced by the addition of a suitable one-loop counterterm, thereby providing
+an explicit verification of the previous statement for $p=2$. The well-known
+universal two-loop anomaly, instead, is alternatively obtained from the BRST
+variation of the nonlocally regulated effective action. Incompleteness of the
+quantum master equation is thus concluded to be a consequence of a naive
+derivation of the FA BRST Ward identity.
+","[{""version"":""v1"",""created"":""Fri, 24 Feb 1995 12:28:28 GMT""},{""version"":""v2"",""created"":""Tue, 20 Jun 1995 15:47:18 GMT""}]","2016-08-15"
+"hep-th/9502141",,"Igor Bandos, Dmitrij Sorokin and Dmitrij Volkov","ON THE GENERALIZED ACTION PRINCIPLE FOR SUPERSTRINGS AND SUPERMEMBRANES","LaTeX file, 12 pages.","Phys.Lett.B352:269-275,1995","10.1016/0370-2693(95)00506-G","DFPD 95/TH/06","hep-th",,"  We revise the twistor--like superfield approach to describing
+super--p--branes by use of the basic principles of the group--manifold approach
+\cite{rheo}. A super--p--brane action is constructed solely of geometrical
+objects as the integral over a (p+1)--surface. The Lagrangian is the external
+product of supervielbein differential forms in world supersurface and target
+superspace without any use of Lagrange multipliers. This allows one to escape
+the problem of infinite irreducible symmetries and redundant propagating
+fields. All the constraints on the geometry of world supersurface and the
+conditions of its embedding into target superspace arise from the action as
+differential form equations.
+","[{""version"":""v1"",""created"":""Fri, 24 Feb 1995 14:28:24 GMT""}]","2011-08-17"
+"hep-th/9502143",,"I. Bandos, A. Nurmagambetov, D. Sorokin and D. Volkov","TWISTOR-LIKE SUPERPARTICLES REVISITED.","16 pages, LaTeX file. Transmission error corrected.","Class.Quant.Grav.12:1881-1892,1995","10.1088/0264-9381/12/8/006","DFPD 95/TH/08","hep-th",,"  We consider a formulation of N=1 D=3,4 and 6 superparticle mechanics, which
+is manifestly supersymmetric on the worldline and in the target superspace. For
+the construction of the action we use only geometrical objects that
+characterize the embedding of the worldline superspace into the target
+superspace, such as target superspace coordinates of the superparticle and
+twistor components. The action does not contain the Lagrange multipliers which
+may cause the problem of infinite reducible symmetries, and, in fact, is a
+worldline superfield generalization of the supertwistor description of
+superparticle dynamics.
+","[{""version"":""v1"",""created"":""Fri, 24 Feb 1995 14:36:10 GMT""},{""version"":""v2"",""created"":""Mon, 27 Feb 1995 10:59:45 GMT""}]","2010-04-06"
+"hep-th/9502144",,"M. Cvetic, B. Ovrut and W. A. Sabra","Kahler Potentials For Orbifolds With Continuous Wilson Lines And The
+  Symmetries Of The String Action.","12 pages, Tex-file","Phys.Lett.B351:173-178,1995","10.1016/0370-2693(95)00413-F","UPR-647-T.","hep-th",,"  By employing the symmetries of the underlying conformal field theory, the
+tree-level K\""ahler potentials for untwisted moduli of the heterotic string
+compactifications on orbifolds with continuous Wilson lines are derived. These
+symmetries act linearly on bosonic (toroidal and $E_8\times E_8$ gauge) string
+coordinates as well as on the untwisted (toroidal and continuous Wilson lines)
+moduli; they correspond to the scaling of toroidal moduli, the axionic shift of
+toroidal moduli and the shift of the continuous Wilson line moduli. In turn
+such symmetries provide sufficient constraints to determine the form of the
+low-energy effective action associated with the untwisted moduli up to a
+multiplicative factor.
+","[{""version"":""v1"",""created"":""Fri, 24 Feb 1995 14:44:51 GMT""},{""version"":""v2"",""created"":""Sat, 25 Feb 1995 16:12:02 GMT""}]","2016-09-06"
+"nucl-th/9502041","Jorge Piekarewicz","Hungchong Kim, J. Piekarewicz, and C.J. Horowitz","Relativistic treatment of the charged-current reaction ${}^{12}{\rm
+  C}(\nu_{\mu},\mu^{-})$ near threshold","9 pages, 2 (uuencoded) postscript figures appended at the end",,,"FSU-SCRI-95-20; IU-NTC-95-01","nucl-th",,"  We compute the cross section for the charged-current reaction ${}^{12}{\rm
+C}(\nu_{\mu},\mu^{-})$ near threshold using a relativistic mean-field
+formalism. A reduced value of the nucleon mass in the medium --- coupled to the
+finite muon mass --- leads to a 30\% reduction in the cross section relative to
+a free Fermi-gas estimate. Isovector RPA correlations, which are strongly
+repulsive at these momentum transfers, reduce the cross section by an
+additional 15-30\%. Hence, relativistic nuclear-structure effects can account
+for the more than a factor-of-two reduction in the cross section recently
+reported by the LSND collaboration.
+","[{""version"":""v1"",""created"":""Thu, 23 Feb 1995 17:27:56 GMT""}]","2016-09-08"
+"nucl-th/9502042","Elaine Remillard","M. S. Fayache, S. Shelly Sharma and L. Zamick","Scissors Modes and Spin Excitations in Light Nuclei including $\Delta
+  N$=2 excitations: Behaviour of $^8Be$ and $^{10}Be$","51 pages, latex, 9 figures available upon request",,"10.1006/aphy.1996.0109","RU9508","nucl-th",,"  Shell model calculations are performed for magnetic dipole excitations in
+$^8{Be}$ and $^{10}{Be}$ in which all valence configurations plus
+$2\hbar\omega$ excitations are allowed (large space). We study both the orbital
+and spin excitations. The results are compared with the `valence space only'
+calculations (small space). The cumulative energy weighted sums are calculated
+and compared for the $J=0^+$ $T$=0 to $J=1^+$ $T$=1 excitations in $^8{Be}$ and
+for $J=0^+$ $T$=1 to both $J=1^+$ $T$=1 and $J$=$1^+$ $T$=2 excitations in
+$^{10}{Be}$. We find for the $J=0^+$ $T$=1 to $J=1^+$ $T$=1 isovector
+{\underline {spin}} transitions in $^{10}{Be}$ that the summed strength in the
+{\underline {large}} space is less than in the {\underline {small}} space. We
+find that the high energy energy-weighted isovector orbital strength is smaller
+than the low energy strength for transitions in which the isospin is changed,
+but for $J=0^+$ $T$=1 to $J=1^+$ $T$=1 in $^{10}{Be}$ the high energy strength
+is larger. We find that the low lying orbital strength in $^{10}{Be}$ is
+anomalously small, when an attempt is made to correlate it with the $B(E2)$
+strength to the lowest $2^+$ states. On the other hand a sum rule of Zheng and
+Zamick which concerns the total $B(E2)$ strength is reasonably satisfied in
+both $^8{Be}$ and $^{10}{Be}$. The Wigner supermultiplet scheme is a useful
+guide in analyzing shell model results. In $^{10}Be$ and with a $Q \cdot Q$
+interaction the T=1 and T=2 scissors modes are degenerate, with the latter
+carrying 5/3 of the T=1 strength.
+","[{""version"":""v1"",""created"":""Thu, 23 Feb 1995 19:09:13 GMT""}]","2009-10-28"
+"patt-sol/9502006","Hermann Riecke","Hermann Riecke (Northwestern University)","Solitary Waves under the Influence of a Long-Wave Mode","enlarged version with 2 new appendices: more detailed derivation and
+  discussion of the Ginzburg-Landau equations. 45 pages revtex with 7
+  postscript figures (uuencoded)",,"10.1016/0167-2789(95)00282-0",,"patt-sol nlin.PS",,"  The dynamics of solitons of the nonlinear Schr\""odinger equation under the
+influence of dissipative and dispersive perturbations is investigated. In
+particular a coupling to a long-wave mode is considered using extended
+Ginzburg-Landau equations. The study is motivated by the experimental
+observation of localized wave trains (`pulses') in binary-liquid convection.
+These pulses have been found to drift exceedingly slowly. The perturbation
+analysis reveals two distinct mechanisms which can lead to a `trapping' of the
+pulses by the long-wave concentration mode. The are given by the effect of the
+concentration mode on the local growth rate and on the frequency of the wave.
+The latter, dispersive mechanism has not been recognized previously, despite
+the fact that it dominates over the dissipative contribution within the
+perturbation theory. A second unexpected result is that the pulse can be
+accelerated by the concentration mode despite the reduced growth rate ahead of
+the pulse. The dependence of the pulse velocity on the Rayleigh number is
+discussed, and the hysteretic `trapping' transitions suggested by the
+perturbation theory are confirmed by numerical simulations, which also reveal
+oscillatory behavior of the pulse velocity in the vicinity of the transition.
+The derivation and reconstitution of the extended Ginzburg-Landau equations is
+discussed in detail.
+","[{""version"":""v1"",""created"":""Fri, 24 Feb 1995 14:21:41 GMT""},{""version"":""v2"",""created"":""Tue, 10 Oct 1995 21:20:02 GMT""}]","2015-06-26"
+"q-alg/9502016","Murray Gerstenhaber","Murray Gerstenhaber and Mary E. Schaps","Hecke algebras, $U_qsl_n$, and the Donald--Flanigan conjecture for $S_n$","20 pages",,,,"q-alg math.QA",,"  To each partition $\frak p$ of $n$ we associate in a canonical way a simple
+$S_n$ module with an orthogonal basis indexed by Young diagrams in a way which
+carries over immediately to the quantized case. With this we show that the
+Hecke algebra of $S_n$ is a global solution to the Donald--Flanigan problem for
+$S_n.$ The procedure gives ``canonical'' primitive idempotents different from
+the classical ones of Frobenius--Young and makes some number--theoretic
+statements.
+","[{""version"":""v1"",""created"":""Thu, 23 Feb 1995 18:38:38 GMT""}]","2016-09-08"

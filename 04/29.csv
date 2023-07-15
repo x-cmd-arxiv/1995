@@ -1,0 +1,284 @@
+"adap-org/9504006","Stefan Bornholdt","Stefan Bornholdt (University of Kiel and Santa Fe Institute) and Heinz
+  Georg Schuster (University of Kiel)","Hierarchical Crossover and Probability Landscapes of Genetic Operators","11 pages, uuencoded postcript file",,,"SFI working paper 95-04-043 and Kiel preprint CAU-THP-95-14","adap-org nlin.AO",,"  The time evolution of a simple model for crossover is discussed. A variant of
+this model with an improved exploration behavior in phase space is derived as a
+subset of standard one- and multi-point crossover operations. This model is
+solved analytically in the flat fitness case. Numerical simulations compare the
+way of phase space exploration of different genetic operators. In the case of a
+non-flat fitness landscape, numerical solutions of the evolution equations
+point out ways to estimate premature convergence.
+","[{""version"":""v1"",""created"":""Fri, 28 Apr 1995 20:00:40 GMT""}]","2015-06-30"
+"alg-geom/9504016","Christian Gantz","Christian Gantz and Brian Steer","Gauge fixing for logarithmic connections over curves and the
+  Riemann-Hilbert-Problem","29 pages, Latex 2.09",,,,"alg-geom math.AG",,"  We explain in detail the correspondence between algebraic connections over
+CP^{1}, logarithmic at X = { x_{1},...,x_{n} } \subset CP^{1}, and flat bundles
+over CP^{1}-X with integer weighted filtrations near each x_{j}. Included is a
+gauge fixing theorem for logarithmic connections. (Thus far, one could work
+over any Riemann surface.) We prove a bound on the splitting type of a
+semi-stable logarithmic connection over CP^{1}. Using this we extend and
+simplify some results on the Riemann-Hilbert-Problem, which asks for a
+logarithmic connection on a holomorphically trivial bundle over CP^{1},
+extending a given flat bundle over CP^{1}-X. The work is self contained and
+elementary, using only basic knowledge of Gauge Theory and the
+Birkhoff-Grothendieck-Theorem.
+","[{""version"":""v1"",""created"":""Sat, 29 Apr 1995 10:59:17 GMT""}]","2008-02-03"
+"ao-sci/9504001","Gavin Schmidt","G.A. Schmidt and L.A. Mysak (Centre for Climate and Global Change
+  Research, McGill University)","The stability of a zonally averaged thermohaline circulation model","23 pages, plus 8 PostScript figures. Postscript version of full paper
+  available at http://www.meteo.mcgill.ca/papers/gaslam.html",,"10.3402/tellusa.v48i1.12045",,"ao-sci physics.ao-ph",,"  A combination of analytical and numerical techniques are used to efficiently
+determine the qualitative and quantitative behaviour of a one-basin zonally
+averaged thermohaline circulation ocean model. In contrast to earlier studies
+which use time stepping to find the steady solutions, the steady state
+equations are first solved directly to obtain the multiple equilibria under
+identical mixed boundary conditions. This approach is based on the
+differentiability of the governing equations and especially the convection
+scheme. A linear stability analysis is then performed, in which the normal
+modes and corresponding eigenvalues are found for the various equilibrium
+states. Resonant periodic solutions superimposed on these states are predicted
+for various types of forcing. The results are used to gain insight into the
+solutions obtained by Mysak, Stocker and Huang in a previous numerical study in
+which the eddy diffusivities were varied in a randomly forced one-basin zonally
+averaged model. Resonant stable oscillations with century scale periods are
+predicted with structures that compare favorably with those found in the
+previous study. In cases with large horizontal diffusivities, the two-cell
+pattern is also stable, which parallels cases in the previous study where large
+vacillations were seen between the three stable steady states. Further, in
+cases with large horizontal {\it and} large vertical diffusivities, no one-cell
+pattern can be realised and the only asymptotic behaviour found is the two-cell
+pattern.
+","[{""version"":""v1"",""created"":""Fri, 28 Apr 1995 17:26:25 GMT""}]","2018-07-25"
+"cmp-lg/9504029","Fernando Pereira","Mary Dalrymple (Xerox PARC), John Lamping (Xerox PARC), Fernando
+  Pereira (AT&T Bell Laboratories), Vijay Saraswat (Xerox PARC)","Quantifiers, Anaphora, and Intensionality","41 pages, uses lingmacros.sty, fullname.sty, lfgmacros.tex,
+  tree-dvips.sty, tree-dvips.pro and attached macros. Extends and revises
+  cmp-lg/9404009 and cmp-lg/9404010",,,,"cmp-lg cs.CL",,"  The relationship between Lexical-Functional Grammar (LFG) {\em functional
+structures} (f-structures) for sentences and their semantic interpretations can
+be expressed directly in a fragment of linear logic in a way that correctly
+explains the constrained interactions between quantifier scope ambiguity, bound
+anaphora and intensionality. This deductive approach to semantic interpretaion
+obviates the need for additional mechanisms, such as Cooper storage, to
+represent the possible scopes of a quantified NP, and explains the interactions
+between quantified NPs, anaphora and intensional verbs such as `seek'. A single
+specification in linear logic of the argument requirements of intensional verbs
+is sufficient to derive the correct reading predictions for intensional-verb
+clauses both with nonquantified and with quantified direct objects. In
+particular, both de dicto and de re readings are derived for quantified
+objects. The effects of type-raising or quantifying-in rules in other
+frameworks here just follow as linear-logic theorems.
+  While our approach resembles current categorial approaches in important ways,
+it differs from them in allowing the greater type flexibility of categorial
+semantics while maintaining a precise connection to syntax. As a result, we are
+able to provide derivations for certain readings of sentences with intensional
+verbs and complex direct objects that are not derivable in current purely
+categorial accounts of the syntax-semantics interface.
+","[{""version"":""v1"",""created"":""Fri, 28 Apr 1995 23:22:00 GMT""},{""version"":""v2"",""created"":""Sat, 29 Apr 1995 00:07:00 GMT""}]","2016-08-31"
+"cmp-lg/9504030","David Magerman","David M. Magerman","Statistical Decision-Tree Models for Parsing","uses aclap.sty, psfig.tex (v1.9), postscript figures","Proceedings of the 33rd Annual Meeting of the ACL",,,"cmp-lg cs.CL",,"  Syntactic natural language parsers have shown themselves to be inadequate for
+processing highly-ambiguous large-vocabulary text, as is evidenced by their
+poor performance on domains like the Wall Street Journal, and by the movement
+away from parsing-based approaches to text-processing in general. In this
+paper, I describe SPATTER, a statistical parser based on decision-tree learning
+techniques which constructs a complete parse for every sentence and achieves
+accuracy rates far better than any published result. This work is based on the
+following premises: (1) grammars are too complex and detailed to develop
+manually for most interesting domains; (2) parsing models must rely heavily on
+lexical and contextual information to analyze sentences accurately; and (3)
+existing {$n$}-gram modeling techniques are inadequate for parsing models. In
+experiments comparing SPATTER with IBM's computer manuals parser, SPATTER
+significantly outperforms the grammar-based parser. Evaluating SPATTER against
+the Penn Treebank Wall Street Journal corpus using the PARSEVAL measures,
+SPATTER achieves 86\% precision, 86\% recall, and 1.3 crossing brackets per
+sentence for sentences of 40 words or less, and 91\% precision, 90\% recall,
+and 0.5 crossing brackets for sentences between 10 and 20 words in length.
+","[{""version"":""v1"",""created"":""Sat, 29 Apr 1995 02:25:17 GMT""}]","2008-02-03"
+"cmp-lg/9504031","Kemal Oflazer","Kemal Oflazer (Department of Computer Engineering and Information
+  Science Bilkent University, Ankara Turkey)","Error-tolerant Finite State Recognition with Applications to
+  Morphological Analysis and Spelling Correction","Replaces 9504031. gzipped, uuencoded postscript file. To appear in
+  Computational Linguistics Volume 22 No:1, 1996, Also available as
+  ftp://ftp.cs.bilkent.edu.tr/pub/ko/clpaper9512.ps.z",,,,"cmp-lg cs.CL",,"  Error-tolerant recognition enables the recognition of strings that deviate
+mildly from any string in the regular set recognized by the underlying finite
+state recognizer. Such recognition has applications in error-tolerant
+morphological processing, spelling correction, and approximate string matching
+in information retrieval. After a description of the concepts and algorithms
+involved, we give examples from two applications: In the context of
+morphological analysis, error-tolerant recognition allows misspelled input word
+forms to be corrected, and morphologically analyzed concurrently. We present an
+application of this to error-tolerant analysis of agglutinative morphology of
+Turkish words. The algorithm can be applied to morphological analysis of any
+language whose morphology is fully captured by a single (and possibly very
+large) finite state transducer, regardless of the word formation processes and
+morphographemic phenomena involved. In the context of spelling correction,
+error-tolerant recognition can be used to enumerate correct candidate forms
+from a given misspelled string within a certain edit distance. Again, it can be
+applied to any language with a word list comprising all inflected forms, or
+whose morphology is fully described by a finite state transducer. We present
+experimental results for spelling correction for a number of languages. These
+results indicate that such recognition works very efficiently for candidate
+generation in spelling correction for many European languages such as English,
+Dutch, French, German, Italian (and others) with very large word lists of root
+and inflected forms (some containing well over 200,000 forms), generating all
+candidate solutions within 10 to 45 milliseconds (with edit distance 1) on a
+SparcStation 10/41. For spelling correction in Turkish, error-tolerant
+","[{""version"":""v1"",""created"":""Sat, 29 Apr 1995 03:12:14 GMT""},{""version"":""v2"",""created"":""Fri, 21 Jul 1995 14:40:49 GMT""}]","2008-02-03"
+"cmp-lg/9504033",,"Mark Lauer (Microsoft Institute, Sydney)","Corpus Statistics Meet the Noun Compound: Some Empirical Results","8 pages, 5 figures, uses modified version of aclap.sty, replaced
+  because old version failed to TeX properly","Proceedings of the 33rd Annual Meeting of the Association for
+  Computational Linguistics, Boston, MA., 1995 pp47-54",,,"cmp-lg cs.CL",,"  A variety of statistical methods for noun compound analysis are implemented
+and compared. The results support two main conclusions. First, the use of
+conceptual association not only enables a broad coverage, but also improves the
+accuracy. Second, an analysis model based on dependency grammar is
+substantially more accurate than one based on deepest constituents, even though
+the latter is more prevalent in the literature.
+","[{""version"":""v1"",""created"":""Fri, 28 Apr 1995 20:35:37 GMT""},{""version"":""v2"",""created"":""Tue, 10 Sep 1996 08:21:17 GMT""}]","2008-02-03"
+"cond-mat/9504120","Antoine Georges","Anirvan M. Sengupta and Antoine Georges","Non Fermi Liquid Behaviour near a $T=0$ spin-glass transition","15 pages, RevTex 3.0, 1 uuencoded ps. figure at the end",,"10.1103/PhysRevB.52.10295",,"cond-mat",,"  In this paper we study the competition between the Kondo effect and RKKY
+interactions near the zero-temperature quantum critical point of an Ising-like
+metallic spin-glass. We consider the mean-field behaviour of various physical
+quantities. In the `quantum- critical regime' non-analytic corrections to the
+Fermi liquid behaviour are found for the specific heat and uniform static
+susceptibility, while the resistivity and NMR relaxation rate have a non-Fermi
+liquid dependence on temperature.
+","[{""version"":""v1"",""created"":""Fri, 28 Apr 1995 17:02:02 GMT""}]","2009-10-28"
+"gr-qc/9504050","Cm41","Charles W. Misner (University of Maryland)","Yilmaz Cancels Newton","9 pages, LaTeX, submitted to Il Nuovo Cimento","Nuovo Cim. B114 (1999) 1079-1085",,"UMD PP-95-115","gr-qc",,"  A central tenet of the new theory of gravity proposed by H. Yilmaz is the
+inclusion of a gravitational stress-energy tensor $-{t_\mu}^\nu$ along with the
+matter stress-energy tensor ${T_\mu}^\nu$ on the right hand side of the
+Einstein field equations. This change does not effect the Newtonian limit of
+the field equations since these terms are quadratic in potential gradients.
+{}From the Bianchi identities, however, important changes appear in any
+equations of motion consistent with these field equations. For matter described
+as a perfect fluid, and with Yilmaz's choice of signs when introducing these
+quadratic terms, we find that the Euler hydrodynamic equation in the Newtonian
+limit is modified to remove all gravitational forces. This allows, e.g., a
+solar system in which the Sun and the planets are permanently at rest, but does
+not explain how fluid bodies such as the Sun or Jupiter could form or be
+prevented from dispersing.
+","[{""version"":""v1"",""created"":""Fri, 28 Apr 1995 20:27:00 GMT""},{""version"":""v2"",""created"":""Fri, 28 Apr 1995 21:34:00 GMT""}]","2008-02-03"
+"hep-ph/9504425","James F. Amundson","James F. Amundson","Comparison of potential models through HQET","19 pages, LaTeX with epsf.sty. Figures included through uufiles.
+  Compressed Postscript available at
+  ftp://phenom.physics.wisc.edu/pub/preprints/1995/madph-95-859.ps.Z or
+  http://phenom.physics.wisc.edu/pub/preprints/1995/madph-95-859.ps.Z","Phys.Rev.D52:2926-2934,1995","10.1103/PhysRevD.52.2926","MAD/PH/859","hep-ph",,"  I calculate heavy-light decay constants in a nonrelativistic potential model.
+The resulting estimate of heavy quark symmetry breaking conflicts with similar
+estimates from lattice QCD. I show that a semirelativistic potential model
+eliminates the conflict. Using the results of heavy quark effective theory
+allows me to identify and compensate for shortcomings in the model calculations
+in addition to isolating the source of the differences in the two models. The
+results lead to a rule as to where the nonrelativistic quark model gives
+misleading predictions.
+","[{""version"":""v1"",""created"":""Fri, 28 Apr 1995 21:40:57 GMT""}]","2011-07-19"
+"hep-ph/9504426","Tao Han","J. Bagger, V. Barger, K. Cheung, J. Gunion, T. Han, G. A. Ladinsky, R.
+  Rosenfeld, C.--P. Yuan","LHC Analysis of the Strongly Interacting $WW$ System: Gold-Plated Modes","14 pages, LaTeX, final version (with minor changes) to appear in
+  Phys. Rev. D; postscript file available via anonymous ftp at
+  ftp://ucdhep.ucdavis.edu/han/sews/paper_ww.ps and figure files separated as
+  figs.uu or *.ps","Phys.Rev.D52:3878-3889,1995","10.1103/PhysRevD.52.3878","JHU-TIPAC-95012, MADPH-95-877, CPP-95-3, DOE-ER40757-063, UCD-95-08,
+  MSUHEP-50305, IFUSP/P-1141","hep-ph",,"  We study the gold-plated purely leptonic signal and background rates at the
+LHC for the $ZZ,$ $W^{+}W^-,$ $W^\pm Z$ and $W^\pm W^\pm$ final states
+associated with strongly interacting electroweak symmetry breaking. We work at
+an energy of $\sqrt s = 14$ TeV, and develop a combination of back-to-back
+leptonic, central-jet-vetoing and forwaring cuts that suppresses the
+Standard-Model backgrounds. We find that the LHC with an annual luminosity of
+100 fb$^{-1}$ will achieve a reasonably good sensitivity to the physics of
+strongly interacting electroweak symmetry breaking.
+","[{""version"":""v1"",""created"":""Fri, 28 Apr 1995 23:54:01 GMT""},{""version"":""v2"",""created"":""Tue, 18 Jul 1995 07:22:48 GMT""}]","2008-11-26"
+"hep-ph/9504427","Ann Nelson","Patrick Huet and Ann E. Nelson (University of Washington)","CP Violation and Electroweak Baryogenesis in Extensions of the Standard
+  Model","16 pages, 3 Postscript figures included as uuencoded file, uses
+  phyzzx and epsf, typo and figure 3b corrected, conclusions unchanged","Phys.Lett.B355:229-235,1995","10.1016/0370-2693(95)00674-A","preprint no. UW-PTH-95-03","hep-ph",,"  We develop a new and general method to calculate the effects of \cp\
+violation from extensions of the standard model on the mechanism of electroweak
+baryogenesis. We illustrate its applicability in the framework of two-higgs
+doublet models.
+","[{""version"":""v1"",""created"":""Sat, 29 Apr 1995 00:07:15 GMT""},{""version"":""v2"",""created"":""Wed, 3 May 1995 18:21:47 GMT""},{""version"":""v3"",""created"":""Mon, 5 Jun 1995 22:04:15 GMT""},{""version"":""v4"",""created"":""Tue, 20 Jun 1995 19:01:19 GMT""}]","2009-07-09"
+"hep-ph/9504428","Alakabha Datta","Alakabha Datta","Non-Leptonic two body decays of Charmed and \Lambda_b Baryons","15 pages, Latex, no figures, minor typing errors corrected",,,"UH-511-824-95","hep-ph",,"  We calculate the two body Cabibbo allowed non-leptonic decays of charmed
+baryons $\Lambda_c$ and $\Xi_c$ which involve transitions of a heavy quark to a
+light quark. We use data on the Cabbibo favoured non-leptonic decays $\Lambda_c
+\rightarrow \Lambda \pi^{+}$ and $\Lambda_c \rightarrow \Sigma^{+} \pi^{0 }$ to
+obtain information on the form factors in the $c \rightarrow s $ transition. We
+also calculate the decay $\Lambda_c \rightarrow p \phi$. Using HQET the
+information on form factors from the $c \rightarrow s $ transition is used to
+model the form factors in $b \rightarrow s $ transition which are then used in
+the study of $\Lambda_b \rightarrow J/ \psi \Lambda $ decay.
+","[{""version"":""v1"",""created"":""Sat, 29 Apr 1995 00:24:01 GMT""},{""version"":""v2"",""created"":""Mon, 1 May 1995 01:06:48 GMT""}]","2008-02-03"
+"hep-ph/9504429","Alakabha Datta","Alakabha Datta","Semi-Leptonic Decays of \Lambda_c and \Lambda_b Baryons involving Heavy
+  to Light Transitions and the determination of V_{ub}","9 pages, Latex, 5 figures available on request",,,"UH-511-825","hep-ph",,"  We calculate the semi-leptonic decays of $\Lambda_c$ and $\Lambda_b$ baryons
+which involve transitions of a heavy quark to a light quark. In a previous work
+we used data on the Cabibbo favoured non-leptonic decays of charmed baryons
+$\Lambda_c \rightarrow \Lambda \pi^{+}$ and $\Lambda_c \rightarrow \Sigma^{+}
+\pi^{0 }$ to obtain information on the form factors in the $c \rightarrow s $
+transition. This form factor informations is used to study the semi-leptonic
+decay $\Lambda_c \rightarrow \Lambda l \nu $. Using SU(3) symmetry and HQET it
+is shown how a knowledge of form factors in $\Lambda_c \rightarrow \Lambda l
+\nu $ can be applied to $\Lambda_b \rightarrow p l \nu $ decay and used to
+measure $|V_{ub}/V_{cs}|^{2} $.
+","[{""version"":""v1"",""created"":""Sat, 29 Apr 1995 00:26:16 GMT""}]","2009-09-25"
+"hep-ph/9504430","Afsar Abbas","Afsar Abbas","A New Candidate for the Dark Matter","This revised version has a new section called ADDENDUM added which
+  gives further new arguments as to how a glueball can be extremely massive and
+  yet be very stable to become a Dark Matter candidate",,,"IP/BBSR/95-39","hep-ph astro-ph",,"  It is shown that if there are two distinct phase transition temperatures to
+the hadronic phase ( as is currently favoured), then QCD demands a condensation
+to a weakly interacting massive glueball. This glueball then becomes a natural
+candidate for the cosmological dark matter. Note that this does not involve any
+exotic extensions beyond the Standard Model of particle physics. In this
+revised version at the end of the paper I have added a new section called
+ADDENDUM which gives new arguments as to how this very heavy glueball can be
+stable and hence be a dark matter candidate.
+","[{""version"":""v1"",""created"":""Fri, 28 Apr 1995 17:50:09 GMT""},{""version"":""v2"",""created"":""Mon, 26 Aug 1996 13:14:45 GMT""}]","2008-02-03"
+"hep-th/9504152","Victor Pervushin","S. A. Gogilidze, A. M. Khvedelidze, V. N. Pervushin","Covariant Gauges for Constrained Systems","9 pages, latex, no figures","Phys.Lett. B363 (1995) 76-78","10.1016/0370-2693(95)01195-V","JINR E2 - 95 - 132","hep-th",,"  The method of constructing of extended phase space for singular theories
+which permits the consideration of covariant gauges without the introducing of
+a ghost fields, is proposed. The extension of the phase space is carried out by
+the identification of the initial theory with an equivalent theory with higher
+derivatives and applying to it the Ostrogradsky method of Hamiltonian
+description .
+","[{""version"":""v1"",""created"":""Fri, 28 Apr 1995 18:52:55 GMT""}]","2009-10-28"
+"hep-th/9504153","Victor Pervushin","S. A. Gogilidze, A. M. Khvedelidze, V. N. Pervushin","On Abelianization of First Class Constraints","19 pages, latex, no figures","J.Math.Phys.37:1760-1771,1996","10.1063/1.531478","JINR E2 - 95 - 131","hep-th",,"  The systematic method for the conversion of first class constraints to the
+equivalent set of Abelian one based on the Dirac equivalence transformation is
+developed. The representation for the corresponding matrix performing this
+transformation is proposed. This representation allows one to lead the problem
+of abelianization to the solution of a certain system of first order {\it
+linear } differential equations for matrix elements .
+","[{""version"":""v1"",""created"":""Fri, 28 Apr 1995 19:00:00 GMT""}]","2011-07-19"
+"hep-th/9504154","Victor Pervushin","S. A. Gogilidze, A. M. Khvedelidze, V. N. Pervushin","On Admissible Gauges for Constrained Systems","30 pages, latex, no figures","Phys.Rev.D53:2160-2172,1996","10.1103/PhysRevD.53.2160","JINR E2 - 95-203 ZU - TH-4/95","hep-th",,"  The {\it {gauge - fixing} } and {\it gaugeless } methods for reducing the
+phase space in the generalized Hamiltonian dynamics are compared with the aim
+to define the class of admissible gauges . In the gaugeless approach, the
+reduced phase space of a Hamiltonian system with the first class constraints is
+constructed locally, without any gauge fixing, using the following procedure:
+abelianization of constraints with the subsequent canonical transformation so
+that some of the new momenta are equal to the new abelian constraints. As a
+result the corresponding conjugate coordinates are ignorable ( nonphysical )
+one while the remaining canonical pairs corresponds to the true dynamical
+variables. This representation for the phase space prompts us the definition of
+subclass of admissible gauges -- canonical gauges as functions depending only
+on the ignorable coordinates. A practical method to recognize the canonical
+gauge is proposed .
+","[{""version"":""v1"",""created"":""Fri, 28 Apr 1995 18:42:41 GMT""}]","2011-07-19"
+"hep-th/9504155","Guest","D.V. Gal'tsov, A.A. Garcia, and O.V. Kechkin","Symmetries of the stationary Einstein--Maxwell--dilaton theory","Latex, 24 pp","Class.Quant.Grav.12:2887-2903,1995","10.1088/0264-9381/12/12/007","CINVESTAV--GRG--94/12, May 94, (Revised: March 95)","hep-th gr-qc",,"  Gravity coupled three--dimensional $\sigma$--model describing the stationary
+Einstein--Maxwell--dilaton system with general dilaton coupling is studied.
+Killing equations for the corresponding five--dimensional target space are
+integrated. It is shown that for general coupling constant $\alpha$ the
+symmetry algebra is isomorphic to the maximal solvable subalgebra of $sl(3,R)$.
+For two critical values $\alpha =0$ and $\alpha =\sqrt{3}$, Killing algebra
+enlarges to the full $sl(3,R)$ and $su(2,1)\times R$ algebras respectively,
+which correspond to five--dimensional Kaluza--Klein and four--dimensional
+Brans--Dicke--Maxwell theories. These two models are analyzed in terms of the
+unique real variables. Relation to the description in terms of complex Ernst
+potentials is discussed. Non--trivial discrete maps between different subspaces
+of the target space are found and used to generate new arbitrary--$\alpha$
+solutions to dilaton gravity.
+","[{""version"":""v1"",""created"":""Fri, 28 Apr 1995 18:05:27 GMT""}]","2014-11-18"
+"hep-th/9504160","Ian McArthur","I.N. McArthur","Gauging of Nonlinearly Realized Symmetries","14 pages, LATEX document","Nucl.Phys. B452 (1995) 456-468","10.1016/0550-3213(95)00288-4",,"hep-th",,"  A representation of a subgroup H of a finite-dimensional group G can be used
+to induce a nonlinear realization of G. If the nonlinearly realized symmetry is
+gauged, then the BRST charge can be related by a similarity transformation to
+the BRST charge for the gauged linear realization of H (plus a cohomologically
+trivial piece). It is shown that the relation between the two BRST charges is a
+reflection of the fact that they can be interpreted geometrically as
+expressions for the exterior derivative on G relative to two different bases,
+and an explicit expression for the generator of the similarity transformation
+is obtained. This result is applied in an infinite-dimensional setting, where
+it yields the similarity transformation used by Ishikawa and Kato to prove the
+equivalence of the Berkovits-Vafa superstring with the underlying bosonic
+string theory.
+","[{""version"":""v1"",""created"":""Sat, 29 Apr 1995 04:19:04 GMT""}]","2009-10-28"
+"hep-th/9504161","J. Maharana","Amit Ghosh and Jnanadeva Maharana","S-DUALITY AND THE ENTROPY OF BLACK HOLES IN HETEROTIC STRING THEORY","13 pages, REVTEX","Mod.Phys.Lett. A11 (1996) 3103-3112","10.1142/S0217732396003088","IP/BBSR/95-45","hep-th",,"  Four dimensional heterotic string effective action is known to admit
+non-rotating electrically and magnetically charged black hole solutions. It is
+shown that the partition functions and entropies in both the cases are
+identical when these black hole solutions are related by S-duality
+transformations. The entropy is computed and is vanishing for each black hole
+in the extremal limit.
+","[{""version"":""v1"",""created"":""Sat, 29 Apr 1995 14:38:40 GMT""}]","2009-10-28"
+"math/9504230","Greg Kuperberg","Greg Kuperberg","A volume-preserving counterexample to the Seifert conjecture",,"Comment. Math. Helv. 71 (1996), no. 1, 70-97",,"Kuperberg migration 11/2004","math.DS",,"  We prove that every 3-manifold possesses a $C^1$, volume-preserving flow with
+no fixed points and no closed trajectories. The main construction is a
+volume-preserving version of the Schweitzer plug. We also prove that every
+3-manifold possesses a volume-preserving, $C^\infty$ flow with discrete closed
+trajectories and no fixed points (as well as a PL flow with the same geometry),
+which is needed for the first result. The proof uses a Dehn-twisted Wilson-type
+plug which also preserves volume.
+","[{""version"":""v1"",""created"":""Sat, 29 Apr 1995 00:00:00 GMT""}]","2009-09-25"

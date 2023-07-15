@@ -1,0 +1,217 @@
+"alg-geom/9506007","Lisa Jeffrey","Lisa C. Jeffrey, Frances C. Kirwan","On localization and Riemann-Roch numbers for symplectic quotients","19 pages; September 1994, revised March 1995, LaTeX v. 2.09","Quart. J. Math. 47 (1996) 165-185",,,"alg-geom math.AG",,"  Suppose $(M,\omega)$ is a compact symplectic manifold acted on by a compact
+Lie group $K$ in a Hamiltonian fashion, with moment map $\mu: M \to \Lie(K)^*$
+and Marsden-Weinstein reduction $M_{red} = \mu^{-1}(0)/K$. In this paper, we
+assume that $M$ has a $K$-invariant K\""ahler structure. In an earlier paper, we
+proved a formula (the residue formula) for $\eta_0 e^{\omega_0}[M_{red}]$ for
+any $\eta_0 \in H^*(M_{red})$, where $\omega_0$ is the induced symplectic form
+on $M_{red}$. Here we apply the residue formula in the special case $\eta_0 =
+Td(M_{red})$; when $K$ acts freely on $\mu^{-1}(0)$ this yields a formula for
+the Riemann-Roch number $RR (L_{red})$ of a holomorphic line bundle $L_{red}$
+on $M_{red}$ that descends from a holomorphic line bundle $L$ on $M$ for which
+$c_1(L) = \omega$. Using the holomorphic Lefschetz formula we similarly obtain
+a formula for the $K$-invariant Riemann-Roch number $RR^K(L) $ of $L$. In the
+case when the maximal torus $T$ of $K$ has dimension one (except in a few
+special circumstances), we show the two formulas are the same. Thus in this
+special case the residue formula is equivalent to the result of Guillemin and
+Sternberg that $RR(L_{red}) = RR^K(L)$. (The residue formula was proved under
+the assumption that 0 is a regular value of $\mu$, and was given in terms of
+the restrictions of classes in the equivariant cohomology $H^*_T(M) $ of $M$ to
+the
+","[{""version"":""v1"",""created"":""Sun, 4 Jun 1995 15:02:13 GMT""}]","2008-02-03"
+"astro-ph/9506020","R. Pogge","Richard Pogge (Ohio State) and Michael De Robertis (York Univ)","IMAGING SPECTROPHOTOMETRY OF MARKARIAN 573","Accepted by ApJ. 24 pages, uuencoded compressed PostScript. 11
+  Figures (compressed PostScript) available from anonymous ftp at
+  ftp://bessel.mps.ohio-state.edu/pub/rwp/m573/prefigs.ps.Z A complete
+  (text+figs) compressed PostScript preprint is also available at
+  ftp://bessel.mps.ohio-state.edu/pub/rwp/m573/mrk573pre.ps.Z",,"10.1086/176246",,"astro-ph",,"  Narrow-band emission-line and continuum images obtained in subarcsecond
+seeing conditions are presented for the Seyfert~2 galaxy, Markarian 573. Images
+in the emission-lines of [\oi], [\oii], [\oiii], [\sii], and \halpha+[\nii] are
+used to measure the structure and excitation in the extended emission regions
+surrounding the active nucleus. The biconical region contains a variety of
+complex features, including two arc-like structures within $\sim 2\arcsec$ of
+the active nucleus that appear to be associated with the extended radio
+continuum emission in the sense that the radio lobes lie just inside the
+centroids of the emission-line arcs. These arcs probably arise from an
+interaction between the ISM and the radio plasma from the active nucleus. Two
+other emission-line features lie $\sim3-4\arcsec$ on either side of the
+nucleus, and appear to be elongated nearly perpendicular to the symmetry axis
+of the inner radio and optical structures. The existence of multiple
+emission-line components could be evidence for episodic ejection of radio
+plasma from the active nucleus.
+","[{""version"":""v1"",""created"":""Sat, 3 Jun 1995 22:27:18 GMT""}]","2009-10-28"
+"astro-ph/9506021","Mail","V.V. Usov and D.B. Melrose","PULSARS WITH STRONG MAGNETIC FIELDS: POLAR GAPS, BOUND PAIR CREATION AND
+  NONTHERMAL LUMINOSITIES","TEX file, 47 pages. Accepted by Australian J. Phys","Austral.J.Phys. 48 (1995) 571","10.1071/PH950571",,"astro-ph",,"  Modifications to polar-gap models for pulsars are discussed for the case
+where the surface magnetic field, $B_\S$, of the neutron star is strong. For
+$B\ga4\times10^8\rm\,T$, the curvature $\gamma$-quanta emitted tangentially to
+the curved force lines of the magnetic field are captured near the threshold of
+bound pair creation and are channelled along the magnetic field as bound
+electron-positron pairs (positronium). The stability of such bound pairs
+against ionization by the parallel electric field, $E_\parallel$, in the polar
+cap, and against photoionization is discussed. Unlike free pairs, bound pairs
+do not screen $E_\parallel$ near the neutron star. As a consequence, the energy
+flux in highly relativistic particles and high-frequency (X-ray and/or
+$\gamma$-ray) radiation from the polar gaps can be much greater than in the
+absence of positronium formation. We discuss this enhancement for (a)
+Arons-type models, in which particles flow freely from the surface, and find
+any enhancement to be modest, and (b) Ruderman-Sutherland-type models, in which
+particles are tightly bound to the surface, and find that the enhancement can
+be substantial. In the latter case we argue for a self-consistent,
+time-independent model in which partial screening of $E_\parallel$ maintains it
+close to the threshold value for field ionization of the bound pairs, and in
+which a reverse flux of accelerated particles maintains the polar cap at a
+temperature such that thermionic emission supplies the particles needed for
+this screening. This model applies only in a restricted range of periods,
+$P_2<P<P_1$, and it implies an energy flux in high-energy particles that can
+correspond to a substantial fraction of the spin-down power of the pulsar.
+  Nonthermal, high-frequency radiation has been observed from six radio pulsars
+","[{""version"":""v1"",""created"":""Sun, 4 Jun 1995 06:55:29 GMT""}]","2015-06-24"
+"astro-ph/9506022","Andrej Doroshkevich","O. Buryak & A. Doroshkevich","Correlation function as a measure of the structure","8 pages, uucode","Astron.Astrophys. 306 (1996) 1",,,"astro-ph",,"  Geometrical model of structure of the universe is examined to obtain
+analytical expression for the two points nonlinear correlation function.
+According to the model the objects (galaxies) are concentrated into two types
+of structure elements - filaments and sheets. We considered the filaments (
+similar to galaxy filaments ) simply as straight lines and the sheets ( similar
+to superclusters of galaxies ) simply as planes. The homogeneously distributed
+objects are also taken into consideration. The spatial distribution of lines,
+planes and points is uncorrelated. The nonlinear correlation function depends
+on four parameters and is similar to the observed and simulated ones for
+different samples. It describes quite well the correlation of galaxies,
+clusters of galaxies and dark matter distribution. Possible interpretation of
+the parameters of nonlinear correlation function is discussed.
+","[{""version"":""v1"",""created"":""Sun, 4 Jun 1995 15:11:28 GMT""}]","2007-05-23"
+"bayes-an/9506001","Darren J. Wilkinson","Darren J Wilkinson (http://fourier.dur.ac.uk:8000/djw.html) and
+  Michael Goldstein","Bayes linear adjustment for variance matrices","To appear in the Bayesian Statistics 5 conference volume. LaTeX, 11
+  pages, Chicago BIB-style (included), 2 postscript figures. Also available as
+  a postscript file from http://fourier.dur.ac.uk:8000/~dma3djw/djwgvar.html
+  For information on [B/D], go to http://fourier.dur.ac.uk:8000/stats/bd/",,,,"bayes-an physics.data-an",,"  We examine the problem of covariance belief revision using a geometric
+approach. We exhibit an inner-product space where covariance matrices live
+naturally --- a space of random real symmetric matrices. The inner-product on
+this space captures aspects of our beliefs about the relationship between
+covariance matrices of interest to us, providing a structure rich enough for us
+to adjust beliefs about unknown matrices in the light of data such as sample
+covariance matrices, exploiting second-order exchangeability specifications.
+","[{""version"":""v1"",""created"":""Sun, 4 Jun 1995 14:54:20 GMT""},{""version"":""v2"",""created"":""Mon, 5 Jun 1995 10:52:31 GMT""}]","2008-02-03"
+"chem-ph/9506001","M. V. Ramakrishna","Antonietta Tomasulo and Mushti V. Ramakrishna","Quantum Confinement Effects in Semiconductor Clusters II","J. Chem. Phys. submitted (1995); 48 pages + 9 figures. PostScript
+  version available via anonymous ftp at
+  ftp://ramanujan.chem.nyu.edu/pub/qc3.ps",,"10.1063/1.472232",,"chem-ph cond-mat physics.chem-ph",,"  The band gaps and spectral shifts of CdS, CdSe, CdTe, AlP, GaP, GaAs, and InP
+semiconductor clusters are calculated from band structure calculations using
+accurate local and non-local empirical pseudopotentials. The effect of
+spin-orbit coupling on the band structures is included in the calculations when
+they are important. The complete set of pseudopotential parameters and full
+computational details are reported for all these semiconductors. The calculated
+spectral shifts of zinc-blende and wurtzite CdS, wurtzite CdSe, and zinc-blende
+InP clusters are in good agreement with experiments over a range of cluster
+sizes. The effect of crystal structure on the band gaps is small in large
+clusters but becomes important in small clusters. In the absence of
+experimental data, our calculations provide reasonable estimates of expected
+spectral shifts for the other clusters. These results demonstrate that the
+empirical pseudopotential method yields unique insights into the quantum
+confinement effects and is a powerful tool for calculating the spectral shifts
+of semiconductor clusters.
+","[{""version"":""v1"",""created"":""Sat, 3 Jun 1995 21:50:11 GMT""}]","2009-10-28"
+"chem-ph/9506002","M. V. Ramakrishna","Jun Pan, Atul Bahel, and Mushti V. Ramakrishna","Chemistry of Nanoscale Semiconductor Clusters","Physics, Chemistry, and Applications of Nanostructures (in press), 7
+  pages + 2 figures. PostScript version available at
+  ftp://ramanujan.chem.nyu.edu/pub/nano1.ps",,,,"chem-ph cond-mat physics.chem-ph",,"  The ground state structures of small silicon clusters are determined through
+exhaustive tight-binding molecular dynamics simulation studies. These
+simulations revealed that \Si{11} is an icosahedron with one missing cap,
+\Si{12} is a complete icosahedron, \Si{13} is a surface capped icosahedron,
+\Si{14} is a 4-4-4 layer structure with two caps, \Si{15} is a 1-5-3-5-1 layer
+structure, and \Si{16} is a partially closed cage consisting of five-membered
+rings. The characteristic feature of these clusters is that they are all
+surface.
+  Smalley and co-workers discovered that chemisorption reactivities of silicon
+clusters vary over three orders of magnitude as a function of cluster size. In
+particular, they found that \Si{33}, \Si{39}, and \Si{45} clusters are least
+reactive towards various reagents compared to their immediate neighbors in
+size. We provide insights into this observed reactivity pattern through our
+stuffed fullerene model. This structural model consists of bulk-like core of
+five atoms surrounded by fullerene-like surface. Reconstruction of the ideal
+fullerene geometry gives rise to four-fold coordinated crown atoms and
+$\pi$-bonded dimer pairs. This model yields unique structures for \Si{33},
+\Si{39}, and \Si{45} clusters without any dangling bonds and thus explains
+their lowest reactivity towards chemisorption of closed shell reagents. We also
+explain why a) these clusters are substantially unreactive compared to bulk
+surfaces and b) dissociative chemisorption occurs on bulk surfaces while
+molecular chemisorption occurs on cluster surfaces. Finally, experiments on
+Si$_x$X$_y$ (X = B, Al, Ga, P, As, AlP, GaAs) are suggested as a means of
+verifying the proposed model.
+","[{""version"":""v1"",""created"":""Sat, 3 Jun 1995 21:51:12 GMT""}]","2016-08-31"
+"chem-ph/9506003","M. V. Ramakrishna","Atul Bahel, Jun Pan, and Mushti V. Ramakrishna","Growth Pattern of Silicon Clusters","Modern Physics Letters B in press, 9 pages + 2 figures. PostScript
+  version available at ftp://ramanujan.chem.nyu.edu/pub/mplb1.ps",,"10.1142/S0217984995000759",,"chem-ph cond-mat physics.chem-ph",,"  Tight-binding molecular dynamics simulated annealing technique is employed to
+search for the ground state geometries of silicon clusters containing 11-17
+atoms. These studies revealed that layer formation is the dominant growth
+pattern in all these clusters. Fullerene-like precursor structures consisting
+of fused pentagon rings are also observed. The atoms in all these clusters
+exhibit pronounced preference for residing on the surface.
+","[{""version"":""v1"",""created"":""Sat, 3 Jun 1995 21:51:16 GMT""}]","2009-10-28"
+"cond-mat/9506016","Frank Tzschicholz","Frank Tzschichholz (PMMH URA 857, ESPCI, Paris, France)","FRACTURING OF BRITTLE HOMOGENEOUS SOLIDS. FINITE SIZE SCALINGS","6 pages RevTeX, 3 postscript figures, tarred, gzipped, uuencoded
+  using `uufiles', short handling instruction at the beginning of the .tex
+  file. CHANGES TO PREVIOUS VERSION: previous version was truncated on some
+  mailers. Problem fixed","Phys.Rev.B52:9270,1995","10.1103/PhysRevB.52.9270",,"cond-mat",,"  Using a two dimensional lattice model we investigate the crack growth under
+the influence of remote tensile forces as well as due to an internally applied
+pressure (hydraulic fracturing). For homogeneous elastic properties we present
+numerical finite-size scalings for the breaking stresses and pressures in terms
+of crack lengths and lattice sizes. Continuum theory predicts for the tensile
+and for the pressure problem identical scaling functions. Our findings for the
+tensile problem are in very good agreement with continuum results. However, for
+the hydraulic fracture problem we observe a different finite-size scaling. We
+explicitly demonstrate that the modified scaling is a consequence of the
+discrete structure of the lattice (micro structure).
+","[{""version"":""v1"",""created"":""Sat, 3 Jun 1995 17:55:03 GMT""},{""version"":""v2"",""created"":""Mon, 5 Jun 1995 17:51:18 GMT""}]","2008-12-18"
+"gr-qc/9506006","Arshad Momen","A.P. Balachandran, L. Chandar and Arshad Momen","Edge States in Canonical Gravity","8 pg., silly latex error fixed ( no change in the content )",,,"SU-4240-610","gr-qc hep-th",,"  It is well-known that gauge fields defined on manifolds with spatial
+boundaries support states localized at the boundary. In this talk, we show how
+similar states arise in canonical gravity abd discuss their physical relevance
+using their analogy to quantum Hall effect.
+","[{""version"":""v1"",""created"":""Sun, 4 Jun 1995 00:42:31 GMT""},{""version"":""v2"",""created"":""Mon, 4 Dec 1995 00:16:38 GMT""}]","2008-02-03"
+"hep-ex/9506001","Joel Feltesse","H1 Collaboration","The Gluon Density of the Proton at Low $x$ from a QCD Analysis of $F_2$","17 pages, latex2e, 5 figures appended as uuencoded file, hep number
+  included","Phys.Lett.B354:494-505,1995","10.1016/0370-2693(95)00720-6","DESY 95-081","hep-ex",,"  We present a QCD analysis of the proton structure function $F_2$ measured by
+the H1 experiment at HERA, combined with data from previous fixed target
+experiments. The gluon density is extracted from the scaling violations of
+$F_2$ in the range $2\cdot 10^{-4}<x<3\cdot 10^{-2}$ and compared with an
+approximate solution of the QCD evolution equations. The gluon density is found
+to rise steeply with decreasing $x$.
+","[{""version"":""v1"",""created"":""Sun, 4 Jun 1995 10:05:50 GMT""},{""version"":""v2"",""created"":""Mon, 5 Jun 1995 14:28:53 GMT""}]","2012-08-27"
+"hep-ph/9506232",,"R.H. Dalitz and Gary R. Goldstein","Top Mass Analyses for the Reported Top-Antitop Production and Decay
+  Events","23 pages LaTeX(2e). 9 Figures, not included, will be sent on request
+  (goldstei@pearl.tufts.edu)",,,"TUFTS-TH-95-G01","hep-ph",,"  We have analyzed the available data on $p\bar{p}\,\rightarrow\, t\, \bar{t}$
+followed by the decays ($t\rightarrow bW^{+},\: \bar{t}\rightarrow
+\bar{b}W^{-}$) which lead to $e^{\pm}\mu^{\mp}2 \mathrm{jets}$ or $l^{\pm}4
+\mathrm{jets}$ configurations, using a likelihood method we proposed earlier.
+The outcome is compared with the recent CDF analysis. In an appendix, we
+discuss the nature of the additional ``slow'' $\mu^{+}$ observed in one CDF
+dilepton event, concluding that it is most probably a ``tertiary lepton''
+resulting from the decay sequence $b\rightarrow c +\mathrm{hadrons}$, followed
+by $c\rightarrow s \mu^{+} \nu$.
+","[{""version"":""v1"",""created"":""Sat, 3 Jun 1995 21:19:23 GMT""}]","2009-09-25"
+"hep-ph/9506233","Richard Ball","R. D. Ball and S. Forte","Determination of alpha_s from F_2^p at HERA","24 pages, TeX with harvmac and epsf, 10 figures in compressed
+  postscript. Final (published) version","Phys.Lett. B358 (1995) 365-378","10.1016/0370-2693(95)01012-F","CERN-TH/95-148","hep-ph",,"  We compute the proton structure function F_2^p at small x and large Q^2 at
+next-to-leading order in alpha_s(Q^2), including summations of all leading and
+subleading logarithms of Q^2 and 1/x in a way consistent with momentum
+conservation. We perform a detailed comparison to the 1993 HERA data, and show
+that they may be used to determine alpha_s(M_Z^2)=0.120 pm 0.005(exp) pm
+0.009(th). The theoretical error is dominated by the renormalization and
+factorization scheme ambiguities.
+","[{""version"":""v1"",""created"":""Sun, 4 Jun 1995 08:33:12 GMT""},{""version"":""v2"",""created"":""Mon, 14 Aug 1995 17:45:43 GMT""}]","2009-10-28"
+"hep-th/9506023","Olav Tirkkonen","L.D. FADDEEV and O. TIRKKONEN","CONNECTIONS of the LIOUVILLE MODEL and XXZ SPIN CHAIN","25 pages, Latex","Nucl.Phys. B453 (1995) 647-669","10.1016/0550-3213(95)00354-U","HUT-TFT-95-15","hep-th",,"  The quantum theory of the Liouville model with imaginary field is considered
+using the quantum inverse scattering method. An integrable structure with
+nontrivial spectral parameter dependence is developed for lattice Liouville
+theory by scaling the $L$-matrix of lattice sine-Gordon theory. This $L$-matrix
+yields Bethe Ansatz equations for Liouville theory, by the methods of the
+algebraic Bethe Ansatz. Using the string picture of exited Bethe states, the
+lattice Liouville Bethe equations are mapped to the corresponding equations for
+the spin 1/2 XXZ chain. The well developed theory of finite size corrections in
+spin chains is used to deduce the conformal properties of the lattice Liouville
+Bethe states. The unitary series of conformal field theories emerge for
+Liouville couplings of the form $\gam = \pi\frac{\nu}{\nu+1}$, corresponding to
+root of unity XXZ anisotropies. The Bethe states give the full spectrum of the
+corresponding unitary conformal field theory, with the primary states in the
+\Kac table parameterized by a string length $K$, and the remnant of the chain
+length mod $(\nu+1)$.
+","[{""version"":""v1"",""created"":""Sat, 3 Jun 1995 22:18:36 GMT""}]","2009-10-28"
+"math/9506214","Doron Zeilberger","Doron Zeilberger (Temple University)","Self Avoiding Walks, the Language of Science, and Fibonacci Numbers","Plain TeX","J. Stat. Planning and Inference 54(1996), 135-138",,,"math.CO",,"  The Bordelaise philosophy, or rather a juvenile version of it, is used to
+enumerate self avoiding walks in a $[0,1] \times (- \infty, \infty)$.
+","[{""version"":""v1"",""created"":""Sat, 3 Jun 1995 19:19:49 GMT""}]","2008-02-03"
+"quant-ph/9506002","B. M. Birla Science Centre","B.G. Sidharth (Centre for Applicable Mathematics and Computer
+  Sciences, B.M. Birla Science Centre)","A NOTE ON DEGENERATE AND ANAMOLOUS BOSONS","LaTeX 4 pages",,,"BSC-CAMCS-95-05-2","quant-ph",,"  In this note it is shown that for a mono-energetic collection of Bosons, at a
+certain (non-zero) momentum or temperature, there is condensation while there
+is another momentum or temperature at which there is infinite dilution and
+below which the gas exhibits anomalous Fermionic behaviour.
+","[{""version"":""v1"",""created"":""Sun, 4 Jun 1995 13:34:11 GMT""}]","2007-05-23"

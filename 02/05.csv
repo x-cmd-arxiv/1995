@@ -1,0 +1,75 @@
+"adap-org/9502001",,"Jorge Berger","The Fight Against the Second Law of Thermodynamics","Latex, 44 pages, 7 figs upon request.","Physics Essays 7 (1994) 281-296",,,"adap-org astro-ph cond-mat nlin.AO",,"  After presenting possible motives for fighting against the second law of
+thermodynamics, several attempts to beat this law are analyzed. The second law
+wins, but an interesting interpretation of it emerges. This interpretation uses
+the notion of ``encoded order'' and claims that whether a system is or is not
+in thermodynamic equilibrium depends on the coordinates which the observer
+decides to measure. This interpretation may not be new, but most present day
+physicists seem to be unaware of it. The question of subjectivity of entropy
+and the connection between the present interpretation and ``algorithmic
+randomness'' are addressed.
+  Key words: Maxwell's demon, perpetuum mobile, subjectivity, entropy,
+H-theorem, randomness, complexity, information.
+","[{""version"":""v1"",""created"":""Sun, 5 Feb 1995 07:10:51 GMT""},{""version"":""v2"",""created"":""Wed, 15 Jan 1997 10:24:47 GMT""}]","2015-06-30"
+"chao-dyn/9502003","Ussishkin Iddo","Barbara Dietz, Jean-Pierre Eckmann, Claude-Alain Pillet, Uzy Smilansky
+  and Iddo Ussishkin","Inside-Outside Duality for Planar Billiards -- A Numerical Study","uuencoded tar-compressed (using uufiles) postscript file, 15 pages",,"10.1103/PhysRevE.51.4222",,"chao-dyn nlin.CD",,"  This paper reports the results of extensive numerical studies related to
+spectral properties of the Laplacian and the scattering matrix for planar
+domains (called billiards). There is a close connection between eigenvalues of
+the billiard Laplacian and the scattering phases, basically that every energy
+at which a scattering phase is $2\pi$ corresponds to an eigenenergy of the
+Laplacian. Interesting phenomena appear when the shape of the domain does not
+allow an extension of the eigenfunction to the exterior. In this paper these
+phenomena are studied and illustrated from several points of view.
+","[{""version"":""v1"",""created"":""Sun, 5 Feb 1995 07:10:49 GMT""}]","2009-10-28"
+"dg-ga/9502002","Yoshinari Inoue","Yoshinari Inoue","The inverse Penrose transform on Riemannian twistor spaces","AMS-LaTeX v1.1, 19 pages, to appear in J. Geom. Phys. I quoted
+  Woodhouse's theorem and deleted the proofs in section 4",,,,"dg-ga math.DG",,"  With respect to the Dirac operator and the conformally invariant Laplacian,
+an explicit description of the inverse Penrose transform on Riemannian twistor
+spaces is given. A Dolbeault representative of cohomology on the twistor space
+is constructed from a solution of the field equation on the base manifold.
+","[{""version"":""v1"",""created"":""Sun, 5 Feb 1995 10:10:14 GMT""},{""version"":""v2"",""created"":""Tue, 2 Jul 1996 11:50:07 GMT""}]","2008-02-03"
+"hep-ph/9502224",,"M.B. Voloshin","Precision determination of $\alpha_s$ and $m_b$ from QCD sum rules for
+  $b \overline b$.","15 pages + 4 figures in LaTeX (FEYNMAN macros used for Fig.3)","Int.J.Mod.Phys. A10 (1995) 2865-2880","10.1142/S0217751X95001364","TPI-MINN-95/1-T, UMN-TH-1326-95","hep-ph",,"  The QCD sum rules for moments of production cross section of $b \overline b$
+states in $e^+\,e^-$ annihilation are extremely sensitive to the values of
+$m_b$ and $\alpha_s$ for moments of large order $n$. This enables one to
+extract from the existing data on $\Upsilon$ resonances the values of these
+parameters with a high precision by using a non-relativistic expansion in
+$1/n$. It is found that the sum rules fit the data with $\alpha_s^{\overline
+{MS}} (1 \, GeV) = 0.336 \pm 0.011$ and $m_b=4827 \pm 7 MeV$, where the
+estimate of the errors includes the theoretical uncertainty due to subleading
+in $1/n$ terms and the experimental uncertainty of the $e^+\,e^-$ annihilation
+cross section above the $B \overline B$ threshold. The found value of
+$\alpha_s$, when evolved in two loops up to the $Z$ mass, gives
+$\alpha_s^{\overline {MS}} (M_Z) = 0.109 \pm 0.001$. The $b$ quark mass $m_b$
+corresponds to the `on shell' value appropriate for one-loop perturbative
+calculations.
+","[{""version"":""v1"",""created"":""Sat, 4 Feb 1995 18:41:28 GMT""}]","2015-06-25"
+"nucl-th/9502013","Satoshi Nakamura","S. Nakamura, K. Muto, M. Oka, S. Takeuchi and T. Oda","Up-Down Quark Mass Difference Effect in Nuclear Many-Body Systems",,"Phys.Rev.Lett. 76 (1996) 881-884","10.1103/PhysRevLett.76.881",,"nucl-th",,"  A charge-symmetry-breaking nucleon-nucleon force due to the up-down quark
+mass difference is evaluated in the quark cluster model. It is applied to the
+shell-model calculation for the isovector mass shifts of isospin multiplets and
+the isospin-mixing matrix elements in 1s0d-shell nuclei. We find that the
+contribution of the quark mass difference effect is large and agrees with
+experiment. This contribution may explain the Okamoto-Nolen-Schiffer anomaly,
+alternatively to the meson-mixing contribution, which is recently predicted to
+be reduced by the large off-shell correction.
+","[{""version"":""v1"",""created"":""Sun, 5 Feb 1995 12:55:03 GMT""}]","2016-09-08"
+"quant-ph/9502004","Lev Vaidman","L. Vaidman","IS THERE A CLASSICAL ANALOG OF A QUANTUM TIME-TRANSLATION MACHINE?","7 pages, LaTeX",,"10.1103/PhysRevA.52.4297","TAUP 2233-95","quant-ph",,"  In a recent article [D. Suter, Phys. Rev. {\bf A 51}, 45 (1995)] Suter has
+claimed to present an optical implementation of the quantum time-translation
+machine which ``shows all the features that the general concept predicts and
+also allows, besides the quantum mechanical, a classical description.'' It is
+argued that the experiment proposed and performed by Suter does not have the
+features of the quantum time-translation machine and that the latter has no
+classical analog.
+","[{""version"":""v1"",""created"":""Sun, 5 Feb 1995 09:55:58 GMT""}]","2016-09-08"
+"quant-ph/9502005","Sandu Popescu","Sandu Popescu","Bell's inequalities and density matrices. Revealing hidden nonlocality.","Plain TeX, 12 pg.","Phys.Rev.Lett.74:2619-2622,1995","10.1103/PhysRevLett.74.2619",,"quant-ph",,"  As is well known, quantum mechanical behavior cannot, in general, be
+simulated by a local hidden variables model. Most -if not all- the proofs of
+this incompatibility refer to the correlations which arise when each of two (or
+more) systems separated in space is subjected to a single ideal measurement.
+This setting is good enough to show contradictions between local hidden
+variables models and quantum mechanics in the case of pure states. However, as
+shown here, it is not powerful enough in the case of mixtures. This is
+illustrated by an example. In this example, the correlations which arise when
+each of two systems separated in space is subjected to a single ideal
+measurement are classical; only when each system is subjected to a {\it
+sequence} of ideal measurements non-classical correlations are obtained. We
+also ask whether there are situations for which even this last procedure is not
+powerful enough and non-ideal measurements have to be considered as well.
+","[{""version"":""v1"",""created"":""Sun, 5 Feb 1995 12:43:55 GMT""}]","2016-09-08"

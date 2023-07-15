@@ -1,0 +1,278 @@
+"astro-ph/9505062","Stacy McGaugh","S.S. McGaugh, G.D. Bothun, J.M. Schombert","Galaxy Selection and the Surface Brightness Distribution","uuencoded compressed, tarred postscript. The preprint is also
+  available at http://www.ast.cam.ac.uk/preprint/PrePrint.html","Astron.J. 110 (1995) 573","10.1086/117543","CAP-9503008","astro-ph",,"  Optical surveys for galaxies are biased against the inclusion of low surface
+brightness (LSB) galaxies. Disney (1976) suggested that the constancy of disk
+central surface brightness noticed by Freeman (1970) was not a physical result,
+but instead was an artifact of sample selection. Since LSB galaxies do exist,
+the pertinent and still controversial issue is if these newly discovered
+galaxies constitute a significant percentage of the general galaxy population.
+In this paper, we address this issue by determining the space density of
+galaxies as a function of disk central surface brightness. Using the physically
+reasonable assumption (which is motivated by the data) that central surface
+brightness is independent of disk scale length, we arrive at a distribution
+which is roughly flat (i.e. approximately equal numbers of galaxies at each
+surface brightness) faintwards of the Freeman (1970) value. Brightwards of
+this, we find a sharp decline in the distribution which is analogous to the
+turn down in the luminosity function at $L^*$. An intrinsically sharply peaked
+``Freeman Law'' distribution can be completely ruled out, and no Gaussian
+distribution can fit the data. Low surface brightness galaxies (those with
+central surface brightnesses fainter than $22~B\sb$) comprise $\gtrsim 1/2$ the
+general galaxy population, so a representative sample of galaxies at $z = 0$
+does not really exist at present since past surveys have been insensitive to
+this component of the general galaxy population.
+","[{""version"":""v1"",""created"":""Sun, 14 May 1995 16:30:35 GMT""}]","2009-10-28"
+"astro-ph/9505064","Il Greco","Manolis Plionis (SISSA,Trieste, Italy)","THE VALUE OF \beta FROM THE LG AND ABELL CLUSTER PECULIAR VELOCITIES","4 pages self unpacking compressed postscript file containing figures.
+  Contribution to the XVth MORIOND astrophysics meeting (March 1995)",,,,"astro-ph",,"  Comparing the observed peculiar velocities of the Local Group and of nearby
+Abell clusters of galaxies with those predicted using linear perturbation
+theory and the 3-D reconstruction algorithm of Branchini \& Plionis (1995) the
+value of $\beta$ can be estimated. I show that the anisotropy that causes the
+LG motion does not only extend to very large depths ($\sim 160 \; h^{-1}$ Mpc)
+but it is also very coherent, which suggests that the value of $\beta \approx
+0.21 \pm 0.015$, obtained from the LG velocity, should not be significantly
+affected by cosmic variance. Comparing the Abell cluster and QDOT galaxy
+dipoles in real space their relative biasing factor are estimated to be
+$b_{cI}\approx 3.5\pm0.5$. Finally, using a suitable set of available cluster
+peculiar velocities I obtain a somewhat lower value of $\beta\approx 0.15 -
+0.17$ but with a large uncertainty ($\gtrsim 0.1$) when weighted by the large
+observational errors.
+","[{""version"":""v1"",""created"":""Mon, 15 May 1995 13:28:04 GMT""}]","2007-05-23"
+"cmp-lg/9505030","Roger Evans","Roger Evans (University of Brighton), Gerald Gazdar, David Weir
+  (University of Sussex)","Encoding Lexicalized Tree Adjoining Grammars with a Nonmonotonic
+  Inheritance Hierarchy","Latex source, needs aclap.sty, 8 pages","Proceedings of ACL95",,,"cmp-lg cs.CL",,"  This paper shows how DATR, a widely used formal language for lexical
+knowledge representation, can be used to define an LTAG lexicon as an
+inheritance hierarchy with internal lexical rules. A bottom-up featural
+encoding is used for LTAG trees and this allows lexical rules to be implemented
+as covariation constraints within feature structures. Such an approach
+eliminates the considerable redundancy otherwise associated with an LTAG
+lexicon.
+","[{""version"":""v1"",""created"":""Mon, 15 May 1995 14:56:02 GMT""}]","2008-02-03"
+"cond-mat/9505059","Peter Kopietz","Peter Kopietz","Why normal electrons with sufficiently singular interactions do not have
+  a sharp Fermi surface","It is shown that not only gauge fields in $d < 3$, but also
+  sufficiently singular density-density interactions lead to analytic momentum
+  distributions. To appear as letter to the editor in J. Phys. A: Math. Gen","J. Phys. A: Math. Gen. 28, L571 (1995)","10.1088/0305-4470/28/22/002",,"cond-mat",,"  We use a bosonization approach to show that the momentum distribution
+$n_{\bf{k}}$ of normal Fermi systems with sufficiently singular interactions is
+analytic in the vicinity of the non-interacting Fermi surface. These include
+singular density-density interactions that diverge in $d$ dimensions stronger
+than $ | {\bf{q}} |^{- 2 (d -1)}$ for vanishing momentum transfer ${\bf{q}}$,
+but also fermions that are coupled to transverse gauge fields in $ d < 3$.
+","[{""version"":""v1"",""created"":""Sun, 14 May 1995 17:18:01 GMT""},{""version"":""v2"",""created"":""Tue, 31 Oct 1995 12:03:02 GMT""}]","2009-10-28"
+"cond-mat/9505060","Klaus Ziegler","K. Ziegler","Two-Dimensional Electrons in a Strong Magnetic Field with Disorder:
+  Divergence of the Localization Length","10 pages, RevTeX, no figures",,"10.1209/0295-5075/31/9/008",,"cond-mat",,"  Electrons on a square lattice with half a flux quantum per plaquette are
+considered. An effective description for the current loops is given by a
+two-dimensional Dirac theory with random mass. It is shown that the
+conductivity and the localization length can be calculated from a product of
+Dirac Green's functions with the {\it same} frequency. This implies that the
+delocalization of electrons in a magnetic field is due to a critical point in a
+phase with a spontaneously broken discrete symmetry. The estimation of the
+localization length is performed for a generalized model with $N$ fermion
+levels using a $1/N$--expansion and the Schwarz inequality. An argument for the
+existence of two Hall transition points is given in terms of percolation
+theory.
+","[{""version"":""v1"",""created"":""Mon, 15 May 1995 07:45:57 GMT""}]","2009-10-28"
+"cond-mat/9505061","E. Daniel Moore","E.D. Moore","Area and perimeter distribution of a surface in two dimensions","RevTeX v3.0. 6 pages plus 5 figures. These are uuencoded and
+  compressed postscript, enclosed in a self-unpacking cshell script",,,"OUTP-95235","cond-mat",,"  We consider the number of configurations of a surface in two dimensions that
+has a prescribed length and encloses a prescribed perimeter with respect to a
+baseline. An approximate analytical treatment in a semi--continuum compares
+favourably with results from an exact algorithm for the discrete lattice. This
+work is relevant for finding the entropy associated with macroscopic
+configurations of such systems as domain growth problems,
+evaporation--deposition problems, membrane physics, or polymer physics.
+","[{""version"":""v1"",""created"":""Mon, 15 May 1995 11:32:42 GMT""},{""version"":""v2"",""created"":""Thu, 18 May 1995 14:13:40 GMT""}]","2008-02-03"
+"cond-mat/9505062","Sid Redner","S. Redner and P. L. Krapivsky (Boston University)","Life and Death at the Edge of a Windy Cliff","13 pages, plain TeX, 5 figures available upon request to SR
+  (submitted to J. Stat. Phys.)","J. Stat. Phys. 82, 999 (1996).","10.1007/BF02179799",,"cond-mat",,"  The survival probability of a particle diffusing in the two dimensional
+domain $x>0$ near a ``windy cliff'' at $x=0$ is investigated. The particle dies
+upon reaching the edge of the cliff. In addition to diffusion, the particle is
+influenced by a steady ``wind shear'' with velocity $\vec v(x,y)=v\,{\rm
+sign}(y)\,\hat x$, \ie, no average bias either toward or away from the cliff.
+For this semi-infinite system, the particle survival probability decays with
+time as $t^{-1/4}$, compared to $t^{-1/2}$ in the absence of wind. Scaling
+descriptions are developed to elucidate this behavior, as well as the survival
+probability within a semi-infinite strip of finite width $|y|<w$ with particle
+absorption at $x=0$. The behavior in the strip geometry can be described in
+terms of Taylor diffusion, an approach which accounts for the crossover to the
+$t^{-1/4}$ decay when the width of the strip diverges. Supporting numerical
+simulations of our analytical results are presented.
+","[{""version"":""v1"",""created"":""Mon, 15 May 1995 12:54:01 GMT""}]","2015-06-25"
+"dg-ga/9505002","Dan Freed","Daniel S. Freed","Determinant Line Bundles Revisited","10 pages + 2 figures. This paper is written using AMSTeX 2.1, which
+  can be obtained via ftp from the American Mathematical Society (instructions
+  included)",,,,"dg-ga math.DG",,"  This is a note for the conference proceedings Topological and Geometrical
+Problems related to Quantum Field Theory. We summarize our joint work with Dai
+about eta invariants on manifolds with boundary. Then we apply these results to
+prove the curvature and holonomy formulas for the natural connection on the
+determinant line bundle of a family of Dirac operators. These were originally
+proved by Bismut and the author--the proofs here are much simpler.
+","[{""version"":""v1"",""created"":""Mon, 15 May 1995 15:47:43 GMT""}]","2008-02-03"
+"gr-qc/9505017","Alan Rendall","Alan D. Rendall","The initial singularity in solutions of the Einstein-Vlasov system of
+  Bianchi type I","16 pages","J.Math.Phys.37:438-451,1996","10.1063/1.531400",,"gr-qc",,"  The dynamics of solutions of the Einstein-Vlasov system with Bianchi I
+symmetry is discussed in the case of massive or massless particles. It is shown
+that in the case of massive particles the solutions are asymptotic to isotropic
+dust solutions at late times. The initial singularity is more difficult to
+analyse. It is shown that the asymptotic behaviour there must be one of a small
+set of possibilities but it is not clear whether all of these possibilities are
+realized. One solution is exhibited in the case of massless particles which
+behaves quite differently near the singularity from any Bianchi I solution with
+perfect fluid as matter model. In particular the matter is not dynamically
+negligeable near the singularity for this solution.
+","[{""version"":""v1"",""created"":""Mon, 15 May 1995 14:55:15 GMT""}]","2011-07-19"
+"gr-qc/9505020","Bronnikov Kirill Alexandrovich","K.A.Bronnikov","ON SPHERICALLY SYMMETRIC SOLUTIONS IN D-DIMENSIONAL DILATON GRAVITY","13 pages, latex, no figures. To appear in Grav.& Cosmology journ","Grav.Cosmol. 1 (1995) 67-78",,"RGS-VNIIMS-001/95","gr-qc",,"  Exact static, spherically symmetric solutions to the Einstein-Abelian
+gauge-dilaton equations, in $D$-dimensional gravity with a chain of $n$
+Ricci-flat internal spaces are considered, with the gauge field potential
+having three nonzero components: the temporal, Coulomb-like one, the one
+pointing to one of the extra dimensions, and the one responsible for a radial
+magnetic field. For dilaton coupling implied by string theory an
+$(n+5)$-parametric family of exact solutions is obtained, while for other
+dilaton couplings only $(n+3)$-parametric ones. The geometric properties and
+special cases of the solutions are discussed, in particular, those when there
+are horizons in the space-time. Two types of horizons are distinguished: the
+conventional black-hole (BH) ones and those at which the physical section of
+the space-time changes its signature ({\it T-horizons}). Two theorems are
+proved, one fixing the BH and T-horizon existence conditions, the other
+discarding the possibility of a regular center. Different conformal gauges are
+used to characterize the system from the $D$-dimensional and 4-dimensional
+viewpoints.
+","[{""version"":""v1"",""created"":""Mon, 15 May 1995 07:38:41 GMT""},{""version"":""v2"",""created"":""Wed, 17 May 1995 09:39:42 GMT""},{""version"":""v3"",""created"":""Thu, 18 May 1995 12:24:03 GMT""}]","2008-02-03"
+"gr-qc/9505021","Bronnikov Kirill Alexandrovich","K.A. Bronnikov and V.N. Melnikov","VACUUM STATIC, AXIALLY SYMMETRIC FIELDS IN D-DIMENSIONAL GRAVITY","6 pages, Latex, 1 figure (inside the Latex file). To appear in
+  Gravitation and Cosmology journal","Grav.Cosmol. 1 (1995) 155-159",,"RGS-VNIIMS-003/95","gr-qc",,"  Vacuum static, axially symmetric space-times in $D$-dimensional general
+relativity with a Ricci-flat internal space are discussed. It is shown, in
+particular, that some of the monopole-type solutions are free of curvature
+singularities and their source can be a disk membrane bounded by a ring with a
+string or branching type singularity. Another possibility is a wormhole
+configuration where a particle can penetrate to another spatial infinity by
+passing through a ring with a string or branching type singularity. The results
+apply, in particular, to vacuum and scalar-vacuum configurations in
+conventional general relativity.
+","[{""version"":""v1"",""created"":""Mon, 15 May 1995 07:41:26 GMT""}]","2007-05-23"
+"hep-ph/9505303","Thomas Teubner","J.H. Kuehn","Tau Polarimetry with Multi Meson States","4 pages, LaTex. The complete paper is also available via anonymous
+  ftp at ftp://ttpux2.physik.uni-karlsruhe.de/ , or via www at
+  http://ttpux2.physik.uni-karlsruhe.de/cgi-bin/preprints/","Phys.Rev. D52 (1995) 3128-3129","10.1103/PhysRevD.52.3128","TTP95-21","hep-ph",,"  It is demonstrated that the analyzing power of multi-meson final states in
+semileptonic $\tau$ decays with respect to the $\tau$ spin is equal and maximal
+for all decay modes.
+","[{""version"":""v1"",""created"":""Sun, 14 May 1995 17:28:54 GMT""}]","2009-10-28"
+"hep-ph/9505304",,"P.H. Chankowski, S. Pokorski","Precision tests of the MSSM","10 pages, LaTEX, 7 figures (not included) may be obtained from
+  chank@fuw.edu.pl upon request. Modified version of the plenary talk given by
+  S. Pokorski at the ``Beyond the Standard Model IV'', Lake Tahoe, CA, December
+  1994","Phys.Lett. B366 (1996) 188-198","10.1016/0370-2693(95)01337-7","IFT-UW--95/5","hep-ph",,"  We present the results of a first global fit to the electroweak observables
+in the MSSM. The best fit selects either very low or very large values of
+~$\tan\beta$ ~and, correspondingly, chargino (higgsino--like) and stop or the
+~$CP-$odd Higgs boson are within the reach of LEP 2. Moreover, the best fit
+gives ~ $\alpha_s(M_Z)=0.118^{+0.005}_{-0.010}$, ~which is lower than the one
+obtained from the SM fits. The overall fit is excellent ~ ($\chi^2=7.2$ ~for 15
+d.o.f. as compared to ~$\chi^2=11$ ~in the SM). Those results follow from the
+fact that in the MSSM one can increase the value of ~
+$R_b\equiv\Gamma_{Z^0\to\bar bb}/\Gamma_{Z^0\to hadrons}$ ~ {\it without}
+modyfying the SM predictions for other observables.
+","[{""version"":""v1"",""created"":""Mon, 15 May 1995 11:54:00 GMT""}]","2009-10-28"
+"hep-ph/9505305","Mariana Kirchbach","R. Dahm (University Mainz, Germany) and M. Kirchbach (TH Darmstadt,
+  Germany)","Linear Wave Equations and Effective Lagrangians for Wigner
+  Supermultiplets","16 pages, LaTex","Int.J.Mod.Phys.A10:4225-4240,1995","10.1142/S0217751X95001960","MKPH-T-94-14","hep-ph",,"  The relevance of the contracted SU(4) group as a symmetry group of the pion
+nucleon scattering amplitudes in the large $N_c$ limit of QCD raises the
+problem on the construction of effective Lagrangians for SU(4) supermultiplets.
+In the present study we suggest effective Lagrangians for selfconjugate
+representations of SU(4) in exploiting isomorphism between so(6) and ist
+universal covering su(4). The model can be viewed as an extension of the linear
+$\sigma$ model with SO(6) symmetry in place of SO(4) and generalizes the
+concept of the linear wave equations for particles with arbitrary spin. We show
+that the vector representation of SU(4) reduces on the SO(4) level to a
+complexified quaternion. Its real part gives rise to the standard linear
+$\sigma$ model with a hedgehog configuration for the pion field, whereas the
+imaginary part describes vector meson degrees of freedom via purely transversal
+$\rho$ mesons for which a helical field configuration is predicted. As a
+minimal model, baryonic states are suggested to appear as solitons of that
+quaternion.
+","[{""version"":""v1"",""created"":""Mon, 15 May 1995 13:35:27 GMT""}]","2011-08-17"
+"hep-ph/9505306","Bruno Ehrnsperger","B. Ehrnsperger and A. Sch\""afer","A model for the $Q^2$ dependence of polarized structure functions","18 pages and 11 figures as uudecoded ps files","Phys.Rev. D52 (1995) 2709-2716","10.1103/PhysRevD.52.2709","UFTP 370/1994","hep-ph",,"  We present an update of a phenomenological model for the spin dependent
+structure functions $g_1(x,Q^2)$ of the proton and neutron. This model is based
+on a broken SU(6) wavefunction parametrized by the unpolarized structure
+functions. The two free parameters of the model are choosen to fulfill the
+Bjorken and Ellis--Jaffe sum rules. The model respects isospin symmetry and has
+zero strange sea polarization. Using new values for $F/D$ from hyperon beta
+decay the resulting $Q^2$ dependent asymmetries $A_1$ are in perfect agreement
+with the existing data. Therefore we do not see any evidence for a ``spin
+crisis''. With two choices for $g_2$ the $Q^2$ dependence of $A_1(x,Q^2)$ and
+$A_2(x,Q^2)\sqrt{Q^2}/M$ is predicted and shown to be small for both cases.
+","[{""version"":""v1"",""created"":""Mon, 15 May 1995 13:53:00 GMT""}]","2009-10-28"
+"hep-ph/9505307","Anton K. Rebhan","Ulrike KRAEMMER, Anton K. REBHAN, Hermann SCHULZ","HOT SCALAR ELECTRODYNAMICS AS A TOY MODEL FOR HOT QCD","11 pages, LaTeX, uses epsf.sty, 1 uuencoded postscript figure",,"10.1142/9789812830296_0002","DESY 95-091, ITP-UH-17/95","hep-ph",,"  Hot scalar electrodynamics is adopted as a toy model for a hot gluon plasma
+to display some aspects of the compulsory resummation of hard thermal loops
+when next-to-leading order quantities at soft momentum scales are to be
+calculated. [Talk given by A.K.R. at a one-day meeting dedicated to the memory
+of Tanguy ALTHERR, held on November 4, 1994 at CERN, Geneva. To appear in a
+Gedenkschrift published by World Scientific.]
+","[{""version"":""v1"",""created"":""Mon, 15 May 1995 14:24:10 GMT""}]","2016-11-03"
+"hep-ph/9505308",,"P.H. Chankowski and S. Pokorski","Precision Tests of the MSSM","15 pages, LaTeX; 9 postscript figures in a separate uuencoded
+  Z-compressed file. New SLD result included in the fit. Two figures added","Phys.Lett. B356 (1995) 307-312","10.1016/0370-2693(95)00809-Y","MPI-PhT/95-49","hep-ph",,"  The LEP data and the measurement of $M_W$ confirm the electro weak symmetry
+breaking by the Higgs mechanism with (2--3)\% accuracy. For the Higgs boson
+mass, fits to the present data (without the SLD result) give
+$M_h=121^{+207}_{-118}$ GeV and $M_h<800$ GeV at 95\% C.L. We analyze those
+fits from the point of view of the impact of different measurements on the
+final result for $M_h$. All the relevant observables can be grouped into two
+categories: those which correlate $M_h$ with $m_t$ and those which constrain
+the range of $m_t$. Using this classification we discuss potential improvements
+in the limits on $M_h$, anticipating improvements in the precision of the data.
+Also the sensitivity of the limits on $M_h$ to the value of $\alpha_s(M_Z)$ is
+discussed in a toy model which reproduces all the results of the SM but the
+$Z^0\rightarrow\bar bb$ width is increased by hand so that $R_b=0.22$ and, in
+consequence, the fitted value of $\alpha_s(M_Z)\approx0.11$ (qualitatively
+similar situation occurs in the Minimal Supersymmetric Standard Model with
+light chargino and right--handed top squark).
+","[{""version"":""v1"",""created"":""Mon, 15 May 1995 14:40:38 GMT""},{""version"":""v2"",""created"":""Wed, 13 Sep 1995 14:39:12 GMT""}]","2009-10-28"
+"hep-th/9505077","Christian Schubert","Denny Fliegner, Peter Haberl, Michael G. Schmidt, Christian Schubert","Inverse Mass Expansions from Worldline Path Integrals - Higher Order
+  Coefficients and Ordering Problems","6 pages, standard LATEX, no figures",,,"HD-THEP-95-20","hep-th hep-ph",,"  Higher order coefficients of the inverse mass expansion of one--loop
+effective actions are obtained from a one--dimensional path integral
+representation. For the evaluation of the path integral with Wick contractions
+a suitable Green function has to be chosen. We consider the case of a massive
+scalar loop in the background of both a scalar potential and a (non--abelian)
+gauge field. For the pure scalar case the method yields the coefficients of the
+expansion in a minimal set of basis terms whereas complicated ordering problems
+arise in gauge theory. An appropriate reduction scheme is discussed.
+","[{""version"":""v1"",""created"":""Sun, 14 May 1995 23:02:16 GMT""}]","2007-05-23"
+"hep-th/9505083","Isao Miyawaki","Atsushi Nakayashiki and Yasuhiko Yamada","Crystalline Spinon Basis for RSOS Models","16 pages, latex, no figures, Comments are added in the discussion
+  section. Some references are added","Int. J. Mod. Phys. A11 (1996) 395","10.1142/S0217751X96000201",,"hep-th",,"  The crystalline spinon basis for the RSOS models associated with
+$\widehat{sl_2}$ is studied. This basis gives fermionic type character formulas
+for the branching coefficients of the coset $(\widehat{sl_2})_l \times
+(\widehat{sl_2})_N/(\widehat{sl_2})_{l+N}$. In addition the path description of
+the parafermion characters is found as a limit of the spinon description of the
+string functions.
+","[{""version"":""v1"",""created"":""Mon, 15 May 1995 06:16:26 GMT""},{""version"":""v2"",""created"":""Tue, 23 May 1995 07:30:03 GMT""}]","2009-10-28"
+"hep-th/9505084","H. Suzuki","Riccardo Guida, Kenichi Konishi and Hiroshi Suzuki","Improved Convergence Proof of the Delta Expansion and Order Dependent
+  Mappings","some bugs of uuencoded postscript figures are fixed","Annals Phys. 249 (1996) 109-145","10.1006/aphy.1996.0066","GEF-Th-4/1995; LPTHE Orsay-95/25; IU-MSTP/3","hep-th hep-ph quant-ph",,"  We improve and generalize in several accounts the recent rigorous proof of
+convergence of delta expansion - order dependent mappings (variational
+perturbation expansion) for the energy eigenvalues of anharmonic oscillator.
+For the single-well anharmonic oscillator the uniformity of convergence in
+$g\in[0,\infty]$ is proven. The convergence proof is extended also to complex
+values of $g$ lying on a wide domain of the Riemann surface of $E(g)$. Via the
+scaling relation \`a la Symanzik, this proves the convergence of delta
+expansion for the double well in the strong coupling regime (where the standard
+perturbation series is non Borel summable), as well as for the complex ``energy
+eigenvalues'' in certain metastable potentials. Sufficient conditions for the
+convergence of delta expansion are summarized in the form of three theorems,
+which should apply to a wide class of quantum mechanical and higher dimensional
+field theoretic systems.
+","[{""version"":""v1"",""created"":""Mon, 15 May 1995 07:25:47 GMT""},{""version"":""v2"",""created"":""Tue, 16 May 1995 11:08:31 GMT""}]","2009-10-28"
+"math/9505212","Shelah Office","Saka\'e Fuchino, Sabine Koppelberg, Saharon Shelah","A game on partial orderings",,"Topology Appl. 74 (1996), 141-148",,"Shelah [FKSh:556]","math.LO",,"  We study the determinacy of the game G_kappa (A) introduced in [FKSh:549] for
+uncountable regular kappa and several classes of partial orderings A. Among
+trees or Boolean algebras, we can always find an A such that G_kappa (A) is
+undetermined. For the class of linear orders, the existence of such A depends
+on the size of kappa^{< kappa}. In particular we obtain a characterization of
+kappa^{< kappa}= kappa in terms of determinacy of the game G_kappa (L) for
+linear orders L .
+","[{""version"":""v1"",""created"":""Mon, 15 May 1995 00:00:00 GMT""}]","2016-09-06"
+"math/9505215","Shelah Office","Martin Gilchrist, Saharon Shelah","Identities on cardinals less than aleph_omega",,"J. Symbolic Logic 61 (1996), 780--787",,"Shelah [GcSh:491]","math.LO",,"  Let kappa be an uncountable cardinal and the edges of a complete graph with
+kappa vertices be colored with aleph_0 colors. For kappa >2^{aleph_0} the
+Erd\H{o}s-Rado theorem implies that there is an infinite monochromatic
+subgraph. However, if kappa <= 2^{aleph_0}, then it may be impossible to find a
+monochromatic triangle. This paper is concerned with the latter situation. We
+consider the types of colorings of finite subgraphs that must occur when kappa
+<= 2^{aleph_0}. In particular, we are concerned with the case aleph_1 <= kappa
+<= aleph_omega
+","[{""version"":""v1"",""created"":""Mon, 15 May 1995 00:00:00 GMT""}]","2016-09-06"
+"math/9505216","Shelah Office","Peter Komjath, Saharon Shelah","Coloring finite subsets of uncountable sets",,"Proc. Amer. Math. Soc. 124 (1996), 3501-3505",,"Shelah [KoSh:516]","math.LO",,"  It is consistent for every (1 <= n< omega) that (2^omega = omega_n) and there
+is a function (F:[omega_n]^{< omega}-> omega) such that every finite set can be
+written at most (2^n-1) ways as the union of two distinct monocolored sets. If
+GCH holds, for every such coloring there is a finite set that can be written at
+least (sum^n_{i=1}{n+i choose n}{n choose i}) ways as the union of two sets
+with the same color.
+","[{""version"":""v1"",""created"":""Mon, 15 May 1995 00:00:00 GMT""}]","2016-09-06"
+"q-alg/9505011","Fronsdal","Christian Fronsdal","Cohomology of Quantum Groups","14 pages, plain Tech","Karpacz Winter School Proceedings, Feb. 1994",,,"q-alg math.QA",,"  Lecture notes. Introduction to the cohomology of algebras, Lie algebras, Lie
+bialgebras and quantum groups. Contains a new derivation of the classification
+of classical r-matrices in terms of deformation cohomology, and a calculation
+of the esoteric forms of quantum gl(N) by deformation theory.
+","[{""version"":""v1"",""created"":""Mon, 15 May 1995 08:10:17 GMT""}]","2014-05-27"

@@ -1,0 +1,226 @@
+"alg-geom/9510011","Pablo A. Gastesi","Indranil Biswas, Pablo Gastesi and Suresh Govindarajan","Parabolic Higgs bundles and Teichm\""uller spaces for punctured surfaces","AMSLaTeX v 2.09, 13 pages, DVI file available at
+  http://www.imsc.ernet.in/~pablo/","Trans.Am.Math.Soc. 349 (1997) 1551-1560",,"TIFR/TH/95-50","alg-geom hep-th math.AG",,"  In this paper we study the relation between parabolic Higgs bundles and
+irreducible representations of the fundamental group of punctured Riemann
+surfaces established by Simpson. We generalize a result of Hitchin, identifying
+those parabolic Higgs bundles that correspond to Fuchsian representations. We
+also study the Higgs bundles that give representations whose image is
+contained, after conjugation, in SL($k,\Bbb R$). We compute the real dimension
+of one of the components of this space of representations, which in the absence
+of punctures is the generalized Teichm\""uller space introduced by Hitchin, and
+which in the case of $k=2$ is the Teichm\""uller space of the Riemann surface.
+","[{""version"":""v1"",""created"":""Sat, 14 Oct 1995 18:35:25 GMT""}]","2007-07-31"
+"astro-ph/9510074","Chris Kochanek","C.S. Kochanek (Harvard-Smithsonian Center For Astrophysics)","A Technical Memorandum On Core Radii In Lens Statistics","6 pages, 3 figures, uuencoded compressed postscript Paper to appear
+  in ``Astrophysical Applications of Gravitational Lensing'' IAU Symposium 173,
+  eds. C.S. Kochanek \& J.N. Hewitt (Kluwer: Dordrecht) 13",,,,"astro-ph",,"  Quantitative estimates of lensing probabilities must be self-consistent. In
+particular, for asymptotically isothermal models: (1) using the $(3/2)^{1/2}$
+correction for the velocity dispersion overestimates the expected number of
+lenses by 150\% and their average separations by 50\%, thereby introducing
+large cosmological errors; (2) when a core radius is added to the SIS model,
+the velocity dispersion must be increased; and (3) cross sections and
+magnification bias cannot be separated when computing the lensing probability.
+When we self-consistently calculate the effects of finite core radii in flat
+cosmological models, we find that the cosmological limits are independent of
+the core radius.
+","[{""version"":""v1"",""created"":""Sun, 15 Oct 1995 14:00:53 GMT""}]","2007-05-23"
+"astro-ph/9510075","Chris Kochanek","C.S. Kochanek (Harvard-Smithsonian Center For Astrophysics)","Gravitational Lenses and the Structure of Galaxies","6 pages, 3 figures, uuencoded compressed postscript Paper to appear
+  in ``Astrophysical Applications of Gravitational Lensing'' IAU Symposium 173,
+  eds. C.S. Kochanek \& J.N. Hewitt (Kluwer: Dordrecht) 183","IAU Symp.173:177,1996",,,"astro-ph",,"  Nearly singular isothermal mass distributions with small core radii are
+consistent with stellar dynamics, lens statistics, and lens models as a model
+for E/S0 galaxies. Models like the de Vaucouleurs model with a constant
+mass-to-light ratio are not. While the isothermal distributions are probably an
+oversimplification, E/S0 galaxies (at least in projection) must have
+significant amounts of dark matter on scales of an effective radius.
+","[{""version"":""v1"",""created"":""Sun, 15 Oct 1995 14:08:53 GMT""}]","2011-04-15"
+"astro-ph/9510076","Chris Kochanek","C.S. Kochanek & G.B. Rybicki (Harvard-Smithsonian Center For
+  Astrophysics)","Deprojection of Axially Symmetric Objects","17 pages, 3 figures, uuencoded gzip compressed postscript Submitted
+  to MNRAS",,"10.1093/mnras/280.4.1257",,"astro-ph",,"  The deprojection of axisymmetric density distributions is generally
+indeterminate to within the addition of certain axisymmetric distributions
+(konus densities) that are invisible in projection. The known class of konus
+densities is expanded considerably here through the introduction of {\em
+semikonus functions}. These functions are closed with respect to multiplication
+in ordinary space, and the real part of an arbitrary polynomial of semikonus
+functions is a konus function. This property facilitates the construction of
+semikonus (and konus) functions with tailored properties, such as asymptotic
+forms. We also develop a simple technique for constructing several classes of
+konus distributions with arbitrary density profiles in the equatorial plane.
+","[{""version"":""v1"",""created"":""Sun, 15 Oct 1995 14:43:00 GMT""}]","2015-06-24"
+"astro-ph/9510077","Chris Kochanek","C.S. Kochanek (Harvard-Smithsonian Center For Astrophysics)","Is There A Cosmological Constant?","41 pages, 11 pages, uuencoded, gzip compressed postscript. Submitted
+  to the Astrophysical Journal","Astrophys.J. 466 (1996) 638","10.1086/177538",,"astro-ph",,"  We present limits on the cosmological constant from the statistics of
+gravitational lenses using newly completed quasar surveys, new lens data, and a
+range of lens models. The formal limit is $\lambda_0 < 0.66$ at 95\% confidence
+in flat cosmologies, including the statistical uncertainties in the number of
+lenses, galaxies, quasars, and the parameters relating galaxy luminosities to
+dynamical variables. The limit holds for either softened isothermal or de
+Vaucouleurs models of the lens galaxies, suggesting that the radial mass
+distribution in the lens galaxy is not a significant systematic uncertainty.
+The cosmological limits are unaffected by adding a small core radius to the
+isothermal lens models or by the luminosity of the lens galaxy. Inconsistent
+models of the effects of a core radius make significant errors in the
+cosmological constraints. Extinction in E/S0 galaxies can significantly reduce
+the limits on the cosmological constant, but changing the expected number of
+lenses by a factor of two requires a minimum of 100 times more dust than is
+observed locally in E/S0 galaxies. Rapid evolution of the lenses is the most
+promising means of evading these limits. However, a viable model must not only
+reduce the expected number of lenses but do so without significantly altering
+the average image separations, magnitudes, redshifts, and the relative
+properties of optically and radio selected lenses.
+","[{""version"":""v1"",""created"":""Sun, 15 Oct 1995 14:45:50 GMT""}]","2009-10-28"
+"cmp-lg/9510006","Malgorzata Stys","Malgorzata E. Stys (University of Cambridge), Stefan S. Zemke
+  (Linkoping University)","Incorporating Discourse Aspects in English -- Polish MT: Towards Robust
+  Implementation","8 pages, uuencoded and compressed postscript file (presented at
+  Recent Advances in NLP 95)",,,,"cmp-lg cs.CL",,"  The main aim of translation is an accurate transfer of meaning so that the
+result is not only grammatically and lexically correct but also communicatively
+adequate. This paper stresses the need for discourse analysis the aim of which
+is to preserve the communicative meaning in English--Polish machine
+translation. Unlike English, which is a positional language with word order
+grammatically determined, Polish displays a strong tendency to order
+constituents according to their degree of salience, so that the most
+informationally salient elements are placed towards the end of the clause
+regardless of their grammatical function. The Centering Theory developed for
+tracking down given information units in English and the Theory of Functional
+Sentence Perspective predicting informativeness of subsequent constituents
+provide theoretical background for this work. The notion of {\em center} is
+extended to accommodate not only for pronominalisation and exact reiteration
+but also for definiteness and other center pointing constructs. Center
+information is additionally graded and applicable to all primary constituents
+in a given utterance. This information is used to order the post-transfer
+constituents correctly, relying on statistical regularities and some syntactic
+clues.
+","[{""version"":""v1"",""created"":""Sun, 15 Oct 1995 15:20:46 GMT""}]","2008-02-03"
+"cond-mat/9510028","Jose Riera","J. Riera, S. Koval, D. Poilblanc and F. Pantigny","Pair breaking by impurities in the two-dimensional t-J model","4 pages, Revtex v3.0, 4 figures uuencoded, ask for hardcopies at
+  jose@ifir.edu.ar A missleading statement in the introduction was corrected",,"10.1103/PhysRevB.54.7441",,"cond-mat",,"  Pair breaking mechanisms by impurities are investigated in the
+two-dimensional t-J model by exact diagonalization techniques. Analysis of
+binding energies, pairing correlations, dynamical spin and pair
+susceptibilities shows that non-magnetic impurities are more effective in
+suppressing pairing than magnetic ones in agreement with experimental studies
+of Zn- and Ni- substituted High-Tc superconductors.
+","[{""version"":""v1"",""created"":""Sun, 15 Oct 1995 12:04:22 GMT""},{""version"":""v2"",""created"":""Wed, 18 Oct 1995 11:44:20 GMT""}]","2009-10-28"
+"hep-ph/9510292","Bednyakov Vadim","V.A.Bednyakov (JINR,Dubna), H.V.Klapdor-Kleingrothaus
+  (MPIK,Heidelberg), S.G.Kovalenko (JINR,Dubna)","Expectations for Supersymmetric Dark Matter Searches Underground","17 pages, 8 Postscript figures, uses worldsci.sty Talk at the
+  Workshop on Double Beta Decay and Related Topics, Trento, Italy, 1995 (to
+  appear in the Workshop Proceedings)",,,,"hep-ph",,"  We consider the neutralino as a dominant Dark Matter particle in the galactic
+halo and investigate some general issues of direct Dark Matter searches via
+elastic neutralino-nucleus scattering. On the basis of conventional assumptions
+about the nuclear and nucleon structure we analyse constraints on SUSY model
+parameter space accessible by the direct Dark Matter searches. This analysis
+shows that Dark Matter detectors fall into the THREE different categories with
+respect to their sensitivity to different groups of the SUSY model parameters.
+We calculate the event rate for various experimentally interesting isotopes
+within the Minimal Supersymmetric Standard Model (MSSM) taking into account the
+known accelerator and cosmological constraints on the MSSM parameter space. We
+investigate the role of nuclear spin in elastic neutralino - nucleus
+scattering. It is found that the contribution of the spin-dependent interaction
+to this process is subdominant for nuclei with atomic weights A > 50.
+","[{""version"":""v1"",""created"":""Sat, 14 Oct 1995 16:03:11 GMT""}]","2007-05-23"
+"hep-ph/9510293","Ramona Vogt","R. Vogt (Lawrence Berkeley National Laboratory and University of
+  California at Davis)","Phenomenology of Charm and Bottom Production","18 pages, 10 Postscript figures, compressed and uuencoded, included
+  in a separate file or available from the author. To be published in Z. Phys.
+  C","Z.Phys.C71:475-482,1996","10.1007/s002880050193","LBL-37105","hep-ph",,"  We discuss the renormalization and factorization scale dependence of charm
+and bottom production both at fixed-target energies and at present and future
+colliders. We investigate whether distributions calculable at leading order can
+be extrapolated to next-to-leading order by a constant multiplicative factor.
+","[{""version"":""v1"",""created"":""Sat, 14 Oct 1995 16:56:34 GMT""}]","2011-01-25"
+"hep-ph/9510294","A. Khodjamirian","A. Khodjamirian and R. R\""uckl","B Meson Form Factors and Exclusive Decays","14 pages, Latex, epsf.sty, 3 uuencoded .ps figures; invited talk
+  presented by R. R\""uckl at the Workshop `Beauty 95', Oxford, July 9-14,1995,
+  to appear in the proceedings","Nucl.Instrum.Meth. A368 (1995) 28-35","10.1016/0168-9002(95)00999-X","MPI-PhT/95-97, LMU 18/95","hep-ph",,"  We present results for the $B \rightarrow \pi$ and $D\rightarrow \pi$ form
+factors derived from QCD sum rules on the light-cone. Our predictions are
+compared with experiment and used to extract the quark mixing parameter
+$|V_{ub}|$ from a recent CLEO measurement of $B \ra \pi l^+ \nu$. Furthermore,
+we discuss the factorization approximation for exclusive nonleptonic matrix
+elements, and describe a first QCD estimate of the nonfactorizable contribution
+to the amplitude of $B \rightarrow J/\psi K $.
+","[{""version"":""v1"",""created"":""Sat, 14 Oct 1995 20:10:29 GMT""}]","2009-10-28"
+"hep-ph/9510295","Ina Sarcevic","Raj Gandhi, Chris Quigg, M. H. Reno and Ina Sarcevic","Small-x Parton Densities from HERA and the Ultra-High Energy
+  Neutrino-Nucleon Cross Sections","Talk presented by I. Sarcevic at the VIth Blois Workshop on Fronties
+  in Strong Interactions, 5 pages, 1 fig (available on request)",,,"University of Arizona preprint, AZPH-TH/95-17","hep-ph astro-ph",,"  In light of recent measurements of the nucleon structure function in the
+small-$x$ deep-inelastic regime at HERA and the consequently improved
+theoretical understanding of the quark distributions in this range of parton
+fractional momentum, we present new results for the neutrino-nucleon cross
+section at ultra high energies, up to $ E_{\nu} \sim 10^{21}$ eV. The results
+are relevant to deep underground muon detectors looking for such neutrinos. For
+$\simeq 10^{20}$ eV neutrinos, our cross sections are about a factor of $4$ to
+$10$ times larger than the previously reported results by Reno, Quigg and
+Walker. We discuss implications of this new neutrino-nucleon cross section for
+a variety of current and future neutrino detectors.
+","[{""version"":""v1"",""created"":""Sat, 14 Oct 1995 19:53:56 GMT""}]","2007-05-23"
+"hep-ph/9510296",,"Thomas G. Rizzo","Like-Sign Charged Higgs Boson Production in $e^-e^-$ Collisions at the
+  NLC","8 pages, uuencoded compressed postscript file. To obtain a copy of
+  this paper send e-mail to techpub@slac.stanford.edu","Int.J.Mod.Phys.A11:1563-1570,1996","10.1142/S0217751X96000742","SLAC-PUB-95-7031","hep-ph",,"  We consider the production of a pair of like-sign charged Higgs bosons in
+$e^-e^-$ collisions at the NLC within the context of several electroweak models
+with extended symmetry breaking sectors. We find that the rate for this
+process, which proceeds through $W^-W^-$ fusion, is a very sensitive probe of
+the nature of these extended Higgs sectors and that the corresponding cross
+sections can vary by as much as several orders of magnitude at NLC energies.
+(Talk presented at the Santa Cruz Workshop on $e^-e^-$ Physics at the NLC,
+University of California, Santa Cruz, September 4-5, 1995.)
+","[{""version"":""v1"",""created"":""Sat, 14 Oct 1995 21:18:37 GMT""}]","2011-04-15"
+"hep-ph/9510297","Norair Ter-Isaakian","N.L. Ter-Isaakyan","On Deuteron Spin Dependent Structure Function $ g_{2}(x)$ in
+  Relativistic Model of Deuteron","9 pages, uuencoded postcript file with two figures","Phys. Lett. B381 (1996) 331","10.1016/0370-2693(96)00627-2",,"hep-ph",,"  The spin dependent deuteron structure functions are investigated in the
+relativistic model of deuteron. It is shown that the deuteron structure
+function $g_{2}(X)$ can be considered properly only in the infinite momentum
+frame where the virtual photon has pure transverse components
+($q_{0}=-q_{3}\rightarrow 0$ at $ P\rightarrow \infty $), whereas in the
+conventional Breit frame the impulse approximation for $g_{2}(X)$ may be
+violated due to $q\bar{q}$ pair creation by the virtual photon. It is shown
+that due to relativistic effects the deuteron structure function $g_{2}(X)$ has
+a nontrivial contribution determined by first derivative of the nucleon
+structure function $g_{1}(x)$. Such contribution is small but it increases when
+$X \rightarrow 1$. It may achieve about 10 \% at $ X \sim 0.75$ and could be
+essentially larger for the transverse structure function $g_{\perp}(X).$
+","[{""version"":""v1"",""created"":""Sun, 15 Oct 1995 08:46:29 GMT""}]","2009-10-28"
+"hep-th/9510093","Anamaria Font","G. Aldazabal, L.E. Ibanez, A. Font and F. Quevedo","Chains of N=2, D=4 heterotic/type II duals","Latex, 21 pages, 2 tables","Nucl.Phys.B461:85-100,1996","10.1016/0550-3213(95)00654-0","CERN-TH/95-270, FTUAM-95/38, RU-95-65, UTTG-17-95","hep-th",,"  We report on a search for $N=2$ heterotic strings that are dual candidates of
+type II compactifications on Calabi-Yau threefolds described as $K3$
+fibrations. We find many new heterotic duals by using standard orbifold
+techniques. The associated type II compactifications fall into chains in which
+the proposed duals are heterotic compactifications related one another by a
+sequential Higgs mechanism. This breaking in the heterotic side typically
+involves the sequence $SU(4)\rightarrow SU(3)\rightarrow $ $SU(2)\rightarrow
+0$, while in the type II side the weights of the complex hypersurfaces and the
+structure of the $K3$ quotient singularities also follow specific patterns.
+","[{""version"":""v1"",""created"":""Sat, 14 Oct 1995 22:40:18 GMT""}]","2014-11-18"
+"hep-th/9510094","Constantin Bachas","C.Bachas, C.Fabre and T.Yanagida","Natural gauge-coupling unification at the string scale","5 pages, LaTeX file. Minor modifications, final version to appear in
+  Physics Letters B","Phys.Lett. B370 (1996) 49-51","10.1016/0370-2693(95)01561-2","NSF-ITP-95-129 and CPTH-S379.1095","hep-th hep-ph",,"  We argue that moduli in the adjoint representation of the standard- model
+gauge group are a natural feature of superstring models, and that they can
+account for the apparent discrepancy between the string and unification scales.
+","[{""version"":""v1"",""created"":""Sun, 15 Oct 1995 00:12:33 GMT""},{""version"":""v2"",""created"":""Mon, 11 Dec 1995 18:37:46 GMT""}]","2009-10-28"
+"hep-th/9510095","YuKui. Zhou","Yu-kui Zhou","Row Transfer Matrix Functional Relations for Baxter's Eight-Vertex and
+  Six-Vertex Models with Open Boundaries Via More General Reflection Matrices","28 pages; Latex file; To appear in Nucl Phys B","Nucl.Phys.B458:504-532,1996","10.1016/0550-3213(95)00553-6",,"hep-th",,"  The functional relations of the transfer matrices of fusion hierachies for
+six- and eight-vertex models with open boundary conditions have been presented
+in this paper. We have shown the su($2$) fusion rule for the models with more
+general reflection boundary conditions, which are represented by off-diagonal
+reflection matrices. Also we have discussed some physics properties which are
+determined by the functional relations. Finally the intertwining relation
+between the reflection $K$ matrices for the vertex and SOS models is discussed.
+","[{""version"":""v1"",""created"":""Sun, 15 Oct 1995 03:53:11 GMT""}]","2010-04-08"
+"math/9510215","Shelah Office","Saharon Shelah, Otmar Spinas","On Gross spaces",,"Trans. Amer. Math. Soc. 348 (1996), 4257--4277",,"Shelah [ShSi:468]","math.LO math.RA",,"  A Gross space is a vector space E of infinite dimension over some field F,
+which is endowed with a symmetric bilinear form Phi:E^2 -> F and has the
+property that every infinite dimensional subspace U subseteq E satisfies dim
+U^perp < dim E. Gross spaces over uncountable fields exist (in certain
+dimensions). The existence of a Gross space over countable or finite fields (in
+a fixed dimension not above the continuum) is independent of the axioms of ZFC.
+Here we continue the investigation of Gross spaces. Among other things we show
+that if the cardinal invariant b equals omega_1 a Gross space in dimension
+omega_1 exists over every infinite field, and that it is consistent that Gross
+spaces exist over every infinite field but not over any finite field. We also
+generalize the notion of a Gross space and construct generalized Gross spaces
+in ZFC.
+","[{""version"":""v1"",""created"":""Sun, 15 Oct 1995 00:00:00 GMT""}]","2016-09-06"
+"math/9510216","Shelah Office","Mirna D\v{z}amonja, Saharon Shelah","On squares, outside guessing of clubs and I_{<f}[lambda]",,"Fund. Math. 148 (1995), 165--198",,"Shelah [DjSh:562]","math.LO",,"  Suppose that lambda = mu^+. We consider two aspects of the square property on
+subsets of lambda. First, we have results which show e.g. that for aleph_0 <=
+kappa =cf (kappa)< mu, the equality cf([mu]^{<= kappa}, subseteq)= mu is a
+sufficient condition for the set of elements of lambda whose cofinality is
+bounded by kappa, to be split into the union of mu sets with squares. Secondly,
+we introduce a certain weak version of the square property and prove that if mu
+is a strong limit, then this weak square property holds on lambda without any
+additional assumptions
+","[{""version"":""v1"",""created"":""Sun, 15 Oct 1995 00:00:00 GMT""}]","2016-09-06"
+"nucl-th/9510026",,"Mladen Damjanovi\'c and Zvonko Mari\'c","Relativistic Dynamics and Space-Time Structure of Few-Body Processes","7 pages, tex, no figures, Advances in Fundamental Physics, edited by
+  M.Barone and F.Selleri, (Hadronic Press, Palm Harbor, Fl U.S.A. 1995). p. 349",,,,"nucl-th hep-th",,"  The space-time features of the relativistic dynamics are analyzed in the
+framework of the time dependent propagator theory. The adiabatic hypothesis is
+substituted by the disturbative adiabatic hypothesis, resulting with the
+corresponding space-time regionalization of scattering processes. The other
+kind of generalization introduces forms of the propagator theory for the
+particle systems whose propagation is based on the family of spacelike
+surfaces. The mathematical basis is established allowing the definition of the
+corresponding, generalized propagators and amplitudes.
+","[{""version"":""v1"",""created"":""Sun, 15 Oct 1995 09:33:12 GMT""}]","2007-05-23"

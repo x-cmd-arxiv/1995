@@ -1,0 +1,353 @@
+"alg-geom/9505020","Dan Abramovich","Dan Abramovich","Lang's conjectures, Conjecture H, and uniformity","7 pages. AMSLaTeX, dvi file available at
+  http://math.bu.edu/INDIVIDUAL/abrmovic/conjh.dvi",,,,"alg-geom math.AG",,"  The purpose of this note is to wish a happy birthday to Professor Lucia
+Caporaso.*
+  We prove that Conjecture H of Caporaso et. al. ([CHarM], sec. 6) together
+with Lang's conjecture implies the uniformity of rational points on varieties
+of general type, as predicted in [CHarM]; a few applications in arithmetic and
+geometry are stated.
+  Let X be a variety of general type defined over a number field K. It was
+conjectured by S. Lang that the set of rational points X(K) is not Zariski
+dense in X. In the paper [CHarM] of L. Caporaso, J. Harris and B. Mazur it is
+shown that the above conjecture of Lang implies the existence of a uniform
+bound on the number of K-rational points of all curves of fixed genus g over K.
+  The paper [CHarM] has immediately created a chasm among arithmetic geometers.
+This chasm, which often runs right in the middle of the personalities involved,
+divides between loyal believers of Lang's conjecture, who marvel in this
+powerful implication, and the disbelievers, who try (so far in vain) to use
+this implication to derive counterexamples to the conjecture. In this paper we
+will attempt to deepen this chasm, using the techniques of [CHarM] and
+continuing [aleph], by proving more implications, some of which very strong, of
+various conjectures of Lang. Along the way we will often use a conjecture
+donned by Caporaso et. al. Conjecture H (see again [CHarM], sec. 6) about
+Higher dimensional varieties, which is regarded very plausible among experts of
+higher dimensional algebraic geometry. In particular, we will show
+","[{""version"":""v1"",""created"":""Sun, 21 May 1995 17:49:36 GMT""}]","2015-06-30"
+"astro-ph/9505095","Roeland Van Der Marel","Roeland P. van der Marel","Simulating ACQ/PEAK target acquisitions with the HST/FOS","10 pages, uuencoded compressed PostScript, without Fig.1. Complete
+  version at ftp://eku.ias.edu/pub/marel/hstfosacq.uu; To appear in the
+  proceedings of the STScI Workshop: `Calibrating HST: Post Servicing Mission'",,,"IASSNS-AST 95/** (Inst.Adv.Study Princeton)","astro-ph",,"  A common target acquisition strategy with the Faint Object Spectrograph (FOS)
+on board the Hubble Space Telescope (HST) is to use a sequence of so-called
+ACQ/PEAK stages. Standard sequences and exposure times are given in the FOS
+Instrument Handbook (Keyes et al.~1995). The success of a given strategy is
+difficult to predict a priori for targets other than point sources. This paper
+describes software that simulates ACQ/PEAK acquisitions in a Monte-Carlo
+manner, for a variety of targets. The software is available from the FOS
+Instrument Scientists or from the author. It allows a proper quantitative
+assessment to be made of whether an acquisition will succeed, what exposure
+times should be used, and how the efficiency can be optimized.
+","[{""version"":""v1"",""created"":""Sun, 21 May 1995 20:47:20 GMT""}]","2007-05-23"
+"astro-ph/9505096","Bohdan Paczynski","Bohdan Paczynski (Princeton University Observatory)","HOW FAR AWAY ARE GAMMA-RAY BURSTERS?","gziped, uuencoded PostScript with figures, presented at the 75th
+  Anniversary Astronomical Debate ""The Distance Scale to Gamma Ray Bursts"", to
+  appear in PASP; also available through WWW at
+  http://www.astro.princeton.edu/~library/prep.html;",,"10.1086/133674","Princeton Observatory Preprint POPe-624 (electronic only)","astro-ph",,"  The positions of over 1000 gamma-ray bursts detected with the BATSE
+experiment on board of the Compton Gamma Ray Observatory are uniformly and
+randomly distributed in the sky, with no significant concentration to the
+galactic plane or to the galactic center. The strong gamma-ray bursts have an
+intensity distribution consistent with a number density independent of distance
+in Euclidean space. Weak gamma-ray bursts are relatively rare, indicating that
+either their number density is reduced at large distances or that the space in
+which they are distributed is non-Euclidean. In other words, we appear to be at
+the center of a spherical and bounded distribution of bursters. This is
+consistent with the distribution of all objects that are known to be at
+cosmological distances (like galaxies and quasars), but inconsistent with the
+distribution of any objects which are known to be in our galaxy (like stars and
+globular clusters). If the bursters are at cosmological distances then the
+weakest bursts should be redshifted, i.e. on average their durations should be
+longer and their spectra should be softer than the corresponding quantities for
+the strong bursts. There is some evidence for both effects in the BATSE data.
+  At this time the cosmological distance scale is strongly favored over the
+galactic one, but is not proven. A definite proof (or dis-proof) could be
+provided with the results of a search for very weak bursts in the Andromeda
+galaxy (M31) with an instrument $ \sim 10 $ times more sensitive than BATSE.
+  If the bursters are indeed at cosmological distances then they are the most
+luminous sources of electromagnetic radiation known in the universe. At this
+time we have no clue as to their nature, even though well over a hundred
+suggestions were published in the scientific journals. An experiment providing
+","[{""version"":""v1"",""created"":""Mon, 22 May 1995 05:17:22 GMT""}]","2016-08-30"
+"astro-ph/9505097","Sabine Schindler","S.Schindler, L.Guzzo, H.Ebeling, H.B\""ohringer, G.Chincarini,
+  C.A.Collins, S.De Grandi, D.M.Neumann, U.G.Briel, P.Shaver, G.Vettolani","Discovery of an Arc System in the Brightest ROSAT Cluster of Galaxies","4 pages, uuencoded compressed postscript, including 3 figures, A&A
+  Letters (in press)","Astron.Astrophys.299:L9,1995",,"MPE Preprint 320","astro-ph",,"  We report the discovery of two bright arcs in what turns out to be the
+brightest X--ray cluster in the ROSAT band ever observed, RXJ1347.5-1145. Its
+luminosity is $(6.2\pm0.6) \cdot10^{45}$erg s$^{-1}$ (in the range
+0.1--2.4~keV). The arcs are most probably gravitationally lensed images of
+background galaxies. They were found serendipitously during our ongoing
+large--scale redshift survey of X--ray clusters detected by the ROSAT All Sky
+Survey. The arcs are almost opposite to each other with respect to the cluster
+centre, with a distance from it of about $35''$ ($=240 h^{-1}_{50}$ kpc), a
+radius that enables the probing of a rather large cluster volume. In this
+Letter we limit ourselves to the discussion of the general optical and X--ray
+features of this cluster and to the potential implications of the gravitational
+arcs. A more detailed discussion of the different mass estimates and of the
+cosmological implications for this exceptional object are left for future work
+based on more accurate optical and X--ray data, which are currently being
+collected.
+","[{""version"":""v1"",""created"":""Mon, 22 May 1995 09:29:42 GMT""}]","2011-05-23"
+"astro-ph/9505098",,"L. Ciotti, M. Stiavelli and A. Braccesi","RECOVERING THE INTRINSIC METALLICITY DISTRIBUTION OF ELLIPTICAL GALAXIES","3 pages, Postscript file, 1 figure available upon request from
+  ciotti@astbo3.bo.astro.it","IAU Symp. 171 (1996) 353",,"BAP 05-1995-023-OAB","astro-ph",,"  We address the problem of deriving, from the observed projected metallicity
+gradients, the intrinsic metallicity distribution of elliptical galaxies as a
+function of their integrals of motion. The method is illustrated by an
+application to anisotropic spherical Hernquist models. We also compare the
+derived metallicity distribution with those expected from two very simple
+models of galaxy formation and find that the more dissipative scheme agrees
+better with the typical metallicity distribution of ellipticals.
+","[{""version"":""v1"",""created"":""Mon, 22 May 1995 14:06:40 GMT""}]","2009-09-25"
+"astro-ph/9505100","Subhendra Mohanty","S. Mohanty and A.R. Prasanna","No birefringence in Einstein's gravity","latex file no figures",,,,"astro-ph gr-qc",,"  Einstein's theory predicts that, massive test particles with non-zero spin or
+angular momentum, in an external gravitation field, follow geodesics which
+depend upon the orientation of the spin-angular momentum . It has been claimed
+that such an effect also holds for photons i.e. photons with different
+helicities follow different geodesics in the gravitational field of a rotating
+body and would give rise to a polarisation dependent deflection of light
+passing in the vicinity of the sun or a polarisation dependent time delay of
+pulsar signals . We show here that contrary to earlier claims , in Einstein's
+gravity there is no birefringence and photons follow null geodesics
+irrespective of polarisation. Thus if gravitational birefringence is ever
+observed experimentally it would be a signal of new physics beyond Einstein's
+gravity
+","[{""version"":""v1"",""created"":""Mon, 22 May 1995 08:07:39 GMT""}]","2007-05-23"
+"cmp-lg/9505037","Rapp Reinhard","Reinhard Rapp (ISSCO, University of Geneva)","Identifying Word Translations in Non-Parallel Texts","3 pages, requires aclap.sty and epic.sty","Proceedings of ACL-95",,,"cmp-lg cs.CL",,"  Common algorithms for sentence and word-alignment allow the automatic
+identification of word translations from parallel texts. This study suggests
+that the identification of word translations should also be possible with
+non-parallel and even unrelated texts. The method proposed is based on the
+assumption that there is a correlation between the patterns of word
+co-occurrences in texts of different languages.
+","[{""version"":""v1"",""created"":""Mon, 22 May 1995 14:42:23 GMT""}]","2008-02-03"
+"cond-mat/9505092","Sebastian Eggert","Sebastian Eggert and Ian Affleck","Impurities in S=1/2 Heisenberg Antiferromagnetic Chains: Consequences
+  for Neutron Scattering and Knight Shift","8 pages (revtex) + one postscript file with 6 figures. A complete
+  postscript file with all figures + text (10pages) is available from
+  http://fy.chalmers.se/~eggert/struct.ps or by request from
+  eggert@fy.chalmers.se Submitted to Phys. Rev. Lett","Phys. Rev. Lett. 75 (1995), p. 934.","10.1103/PhysRevLett.75.934",,"cond-mat",,"  Non-magnetic impurities in an S=1/2 Heisenberg antiferromagnetic chain are
+studied using boundary conformal field theory techniques and finite-temperature
+quantum Monte Carlo simulations. We calculate the static structure function,
+S_imp(k), measured in neutron scattering and the local susceptibility, chi_i
+measured in Knight shift experiments. S_imp(k) becomes quite large near the
+antiferromagnetic wave-vector, and exhibits much stronger temperature
+dependence than the bulk structure function. \chi_i has a large component which
+alternates and increases as a function of distance from the impurity.
+","[{""version"":""v1"",""created"":""Mon, 22 May 1995 12:31:33 GMT""}]","2009-10-28"
+"cond-mat/9505093","Bernardo Lopez","B. Lopez, M. Schroeder and M. Opper","Storage of correlated patterns in a perceptron","9 pages LaTeX ioplppt style, figures included using epsf",,"10.1088/0305-4470/28/16/005","WUE-ITP-95-011","cond-mat",,"  We calculate the storage capacity of a perceptron for correlated gaussian
+patterns. We find that the storage capacity $\alpha_c$ can be less than 2 if
+similar patterns are mapped onto different outputs and vice versa. As long as
+the patterns are in general position we obtain, in contrast to previous works,
+that $\alpha_c \geq 1$ in agreement with Cover's theorem. Numerical simulations
+confirm the results.
+","[{""version"":""v1"",""created"":""Mon, 22 May 1995 14:04:24 GMT""}]","2009-10-28"
+"cond-mat/9505094","Zoltan Racz","Kevin E. Bassler (VPI&SU) and Zoltan Racz (Eotvos U.)","Existence of long-range order in the steady state of a two dimensional,
+  two-temperature XY model","11 pages, latex, 4 postscript figures in a separate uuencoded file,
+  to appear in Phys.Rev.E, Rapid Comm",,"10.1103/PhysRevE.52.R9",,"cond-mat mtrl-th",,"  Monte Carlo simulations are used to show that the steady state of the d=2,
+two-temperature, diffusive XY model displays a continuous phase transition from
+a homogeneous disordered phase to a phase with long-range order. The long-range
+order exists although both the dynamics and the interactions are local, thus
+indicating the failure of a naive extension of the Mermin-Wagner theorem to
+nonequilibrium steady states. It is argued that the ordering is due to
+effective dipole interactions generated by the nonequilibrium dynamics.
+","[{""version"":""v1"",""created"":""Mon, 22 May 1995 15:55:27 GMT""}]","2009-10-28"
+"gr-qc/9505038","Maria Bento","M.C. Bento and O. Bertolami","String Theory and Cosmology","7 pages, plain Tex, no figures","Gen.Rel.Grav. 28 (1996) 565-572","10.1007/BF02105066","CERN-TH/95-36, DFTT 20/95","gr-qc",,"  We discuss the main cosmological implications of considering string-loop
+effects and a potential for the dilaton in the lowest order string effective
+action. Our framework is based on the effective model arising from regarding
+homogeneous and isotropic dilaton, metric and Yang-Mills field configurations.
+The issues of inflation, entropy crisis and the Polonyi problem as well as the
+problem of the cosmological constant are discussed.
+","[{""version"":""v1"",""created"":""Mon, 22 May 1995 10:40:11 GMT""}]","2009-10-28"
+"gr-qc/9505039","Ruth Gregory","Ana Achucarro, Ruth Gregory and Konrad Kuijken","Abelian Higgs Hair for Black Holes","31 pages, plain tex, 7 figures included. minor corrections and
+  references added","Phys.Rev. D52 (1995) 5729-5742","10.1103/PhysRevD.52.5729",,"gr-qc hep-ph hep-th",,"  We find evidence for the existence of solutions of the Einstein and Abelian
+Higgs field equations describing a black hole pierced by a Nielsen-Olesen
+vortex. This situation falls outside the scope of the usual no-hair arguments
+due to the non-trivial topology of the vortex configuration and the special
+properties of its energy-momentum tensor. By a combination of numerical and
+perturbative techniques we conclude that the black hole horizon has no
+difficulty in supporting the long range fields of the Nielsen Olesen string.
+Moreover, the effect of the vortex can in principle be measured from infinity,
+thus justifying its characterization as black hole ``hair"".
+","[{""version"":""v1"",""created"":""Mon, 22 May 1995 13:49:39 GMT""},{""version"":""v2"",""created"":""Fri, 2 Jun 1995 14:16:10 GMT""},{""version"":""v3"",""created"":""Thu, 11 Apr 1996 15:47:46 GMT""}]","2009-10-28"
+"hep-ph/9505347","Brahmachari Biswajoy","Biswajoy Brahmachari and Rabindra N Mohapatra","Low $\alpha_{strong}(M_Z)$, Intermediate Scale SUSY SO(10) GUT and Its
+  Implications","Latex file with one figure. Hard copy of the figure is available by
+  Fax from the submitter","Phys.Lett.B357:566-572,1995","10.1016/0370-2693(95)00968-Q","UMD-PP-95-138","hep-ph",,"  We show that one of the ways of obtaining consistency between the idea of
+supersymmetric grand unification and an apparent low value of
+$\alpha_{strong}(M_Z)\simeq .11$ indicated by several low energy experiments is
+to have an intermediate scale corresponding to a local $B-L$ symmetry breaking
+around the mass scale of $10^{10}$ to $10^{12}$ GeV. We discuss the realization
+of this idea within the framework of supersymmetric $SO(10)$ grand unified
+theories with spectra of particles derivable from simple superstring-inspired
+versions of this model. We then study the $b-\tau$ mass unification within this
+class of models and show that due to the influence of new gauge and Yukawa
+interactions beyond the intermediate scale, the prediction of the $b$-quark
+mass comes out well within the presently accepted values. We also discuss an
+un-orthodox class of SUSY models inspired by some theoretical considerations
+having two pairs of Higgs doublets at low energy and show that they also can
+lead to unification with intermediate scales and low $\alpha_{s}(M_Z)$ as
+desired.
+","[{""version"":""v1"",""created"":""Sun, 21 May 1995 17:27:59 GMT""}]","2009-10-02"
+"hep-ph/9505353","Robert Bruce Mann","R.B. Mann and U. Sarkar","Test of the Equivalence Principle from Neutrino Oscillation Experiments","9 pages, latex","Phys.Rev.Lett. 76 (1996) 865-868","10.1103/PhysRevLett.76.865","DAMTP-R/95/28","hep-ph gr-qc",,"  We consider the hypothesis that neutrino oscillation data can be explained if
+the gravitational couplings of (massless or degenerate mass) neutrinos are
+flavour non--diagonal, in violation of the equivalence principle. We analyze
+the various neutrino oscillation laboratory experimental data including the
+recent LSND observations to constrain the relevant parameter space. We find
+that there is no allowed region of parameter space which can explain the
+existing data, implying that the LSND result cannot be explained by
+oscillations of degenerate-mass neutrinos due to equivalence principle
+violations.
+","[{""version"":""v1"",""created"":""Mon, 22 May 1995 10:00:38 GMT""}]","2009-10-28"
+"hep-ph/9505354","Frank Krueger","M. Gremm, F. Kr\""uger and L. M. Sehgal","Angular Distribution and Polarization of Photons in the Inclusive Decay
+  $\Lambda_b\to X_s\,\gamma$","10 pages, LaTeX, uses epsf, 2 figures appended as uuencoded,
+  compressed eps tar-files","Phys.Lett. B355 (1995) 579-583","10.1016/0370-2693(95)00722-W","PITHA 95/12","hep-ph",,"  We study the angular distribution of photons produced in the inclusive decay
+of a polarized $\Lambda_b$, $\Lambda_b\to X_s\,\gamma$, using the technique of
+Heavy Quark Effective Theory. Finite non-perturbative corrections are obtained
+relative to the free quark decay $b\to s\gamma$. These corrections affect
+significantly the intensity and polarization of photons emitted at small angles
+relative to the $\Lambda_b$ spin direction.
+","[{""version"":""v1"",""created"":""Mon, 22 May 1995 10:42:24 GMT""}]","2009-10-28"
+"hep-ph/9505355","Arnd Brandenburg","Arnd Brandenburg, Lance Dixon, Yael Shadmi","Event Handedness in $e^+e^-$ Annihilation to Three Jets","a few minor text changes made and references added; version to appear
+  in Physical Review D; 36 pages, plain TeX, including epsf.tex macro; 10
+  (unchanged) figures included as one uuencoded ps file","Phys.Rev.D53:1264-1281,1996","10.1103/PhysRevD.53.1264","SLAC-PUB-6725, PITHA 94/62","hep-ph",,"  We discuss rescattering effects that can be measured in $e^+e^-$ annihilation
+to three jets through a single gauge boson, by using triple product (``event
+handedness'') correlations of the $Z$ ($\gamma^*$) polarization with jet
+momenta. The gauge boson polarization may be produced either by polarized beams
+or through the natural polarization (left-right asymmetry) of the $Z$. QCD
+rescattering does not generate triple product correlations at one loop for
+massless quarks. We therefore calculate the QCD contribution for massive
+quarks, as well as the contribution of $W$ and $Z$ exchange loops for massless
+quarks. Due to various cancellations, the standard model predictions for
+triple-product correlations at the $Z$ are very small, making such measurements
+potentially sensitive to physics beyond the standard model. For example, the
+effects of a new gauge boson that couples only to baryon number may be larger
+than the standard model contributions; however the effects would probably still
+be too small to effectively constrain it.
+","[{""version"":""v1"",""created"":""Mon, 22 May 1995 13:34:38 GMT""},{""version"":""v2"",""created"":""Tue, 24 Oct 1995 10:44:05 GMT""}]","2010-11-15"
+"hep-ph/9505364","George Triantaphyllou","B. Holdom and G. Triantaphyllou","Chiral Symmetry Breaking via Multi-fermion Green Functions","17 pages, LaTeX + 3 figures, version to be published","Phys.Rev. D53 (1996) 967-973","10.1103/PhysRevD.53.967","UTPT-95-10","hep-ph hep-th",,"  Previous results on fermion chirality-flipping four-point functions are
+extended to $SU(N)$ gauge theories. The problem is purely non-perturbative, and
+it is approached by truncating the Schwinger-Dyson hierarchy. The large-$N$
+limit also simplifies the problem substantially. The resulting equation is
+solved numerically by relaxation techniques and an estimate of the critical
+coupling and momentum behavior is obtained. We also comment on the behavior of
+chirality-flipping $2n$-point functions for general $n$.
+","[{""version"":""v1"",""created"":""Mon, 22 May 1995 15:39:47 GMT""},{""version"":""v2"",""created"":""Thu, 7 Dec 1995 00:05:24 GMT""}]","2009-10-28"
+"hep-th/9505128","Emil Nissimov","E.I. Guendelman, E. Nissimov and S. Pacheva","Volume-Preserving Diffeomorphisms' versus Local Gauge Symmetry","LaTeX209, 11+1 pages","Phys.Lett. B360 (1995) 57-64","10.1016/0370-2693(95)01109-4","Ben-Gurion Univ. preprint BGU-95/10/May-PH","hep-th",,"  We present a new form of Quantum Electrodynamics where the photons are
+composites made out of zero-dimensional scalar ``primitives''. The r\^{o}le of
+the local gauge symmetry is taken over by an {\em infinite-dimensional global
+Noether symmetry} -- the group of volume-preserving (symplectic)
+diffeomorphisms of the target space of the scalar primitives. Similar
+construction is carried out for higher antisymmetric tensor gauge theories.
+Solutions of Maxwell's equations are automatically solutions of the new system.
+However, the latter possesses additional non-Maxwell solutions which display
+some interesting new effects: (a) a magneto-hydrodynamical analogy, (b) absence
+of electromagnetic self-energy for electron plane wave solutions, and (c) gauge
+invariant photon mass generation, where the generated mass is arbitrary.
+","[{""version"":""v1"",""created"":""Sun, 21 May 1995 17:10:07 GMT""}]","2009-10-28"
+"hep-th/9505129",,"A.A. Tseytlin","On gauge theories for non-semisimple groups","22 pages, harvmac","Nucl.Phys.B450:231-250,1995","10.1016/0550-3213(95)00327-O","Imperial/TP/94-95/34","hep-th",,"  We consider analogs of Yang-Mills theories for non-semisimple real Lie
+algebras which admit invariant non-degenerate metrics. These 4-dimensional
+theories have many similarities with corresponding WZW models in 2 dimensions
+and Chern-Simons theories in 3 dimensions. In particular, the quantum effective
+action contains only 1-loop term with the divergent part that can be eliminated
+by a field redefinition. The on-shell scattering amplitudes are thus finite
+(scale invariant). This is a consequence of the presence of a null direction in
+the field space metric: one of the field components is a Lagrange multiplier
+which `freezes out' quantum fluctuations of the `conjugate' field. The
+non-positivity of the metric implies that these theories are apparently
+non-unitary. However, the special structure of interaction terms (degenerate
+compared to non-compact YM theories) suggests that there may exist a unitary
+`truncation'. We discuss in detail the simplest theory based on 4-dimensional
+algebra E^c_2. The quantum part of its effective action is expressed in terms
+of 1-loop effective action of SU(2) gauge theory. The E^c_2 model can be also
+described as a special limit of SU(2) x U(1) YM theory with decoupled
+ghost-like U(1) field.
+","[{""version"":""v1"",""created"":""Sun, 21 May 1995 18:33:33 GMT""}]","2009-09-17"
+"hep-th/9505130","Annette Holtkamp","Detlev Buchholz","Phase Space Properties of Local Observables and Structure of Scaling
+  Limits","23 pages, AMS LaTeX","Annales Poincare Phys.Theor. 64 (1996) 433-460",,"DESY 95-095","hep-th",,"  For any given algebra of local observables in relativistic quantum field
+theory there exists an associated scaling algebra which permits one to
+introduce renormalization group transformations and to construct the scaling
+(short distance) limit of the theory. On the basis of this result it is
+discussed how the phase space properties of a theory determine the structure of
+its scaling limit. Bounds on the number of local degrees of freedom appearing
+in the scaling limit are given which allow one to distinguish between theories
+with classical and quantum scaling limits. The results can also be used to
+establish physically significant algebraic properties of the scaling limit
+theories, such as the split property.
+","[{""version"":""v1"",""created"":""Mon, 22 May 1995 11:48:38 GMT""}]","2007-05-23"
+"hep-th/9505131","Joachim Maeder AG Ruehl","J. Maeder and W. Ruehl (University Kaiserslautern, Germany)","Double Scaling Limits, Airy Functions and Multicritical Behaviour in
+  O(N) Vektor Sigma Models","14 pages, LaTex",,,,"hep-th",,"  O(N) vector sigma models possessing catastrophes in their action are studied.
+Coupling the limit N --> infinity with an appropriate scaling behaviour of the
+coupling constants, the partition function develops a singular factor. This is
+a generalized Airy function in the case of spacetime dimension zero and the
+partition function of a scalar field theory for positive spacetime dimension.
+","[{""version"":""v1"",""created"":""Mon, 22 May 1995 12:01:31 GMT""}]","2007-05-23"
+"hep-th/9505133","Dr. Khare","C.Rasinariu, U.Sukhatme and Avinash Khare","Negaton and Positon Solutions of the KDV Equation","20 pages plus 12 figures(available from authors on request),Latex
+  file","J.Phys.A29:1803-1823,1996","10.1088/0305-4470/29/8/027","UICHEP-TH/95-2","hep-th nlin.SI solv-int",,"  We give a systematic classification and a detailed discussion of the
+structure, motion and scattering of the recently discovered negaton and positon
+solutions of the Korteweg-de Vries equation. There are two distinct types of
+negaton solutions which we label $[S^{n}]$ and $[C^{n}]$, where $(n+1)$ is the
+order of the Wronskian used in the derivation. For negatons, the number of
+singularities and zeros is finite and they show very interesting time
+dependence. The general motion is in the positive $x$ direction, except for
+certain negatons which exhibit one oscillation around the origin. In contrast,
+there is just one type of positon solution, which we label $[\tilde C^n]$. For
+positons, one gets a finite number of singularities for $n$ odd, but an
+infinite number for even values of $n$. The general motion of positons is in
+the negative $x$ direction with periodic oscillations. Negatons and positons
+retain their identities in a scattering process and their phase shifts are
+discussed. We obtain a simple explanation of all phase shifts by generalizing
+the notions of ``mass"" and ``center of mass"" to singular solutions. Finally, it
+is shown that negaton and positon solutions of the KdV equation can be used to
+obtain corresponding new solutions of the modified KdV equation.
+","[{""version"":""v1"",""created"":""Mon, 22 May 1995 13:09:09 GMT""}]","2019-08-17"
+"hep-th/9505134","Bala","B. Sathiapalan","A Comparison of the Proper Time Equation and the Renormalization Group
+  $\beta$-Function in String Theory","Latex File, 15 pages. Revised version, to appear in Mod. Phys. Lett.
+  A. Some minor misprints corrected and a reference added","Mod. Phys. Lett. A10 (1995) 1565","10.1142/S021773239500168X",,"hep-th",,"  It is known that there is a proportionality factor relating the
+$\beta$-function and the equations of motion viz. the Zamolodchikov metric.
+Usually this factor has to be obtained by other methods. The proper time
+equation, on the other hand, is the full equation of motion. We explain the
+reasons for this and illustrate it by calculating corrections to Maxwell's
+equation. The corrections are calculated to cubic order in the field strength,
+but are exact to all orders in derivatives. We also test the gauge covariance
+of the proper time method by calculating higher (covariant) derivative
+corrections to the Yang-Mills equation.
+","[{""version"":""v1"",""created"":""Mon, 22 May 1995 14:59:00 GMT""},{""version"":""v2"",""created"":""Mon, 12 Jun 1995 19:34:00 GMT""}]","2009-10-28"
+"hep-th/9505189","Ken","S. K. Kauffmann","Unique Closed-Form Quantization Via Generalized Path Integrals or by
+  Natural Extension of the Standard Canonical Recipe","6 pages, LaTeX, Revised to refer to the earlier Kerner-Sutcliffe
+  Hamiltonian quantization formula and to the Born-Jordan operator ordering
+  rule. Also now gives the generalizations to multiple degrees of freedom and
+  continuum fields",,,,"hep-th nucl-th quant-ph",,"  The Feynman-Garrod path integral representation for time evolution is
+extended to arbitrary one-parameter continuous canonical transformations. One
+thereupon obtains a generalized Kerner-Sutcliffe formula for the unique quantum
+representation of the transformation generator, which can be an arbitrary
+classical dynamical variable. This closed-form quantization procedure is shown
+to be equivalent to a natural extension of the standard canonical quantization
+recipe -- an extension that resolves the operator-ordering ambiguity in favor
+of the Born-Jordan rule.
+","[{""version"":""v1"",""created"":""Sun, 21 May 1995 16:40:49 GMT""},{""version"":""v2"",""created"":""Fri, 17 Nov 1995 01:34:39 GMT""}]","2008-02-03"
+"hep-th/9505191","Steven Kenneth Kauffmann","S. K. Kauffmann","Self-Gravitational Correction of the ""Vacuum Polarization"" Feynman
+  Diagram Using Full Einstein Equation Propagation of the Intermediate Virtual
+  Gravitons","22 pages, LaTeX, uses mathlet.sty (attached at bottom)",,,,"hep-th gr-qc",,"  The self-gravitational correction of the ultraviolet-divergent second- order
+""vacuum polarization"" radiative correction insertion Feynman diagram is carried
+out using full, self-consistent Einstein equation propagation of the
+intermediate virtual gravitons, which takes into account their important
+non-linear interactions with each other. (As a by-product, the subsequent
+perturbative treatment of these non-linearities is avoided, which eliminates
+the source of the ultraviolet divergences of the second- quantized gravity
+theory itself.) The corrected diagram is finite, makes no contribution to
+charge renormalization (as could be expected of a diagram involving but a
+single transient virtual pair), and its dynamical behaviour accords with the
+standard quantum electrodynamics result except at inaccessibly extreme
+(Planck-scale-related) values of the momentum transfer. There, the standard
+logarithmic rise with momentum transfer which this diagram contributes to the
+effective coupling strength falls away, as the diagram proceeds instead to
+decrease strongly toward zero. The same self-gravitational correction is made
+to the closely related quartically divergent second-order vacuum-to-vacuum
+amplitude correction Feynman diagram, and it is found that the result vanishes
+identically.
+","[{""version"":""v1"",""created"":""Sun, 21 May 1995 16:54:37 GMT""}]","2009-09-25"
+"nucl-th/9505031","V. S. Uma Maheswari","V.S. Uma Maheswari, V.S. Ramamurthy and L. Satpathy","Nuclear incompressibility: An analytical study on leptodermous expansion","30 latex pages, five figures available on request ( to appear in Phy.
+  Rev. C )","Phys.Rev.C52:1431-1442,1995","10.1103/PhysRevC.52.1431","IP/BBSR/94-71","nucl-th",,"  A comparative study of the liquid-drop model (LDM) type expansions of energy
+$E$ and compression modulus $K_A$ is made within the energy density formalism
+using Skyrme interactions. As compared to the energy expansion, it is found
+that, in the pure bulk mode of density vibration, the LDM expansion of $K_A$
+shows an anomalous convergence behaviour due to {\it pair \ effect}. A least
+squares fit analysis is done to estimate the minimum error, one would expect
+even with synthetic data due to the inherent nature of the LDM expansion of
+$K_A$ as well as the narrow range of accessible mass number $A$, in the values
+of the various coefficients. The dependence of the higher-order coefficients
+like curvature and Gauss curvature on the coupling $\beta_c$ between the bulk
+and surface parts of the monopole vibrations is analytically studied. It is
+shown that the $K_A -$ expansion including the dynamical effect ( $A-$
+dependence of $\beta_c$ ) shows an `up-turn' behaviour below mass number about
+120, suggesting the inapplicability of the LDM expansion of $K_A$ over this
+mass region.
+","[{""version"":""v1"",""created"":""Mon, 22 May 1995 01:27:58 GMT""}]","2009-09-25"

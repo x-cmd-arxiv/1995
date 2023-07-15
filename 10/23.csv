@@ -1,0 +1,328 @@
+"astro-ph/9510113","Rob Nelson","Robert W. Nelson and Scott Tremaine","The Dynamics of Galactic Warps","16 pages, uuencoded tar-compressed postscript. To appear in the
+  Proceedings of the 36th Herstmonceux Conference, ""Gravitational Dynamics,""
+  eds. O. Lahav, E. Terlevich and R. Terlevich",,,,"astro-ph",,"  Large-scale warps in the outer parts of spiral galaxy discs have been
+observed for almost forty years, but their origin remains obscure. We review
+the dynamics of warped galaxy discs. We identify several mechanisms that could
+excite warps, all involving the gravitational interaction between the disc and
+the dark-matter halo.
+","[{""version"":""v1"",""created"":""Mon, 23 Oct 1995 01:23:59 GMT""}]","2007-05-23"
+"astro-ph/9510114","Douglas Welch","C.D. Wilson, D.L. Welch, I.N. Reid, A. Saha, and J. Hoessel","The Distance to IC 10 from Near-Infrared Observations of Cepheids","16 PostScript pages including 2 figures and 3 table, uuencoded
+  compressed. Also available at
+  http://www.physics.mcmaster.ca/Wilson_Preprints/IC10.html",,"10.1086/117856",,"astro-ph",,"  We have measured the distance to the Local Group dwarf irregular galaxy IC 10
+from near-infrared $JHK$ observations of Cepheids. The reddening-corrected
+distance modulus is $24.57\pm0.21$ mag or $0.82\pm 0.08$ Mpc. This distance
+lies at the short end of the range of previous estimates, and is significantly
+more accurate than all prior determinations. At this distance, IC 10 is
+comparable in total mass to the Small Magellanic Cloud, but has much more
+vigorous star formation.
+","[{""version"":""v1"",""created"":""Mon, 23 Oct 1995 12:52:44 GMT""}]","2009-10-28"
+"astro-ph/9510115","Adam Frank","Adam Frank, T. W. Jones, Dongsu Ryu, Joseph B. Gaalaas","The MHD Kelvin-Helmholtz Instability: A Two-Dimensional Numerical Study","27 pages, aasms.sty macro included. 10 postscipt figures, table and
+  complete postscript file for paper available in gzipped tar file at
+  ftp://s1.msi.umn.edu/pub/afrank/mhdkh/mhd2d.tar.gz Mpeg simulations can
+  viewed at http://www.msi.umn.edu/Projects/twj/mhd.html",,"10.1086/177009",,"astro-ph",,"  Using a new numerical code we have carried out two-dimensional simulations of
+the nonlinear evolution of unstable sheared magnetohydrodynamic flows. We
+considered two cases: a strong magnetic field (Alfven Mach number, M_a = 2.5)
+and a weak field (M_a =5). Each flow rapidly evolves until it reaches a nearly
+steady condition, which is fundamentally different from the analogous
+gasdynamic state. Both MHD flows relax to a stable, laminar flow on timescales
+less than or of the order of 15 linear growth times, measured from saturation
+of the instability. That timescale is several orders of magnitude less than the
+nominal dissipation time for these simulated flows, so this condition
+represents an quasi-steady relaxed state. The strong magnetic field case
+reaches saturation as magnetic tension in the displaced flow boundary becomes
+sufficient to stabilize it. That flow then relaxes in a straightforward way to
+the steady, laminar flow condition. The weak magnetic field case, on the other
+hand, begins development of the vortex expected for gasdynamics, but that
+vortex is destroyed by magnetic stresses that locally become strong. Magnetic
+topologies lead to reconnection and dynamical alignment between magnetic and
+velocity fields. Together these processes produce a sequence of intermittent
+vortices and subsequent relaxation to a nearly laminar flow condition in which
+the magnetic cross helicity is nearly maximized. Remaining irregularities
+consist of a pair of flux tubes straddling the shear layer. Fluctuations within
+those features are closely aligned, representing Alfv\'en waves propagating
+locally downstream.
+","[{""version"":""v1"",""created"":""Mon, 23 Oct 1995 13:45:55 GMT""}]","2009-10-28"
+"astro-ph/9510116","Vyatcheslav Zavlin","V.E. Zavlin, G.G. Pavlov, Yu.A. Shibanov, F.J. Rogers and C.A.
+  Iglesias","X-ray spectra from convective photospheres of neutron stars","2 pages, from Wuerzburg X-ray Conference (Sep. 25-29, 1995); final
+  version; ask for psfile to: zavlin@rosat.mpe-garching.mpg.de",,,,"astro-ph",,"  We present first results of modeling convective photospheres of neutron
+stars. We show that in photospheres composed of the light elements convection
+arises only at relatively low effective temperatures (< 3-5*10^4 K), whereas in
+the case of iron compositon it arises at < 3*10^ K. Convection changes the
+depth dependence of the photosphere temperature and the shapes of the emergent
+spectra. Thus, it should be taken into account for the proper interpretation of
+EUV/soft-X-ray observations of the thermal radiation from neutron stars.
+","[{""version"":""v1"",""created"":""Mon, 23 Oct 1995 14:26:22 GMT""},{""version"":""v2"",""created"":""Thu, 9 Nov 1995 16:42:46 GMT""}]","2008-02-03"
+"cond-mat/9510127","Carlo Vanderzande","F.Daerden and C.Vanderzande","1/f-noise in the Bak-Sneppen model","12 pages(Latex)+4 figures",,"10.1103/PhysRevE.53.4723","cv95.2","cond-mat",,"  We calculate time correlation functions in the Bak-Sneppen model (Phys. Rev.
+Lett. {\bf 71} 4083 (1993)), a model showing self-organised criticality. For a
+random neighbour version of the model, analytical results are presented, while
+on a one dimensional lattice we give numerical results. The power spectrum of
+these correlation functions shows $1/f$- behaviour in both cases.
+","[{""version"":""v1"",""created"":""Mon, 23 Oct 1995 11:25:07 GMT""}]","2009-10-28"
+"cond-mat/9510129","Henk Eskes","H. Eskes, R. Grimberg, W. van Saarloos and J. Zaanen, (Institute
+  Lorentz, Leiden University, Leiden, The Netherlands)","Quantizing Charged Magnetic Domain Walls: Strings on a Lattice","4 two-column pages, including the 3 Postscript figures",,"10.1103/PhysRevB.54.R724",,"cond-mat",,"  The discovery by Tranquada et al. of an ordered phase of charged domain walls
+in the high-Tc cuprates leads us to consider the possible existence of a
+quantum domain-wall liquid. We propose minimal models for the quantization, by
+meandering fluctuations, of isolated charged domain walls. These correspond to
+lattice string models. The simplest model of this kind, a directed lattice
+string, can be mapped onto a quantum spin chain or on a classical
+two-dimensional solid-on-solid surface model. The model exhibits a rich phase
+diagram, containing several rough phases with low-lying excitations as well as
+ordered phases which are gapped.
+","[{""version"":""v1"",""created"":""Mon, 23 Oct 1995 14:11:25 GMT""}]","2009-10-28"
+"gr-qc/9510044","Henk van Elst","Henk van Elst and George F R Ellis","The Covariant Approach to LRS Perfect Fluid Spacetime Geometries","25 pages, uuencoded/compressed postscript file","Class.Quant.Grav. 13 (1996) 1099-1128","10.1088/0264-9381/13/5/023","UCT/QMW preprint, 1995","gr-qc astro-ph",,"  The dynamics of perfect fluid spacetime geometries which exhibit {\em Local
+Rotational Symmetry} (LRS) are reformulated in the language of a $1+\,3$
+""threading"" decomposition of the spacetime manifold, where covariant fluid and
+curvature variables are used. This approach presents a neat alternative to the
+orthonormal frame formalism. The dynamical equations reduce to a set of
+differential relations between purely scalar quantities. The consistency
+conditions are worked out in a transparent way. We discuss their various
+subcases in detail and focus in particular on models with higher symmetries
+within the class of expanding spatially inhomogeneous LRS models, via a
+consideration of functional dependencies between the dynamical variables.
+","[{""version"":""v1"",""created"":""Mon, 23 Oct 1995 10:53:14 GMT""}]","2009-10-28"
+"hep-lat/9510038","Greg Kilcup","Gregory Kilcup, Jeffrey Grandy and Lakshmi Venkataraman","The Eta-prime and Cooling with Staggered Fermions","4 pages, LaTeX with 7 EPS figs, contribution to Lattice 95","Nucl.Phys.Proc.Suppl. 47 (1996) 358-361","10.1016/0920-5632(96)00073-4","OHSTPY-HEP-T-95-021","hep-lat",,"  We present a calculation of the mass of the eta-prime meson using quenched
+and dynamical staggered fermions. We also discuss the effects of ""cooling"" and
+suggest its use as a quantitative tool.
+","[{""version"":""v1"",""created"":""Sun, 22 Oct 1995 23:34:09 GMT""}]","2009-10-28"
+"hep-lat/9510039","Kazuyuki Kanaya","K. Kanaya","QCD phase transition with two flavors of Wilson quarks using a RG
+  improved action","uuencoded compressed PS file, 13 pages, 5 figures. Talk given at the
+  Japan-German Seminar {\it QCD on Massively Parallel Computers}, Yamagata,
+  March 16 -- 18, 1995","Prog.Theor.Phys.Suppl.122:115-121,1996","10.1143/PTPS.122.115","UTHEP-317, UTCCP-P-3","hep-lat",,"  The finite temperature QCD phase transition is studied on the lattice with
+degenerate two flavors of Wilson quarks. Motivated by reported strange
+behaviors with the standard action on lattices with the temporal extention
+$N_t=4$ and 6, a renormalization group improved gauge action is applied. On an
+$N_t=4$ lattice, the strange behaviors observed with the standard action are
+removed with our improved action. The finite temperature transition is
+continuous in the chiral limit and it becomes quite smooth in all observables
+we studied when we increase the quark mass by increasing $\beta$ along the
+crossover line.
+","[{""version"":""v1"",""created"":""Mon, 23 Oct 1995 02:52:17 GMT""}]","2008-11-26"
+"hep-lat/9510040","Kazuyuki Kanaya","Kazuyuki Kanaya","Finite Temperature QCD on the Lattice","uuencoded compressed PS file, 17 pages, 13 figures. Review talk given
+  at the International Symposium on Lattice Field Theory {\it LATTICE 95},
+  Melbourne, Australia, 11-15 July, 1995","Nucl.Phys.Proc.Suppl. 47 (1996) 144-159","10.1016/0920-5632(96)00040-0",,"hep-lat",,"  Recent progress in lattice QCD at finite temperature is reviewed.
+","[{""version"":""v1"",""created"":""Mon, 23 Oct 1995 07:24:34 GMT""}]","2009-10-28"
+"hep-lat/9510041","J. Smit","B.V. de Bakker and J. Smit","Correlations and Binding in 4D Dynamical Triangulation","4 pages for proceedings Lattice '95; latex, espcrc2.sty and
+  postscript figure files packed with uufiles; corrected packing, contents of
+  paper unchanged","Nucl.Phys.Proc.Suppl. 47 (1996) 613-616","10.1016/0920-5632(96)00133-8","ITFA-95-15","hep-lat",,"  We study correlations on the euclidean spacetimes generated in Monte Carlo
+simulations of the model. In the elongated phase, curvature correlations appear
+to fall off like a fractional power. Near the transition to the crumpled phase
+this power is consistent with 4. We also present improved data of our
+computations of the binding energy of test particles.
+","[{""version"":""v1"",""created"":""Mon, 23 Oct 1995 10:14:06 GMT""},{""version"":""v2"",""created"":""Fri, 27 Oct 1995 16:17:27 GMT""}]","2009-10-28"
+"hep-lat/9510042","Istvan Montvay","I. Montvay","An Algorithm for Gluinos on the Lattice","latex2e, 23 pages, 4 figures with epsfig. Section 5 is rewritten,
+  more data are added and the discussion is extended","Nucl.Phys. B466 (1996) 259-284","10.1016/0550-3213(96)00086-7","DESY 95-192","hep-lat",,"  L\""uscher's local bosonic algorithm for Monte Carlo simulations of quantum
+field theories with fermions is applied to the simulation of a possibly
+supersymmetric Yang-Mills theory with a Majorana fermion in the adjoint
+representation. Combined with a correction step in a two-step polynomial
+approximation scheme, the obtained algorithm seems to be promising and could be
+competitive with more conventional algorithms based on discretized classical
+(``molecular dynamics'') equations of motion. The application of the considered
+polynomial approximation scheme to optimized hopping parameter expansions is
+also discussed.
+","[{""version"":""v1"",""created"":""Mon, 23 Oct 1995 13:53:52 GMT""},{""version"":""v2"",""created"":""Fri, 27 Oct 1995 16:31:35 GMT""},{""version"":""v3"",""created"":""Tue, 30 Jan 1996 10:23:04 GMT""}]","2009-10-28"
+"hep-ph/9510366","Ariel Zhitnitsky","Ariel R. Zhitnitsky (University of British Columbia)","Lessons from $QCD_2 (N\to\infty)$: Vacuum structure, Asymptotic Series,
+  Instantons and all that","latex, 26 pages. A final version to appear in Phys. Rev.D","Phys.Rev.D53:5821-5833,1996","10.1103/PhysRevD.53.5821",,"hep-ph hep-th",,"  We discuss two dimensional $QCD (N_c\to\infty)$ with fermions in the
+fundamental as well as adjoint representation. We find factorial growth $\sim
+(g^2N_c\pi)^{2k}\frac{(2k)!(-1)^{k-1}}{(2 \pi)^{2k}}$ in the coefficients of
+the large order perturbative expansion. We argue that this behavior is related
+to classical solutions of the theory, instantons, thus it has nonperturbative
+origin. Phenomenologically such a growth is related to highly excited states in
+the spectrum. We also analyze the heavy-light quark system $Q\bar{q}$ within
+operator product expansion (which it turns out to be an asymptotic series).
+Some vacuum condensates $\la\bar{q}(x_{\mu}D_{\mu})^{2n}q\ra\sim (x^2)^n\cdot
+n!$ which are responsible for this factorial growth are also discussed. We
+formulate some general puzzles which are not specific for 2D physics, but are
+inevitable features of any asymptotic expansion. We resolve these apparent
+puzzles within $QCD_2$ and we speculate that analogous puzzles might occur in
+real 4-dimensional QCD as well.
+","[{""version"":""v1"",""created"":""Sun, 22 Oct 1995 20:01:59 GMT""},{""version"":""v2"",""created"":""Wed, 6 Mar 1996 02:48:41 GMT""}]","2014-11-17"
+"hep-ph/9510367","Plamen Krastev","P.I. Krastev and S.T. Petcov","On The Vacuum Oscillation Solution of The Solar Neutrino Problem","(to be publsihed in PRD) 25 pages + 9 figures in two separate (LATEX
+  + compressed postscript) files","Phys.Rev.D53:1665-1677,1996","10.1103/PhysRevD.53.1665","IASSNS-AST 95/40 and updated version of SISSA 9/95/EP","hep-ph",,"  We study the stability of the two--neutrino vacuum oscillation solution of
+the solar neutrino problem with respect to changes of the total fluxes of boron
+and beryllium neutrinos. For any value of $\Phi_{{\rm Be}}$ from the interval
+$0.7\Phi^{{\rm BP}}_{{\rm Be}}\leq \Phi_{{\rm Be}} \leq 1.3\Phi^{{\rm
+BP}}_{{\rm Be}}$ the solar $\nu_e$ oscillations into an active neutrino provide
+at 95\% C.L. a description of the existing solar neutrino data for $\Phi_{{\rm
+B}} \cong (0.35 - 3.4) \Phi^{{\rm BP}}_{{\rm B}}$, $\Phi^{{\rm BP}}_{{\rm B}}$
+and $\Phi^{{\rm BP}}_{{\rm Be}}$ being the fluxes in the solar model of
+Bahcall--Pinsonneault from 1992. For $\Phi_{{\rm Be}}\cong (0.7 -
+1.3)\Phi^{{\rm BP}}_{{\rm Be}}$ we find also at 95\% C.L. two new (one new)
+oscillation solutions for oscillations into active (sterile) neutrinos. The
+physical implications of the new solutions for the future solar neutrino
+experiments are discussed. The data rule out at 97\% -- 98\% (99 \%) C.L. the
+possibility of a universal (neutrino energy independent) suppression of the
+different components of the solar neutrino flux, resulting from solar $\nu_e$
+oscillations or transitions into active (sterile) neutrino.
+","[{""version"":""v1"",""created"":""Mon, 23 Oct 1995 00:49:09 GMT""}]","2008-11-26"
+"hep-ph/9510368","Masaharu Tanabashi","Takeo Inami, C.S. Lim, B. Takeuchi and M. Tanabashi","Non-decoupling Effects of Heavy Particles in Triple Gauge Boson Vertices","13 pages, plain tex using PHYZZX macropackage","Phys.Lett. B381 (1996) 458-464","10.1016/0370-2693(96)00442-X","KOBE-TH-95-05, KEK-TH-448, YITP/K-1101","hep-ph",,"  Non-decoupling effects of heavy particles present in beyond-the-standard
+models are studied for the triple gauge boson vertices $\gamma W^+W^-$ and
+$Z^0W^+W^-$. We show from a general argument that the non-decoupling effects
+are described by four independent parameters, in comparison with the three
+parameters $S$, $T$ and $U$ in the oblique corrections. These four parameters
+of the effective triple gauge boson vertices are computed in two
+beyond-the-standard models. We also study the relation of the four parameters
+to the $S$, $T$, $U$ parameters, relying on an operator analysis.
+","[{""version"":""v1"",""created"":""Mon, 23 Oct 1995 08:32:42 GMT""}]","2009-10-28"
+"hep-ph/9510369","Dr S. Sarkar","Subir Sarkar (Oxford)","Successful Supersymmetric Inflation","4 pages, uuencoded PostScript (3 figures incl.), to appear in Proc.
+  International EPS Conf. on High Energy Physics, Brussels, 1995",,,"OUTP-95-39P","hep-ph astro-ph",,"  The temperature fluctuations in the cosmic microwave background observed by
+COBE provide strong support for an inflationary phase in the early universe,
+below the GUT scale. We argue that a singlet field in a hidden sector of an
+effective supergravity theory yields the required inflationary potential
+without fine tuning. Reheating occurs to a temperature low enough to avoid the
+gravitino problem, but high enough to allow subsequent baryogenesis. Two
+observational consequences are that gravitational waves contribute negligibly
+to the microwave background anisotropy, and the spectrum of scalar density
+perturbations is `tilted', improving the fit to large-scale structure in an
+universe dominated by cold dark matter.
+","[{""version"":""v1"",""created"":""Mon, 23 Oct 1995 10:23:36 GMT""}]","2007-05-23"
+"hep-ph/9510370","Stephen Martin","Tony Gherghetta, Chris Kolda and Stephen P. Martin","Flat directions in the scalar potential of the supersymmetric standard
+  model","23 pages plain TeX + 1 uuencoded postscript file. References added,
+  version to be published in Nuc. Phys. B","Nucl.Phys. B468 (1996) 37-58","10.1016/0550-3213(96)00095-8",,"hep-ph hep-th",,"  The scalar potential of the Minimal Supersymmetric Standard Model (MSSM) is
+nearly flat along many directions in field space. We provide a catalog of the
+flat directions of the renormalizable and supersymmetry-preserving part of the
+scalar potential of the MSSM, using the correspondence between flat directions
+and gauge-invariant polynomials of chiral superfields. We then study how these
+flat directions are lifted by non-renormalizable terms in the superpotential,
+with special attention given to the subtleties associated with the family index
+structure. Several flat directions are lifted only by supersymmetry-breaking
+effects and by supersymmetric terms in the scalar potential of surprisingly
+high dimensionality.
+","[{""version"":""v1"",""created"":""Mon, 23 Oct 1995 12:37:11 GMT""},{""version"":""v2"",""created"":""Mon, 25 Mar 1996 23:23:22 GMT""}]","2009-10-28"
+"hep-ph/9510371",,"Yu.S.Kalashnikova(ITEP)","Hybrid states","Latex,8 pages, to appear in Proc. of NAN-95 conference, Moscow,
+  September 11-16,1995","Phys.Atom.Nucl.59:1303-1306,1996; Yad.Fiz.59N8:1363-1365,1996",,"ITEP-57-95","hep-ph nucl-th",,"  Theoretical arguments are given in favour of existence of gluonic degrees of
+freedom at the constituent level. Models for hybrid mesons are discussed, and
+the predictions are compared with the data on meson spectroscopy in the light
+quark sector. It is demonstrated that the $q\bar q g$ content might be
+responsible for the properties of some recently found mesonic states.
+","[{""version"":""v1"",""created"":""Mon, 23 Oct 1995 13:46:09 GMT""}]","2011-04-15"
+"hep-th/9510162",,"G. Sartori and G. Valente","Orbit spaces of reflection groups with 2, 3, and 4 basic polynomial
+  invariants","42 pages, latex, accepted by Journal of Physics A, Mathematical and
+  General","J.Phys.A29:193-224,1996","10.1088/0305-4470/29/1/019",,"hep-th",,"  Covariant or invariant functions under a compact linear group can be
+expressed in terms of functions defined in the orbit space of the group. The
+semialgebraic relations defining the orbit spaces of all finite coregular real
+linear groups with at most 4 basic invariants are determined. For each group
+$G$ acting in $\real^n$, the results are obtained through the computation of a
+metric matrix $\widehat P(p)$, which is defined only in terms of the scalar
+products between the gradients of a set of basic polynomial invariants
+$p_1(x),\dots p_q(x),\x\in\real^n$ of $G$; the semi-positivity conditions
+$\widehat P(p)\ge 0$ are known to determine all the equalities and inequalities
+defining the orbit space $\real^n/G$ of $G$ as a semi-algebraic variety in the
+space $\real^q$ spanned by the variables $p_1,\dots ,p_q$. In a recent paper,
+the $\widehat P$-matrices, for $q\le 4$, have been determined in an alternative
+way, as solutions of a universal differential equation;the present paper yields
+a partial, but significant, check on the correctness and completeness of these
+solutions. Our results can be widely exploited,e.g. in the determination of
+patterns of spontaneous symmetry breaking, in the analysis of structural phase
+transitions (Landau's theory),in covariant bifurcation theory,in crystal field
+theory and in solid state theory where symmetry adapted functions are used.
+","[{""version"":""v1"",""created"":""Mon, 23 Oct 1995 10:00:22 GMT""}]","2008-11-26"
+"hep-th/9510166","Jean Avan","Jean Avan and Genevieve Rollet","The Classical $r$-Matrix for the Relativistic Ruijsenaars-Schneider
+  System","LaTeX file, no figures, 8 pages",,"10.1016/0375-9601(96)00068-0","Brown HET 1014 and PAR LPTHE 95-47 (Sept. 95)","hep-th",,"  We compute the classical $r$-matrix for the relativistic generalization of
+the Calogero-Moser model, or Ruijsenaars-Schneider model, at all values of the
+speed-of-light parameter $\lambda$. We connect it with the non-relativistic
+Calogero-Moser $r$-matrix $(\lambda \rightarrow -1)$ and the $\lambda = 1$
+sine-Gordon soliton limit.
+","[{""version"":""v1"",""created"":""Mon, 23 Oct 1995 14:33:51 GMT""}]","2009-10-28"
+"math/9510209",,"Jie Wu","On Combinatorial Calculations for the James--Hopf maps",,,,"MSRI 1995-079","math.AT",,"  We give some formulas of the James-Hopf maps by using combinatorial methods.
+An application is to give a product decomposition of the spaces
+$\Omega\Sigma^2(X)$.
+","[{""version"":""v1"",""created"":""Mon, 23 Oct 1995 00:00:00 GMT""}]","2009-09-25"
+"nucl-th/9510045",,"O. Elgaroy, L. Engvik, E. Osnes, F. V. De Blasio, M. Hjorth-Jensen and
+  G. Lazzari","Muons and emissivities of neutrinos in neutron star cores","14 pages, Revtex style, 3 uuencoded figs included","Phys.Rev.Lett. 76 (1996) 1994-1997","10.1103/PhysRevLett.76.1994","ECT*/OCT/95-06","nucl-th",,"  In this work we consider the role of muons in various URCA processes relevant
+for neutrino emissions in the core region of neutron stars. The calculations
+are done for $\beta$--stable nuclear matter with and without muons. We find
+muons to appear at densities $\rho = 0.15$ fm$^{-3}$, slightly around the
+saturation density for nuclear matter $\rho_0 =0.16$ fm$^{-3}$. The direct URCA
+processes for nucleons are forbidden for densities below $\rho = 0.5$
+fm$^{-3}$, however the modified URCA processes with muons $(n+N\rightarrow p+N
++\mu +\overline{\nu}_{\mu}, p+N+\mu \rightarrow n+N+\nu_{\mu}$), where $N$ is a
+nucleon, result in neutrino emissivities comparable to those from
+$(n+N\rightarrow p+N +e +\overline{\nu}_e, p+N+e \rightarrow n+N+\nu_e$). This
+opens up for further possibilities to explain the rapid cooling of neutrons
+stars. Superconducting protons reduce however these emissivities at densities
+below $0.4$ fm$^{-3}$.
+","[{""version"":""v1"",""created"":""Mon, 23 Oct 1995 07:28:17 GMT""}]","2009-10-28"
+"nucl-th/9510046",,"S.E.Massen, V.P.Garistov and M.E.Grypeos","The dependence of the nuclear charge form factor on short range
+  correlations and surface fluctuation effects","LATEX 21 pages, 3 figures. To be appeard in Nuc.Phys. A","Nucl.Phys. A597 (1996) 19-34","10.1016/0375-9474(95)00425-4","THES-TP 94/11","nucl-th",,"  We investigate the effects of fluctuations of the nuclear surface on the
+harmonic oscillator elastic charge form factor of light nuclei, while
+simultaneously approximating the short-range correlations through a Jastrow
+correlation ~factor. Inclusion of surface-fluctuation effects within this
+description, by truncating the cluster expansion at the two-body part, is found
+to improve somewhat the fit to the elastic charge form-factor of $^{16}O$ and
+$^{40}Ca$. However, the convergence of the cluster expansion is expected to
+deteriorate. An additional finding is that the surface-fluctuation correlations
+produce a drastic change in the asymptotic behavior of the point-proton form
+factor, which now falls off quite slowly (i.e. as $const. \cdot q^{-4}$) at
+large values of the momentum transfer $q$.
+","[{""version"":""v1"",""created"":""Mon, 23 Oct 1995 07:43:10 GMT""},{""version"":""v2"",""created"":""Tue, 24 Oct 1995 15:11:47 GMT""},{""version"":""v3"",""created"":""Wed, 25 Oct 1995 07:10:37 GMT""}]","2009-10-28"
+"nucl-th/9510048",,"Barry R. Holstein","Weak Hypernuclear Decay","19 page standard Latex file; invited talk at 2nd DAFNE Workshop,
+  April, 1995",,,,"nucl-th hep-ph",,"  Because of Pauli suppression effects the $N\pi$ decay of the free $\Lambda$
+is not of importance in hypernuclei with $A\geq 10$. Rather the decay of such
+hypernuclei proceeds via the nucleon-stimulated mode $\Lambda N\rightarrow NN$,
+analysis of which presents a considerable theoretical challenge and about which
+there exists only a limited amount of experimental information. Herein we
+confront existing data wih various theoretical analyses which have been
+developed.
+","[{""version"":""v1"",""created"":""Mon, 23 Oct 1995 14:57:40 GMT""}]","2007-05-23"
+"patt-sol/9510005","Hermann Riecke","A.A.Golovin, A.A.Nepomnyashchy, L.M.Pismen (Technion, Israel), H.
+  Riecke (Northwestern, USA)","Steady and Oscillatory Side-Band Instabilities in Marangoni Convection
+  with Deformable Interface","27 pages LaTeX, 8 figures (figure 8 in separate file), all uuencoded",,,,"patt-sol nlin.PS",,"  The stability of Marangoni roll convection in a liquid-gas system with
+deformable interface is studied in the case when there is a nonlinear
+interaction between two modes of Marangoni instability: long-scale surface
+deformations and short-scale convection. Within the framework of a model
+derived previously, it is shown that the nonlinear interaction between the two
+modes substantially changes the width of the band of stable wave numbers of the
+short-scale convection pattern as well as the type of the instability limiting
+the band. Depending on the parameters of the system, the instability can be
+either long- or short-wave, either monotonic or oscillatory. The stability
+boundaries strongly differ from the standard ones and sometimes exclude the
+band center. The long-wave limit of the side-band instability is studied in
+detail within the framework of the phase approximation. It is shown that the
+monotonic instability is always subcritical, while the long-wave oscillatory
+instability can be supercritical, leading to the formation of either travelling
+or standing waves modulating the pattern wavelength and the surface
+deformation.
+","[{""version"":""v1"",""created"":""Mon, 23 Oct 1995 15:36:37 GMT""}]","2008-02-03"
+"q-alg/9510024","Omkomi","N.A.Gromov","Nonsemisimple Quantum Groups as Hopf Algebras of the Dual Functions","12 pages, LaTeX",,,,"q-alg math.QA",,"  The nonsemisimple quantum Cayley-Klein groups $ Fun(SU_{q}(2;\bf j}) $ are
+realized as Hopf algebra of the noncommutative functions with the dual (or
+Study) variables. The {\it dual} quantum algebras $ su_q(2;{\bf j}) $ are
+constructed and their isomorphisms with the corresponding quantum orthogonal
+algebras $ so_q(3;{\bf j}) $ are established. The possible couplings of the
+Cayley-Klein and Hopf structures are considered.
+","[{""version"":""v1"",""created"":""Sun, 22 Oct 1995 16:56:53 GMT""}]","2008-02-03"
+"quant-ph/9510023",,"Robert Bluhm, Alan Kostelecky, and Bogdan Tudose","Keplerian Squeezed States and Rydberg Wave Packets","accepted for publication in Physical Review A","Phys.Rev.A53:937-945,1996","10.1103/PhysRevA.53.937","IUHET 311, August 1995","quant-ph",,"  We construct minimum-uncertainty solutions of the three-dimensional
+Schr\""odinger equation with a Coulomb potential. These wave packets are
+localized in radial and angular coordinates and are squeezed states in three
+dimensions. They move on elliptical keplerian trajectories and are appropriate
+for the description of the corresponding Rydberg wave packets, the production
+of which is the focus of current experimental effort. We extend our analysis to
+incorporate the effects of quantum defects in alkali-metal atoms, which are
+used in experiments.
+","[{""version"":""v1"",""created"":""Mon, 23 Oct 1995 15:30:13 GMT""}]","2009-09-25"
+"solv-int/9510006","Saburo Kakei","Saburo Kakei","Toda Lattice Hierarchy and Zamolodchikov's Conjecture","6 pages, LaTeX file, no figures",,"10.1143/JPSJ.65.337",,"solv-int hep-th nlin.SI",,"  In this letter, we show that certain Fredholm determinant $D(\lambda;t)$,
+introduced by Zamolodchikov in his study of 2D polymers, is a continuum limit
+of soliton solution for the Toda lattice hierarchy with 2-periodic reduction
+condition.
+","[{""version"":""v1"",""created"":""Mon, 23 Oct 1995 10:14:42 GMT""}]","2009-10-28"
+"solv-int/9510007","Juri Suris","Yuri B. Suris (University of Bremen, Germany)","A discrete time relativistic Toda lattice","32 pages, LaTeX","J. Phys. A: Math. and Gen., 1996, V. 29, p. 451-465.","10.1088/0305-4470/29/2/022",,"solv-int nlin.SI",,"  Four integrable symplectic maps approximating two Hamiltonian flows from the
+relativistic Toda hierarchy are introduced. They are demostrated to belong to
+the same hierarchy and to examplify the general scheme for symplectic maps on
+groups equiped with quadratic Poisson brackets. The initial value problem for
+the difference equations is solved in terms of a factorization problem in a
+group. Interpolating Hamiltonian flows are found for all the maps.
+","[{""version"":""v1"",""created"":""Mon, 23 Oct 1995 14:42:07 GMT""}]","2009-10-28"
+"solv-int/9510008",,"Petro Holod and Sergey Kondratiuk","The Orbit Method in the Finite Zone Integration Theory","12 pages, no figures, LaTeX, a contrubution to the XII Hutsulian
+  Workshop ""Methods of Mathematical Physics"", Rakhov, 1995, september 11-17",,,,"solv-int hep-th nlin.SI",,"  A construction of integrable hamiltonian systems associated with different
+graded realizations of untwisted loop algebras is proposed. Such systems have
+the form of Euler - Arnold equations on orbits of loop algebras. The proof of
+completeness of the integrals of motion is carried out independently of the
+realization of the loop algebra. The hamiltonian systems obtained are shown to
+coincide with hierarchies of higher stationary equations for some nonlinear
+PDE's integrable by inverse scattering method.
+  We apply the general scheme for the principal and homogeneous realizations of
+the loop algebra $ sl_3(\R)\otimes{\cal P}(\lambda,\lambda^{-1}) $. The
+corresponding equations on the degenerated orbit are interpreted as the
+Boussinesq's and two-component modified KDV equations respectively. The scalar
+Lax representation for the Boussinesq's equation is found in terms of
+coordinates on the orbit applying the Drinfeld - Sokolov reduction procedure.
+","[{""version"":""v1"",""created"":""Mon, 23 Oct 1995 13:45:05 GMT""}]","2016-09-08"

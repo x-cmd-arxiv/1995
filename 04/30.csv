@@ -1,0 +1,74 @@
+"cmp-lg/9504032",,"Lauri Karttunen, Rank Xerox Research Centre","The Replace Operator","To appear in the Proceedings of ACL-95. 8 pages, PostScript",,,,"cmp-lg cs.CL",,"  This paper introduces to the calculus of regular expressions a replace
+operator, ->, and defines a set of replacement expressions that concisely
+encode several alternate variations of the operation.
+  The basic case is unconditional obligatory replacement:
+  UPPER -> LOWER
+  Conditional versions of replacement, such as,
+  UPPER -> LOWER || LEFT _ RIGHT constrain the operation by left and right
+contexts. UPPER, LOWER, LEFT, and RIGHT may be regular expressions of any
+complexity.
+  Replace expressions denote regular relations. The replace operator is defined
+in terms of other regular expression operators using techniques introduced by
+Ronald M. Kaplan and Martin Kay in ""Regular Models of Phonological Rule
+Systems"" (Computational Linguistics 20:3 331-378. 1994).
+","[{""version"":""v1"",""created"":""Sat, 29 Apr 1995 21:27:40 GMT""},{""version"":""v2"",""created"":""Sat, 29 Apr 1995 22:02:07 GMT""},{""version"":""v3"",""created"":""Mon, 8 May 1995 15:24:32 GMT""}]","2008-02-03"
+"cond-mat/9504121","Hagen Kleinert","H. Kleinert and S.V. Shabanov","Brownian motion of Massive Particle in a Space with Curvature and
+  Torsion and Crystals with Defects","LaTeX, http://www.physik.fu-berlin.de/kleinert.html","J. Phys. A: Math. Gen. 31, 7005 (1998)","10.1088/0305-4470/31/34/003",,"cond-mat",,"  We develop a theory of Brownian motion of a massive particle, including the
+effects of inertia (Kramers' problem), in spaces with curvature and torsion.
+This is done by invoking the recently discovered generalized equivalence
+principle, according to which the equations of motion of a point particle in
+such spaces can be obtained from the Newton equation in euclidean space by
+means of a nonholonomic mapping. By this principle, the known Langevin equation
+in euclidean space goes over into the correct Langevin equation in the Cartan
+space. This, in turn, serves to derive the Kubo and Fokker-Planck equations
+satisfied by the particle distribution as a function of time in such a space.
+The theory can be applied to classical diffusion processes in crystals with
+defects.
+","[{""version"":""v1"",""created"":""Sun, 30 Apr 1995 06:35:26 GMT""}]","2015-06-25"
+"hep-ph/9504431",,"A.I. Davydychev and J.B. Tausk","A magic connection between massive and massless diagrams","11 pages, plain latex, 1 figure (in latex); ps file available by
+  anonymous ftp at ftp://vsfys1.fi.uib.no/anonymous/pub/bergen95-07.ps","Phys.Rev. D53 (1996) 7381-7384","10.1103/PhysRevD.53.7381","Mainz and Bergen preprint MZ-TH-95-14, BERGEN-1995-07","hep-ph hep-th",,"  A useful connection between two-loop massive vacuum integrals and one-loop
+off-shell triangle diagrams with massless internal particles is established for
+arbitrary values of the space-time dimension n.
+","[{""version"":""v1"",""created"":""Sat, 29 Apr 1995 19:23:47 GMT""}]","2009-10-28"
+"hep-ph/9504432",,"A.I. Davydychev and J.B. Tausk","Two-loop vacuum diagrams and tensor decomposition","7 pages, plain LaTex, no figures; ps file available by anonymous ftp
+  at ftp://vsfys1.fi.uib.no/anonymous/pub/bergen95-06.ps ; to appear in
+  Proceedings of the AIHENP-95 conference, Pisa, April 1995 (World Scientific,
+  Singapore, 1995)",,,"Mainz and Bergen preprint MZ-TH-95-13, BERGEN-1995-06","hep-ph hep-th",,"  General algorithms for tensor reduction of two-loop massive vacuum diagrams
+are discussed. Some explicit useful formulae are presented.
+","[{""version"":""v1"",""created"":""Sat, 29 Apr 1995 19:56:44 GMT""}]","2007-05-23"
+"hep-th/9504162","Hiroyuki Takata","Ilya L. Shapiro (Univ. de Zaragoza, Spain) and Hiroyuki Takata (KEK,
+  Japan)","Conformal Transformation in Gravity","LaTeX, 12 pages, no figures","Phys.Lett.B361:31-37,1995","10.1016/0370-2693(95)01123-8","DFTUZ/95/14","hep-th",,"  The conformal transformation in the Einstein - Hilbert action leads to a new
+frame where an extra scalar degree of freedom is compensated by the local
+conformal-like symmetry. We write down a most general action resulting from
+such transformation and show that it covers both general relativity and
+conformally coupled to gravity scalar field as the particular cases. On quantum
+level the equivalence between the different frames is disturbed by the loop
+corrections. New conformal-like symmetry in anomalous and, as a result, the
+theory is not finite on shell at the one-loop order.
+","[{""version"":""v1"",""created"":""Sun, 30 Apr 1995 12:40:29 GMT""}]","2010-11-01"
+"hep-th/9504163","Weiss Nathan","Stephanie Curnoe and Nathan Weiss","Mean Field Description of the Fractional Quantum Hall Effect Near
+  $\nu=1/(2k+1)$","Revtex document; 12 pages and 4 postscript figures in a file","Int.J.Mod.Phys. A11 (1996) 329","10.1142/S0217751X9600016X","UBCTP-95-05","hep-th cond-mat",,"  The nature of Mean Field Solutions to the Equations of Motion of the
+Chern--Simons Landau--Ginsberg (CSLG) description of the Fractional Quantum
+Hall Effect (FQHE) is studied. Beginning with the conventional description of
+this model at some chemical potential $\mu_0$ and magnetic field $B$
+corresponding to a ``special'' filling fraction $\nu=2\pi\rho/eB=1/n$
+($n=1,3,5\cdot \cdot\cdot$) we show that a deviation of $\mu$ in a finite range
+around $\mu_0$ does not change the Mean Field solution and thus the mean
+density of particles in the model. This result holds not only for the lowest
+energy Mean Field solution but for the vortex excitations as well. The vortex
+configurations do not depend on $\mu$ in a finite range about $\mu_0$ in this
+model. However when $\mu-\mu_0 < \mu_{cr}^-$ (or $\mu-\mu_0>\mu_{cr}^+$) the
+lowest energy Mean Field solution describes a condensate of vortices (or
+antivortices). We give numerical examples of vortex and antivortex
+configurations and discuss the range of $\mu$ and $\nu$ over which the system
+of vortices is dilute.
+","[{""version"":""v1"",""created"":""Sun, 30 Apr 1995 12:55:21 GMT""}]","2015-06-26"
+"hep-th/9504164","Tien Kieu","T D Kieu","Quantisation without Witten Anomalies","9 pages, latex, no figures","Mod.Phys.Lett. A11 (1996) 2601-2610","10.1142/S0217732396002605","UM-P-95/39 and RCHEP-95/12","hep-th hep-ph",,"  It is argued that the gauge anomalies are only the artefacts of quantum field
+theory when certain subtleties are not taken into account. With the Berry's
+phase needed to satisfy certain boundary conditions of the generating path
+integral, the gauge anomalies associated with homotopically nontrivial gauge
+transformations are shown explicitly to be eliminated, without any extra
+quantum fields introduced. This is in contra-distinction to other quantisations
+of `anomalous' gauge theory where extra, new fields are introduced to
+explicitly cancel the anomalies.
+","[{""version"":""v1"",""created"":""Sun, 30 Apr 1995 14:03:46 GMT""}]","2015-06-26"

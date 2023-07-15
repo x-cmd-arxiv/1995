@@ -1,0 +1,290 @@
+"alg-geom/9506020","Ian Grojnowski","I. Grojnowski (Yale)","Instantons and affine algebras I: The Hilbert scheme and vertex
+  operators","14 pages, AmsTex",,,,"alg-geom hep-th math.AG",,"  This is the first in a series of papers which describe the action of an
+affine Lie algebra with central charge $n$ on the moduli space of
+$U(n)$-instantons on a four manifold $X$. This generalises work of Nakajima,
+who considered the case when $X$ is an ALE space. In particular, this describes
+the combinatorial complexity of the moduli space as being precisely that of
+representation theory, and thus will lead to a description of the Betti numbers
+of moduli space as dimensions of weight spaces. This Lie algebra acts on the
+space of conformal blocks (i\.e\., the cohomology of a determinant line bundle
+on the moduli space) generalising the ``insertion'' and ``deletion'' operations
+of conformal field theory, and indeed on any cohomology theory. In the
+particular case of $U(1)$-instantons, which is essentially the subject of this
+present paper, the construction produces the basic representation after
+Frenkel-Kac. Then the well known quadratic nature of $ch_2$,
+  $$ch_2 = \frac{1}{2} c_1\cdot c_1 - c_2 $$
+  becomes precisely the formula for the eigenvalue of the degree operator,
+i\.e\. the well known quadratic behaviour of affine Lie algebras.
+","[{""version"":""v1"",""created"":""Sun, 25 Jun 1995 22:19:04 GMT""}]","2015-06-30"
+"alg-geom/9506021","Herbert Lange","H. Lange","A Vector Bundle of Rank 2 on P1 x P3","20 pages, LaTeX",,,,"alg-geom math.AG",,"  The paper studies a rank 2 vector bundle on P1 x P3. Similarly to the
+Horrocks - Mumford bundle on P4 this vector bundle encodes a lot of geometric
+information. It is defined via the Serre construction by an abelian surface in
+P1 x P3. The bundle is stable with respect to O(1,1), its jumping lines are
+determined. Morover it is shown that it is closely related to a double structue
+on P1 x P1 embedded in P1 x P3 as well as to a certain pencil of quadrics of
+degree 4 in P3.
+","[{""version"":""v1"",""created"":""Mon, 26 Jun 1995 13:12:44 GMT""}]","2015-06-30"
+"alg-geom/9506022","Mark Gross","Mark Gross","Deforming Calabi-Yau Threefolds",,,,,"alg-geom math.AG",,"  This paper first generalises the Bogomolov-Tian-Todorov unobstructedness
+theorem to the case of Calabi-Yau threefolds with canonical singularities. The
+deformation space of such a Calabi-Yau threefold is no longer smooth, but the
+general principle is that the obstructions to deforming such a threefold are
+precisely the obstructions to deforming the singularities of the threefold.
+Secondly, these results are applied to smoothing singular Calabi-Yau threefolds
+with crepant resolutions. Any such Calabi-Yau threefold with isolated complete
+intersection singularities which are not ordinary double points is smoothable.
+A Calabi-Yau threefold with non-complete intersection isolated singularities is
+proved to be smoothable under much stronger hypotheses.
+","[{""version"":""v1"",""created"":""Mon, 26 Jun 1995 06:43:01 GMT""}]","2015-06-30"
+"astro-ph/9506121","Emmanuel Davoust","Sebastien Morel, Emmanuel Davoust (OMP, Toulouse, France)","Software for producing trichromatic images in astronomy","12 pages (including 2 figures) uuencoded compressed Postscript file.
+  To appear in Experimental Astronomy",,"10.1007/BF00418321","OMP-144","astro-ph",,"  We present a software package for combining three monochromatic images of an
+astronomical object into a trichromatic color image. We first discuss the
+meaning of ""true"" colors in astronomical images. We then describe the different
+steps of our method, choosing the relevant dynamic intensity range in each
+filter, inventorying the different colors, optimizing the color map, modifying
+the balance of colors, and enhancing contrasts at low intensity levels. While
+the first steps are automatic, the last two are interactive.
+","[{""version"":""v1"",""created"":""Mon, 26 Jun 1995 06:23:58 GMT""}]","2009-10-28"
+"astro-ph/9506122","Emmanuel Davoust","Emmanuel Davoust (OMP, Toulouse, France)","The purpose of astronomy","9 pages (including 1 figure) uuencoded compressed Postscript file. To
+  appear in Vistas in Astronomy","Vistas Astron. 39 (1995) 315","10.1016/0083-6656(95)00087-4","OMP-143","astro-ph",,"  This is a presentation of the purpose of astronomy in the context of modern
+society. After exposing two misconceptions about astronomy, I detail its role
+in five domains, certified knowledge, incorporated abilities, innovations,
+collective goods, and popular science; with each domain is associated an
+institution, an incentive, and a method of evaluation. Finally, I point out the
+role of astronomy as a source of inspiration in other fields than science.
+","[{""version"":""v1"",""created"":""Mon, 26 Jun 1995 06:24:31 GMT""}]","2009-10-28"
+"astro-ph/9506123","Preprint account","G. K. T. Hau, H. C. Ferguson, O. Lahav, D. Lynden-Bell","Visual Search for Galaxies near the Northern Crossing of the
+  Supergalactic plane by the Milky Way","uuencoded compressed postscript, without figures. The figures are
+  available at http://www.ast.cam.ac.uk/preprint/PrePrint.html",,"10.1093/mnras/277.1.125","CAP-9506013","astro-ph",,"  We have visually examined twelve Palomar red Plates for galaxies at low
+Galactic latitude b, where the Supergalactic Plane (SGP) is crossed by the
+Galactic Plane (GP), at Galactic longitude l ~135 degrees. The catalogue
+consists of 2575 galaxy candidates, of which 462 have major axis diameters d >=
+0.8 arc min (uncorrected for extinction). Galaxy candidates can be identified
+down to |b| ~ 0 degrees. One of our galaxy candidates (J24 = Dwingeloo 1) has
+recently been discovered independently in 21cm by Kraan-Korteweg et al. (1994)
+as a nearby galaxy. Comparisons with the structures seen in the IRAS and UGC
+catalogues are made. We compare the success rate of identifying galaxies using
+the IRAS Point Source Catalogue under different colour selection criteria. The
+criteria that require both the 60 micron and 100 micron fluxes to be of high
+quality, have the highest probability of selecting a galaxy (with d >= 0.6 arc
+min), but at the expense of selecting a smaller number of galaxies in total.
+","[{""version"":""v1"",""created"":""Mon, 26 Jun 1995 11:59:30 GMT""}]","2015-06-24"
+"cond-mat/9506114","Isa Zharekeshev","Isa Kh. Zharekeshev and Bernhard Kramer","Universal Fluctuations in Spectra of Disordered Systems at the Anderson
+  Transition","9 pages of Revtex, 3 figures included (tar-compressed and uuencoded
+  using script UUFILES), to appear in Jpn.J.Appl.Phys","Jpn. J. Appl. Phys. 34 (1995) 4361","10.1143/JJAP.34.4361",,"cond-mat",,"  Using the level--spacing distribution and the total probability function of
+the numbers of levels in a given energy interval we analyze the crossover of
+the level statistics between the delocalized and the localized regimes. By
+numerically calculating the electron spectra of systems of up to $32^3$ lattice
+sites described by the Anderson Hamiltonian it is shown that the distribution
+$P(s)$ of neighboring spacings is {\em scale- independent} at the
+metal-insulator transition. For large spacings it has a Poisson-like asymptotic
+form $P(s)\propto \exp (- A\,s/\Delta )$, where $A \approx 1.9$. At the
+critical point we obtain a linear relationship between the variance of the
+number of levels $\langle [\delta n(\varepsilon)]^2 \rangle $ and their average
+number $\langle n(\varepsilon)\rangle $ within the interval $\varepsilon$. The
+constant of proportionality is less than unity due to the repulsion of the
+levels. Both $P(s)$ and $\langle [\delta n(\varepsilon)]^2 \rangle $ are
+determined by the probability density $Q_{n}(\varepsilon)$ of having exactly
+$n$ levels in the energy interval $\varepsilon $. The distribution
+$Q_{n}(\varepsilon)$ at the critical point is found to be size--independent and
+to obey a Gaussian law near its maximum, where $n\sim \langle n \rangle $.
+","[{""version"":""v1"",""created"":""Sun, 25 Jun 1995 19:44:14 GMT""}]","2009-10-28"
+"gr-qc/9506053",,"Giampiero Esposito","Euclidean Maxwell Theory in the Presence of Boundaries","18 pages, plain-tex, to appear in: Heat-Kernel Techniques and Quantum
+  Gravity, Discourses in Mathematics and Its Applications, No. 4, edited by
+  S.A. Fulling (Texas A&M University, College Station, Texas, 1995)","Discourses Math.Appl.4:11-22,1995",,"DSF preprint 95/31","gr-qc",,"  This paper describes recent progress in the analysis of relativistic gauge
+conditions for Euclidean Maxwell theory in the presence of boundaries. The
+corresponding quantum amplitudes are studied by using Faddeev-Popov formalism
+and zeta-function regularization, after expanding the electromagnetic potential
+in harmonics on the boundary 3-geometry. This leads to a semiclassical analysis
+of quantum amplitudes, involving transverse modes, ghost modes, coupled normal
+and longitudinal modes, and the decoupled normal mode of Maxwell theory. On
+imposing magnetic or electric boundary conditions, flat Euclidean space bounded
+by two concentric 3-spheres is found to give rise to gauge-invariant one-loop
+amplitudes, at least in the cases considered so far. However, when flat
+Euclidean 4-space is bounded by only one 3-sphere, one-loop amplitudes are
+gauge-dependent, and the agreement with the covariant formalism is only
+achieved on studying the Lorentz gauge. Moreover, the effects of gauge modes
+and ghost modes do not cancel each other exactly for problems with boundaries.
+Remarkably, when combined with the contribution of physical (i.e. transverse)
+degrees of freedom, this lack of cancellation is exactly what one needs to
+achieve agreement with the results of the Schwinger-DeWitt technique. The most
+general form of coupled eigenvalue equations resulting from arbitrary
+gauge-averaging functions is now under investigation.
+","[{""version"":""v1"",""created"":""Mon, 26 Jun 1995 08:24:36 GMT""}]","2011-04-20"
+"gr-qc/9506054","Ruth Gregory","Ruth Gregory and Mark Hindmarsh","Smooth metrics for snapping strings","Minor error corrected, note added to agree with published version","Phys.Rev. D52 (1995) 5598-5605","10.1103/PhysRevD.52.5598","DTP/95/37, SUSX-TH-95/73","gr-qc hep-th",,"  We construct two possible metrics for abelian Higgs vortices with ends on
+black holes. We show how the detail of the vortex fields smooths out the nodal
+singularities which exist in the idealized metrics. A corollary is that
+apparently topologically stable strings might be able to split by black hole
+pair production. We estimate the rate per unit length by reference to related
+Ernst and C-metric instantons, concluding that it is completely negligible for
+GUT-scale strings. The estimated rate for macroscopic superstrings is much
+higher, although still extremely small, unless there is an early phase of
+strong coupling.
+","[{""version"":""v1"",""created"":""Mon, 26 Jun 1995 15:42:17 GMT""},{""version"":""v2"",""created"":""Wed, 29 Jan 1997 16:49:20 GMT""}]","2009-10-28"
+"hep-ph/9506402","Irina Korchemsky","Irina A. Korchemskaya (SUNY, Stony Brook and Parma University)","The Soft Pomeron and Nonperturbative Corrections in Quark-Quark
+  Scattering","18 pages, LaTeX style","Nucl.Phys. B490 (1997) 306-330","10.1016/S0550-3213(96)00681-5","ITP--SB--95--19","hep-ph",,"  We consider elastic quark-quark scattering at high energy with fixed momentum
+transfer $t$ and perform factorization of soft-gluon exchanges into a vacuum
+expectation value of Wilson lines. Taking into account nonperturbative
+corrections whose structure is predicted from infrared renormalon analysis, we
+represent the scattering amplitude as an asymptotic series. In the region of
+small momentum transfer, where the nonperturbative corrections are dominant,
+the scattering amplitude is Gaussian distribution in $t$ with a slope depending
+on a nonperturbative scale. A nonperturbative origin of the soft pomeron is
+thus identified.
+","[{""version"":""v1"",""created"":""Sun, 25 Jun 1995 20:45:18 GMT""},{""version"":""v2"",""created"":""Fri, 30 Jun 1995 20:14:23 GMT""}]","2009-10-28"
+"hep-ph/9506419",,"F. Illuminati and A. Riotto","A Stochastic Approach to Thermal Fluctuations during a First Order
+  Electroweak Phase Transition","Two figures: fig1.metafile and fig2.metafile. Just print them as
+  usual file.ps","Astropart.Phys.4:293-308,1996","10.1016/0927-6505(95)00047-X","DFPD/TH/95-39 and SISSA-AP/95-74 preprint","hep-ph",,"  We investigate the role played by subcritical bubbles at the onset of the
+electroweak phase transition. Treating the configuration modelling the thermal
+fluctuations around the homogeneous zero configuration of the Higgs field as a
+stochastic variable, we describe its dynamics by a phenomenological Langevin
+equation. This approach allows to properly take into account both the effects
+of the thermal bath on the system: a systematic dyssipative force, which tends
+to erase out any initial subcritical configuration, and a random stochastic
+force responsible for the fluctuations. We show that the contribution to the
+variance $\lgh\phi^2(t)\rg_V$ in a given volume $V$ from any initial
+subcritical configuration is quickly damped away and that, in the limit of long
+times, $\lgh\phi^2(t)\rg_V$ approaches its equilibrium value provided by the
+stochastic force and independent from the viscosity coefficient, as predicted
+by the fluctuation-dissipation theorem. In agreement with some recent claims,
+we conclude that thermal fluctuations do not affect the nucleation of critical
+bubbles at the onset of the electroweak phase transition making electroweak
+baryogenesis scenarios still a viable possibility to explain the primordial
+baryon asymmetry in the Universe.
+","[{""version"":""v1"",""created"":""Mon, 26 Jun 1995 08:43:24 GMT""}]","2011-05-23"
+"hep-ph/9506420",,"V.Barone, U.D'alesio and M.Genovese","Extracting the Strange Density from $xF_3$","12 pages","Phys.Lett. B357 (1995) 435-440","10.1016/0370-2693(95)00906-2","DFTT 35/95 and CERN-th/95-164","hep-ph",,"  We present a QCD analysis of the strange and charm contributions to the
+neutrino deep inelastic structure function $xF_3$. We show that next-to-leading
+order effects, which are relatively important for $F_2$, play a lesser role in
+the case of $xF_3$. The neutrino--antineutrino difference $xF_3^{\nu} -
+xF_3^{\bar \nu}$ provides a new determination of the strange density, which
+exhibits some advantages with respect to other traditional methods.
+","[{""version"":""v1"",""created"":""Mon, 26 Jun 1995 10:34:07 GMT""}]","2009-10-28"
+"hep-ph/9506421","Mike Seymour","Michael H. Seymour, CERN","Jets in QCD","20 pages, 13 figures, typeset using REVTeX and aipbook.sty, slightly
+  reformatted to improve page breaks. Talk given at the 10th Topical Workshop
+  on Proton-Antiproton Collider Physics, Batavia, IL, May 9-13, 1995. A
+  postscript version of this paper can be obtained from
+  http://surya11.cern.ch/users/seymour/pubs/pbarp.ps.Z","AIP Conf.Proc.357:568-587,1996","10.1063/1.49625","CERN-TH/95-176","hep-ph",,"  Many analyses at the collider utilize the hadronic jets that are the
+footprints of QCD partons. These are used both to study the QCD processes
+themselves and increasingly as tools to study other physics, for example top
+mass reconstruction. However, jets are not fundamental degrees of freedom in
+the theory, so we need an {\em operational jet definition} and {\em reliable
+methods to calculate their properties}. This talk covers both of these
+important areas of jet physics.
+","[{""version"":""v1"",""created"":""Mon, 26 Jun 1995 13:30:52 GMT""},{""version"":""v2"",""created"":""Wed, 28 Jun 1995 16:29:21 GMT""}]","2014-11-17"
+"hep-ph/9506422","Hyun-Chul Kim","H.-C. Kim, M.V. Polyakov, A. Blotz, and K. Goeke","Magnetic Moments of the SU(3) Octet Baryons in the semibosonized SU(3)
+  Nambu-Jona-Lasinio Model","17 pages, RevTex, 1 postscript figure","Nucl.Phys. A598 (1996) 379-389","10.1016/0375-9474(95)00506-4","RUB-TPII-6/95","hep-ph nucl-th",,"  We investigate the magnetic moments of the SU(3) octet baryons in the
+framework of the $SU(3)$ semibosonized Nambu--Jona--Lasinio model. The
+rotational $1/N_c$ corrections and strange quark mass in linear order are taken
+into account. We derive general relations between magnetic moments of the SU(3)
+octet baryons, based on the symmetry of our model. These relations indicate
+that higher order corrections such as $O(m_s/N_c)$ and $O(m^{2}_{s})$ are
+relatively small. The magnetic moments of the octet baryons predicted by our
+model are quantitatively in a good agreement with experimental results within
+about 15$\%$.
+","[{""version"":""v1"",""created"":""Mon, 26 Jun 1995 13:47:31 GMT""},{""version"":""v2"",""created"":""Tue, 27 Jun 1995 13:05:01 GMT""},{""version"":""v3"",""created"":""Mon, 25 Sep 1995 18:02:57 GMT""}]","2015-06-25"
+"hep-ph/9506423",,"A.D. Martin, W.J. Stirling and R.G. Roberts","The $\alpha_S$ Dependence of Parton Distributions","8 pages 6 figures","Phys.Lett. B356 (1995) 89-94","10.1016/0370-2693(95)00808-X","RAL-TR-95-013, DTP/95/48","hep-ph",,"  We perform next-to-leading order global analyses of deep inelastic and
+related data for different fixed values of $\alpha_S (M_Z^2)$. We present sets
+of parton distributions for six values of $\alpha_S$ in the range 0.105 to
+0.130. We display the $(x, Q^2)$ domains with the largest parton uncertainty
+and we discuss how forthcoming data may be able to improve the determination of
+the parton densities.
+","[{""version"":""v1"",""created"":""Mon, 26 Jun 1995 15:13:34 GMT""}]","2009-10-28"
+"hep-ph/9506424",,"J.D.Manjavidze","S-matrix interpretation of finite-temperature real-time field theories","13 pages in LaTeX",,,"IP GAS-HE-5/95","hep-ph",,"  The aim of the article is to construct the S-matrix interpretation of the
+perturbation theory for the Wigner functions generating functional at a finite
+temperature. The temperature is introduced in the theory by the way typical for
+the microcanonical description. The perturbation theory contains the
+two-temperature Green functions. The two possible boundary conditions are
+considered. One of them is usual in a field theory vacuum boundary condition.
+The corresponding generating functional can be used in the particle physics.
+Another type of the boundary condition assumes that the system under
+consideration is in environment of the free particles background field. This
+leads to the theory with Kubo-Martin-Schwinger boundary conditions ones at the
+one-temperature limit.
+","[{""version"":""v1"",""created"":""Mon, 26 Jun 1995 15:57:44 GMT""}]","2007-05-23"
+"hep-th/9506160","Atish Dabholkar","Atish Dabholkar","Ten Dimensional Heterotic String as a Soliton","12 pages, harvmac","Phys.Lett. B357 (1995) 307-312","10.1016/0370-2693(95)00949-L","CALT-68-2002","hep-th",,"  It is shown that the heterotic string emerges as a soliton in the type I
+superstring theory in ten dimensions. The collective coordinates of the soliton
+are described by a smooth, chiral worldsheet theory. There are eight bosonic
+and eight right-moving fermionic zero modes that arise from the partially
+broken supertranslations. In addition, there are 496 charged bosonic zero modes
+of the gauge field that describe a left-moving WZNW model on a $spin(32)/{Z_2}$
+group manifold. Small, stable loops of the solitonic string furnish the massive
+states required by duality that transform as spinors of $spin(32)$.
+","[{""version"":""v1"",""created"":""Mon, 26 Jun 1995 02:19:58 GMT""}]","2009-10-28"
+"hep-th/9506165","Mitchiaki Takama","Michiaki Takama","Grassmannian Approach to Super KP Hierarchies","46 pages, LaTex, no figure ( few typos corrected )",,,"YITP/U-95-23","hep-th",,"  We present a theory of 'maximal' super-KP(SKP) hierarchy whose flows are
+maximally extended to include all those of known SKP hierarchies, including,
+for example, the MRSKP hierarchy of Manin and Radul and the Jacobian SKP(JSKP)
+introduced by Mulase and Rabin. It is shown that SKP hierarchies has a natural
+field theoretic description in terms of the B-C system, in analogous way as the
+ordinary KP hierarchy. For this SKP hierarchy, we construct the vertex
+operators by using Kac-van de Leur superbosonization. The vertex operators act
+on the \(\tau\)-function and then produce the wave function and the dual wave
+function of the hierarchy. Thereby we achieve the description of the 'maximal'
+SKP hierarchy in terms of the \(\tau\)-function, which seemed to be lacking
+till now. Mutual relations among the SKP hierarchies are clarified. The MRSKP
+and the JSKP hierarchies are obtained as special cases when the time variables
+are appropriately restricted.
+","[{""version"":""v1"",""created"":""Sun, 25 Jun 1995 16:18:23 GMT""},{""version"":""v2"",""created"":""Tue, 27 Jun 1995 08:24:35 GMT""}]","2008-02-03"
+"hep-th/9506166","Hyeonjoon Shin","Hyeonjoon Shin, Young-Jai Park, Yongduk Kim, and Won T. Kim","On the anomaly of nonlocal symmetry in the chiral QED","4 pages, latex, no figures","J.KoreanPhys.Soc.29:392-393,1996",,"SOGANG-HEP-200/95","hep-th",,"  We show that the anomaly of nonlocal symmetry can be canceled by the
+well-known Wess-Zumino acton which cancels the gauge anomaly in the
+two-dimensional chiral electrodynamics.
+","[{""version"":""v1"",""created"":""Mon, 26 Jun 1995 07:55:54 GMT""}]","2008-11-26"
+"hep-th/9506167","Atsuo Kuniba","Atsuo Kuniba, Yasuhiro Ohta and Junji Suzuki","Quantum Jacobi-Trudi and Giambelli Formulae for $U_q(B_r^{(1)})$ from
+  Analytic Bethe Ansatz","Plain Tex(macro included), 18 pages. 7 figures are compressed and
+  attached","J.Phys. A28 (1995) 6211-6226","10.1088/0305-4470/28/21/024",,"hep-th math.QA q-alg",,"  Analytic Bethe ansatz is executed for a wide class of finite dimensional
+$U_q(B^{(1)}_r)$ modules. They are labeled by skew-Young diagrams which, in
+general, contain a fragment corresponding to the spin representation. For the
+transfer matrix spectra of the relevant vertex models, we establish a number of
+formulae, which are $U_q(B^{(1)}_r)$ analogues of the classical ones due to
+Jacobi-Trudi and Giambelli on Schur functions. They yield a full solution to
+the previously proposed functional relation ($T$-system), which is a Toda
+equation
+","[{""version"":""v1"",""created"":""Mon, 26 Jun 1995 09:00:00 GMT""}]","2009-10-28"
+"hep-th/9506168","Aldabe Fermin","Fermin Aldabe","(0,2) String Compactifications: The Higgs Mechanism","20 pages. LaTeX",,,"IC/95/57","hep-th",,"  We present the Higgs mechanism in (0,2) compactifications. The existence of a
+vector bundle data duality (VBDD) in $(0,2)$ compactifications which is present
+at the Landau-Ginzburg point allows us to connect in a smooth manner theories
+with different gauge groups with the same base manifold and same number of
+effective generations. As we move along the Kahler moduli space of the theories
+with $E_6$ gauge group, some of the gauginos pick up masses and break the gauge
+group to $SO(10)$ or $SU(5)$.
+","[{""version"":""v1"",""created"":""Mon, 26 Jun 1995 13:48:56 GMT""}]","2007-05-23"
+"hep-th/9506171","Phil Gibbs","Phil E. Gibbs","The Small Scale Structure of Space-Time: A Bibliographical Review","50 pages, TeX (two references added)",,,"PEG-06-95","hep-th",,"  This essay is a tour around many of the lesser known pregeometric models of
+physics, as well as the mainstream approaches to quantum gravity, in search of
+common themes which may provide a glimpse of the final theory which must lie
+behind them.
+","[{""version"":""v1"",""created"":""Mon, 26 Jun 1995 13:21:21 GMT""},{""version"":""v2"",""created"":""Fri, 26 Jan 1996 14:19:28 GMT""}]","2008-02-03"
+"patt-sol/9506002","Komatsu T. S.","Teruhisa S. Komatsu (Department of Physics, Tohoku University, Sendai,
+  Japan), Shin-ichi Sasa (Department of Pure and Applied Sciences, College of
+  Arts and Sciences, University of Tokyo, Tokyo, Japan)","A Kink Soliton Characterizing Traffic Congestion","22 pages, REVTeX with 8 figures (uuencoded tar-compressed postscript)",,"10.1103/PhysRevE.52.5574",,"patt-sol nlin.PS",,"  We study traffic congestion by analyzing a one dimensional traffic flow
+model. Developing an asymptotic method to investigate the long time behavior
+near a critical point, we derive the modified Korteweg-de Vries (mKdV) equation
+as the lowest order model. There are an infinite number of kink solitons to the
+mKdV equation, while it has been found by numerical simulations that the kink
+pattern arising in traffic congestion is uniquely determined irrespective of
+initial conditions. In order to resolve this selection problem, we consider
+higher order corrections to the mKdV equation and find that there is a kink
+soliton which can deform continuously with the perturbation represented by the
+addition of these corrections. With numerical confirmation, we show that this
+continuously deformable kink soliton characterizes traffic congestion. We also
+discuss the relationship between traffic congestion and slugging phenomenon in
+granular flow.
+","[{""version"":""v1"",""created"":""Mon, 26 Jun 1995 06:09:51 GMT""}]","2016-09-08"
+"q-alg/9506021","Tatsuhiro Nakajima 0426-77-1111x3376","Susumu Ariki, Tatsuhiro Nakajima and Hiro-Fumi Yamada","Reduced Schur Functions and the Littlewood-Richardson Coefficients","17 pages",,,,"q-alg math.QA",,"  The reduced Schur functions are studied. Their relations to the basic
+representation of $A^(1)_{r-1}$ and modular representations of the symmetric
+groups are clarified. Littlewood-Richardson coefficients appear in the linear
+relations among reduced Schur functions.
+","[{""version"":""v1"",""created"":""Mon, 26 Jun 1995 02:30:20 GMT""}]","2008-02-03"
+"quant-ph/9506038","Jun Liu","J\`un L\'iu","Potential Effect: Aharonov-Bohm Effect of Simply Connected Region","Prediction of a new effect. Numerical estimate given for experimental
+  verification. The referees disagree with each other on the existence of this
+  effect. Letter-size paper with two figures",,,,"quant-ph",,"  We study a generalization of Aharonov-Bohm effect, the potential effect. The
+discussion is focused on field-free effects in simply connected region, which
+obviously can not have any local field-flux. Among the published discussions
+about this kind of effects, it is generally agreed that this kind of effects
+does not exist due to gauge invariance. However, there are also opinions that
+this effect is a trivial variation of Aharonov-Bohm effect and therefore there
+is no need to check its existence. To my knowledge, it has never been tested.
+My first goal here is to supply enough theoretical reason to motivate the
+experimental test of this effect. I start with an intuitive derivation, then I
+introduce a wave-front theory as a theoretical consideration. Logically, the
+existence of potential effect implies the existence of the AB effect, but not
+vice versa. The purpose of this paper is to provide a physical connection in
+the opposite direction.
+","[{""version"":""v1"",""created"":""Sun, 25 Jun 1995 18:24:15 GMT""}]","2016-08-15"

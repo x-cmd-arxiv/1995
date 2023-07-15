@@ -1,0 +1,283 @@
+"cmp-lg/9506022","Daniel Ansari","Daniel Ansari (University of Toronto)","Deriving Procedural and Warning Instructions from Device and Environment
+  Models","63 pages, uses authdate.sty",,,"CSRI-329","cmp-lg cs.CL",,"  This study is centred on the generation of instructions for household
+appliances. We show how knowledge about a device, together with knowledge about
+the environment, can be used for reasoning about instructions. The information
+communicated by the instructions can be planned from a version of the knowledge
+of the artifact and environment. We present the latter, which we call the {\it
+planning knowledge}, in the form of axioms in the {\it situation calculus}.
+This planning knowledge formally characterizes the behaviour of the artifact,
+and it is used to produce a basic plan of actions that the device and user take
+to accomplish a given goal. We explain how both procedural and warning
+instructions can be generated from this basic plan.
+  In order to partially justify that instruction generation can be automated
+from a formal device design specification, we assume that the planning
+knowledge is {\it derivable\/} from the device and world knowledge.
+","[{""version"":""v1"",""created"":""Sat, 24 Jun 1995 01:47:06 GMT""},{""version"":""v2"",""created"":""Sat, 24 Jun 1995 18:46:10 GMT""}]","2016-08-31"
+"cond-mat/9505110","Rudolf Roemer","Rudolf A. R\""omer (JNCASR) and Alexander Punnoose (IISc)","Enhanced Charge and Spin Currents in the One-Dimensional Disordered
+  Mesoscopic Hubbard Ring","20 RevTeX 3.0 pages, 8 figures NOT included",,"10.1103/PhysRevB.52.14809",,"cond-mat",,"  We consider a one-dimensional mesoscopic Hubbard ring with and without
+disorder and compute charge and spin stiffness as a measure of the permanent
+currents. For finite disorder we identify critical disorder strength beyond
+which the charge currents in a system with repulsive interactions are {\em
+larger} than those for a free system. The spin currents in the disordered
+repulsive Hubbard model are enhanced only for small $U$, where the magnetic
+state of the system corresponds to a charge density wave pinned to the
+impurities. For large $U$, the state of the system corresponds to localized
+isolated spins and the spin currents are found to be suppressed. For the
+attractive Hubbard model we find that the charge currents are always suppressed
+compared to the free system at all length scales.
+","[{""version"":""v1"",""created"":""Sat, 24 Jun 1995 09:11:41 GMT""}]","2009-10-28"
+"cond-mat/9506109",,"E.Ercolessi, G.Morandi, F.Napoli and P.Pieri","Path integrals for spinning particles, stationary phase and the
+  Duistermaat-Heckman theorem","29 pages, Latex","Jour. Math. Phys. 37 (1996) 535-553","10.1063/1.531428","DFUB-95-8","cond-mat hep-th",,"  We examine the problem of the evaluation of both the propagator and of the
+partition function of a spinning particle in an external field at the classical
+as well as the quantum level, in connection with the asserted exactness of the
+saddle point approximation (SPA) for this problem. At the classical level we
+argue that exactness of the SPA stems from the fact that the dynamics (on the
+two--sphere $S^2$) of a classical spinning particle in a magnetic field is the
+reduction from $\br^4$ to $S^2$ of a linear dynamical system on $\br^4$. At the
+quantum level, however, and within the path integral approach, the restriction,
+inherent to the use of the SPA, to regular paths clashes with the fact that no
+regulators are present in the action that enters the path integral. This is
+shown to lead to a prefactor for the path integral that is strictly divergent
+except in the classical limit. A critical comparison is made with the various
+approaches to the same problem that have been presented in the literature. The
+validity of a formula given in literature for the spin propagator is extended
+to the case of motion in an arbitrary magnetic field.
+","[{""version"":""v1"",""created"":""Fri, 23 Jun 1995 16:04:56 GMT""}]","2009-10-28"
+"cond-mat/9506110","Mail","P. W. Anderson and D. Khveshchenko","Charge-Spin Separation in 2D Fermi Systems: Singular Interactions as
+  Modified Commutators, and Solution of 2D Hubbard Model in Bosonized
+  Approximation","Latex file 14 pages. email: pwa@puhep1.princeton.edu",,"10.1103/PhysRevB.52.16415",,"cond-mat",,"  The general 2-dimensional fermion system with repulsive interactions
+(typified by the Hubbard Model) is bosonized, taking into account the finite
+on-shell forward scattering phase shift derived in earlier papers. By taking
+this phase shift into account in the bosonic commutation relations a consistent
+picture emerges showing the charge-spin separation and anomalous exponents of
+the Luttinger liquid.
+","[{""version"":""v1"",""created"":""Fri, 23 Jun 1995 19:30:01 GMT""}]","2009-10-28"
+"cond-mat/9506111","James P. Sethna","Olga Perkovi\'c, Karin Dahmen, and James P. Sethna (Laboratory of
+  Atomic and Solid State Physics, Cornell University, Ithaca, NY)","Avalanches, Barkhausen Noise, and Plain Old Criticality","12 pages, 2 PostScript figures. Pedagogical introduction with mpeg
+  movies available at http://www.lassp.cornell.edu/LASSP_Science.html","Phys. Rev. Lett. 75, 4528 (1995).","10.1103/PhysRevLett.75.4528",,"cond-mat",,"  We explain Barkhausen noise in magnetic systems in terms of avalanches near a
+plain old critical point in the hysteretic zero-temperature random-field Ising
+model. The avalanche size distribution has a universal scaling function, making
+non-trivial predictions of the shape of the distribution up to 50\% above the
+critical point, where two decades of scaling are still observed. We simulate
+systems with up to $1000^3$ domains, extract critical exponents in 2, 3, 4, and
+5 dimensions, compare with our 2d and $6-\epsilon$ predictions, and compare to
+a variety of experimental Barkhausen measurements.
+","[{""version"":""v1"",""created"":""Fri, 23 Jun 1995 22:01:42 GMT""}]","2009-10-28"
+"cond-mat/9506112","Kevin A. Park","K. A. Park and Robert Joynt (University of Wisconsin-Madison)","$E_{1g}$ model of superconducting UPt$_3$","RevTex, 29 pages, 18 PostScript figures in a uuencoded, gzipped tar
+  file. PostScript version of paper, tar file of PostScript figures and
+  individual PostScript figures are also available via anonymous ftp at
+  ftp://nym.physics.wisc.edu/anonymou/papers/upt3/",,"10.1103/PhysRevB.53.12346",,"cond-mat",,"  The phase diagram of superconducting UPt$_3$ is explained in a
+Ginzburg-Landau theory starting from the hypothesis that the order parameter is
+a pseudo-spin singlet which transforms according to the $E_{1g}$ representation
+of the $D_{6h}$ point group. We show how to compute the positions of the phase
+boundaries both when the applied field is in the basal plane and when it is
+along the c-axis. The experimental phase diagrams as determined by longitudinal
+sound velocity data can be fit using a single set of parameters. In particular
+the crossing of the upper critical field curves for the two field directions
+and the apparent isotropy of the phase diagram are reproduced. The former is a
+result of the magnetic properties of UPt$_3$ and their contribution to the free
+energy in the superconducting state. The latter is a consequence of an
+approximate particle-hole symmetry. Finally we extend the theory to finite
+pressure and show that, in contrast to other models, the $E_{1g}$ model
+explains the observed pressure dependence of the phase boundaries.
+","[{""version"":""v1"",""created"":""Fri, 23 Jun 1995 23:27:54 GMT""}]","2009-10-28"
+"cond-mat/9506113","Lizeng Zhang","Lizeng Zhang","Chern-Simons Field Theory of Two-Dimensional Electrons in the Lowest
+  Landau Level","28 pages, Revtex, a postscript file for a figure is attached at the
+  end",,"10.1103/PhysRevB.53.3937",,"cond-mat",,"  We propose a fermion Chern-Simons field theory describing two- dimensional
+electrons in the lowest Landau level. This theory is constructed with a
+complete set of states, and the lowest Landau level constraint is enforced
+through a delta-functional described by an auxiliary field lambda. Unlike the
+field theory constructed directly with the states in the lowest Landau level,
+this theory allows one utilizing the physical picture of ""composite fermion"" to
+study the fractional quantum Hall states by mapping them onto certain integer
+quantum Hall states; but unlike it in the unconstrained theory, such a mapping
+is sensible only when interactions between electrons are present. An ""effective
+mass"", which characterizes the scale of low energy excitations in the
+fractional quantum Hall systems, emerges naturally from our theory. We study a
+Gaussian effective theory and interpret physically the dressed stationary point
+equation for lambda as an equation for the ""mass renormalization"" of composite
+fermions.
+","[{""version"":""v1"",""created"":""Sat, 24 Jun 1995 09:05:58 GMT""}]","2009-10-28"
+"gr-qc/9506052",,"L.H. Ford and Thomas A. Roman","Averaged Energy Conditions and Evaporating Black Holes","Sections 2.1 and 2.2 have been revised and some erroneous statements
+  corrected. The main conclusions and the figures are unchanged. 27 pp, plain
+  Latex, 3 figures available upon request","Phys.Rev. D53 (1996) 1988-2000","10.1103/PhysRevD.53.1988","MIT-CTP-2446 and TUTP 95-1","gr-qc hep-th",,"  In this paper the averaged weak (AWEC) and averaged null (ANEC) energy
+conditions, together with uncertainty principle-type restrictions on negative
+energy (``quantum inequalities''), are examined in the context of evaporating
+black hole backgrounds in both two and four dimensions. In particular,
+integrals over only half-geodesics are studied. We determine the regions of the
+spacetime in which the averaged energy conditions are violated. In all cases
+where these conditions fail, there appear to be quantum inequalities which
+bound the magnitude and extent of the negative energy, and hence the degree of
+the violation. The possible relevance of these results for the validity of
+singularity theorems in evaporating black hole spacetimes is discussed.
+","[{""version"":""v1"",""created"":""Fri, 23 Jun 1995 22:39:30 GMT""},{""version"":""v2"",""created"":""Tue, 12 Dec 1995 02:35:37 GMT""}]","2009-10-28"
+"hep-ph/9506410",,"S.V.Bashinsky and B.Kerbikov (Institute of Theoretical and
+  Experimental Physics)","Reexamination of KKbar Threshold Phenomena with K+K- Atom Included","14 pages, FAX copies of the figures will be sent after your request
+  by e-mail at ""bashinsky@vxitep.itep.ru""","Phys.Atom.Nucl.59:1979-1987,1996; Yad.Fiz.59N11:2054-2062,1996",,"CEA SACLAY, DAPNIA/SPHN 95-35, 06/1995","hep-ph",,"  We develop a general framework to study KKbar threshold phenomena with
+resonances f0, a0 and K+K- atom included. Based on this formalism we predict
+that the production of the K+K- atom in p+d=3He+X and similar reactions exhi-
+bits a drastic energy dependence due to the interplay with resonances f0 (980)
+and a0 (980). We point out that a set of few parameters describes KKbar
+threshold effects, f0 and a0 mesons, and K+K- atom. Our hope is that precision
+experimental study aimed at determining these parameters may shed more light on
+the nature of f0 and a0 resonances.
+","[{""version"":""v1"",""created"":""Fri, 23 Jun 1995 16:50:14 GMT""}]","2008-11-26"
+"hep-ph/9506411",,"Tadashi Yoshikawa","The Oblique Corrections from the Diagonal ETC Interaction","11pages, Latex, uses epic.sty and eepic.sty, 5 figures appended as a
+  uuencoded compressed ps-file","Phys.Lett. B368 (1996) 209","10.1016/0370-2693(95)01513-2","HUPD-9514","hep-ph",,"  We study the effect of the diagonal extended technicolor(ETC) gauge boson on
+the oblique correction parameters. It is shown that in the $T$ parameter is
+unacceptably large when the $Zbb$ vertex correction and $S$ parameter are
+consistent with the experiments in the ETC model.
+","[{""version"":""v1"",""created"":""Fri, 23 Jun 1995 16:15:41 GMT""}]","2009-10-28"
+"hep-ph/9506412",,"A. Efremov and D. Kharzeev","CP-Violating Effect of QCD Vacuum in Quark Fragmentation","significantly revised and extended version to appear in Phys.Lett.B","Phys.Lett. B366 (1996) 311-315","10.1016/0370-2693(95)01329-6","CERN-TH/95-139","hep-ph",,"  We demonstrate that the non-trivial CP-violating structure of QCD vacuum can
+lead to an observable effect in $e^+e^-\to q\bar q\to 2$-jet annihilation. We
+find that the sign of the jet handedness correlation can be opposite to that
+predicted by factorization of $q~\bar q$ fragmentation and CP-conjugation of
+the two jets. A simple model estimation of the handedness correlation magnitude
+is given.
+","[{""version"":""v1"",""created"":""Fri, 23 Jun 1995 16:18:30 GMT""},{""version"":""v2"",""created"":""Thu, 12 Oct 1995 16:21:13 GMT""}]","2009-10-28"
+"hep-ph/9506413","Evan Reidell","Xiangdong Ji (MIT)","Gluon Condensate from Lattice QCD","9 pages in REVTeX, one PostScript figure, additional discussion",,,"MIT-CTP-2439","hep-ph hep-lat hep-th",,"  After making some critical comments about the traditional method of
+extracting the gluon condensate from lattice QCD data, I present an alternative
+analysis. The result is more than a factor of five larger than the
+phenomenological value. Two closely related subjects, the effects of the
+infrared renormalons on the extraction and the Lepage and Mackenzie improvement
+on a lattice perturbation series, are also discussed.
+","[{""version"":""v1"",""created"":""Fri, 23 Jun 1995 18:57:37 GMT""},{""version"":""v2"",""created"":""Mon, 26 Jun 1995 15:23:27 GMT""},{""version"":""v3"",""created"":""Thu, 29 Jun 1995 19:49:12 GMT""}]","2008-02-03"
+"hep-ph/9506414","Dr. David J. Summers","D.J. Summers","Finite width effects in Higgs decays as a means of measuring massive
+  particle widths","19 pages, TeX, 5 postscipt figures, uses epsf.tex available at
+  http://phenom.physics.wisc.edu/pub/preprints/1995/madph-95-861.ps.Z or
+  ftp://phenom.physics.wisc.edu/pub/preprints/1995/madph-95-861.ps.Z","Phys.Rev. D53 (1996) 6374-6380","10.1103/PhysRevD.53.6374","MAD/PH/861","hep-ph",,"  We calculate decays of a Standard Model Higgs boson to a virtual massive
+particle and discuss how this depends on the massive particle total width. If
+the partial width of Higgs to a virtual massive particle can be measured this
+gives a measurement of that massive particle's width. We discuss how one would
+go about measuring these partial widths of a Higgs experimentally, and how this
+could lead to a measurement of the $W$ boson and $t$ quark width. For the
+latter extreme dependence on the Higgs mass and the small $H\to tt^*$ branching
+ratios mean that little can be learnt about the $t$ quark width. For the former
+there is also large dependence on the Higgs mass; however this can be removed
+by taking the ratio of $H\to WW^*$ decays to $H\to ZZ^*$ decays. This ratio
+also has the advantage of being fairly insensitive to physics beyond the
+Standard Model. Unfortunately, for Higgs masses of interest the $H\to ZZ^*$
+branching ratio is small enough that we require many 1000's of tagged Higgs
+decays before an accurate measurement of the $W$ width can be made. This is
+likely to be hard experimentally.
+","[{""version"":""v1"",""created"":""Fri, 23 Jun 1995 22:03:41 GMT""}]","2009-10-28"
+"hep-ph/9506415","Jae Weon Lee","Jae-weon Lee and In-guy Koh","Inflation and Inverse Symmetry Breaking","19 pages. Standard Latex file. Numerical study and non-equlibrium
+  problem is added. To be published in PRD","Phys.Rev.D54:7153-7157,1996","10.1103/PhysRevD.54.7153",,"hep-ph",,"  An inflation model with inverse symmetry breaking of two scalar fields is
+proposed. Constraints on the parameters for a successful inflation are
+obtained. In general the inequality $\lambda_1\ll g <\lambda_2$ should be
+satisfied, where $\lambda_{1,2}$ and $g$ are the coupling constants for self
+interaction and mutual interaction of two scalar fields respectively. An
+example with $SU(5)$ GUTs phase transition and numerical study are presented.
+This model introduce a new mechanism for the onset of inflation.
+","[{""version"":""v1"",""created"":""Sat, 24 Jun 1995 00:00:57 GMT""},{""version"":""v2"",""created"":""Mon, 14 Oct 1996 22:44:32 GMT""}]","2014-11-17"
+"hep-th/9506158","Parthasarathi Mitra","P. Mitra","Quantization of Gauge Theories with Anomalies","Invited Talk at DAE Symposium, Santiniketan, 9 pages, LATEX",,,"P/95-09","hep-th hep-ph",,"  In this talk, we briefly review the basic concepts of anomalous gauge
+theories. It has been known for some time how theories with local anomalies can
+be handled. Recently it has been pointed out that global anomalies, which
+obstruct the quantization of certain gauge theories in the temporal gauge, get
+bypassed in canonical quantization.
+","[{""version"":""v1"",""created"":""Fri, 23 Jun 1995 16:46:00 GMT""}]","2007-05-23"
+"hep-th/9506159",,"Kris Thielemans","An Algorithmic Approach to Operator Product Expansions, $W$-Algebras and
+  $W$-Strings","127 pages, LaTex, shar-file including readme.txt, 12 latex files, 6
+  eps files and 6 pcx files, PhD. thesis KU Leuven",,,,"hep-th",,"  String theory is currently the most promising theory to explain the spectrum
+of the elementary particles and their interactions. One of its most important
+features is its large symmetry group, which contains the conformal
+transformations in two dimensions as a subgroup. At quantum level, the symmetry
+group of a theory gives rise to differential equations between correlation
+functions of observables. We show that these Ward-identities are equivalent to
+Operator Product Expansions (OPEs), which encode the short-distance
+singularities of correlation functions with symmetry generators. The OPEs allow
+us to determine algebraically many properties of the theory under study. We
+analyse the calculational rules for OPEs, give an algorithm to compute OPEs,
+and discuss an implementation in Mathematica. There exist different string
+theories, based on extensions of the conformal algebra to so-called W-algebras.
+These algebras are generically nonlinear. We study their OPEs, with as main
+results an efficient algorithm to compute the beta-coefficients in the OPEs,
+the first explicit construction of the WB_2-algebra, and criteria for the
+factorisation of free fields in a W-algebra. An important technique to
+construct realisations of W-algebras is Drinfel'd- Sokolov reduction. The
+method consists of imposing certain constraints on the elements of an affine
+Lie algebra. We quantise this reduction via gauged WZNW-models. This enables us
+in a theory with a gauged W-symmetry, to compute exactly the correlation
+functions of the effective theory. Finally, we investigate the critical
+W-string theories based on an extension of the conformal algebra with one
+symmetry generator of dimension N. We clarify how the spectrum of this theory
+forms a minimal model of the W_N-algebra.
+","[{""version"":""v1"",""created"":""Fri, 23 Jun 1995 17:17:50 GMT""}]","2007-05-23"
+"hep-th/9506161","Lin-Yuan Chen","Lin-Yuan Chen, Nigel Goldenfeld, Y. Oono","The Renormalization Group and Singular Perturbations: Multiple-Scales,
+  Boundary Layers and Reductive Perturbation Theory","44 pages, 2 Postscript figures, macro \uiucmac.tex available at macro
+  archives or at ftp://gijoe.mrl.uiuc.edu/pub","Phys.Rev.E54:376-394,1996","10.1103/PhysRevE.54.376",,"hep-th cond-mat gr-qc",,"  Perturbative renormalization group theory is developed as a unified tool for
+global asymptotic analysis. With numerous examples, we illustrate its
+application to ordinary differential equation problems involving multiple
+scales, boundary layers with technically difficult asymptotic matching, and WKB
+analysis. In contrast to conventional methods, the renormalization group
+approach requires neither {\it ad hoc\/} assumptions about the structure of
+perturbation series nor the use of asymptotic matching. Our renormalization
+group approach provides approximate solutions which are practically superior to
+those obtained conventionally, although the latter can be reproduced, if
+desired, by appropriate expansion of the renormalization group approximant. We
+show that the renormalization group equation may be interpreted as an amplitude
+equation, and from this point of view develop reductive perturbation theory for
+partial differential equations describing spatially-extended systems near
+bifurcation points, deriving both amplitude equations and the center manifold.
+","[{""version"":""v1"",""created"":""Fri, 23 Jun 1995 22:28:52 GMT""}]","2008-11-26"
+"hep-th/9506162","Thomas Portmann","H.D. Dahmen, S. Marculescu, T. Portmann (Univ. Siegen)","Topological Yang-Mills Theory with Two Fermionic Charges. A Superfield
+  Approach on K\""ahler Manifolds","41 pages, LaTeX. Section about Donaldson cohomology revised and
+  completed. To be published in Nucl. Phys. B","Nucl.Phys. B462 (1996) 493-523","10.1016/0550-3213(95)00682-6","SI-95-4","hep-th",,"  The four-dimensional topological Yang-Mills theory with two anticommuting
+charges is naturally formulated on K\""ahler manifolds. By using a superspace
+approach we clarify the structure of the Faddeev-Popov sector and determine the
+total action. This enables us to perform perturbation theory around any given
+instanton configuration by manifestly maintaining all the symmetries of the
+topological theory. The superspace formulation is very useful for recognizing a
+trivial observable (i.e. having vanishing correlation functions only) as the
+highest component of a gauge invariant superfield. As an example of non-trivial
+observables we construct the complete solution to the simultaneous cohomology
+problem of both fermionic charges. We also show how this solution has to be
+used in order to make Donaldson's interpretation possible.
+","[{""version"":""v1"",""created"":""Sat, 24 Jun 1995 00:23:28 GMT""},{""version"":""v2"",""created"":""Thu, 10 Aug 1995 09:16:41 GMT""},{""version"":""v3"",""created"":""Wed, 3 Jan 1996 14:28:59 GMT""}]","2009-10-28"
+"hep-th/9506163","D'Hoker","Eric D'Hoker","General 2+1 Dimensional Effective Actions and Soliton Spin
+  Fractionalization","10 pp., Plain Tex, no figures","Phys.Lett. B357 (1995) 539-544","10.1016/0370-2693(95)00953-I","UCLA/95/TEP/13","hep-th cond-mat",,"  We propose actions for non-linear sigma models on cosets $G/H$ in 2+1
+dimensions that include the most general non-linear realizations of
+Chern-Simons terms. When $G$ is simply connected and $H$ contains $r$ commuting
+U(1) factors, there are $r$ different topologically conserved charges and
+generically $r$ different types of topological solitons. Soliton spin
+fractionalizes as a function of the Chern-Simons couplings, with independent
+spins associated to each species of soliton charge, as well as to pairs of
+different charges. This model of soliton spin fractionalization generalizes to
+arbitrary $G/H$ a model of Wilczek and Zee for one type of soliton.
+","[{""version"":""v1"",""created"":""Sat, 24 Jun 1995 09:20:13 GMT""}]","2009-10-28"
+"math/9506215","Doron Zeilberger","Doron Zeilberger (Temple University)","The Method of Undetermined Generalization and Specialization Illustrated
+  with Fred Galvin's Amazing Proof of the Dinitz Conjecture","Plain TeX","Amer. math. Monthly 103(1996), 233-239",,,"math.CO",,"  Fred Galvin's amazing proof of the Dinitiz conjecture is used to illustrate
+the method of undetermined generalization and specialization.
+","[{""version"":""v1"",""created"":""Fri, 23 Jun 1995 19:39:31 GMT""}]","2008-02-03"
+"nucl-th/9506020",,"Yung Jo and Chang-Yong Lee","Projectile $\Delta$ Excitations in $p(p,n)N\pi $ Reactions","9 pages, Revtex, figures can be obtained upon request","Phys.Rev.C54:952-955,1996","10.1103/PhysRevC.54.952",,"nucl-th",,"  It has recently been proven from measurements of the spin-transfer
+coefficients $D_{xx}$ and $D_{zz}$ that there is a small but non-vanishing
+$\Delta S=0$ component $\sigma_{0}$, in the inclusive $p(p,n)N\pi\,$ reaction
+cross section $\sigma\,$. It is shown that the dominant part of the measured
+$\sigma_{0}$ can be explained in terms of the projectile $\Delta$ excitation
+mechanism. An estimate is further made of contributions to $\sigma_{0}$ from
+s-wave rescattering process. It is found that s-wave rescattering contribution
+is much smaller than the contribution coming from projectile $\Delta$
+excitation mechanism. The addition of s-wave rescattering contribution to the
+dominant part, however, improves the fit to the data.
+","[{""version"":""v1"",""created"":""Fri, 23 Jun 1995 19:59:42 GMT""}]","2009-09-25"
+"nucl-th/9506021","Munshi Golam Mustafa","M. G. Mustafa and A. Ansari","Colour-singlet strangelets at finite temperature","Revtex file(8 pages)+6 figures(ps files) available on request from
+  first Author","Phys.Rev.C55:2005-2009,1997","10.1103/PhysRevC.55.2005","IP/BBSR/95-56","nucl-th",,"  Considering massless $u$ and $d$ quarks, and massive (150 MeV) $s$ quarks in
+a bag with the bag pressure constant $B^{1/4} = 145$ MeV, a colour-singlet
+grand canonical partition function is constructed for temperatures $T = 1-30$
+MeV. Then the stability of finite size strangelets is studied minimizing the
+free energy as a function of the radius of the bag. The colour-singlet
+restriction has several profound effects when compared to colour unprojected
+case: (1) Now bulk energy per baryon is increased by about $250$ MeV making the
+strange quark matter unbound. (2) The shell structures are more pronounced
+(deeper). (3) Positions of the shell closure are shifted to lower $A$-values,
+the first deepest one occuring at $A=2$, famous $H$-particle ! (4) The shell
+structure at $A=2$ vanishes only at $T\sim 30$ MeV, though for higher
+$A$-values it happens so at $T\sim 20$ MeV.
+","[{""version"":""v1"",""created"":""Fri, 23 Jun 1995 19:11:11 GMT""}]","2009-09-25"
+"q-alg/9506020","Harold Steinacker","Harold Steinacker","Integration on quantum Euclidean space and sphere in $N$ dimensions","15 pages, Latex, citations and reference added, minor typos corrected",,"10.1063/1.531658","LBL-37431, UCB-PTH-95/21","q-alg hep-th math.QA",,"  Invariant integrals of functions and forms over $q$ - deformed Euclidean
+space and spheres in $N$ dimensions are defined and shown to be positive
+definite, compatible with the star - structure and to satisfy a cyclic property
+involving the $D$ - matrix of $SO_q(N)$. The definition is more general than
+the Gaussian integral known so far. Stokes theorem is proved with and without
+spherical boundary terms, as well as on the sphere.
+","[{""version"":""v1"",""created"":""Fri, 23 Jun 1995 23:36:25 GMT""},{""version"":""v2"",""created"":""Mon, 26 Jun 1995 21:51:18 GMT""},{""version"":""v3"",""created"":""Fri, 4 Aug 1995 02:03:45 GMT""}]","2009-10-28"

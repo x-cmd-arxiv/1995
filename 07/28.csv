@@ -1,0 +1,331 @@
+"adap-org/9507007","Thorsten Poeschel","Werner Ebeling, Alexander Neiman and Thorsten P\""oschel","Dynamic Entropies, Long--Range Correlations and Fluctuations in Complex
+  Linear Structures","6 pages, 3 figures included, uuencoded+gzipped",,,"ITP-389","adap-org nlin.AO q-bio",,"  We investigate symbolic sequences and in particular information carriers as
+e.g. books and DNA--strings. First the higher order Shannon entropies are
+calculated, a characteristic root law is detected. Then the algorithmic entropy
+is estimated by using Lempel--Ziv compression algorithms. In the third section
+the correlation function for distant letters, the low frequency Fourier
+spectrum and the characteristic scaling exponents are calculated. We show that
+all these measures are able to detect long--range correlations. However, as
+demonstrated by shuffling experiments, different measures operate on different
+length scales. The longest correlations found in our analysis comprise a few
+hundreds or thousands of letters and may be understood as long--wave
+fluctuations of the composition.
+","[{""version"":""v1"",""created"":""Fri, 28 Jul 1995 00:08:30 GMT""}]","2008-02-03"
+"astro-ph/9507111","Avi Loeb","Zoltan Haiman, Anne A. Thoul, and Abraham Loeb (Harvard Univ.)","Cosmological Formation of Low-Mass Objects","40 pages, uuencoded compressed Postscript, 14 figures included as
+  three separate files","Astrophys.J. 464 (1996) 523","10.1086/177343",,"astro-ph",,"  We investigate the early formation of bound objects with masses comparable to
+the cosmological Jeans mass (10^5 solar masses). We follow the growth of
+isolated spherically symmetric density peaks starting from the linear
+perturbative regime. The initial parameters correspond to density peaks of
+various widths and heights in a Cold Dark Matter cosmology. We use a
+one-dimensional spherical Lagrangian hydrodynamics code to follow the
+dynamical, thermal, and non-equilibrium chemical evolution of the gas. The
+system includes a collisionless dark matter component and a baryonic component
+composed of the nine species H, H^-, H^+, He, He^+, He^{++}, H_2, H_2^+, and
+e^-. All relevant chemical reactions between these species and their cooling
+mechanisms are included in the calculations. We find that radiative cooling by
+H_2 affects the collapse dynamics of the gas only after it has already
+virialized and become part of the bound object. Therefore, radiative cooling is
+unlikely to have triggered the initial collapse of perturbations at redshifts
+z>10. Nevertheless, objects with baryonic masses well below the linear-theory
+Jeans mass (<10^3 solar masses) collapse due to shell crossing by the dark
+matter. Such objects could be the progenitors of a primordial population of
+high-mass stars in the intergalactic medium.
+","[{""version"":""v1"",""created"":""Thu, 27 Jul 1995 22:15:44 GMT""}]","2009-10-28"
+"chao-dyn/9507009","Porus Lakdawala","Porus Lakdawala","The Computational Complexity of Symbolic Dynamics at the Onset of Chaos","1 reference corrected, 1 reference added, minor changes in body of
+  manuscript",,"10.1103/PhysRevE.53.4477","TIFR/TH/95-29","chao-dyn cond-mat nlin.CD",,"  In a variety of studies of dynamical systems, the edge of order and chaos has
+been singled out as a region of complexity. It was suggested by Wolfram, on the
+basis of qualitative behaviour of cellular automata, that the computational
+basis for modelling this region is the Universal Turing Machine. In this paper,
+following a suggestion of Crutchfield, we try to show that the Turing machine
+model may often be too powerful as a computational model to describe the
+boundary of order and chaos. In particular we study the region of the first
+accumulation of period doubling in unimodal and bimodal maps of the interval,
+from the point of view of language theory. We show that in relation to the
+``extended'' Chomsky hierarchy, the relevant computational model in the
+unimodal case is the nested stack automaton or the related indexed languages,
+while the bimodal case is modeled by the linear bounded automaton or the
+related context-sensitive languages.
+","[{""version"":""v1"",""created"":""Fri, 28 Jul 1995 13:36:03 GMT""},{""version"":""v2"",""created"":""Thu, 3 Aug 1995 15:29:05 GMT""},{""version"":""v3"",""created"":""Thu, 17 Aug 1995 10:58:46 GMT""}]","2009-10-28"
+"cond-mat/9507124","Young Sang Lee","B.O. Wells, R.J. Birgeneau, F.C. Chou, Y. Endoh, D.C. Johnston, M.A.
+  Kastner, Y.S. Lee, G. Shirane, J.M. Tranquada, and K. Yamada","Intercalation and Staging Behavior in Super-Oxygenated $La_2CuO_{4 +
+  \delta}$","23 pages, latex, 6 figures (not including Figures 2 & 7 and Table 1
+  which were not submitted but are available upon request to the Authors at:
+  bwells@x-ray.mit.edu)","Z. Phys. B 100, 535-545 (1996)","10.1007/s002570050158",,"cond-mat supr-con",,"  A high temperature electrochemical oxidation process has been used to produce
+large single crystals of $La_2CuO_{4 + \delta}$ suitable for neutron scattering
+experiments. Below room temperature the oxygen-rich phases have structural
+superlattice scattering peaks which indicate new periodicities ranging from 2
+to 6.6 layers perpendicular to the copper oxide planes. A model structure
+originally proposed for $La_2NiO_{4 + \delta}$ can account for the superlattice
+peaks as a result of anti-phase domain boundaries between different tilt
+directions of the CuO$_6$ octahedra. Within this model, the changes in CuO$_6$
+tilt directions are induced by segregated layers of interstitial oxygen which
+order in a manner similar to intercalants in graphite. This structural model
+thus clarifies previous work and establishes $La_2CuO_{4 + \delta}$ as a unique
+lamellar superconducting system with annealed disorder.
+","[{""version"":""v1"",""created"":""Thu, 27 Jul 1995 20:58:11 GMT""}]","2010-11-17"
+"cond-mat/9507126","Ping Ao","X.-M. Zhu, Yong Tan, P. Ao","Effects of Geometric Phases in Josephson Junction Arrays","Latex, 11 pages, appeared in Phys. Rev. Lett. v.77, 562 (1996) with
+  minor changes",,"10.1103/PhysRevLett.77.562",,"cond-mat",,"  We show that the en route vortex velocity dependent part of the Magnus force
+in a Josephson junction array is effectively zero, and predict zero Hall effect
+in the classical limit. However, geometric phases due to the finite superfluid
+density at superconductor grains have a profound influence on the quantum
+dynamics of vortices. Subsequently we find rich and complex Hall behaviors
+analogous to the Thouless-Kohmoto-Nightingale-den Nijs effect in the quantum
+regime.
+","[{""version"":""v1"",""created"":""Fri, 28 Jul 1995 11:12:49 GMT""},{""version"":""v2"",""created"":""Sun, 8 Mar 1998 18:37:42 GMT""}]","2009-10-28"
+"gr-qc/9507055","I. Racz","Istvan Racz and Robert M. Wald","Global Extensions of Spacetimes Describing Asymptotic Final States of
+  Black Holes","20 pages, plain tex","Class.Quant.Grav. 13 (1996) 539-553","10.1088/0264-9381/13/3/017",,"gr-qc",,"  We consider a globally hyperbolic, stationary spacetime containing a black
+hole but no white hole. We assume, further, that the event horizon, $\tn$, of
+the black hole is a Killing horizon with compact cross-sections. We prove that
+if surface gravity is non-zero constant throughout the horizon one can {\it
+globally} extend such a spacetime so that the image of $\cal N$ is a proper
+subset of a regular bifurcate Killing horizon in the enlarged spacetime. The
+necessary and sufficient conditions are given for the extendibility of matter
+fields to the enlarged spacetime. These conditions are automatically satisfied
+if the spacetime is static (and, hence ``$t$""-reflection symmetric) or
+stationary-axisymmetric with ``$t-\phi$"" reflection isometry and the matter
+fields respect the reflection isometry. In addition, we prove that a necessary
+and sufficient condition for the constancy of the surface gravity on a Killing
+horizon is that the exterior derivative of the twist of the horizon Killing
+field vanish on the horizon. As a corollary of this, we recover a result of
+Carter that constancy of surface gravity holds for any black hole which is
+static or stationary- axisymmetric with the ``$t-\phi$"" reflection isometry. No
+use of Einstein's equation is made in obtaining any of the above results. Taken
+together, these results support the view that any spacetime representing the
+asymptotic final state of a black hole formed by gravitational collapse may be
+assumed to possess a bifurcate Killing horizon or a Killing horizon with
+vanishing surface gravity.
+","[{""version"":""v1"",""created"":""Fri, 28 Jul 1995 14:58:15 GMT""}]","2009-10-28"
+"hep-lat/9507023","Thomas Kalkreuter","Thomas Kalkreuter and Hubert Simma","An Accelerated Conjugate Gradient Algorithm to Compute Low-Lying
+  Eigenvalues --- a Study for the Dirac Operator in SU(2) Lattice QCD","25 pages, uuencoded tar-compressed .ps-file","Comput.Phys.Commun.93:33-47,1996","10.1016/0010-4655(95)00126-3","DESY 95-137 and HUB-IEP-95/10","hep-lat",,"  The low-lying eigenvalues of a (sparse) hermitian matrix can be computed with
+controlled numerical errors by a conjugate gradient (CG) method. This CG
+algorithm is accelerated by alternating it with exact diagonalisations in the
+subspace spanned by the numerically computed eigenvectors. We study this
+combined algorithm in case of the Dirac operator with (dynamical) Wilson
+fermions in four-dimensional $\SUtwo$ gauge fields. The algorithm is
+numerically very stable and can be parallelized in an efficient way. On
+lattices of sizes $4^4-16^4$ an acceleration of the pure CG method by a factor
+of~$4-8$ is found.
+","[{""version"":""v1"",""created"":""Fri, 28 Jul 1995 10:29:55 GMT""}]","2008-11-26"
+"hep-ph/9507437","Isi Dunietz","Gerhard Buchalla, Isard Dunietz (FNAL), Hitoshi Yamamoto (Harvard)","Hadronization of $b\to c\bar cs$","15 pages, 3 postscript figures encoded into a single .uu file","Phys.Lett.B364:188-194,1995","10.1016/0370-2693(95)01296-6","FERMILAB-PUB-95/167-T, HUTP-95/A009","hep-ph",,"  The b -> c cbar s transition is usually believed to hadronize predominantly
+in Bbar -> X_c Ds(*)- with the Ds(*)- originating from the virtual W. We
+demonstrate in a variety of independent ways that other hadronization processes
+cannot be neglected. The invariant mass of cbar s has sizable phase-space
+beyond m_D+m_K. The rate for Bbar -> D Dbar Kbar X could be significant and
+should not be ignored as was done in previous experimental analyses. We
+estimate the number of charmed hadrons per B-decay, n_c, to be about 1.3 to
+higher accuracy than obtained in previous investigations. Even though n_c is
+currently measured to be about 1.1, observing a significant Bbar -> D Dbar Kbar
+X would support n_c of about 1.3. Many testable consequences result, some of
+which we discuss.
+","[{""version"":""v1"",""created"":""Thu, 27 Jul 1995 21:01:29 GMT""}]","2009-10-09"
+"hep-ph/9507438","Elizabeth H. Simmons","Gautam Rupak and Elizabeth H. Simmons (Boston University)","Limits on Pseudoscalar Bosons From Rare $Z$ Decays at LEP","13 pages, harvmac and epsf, 3 figures. Full postscript version
+  including figures available at http://smyrd.bu.edu/htfigs/htfigs.html","Phys.Lett. B362 (1995) 155-163","10.1016/0370-2693(95)01152-G","BUHEP-95-21","hep-ph",,"  Current LEP data on rare $Z$ decays constrain nonminimal technicolor models
+that contain light neutral pseudo-Nambu-Goldstone bosons ($P^a$). We discuss
+the production and decay of such particles, and show how LEP data on
+$\gamma\gamma\gamma$, $\gamma + E\!\!\!/ $ and $\gamma+$hadrons constrain the
+size of the technicolor gauge group and the strength of the $Z\gamma P^a$
+coupling. The limits are then applied to several specific technicolor
+scenarios.
+","[{""version"":""v1"",""created"":""Thu, 27 Jul 1995 21:16:15 GMT""}]","2009-10-28"
+"hep-ph/9507439","Fritz Dejongh","F. DeJongh (Fermilab) and P. Sphicas (Massachusetts Institute of
+  Technology)","Extracting $\alpha$ from the CP Asymmetry in $B^0 \to \pi^+ \pi^-$
+  Decays","18 pages latex, 9 eps files","Phys.Rev. D53 (1996) 4930-4936","10.1103/PhysRevD.53.4930","FERMILAB-PUB-95/179-E and LNS-95-157","hep-ph",,"  The extraction of the CKM angle $\alpha$ from the asymmetry in $B^0 \to
+\pi^+\pi^-$ vs ${\bar B^0} \to \pi^+\pi^-$ suffers from a currently unknown
+penguin contribution. Experimentally, one can determine the magnitude and phase
+of the CP asymmetry from a time-dependent analysis of tagged events, and the
+average rate for $B^0$ and $\bar{B}^0$ decays to $\pi^+\pi^-$ from untagged
+events. These measurements, together with the magnitudes and relative phase of
+the tree and penguin diagrams, can in principle completely determine $\alpha$,
+free of discrete ambiguities. We perform an error analysis on $\alpha$ given
+assumptions on the values and uncertainties of both the measurements and
+theoretical inputs.
+","[{""version"":""v1"",""created"":""Thu, 27 Jul 1995 21:41:53 GMT""}]","2009-10-28"
+"hep-ph/9507440","Christo Valiotis","Dan Karmgard, Subhash Rajpoot","Flavor Mixing, CP Violation and a Heavy Top","4 pages, Latex, no figures",,,,"hep-ph",,"  The recent analysis of the electroweak data at CDF indicates that the
+constraint on the top quark mass is $m_t=174\pm 17 $GeV. We accommodate this
+result in a new scheme of quark mass matrices in which two elements along the
+the leading diagonal are non-vanishing and the other non-vanishing elements are
+those due to nearest neighbour interactions. By comparing the quark mixing
+matrix elements of our scheme with the experimentally determined Kobayashi-
+Maskawa matrix elememts in the standard electroweak model, we find that the CP
+violating phases ($\delta_1$ and $\delta_2$) in our model violate the CP
+symmetry maximally.
+","[{""version"":""v1"",""created"":""Fri, 28 Jul 1995 00:59:41 GMT""}]","2007-05-23"
+"hep-ph/9507441",,"K.-I. Izawa and T. Yanagida","QCD-like Hidden Sector Models without the Polonyi Problem","7 pages, phyzzx","Prog.Theor.Phys. 94 (1995) 1105-1108","10.1143/PTP.94.1105","UT-714","hep-ph",,"  QCD-like hidden sector models of supersymmetry breaking are considered which
+do not suffer from a cosmological problem due to the Polonyi field. Avoidance
+of a light gluino leads to introduction of quasi-symmetry -- symmetry broken
+explicitly only through gravitational effects.
+","[{""version"":""v1"",""created"":""Fri, 28 Jul 1995 05:39:10 GMT""}]","2009-10-28"
+"hep-ph/9507442","Adrian Signer","Adrian Signer","One-loop corrections to five-parton amplitudes with external photons","7 pages, latex","Phys.Lett. B357 (1995) 204-210","10.1016/0370-2693(95)00905-Z","ETH-TH/95-19","hep-ph",,"  Recently the calculations of all five-parton one-loop QCD amplitudes have
+been completed. In this letter we describe how to get the corresponding
+amplitudes with one gluon replaced by a photon and we give the explicit results
+for the process $0 \to 2q 2Q 1\y$.
+","[{""version"":""v1"",""created"":""Fri, 28 Jul 1995 08:00:54 GMT""}]","2009-10-28"
+"hep-ph/9507443","Fernando Ruiz","J.H. Leon, C.P. Martin and F. Ruiz Ruiz","Unitarity violation in non-abelian Pauli-Villars regularization","plain LaTeX, 13 pages plus 3 figures in a uuencoded PS file","Phys.Lett. B355 (1995) 531-538","10.1016/0370-2693(95)00757-C","FTUAM 95/19, FT/UCM 04/95, NIKHEF 95/015","hep-ph hep-th",,"  We regularize QCD using the combination of higher covariant derivatives and
+Pauli-Villars determinants proposed by Slavnov. It is known that for pure
+Yang-Mills theory the Pauli-Villars determinants generate unphysical
+logarithmic radiative corrections at one loop that modify the beta function.
+Here we prove that when the gauge fields are coupled to fermions so that one
+has QCD, these unphysical corrections translate into a violation of unitarity.
+We provide an understanding of this by seeing that Slavnov's choice for the
+Pauli-Villars determinants introduces extra propagating degrees of freedom that
+are responsible for the unitarity breaking. This shows that Slavnov's
+regularization violates unitarity, hence that it should be rejected.
+","[{""version"":""v1"",""created"":""Fri, 28 Jul 1995 09:05:31 GMT""}]","2009-10-28"
+"hep-ph/9507444","Chris Traxler","Christoph T. Traxler and Markus H. Thoma","Photon Emission from a Parton Gas at Chemical Non-Equilibrium","17 pages, uuencoded Postscript file, figures included","Phys.Rev.C53:1348-1352,1996","10.1103/PhysRevC.53.1348","UGI-95-06","hep-ph nucl-th",,"  We compute the hard photon production rate of a chemically non-equilibrated
+quark-gluon plasma. We assume that the plasma is already thermally
+equilibrated, i.~e. describable by a temperature, but with a phase-space
+distribution that deviates from the Fermi/Bose distribution by a time dependent
+factor (fugacity). The photon spectrum is obtained by integrating the photon
+rate over the space-time evolution of the quark-gluon plasma. Some consequences
+for ultrarelativistic heavy ion collisions are discussed.
+","[{""version"":""v1"",""created"":""Fri, 28 Jul 1995 12:11:50 GMT""}]","2008-11-26"
+"hep-ph/9507445","Eveline Ess","A. Bartl, E. Christova, and W. Majerotto","CP-violating asymmetries in top-quark production and decay in $e^+ e^-$
+  annihilation within the MSSM","17 pages of LateX plus five uuencoded Postscript figures, LateX file
+  and PS-figures are also available via anonymous ftp at
+  ftp://info.oeaw.ac.at/pub/hephy-pub/624","Nucl.Phys. B460 (1996) 235-251; Erratum-ibid. B465 (1996) 365","10.1016/0550-3213(95)00635-4","HEPHY-PUB 624/95, UWThPh-1995-9","hep-ph",,"  We obtain analytic formulae for the cross section of the sequential processes
+of $e^+ e^- \to t \bar t$ and $t \to b l \nu$ in the laboratory frame where the
+dependence on triple product correlations of the type ($\hat(q}_1 x \hat{q}_2 .
+\hat{q}_3$), induced by CP violation both in the production and the decay are
+explicitely shown. Different observables sensitive to CP violation are defined
+and calculated in the Minimal Supersymmetric Standard Model (MSSM). The
+observables sensitive to CP violation are of the order of $10^-3$. The
+dependence on the masses of the supersymmetric particles is also shown.
+","[{""version"":""v1"",""created"":""Fri, 28 Jul 1995 13:18:57 GMT""},{""version"":""v2"",""created"":""Mon, 31 Jul 1995 14:59:16 GMT""},{""version"":""v3"",""created"":""Thu, 3 Aug 1995 13:53:29 GMT""}]","2009-10-28"
+"hep-ph/9507446","Alasdair James Gill","R.J. Rivers","Vortex Production at Phase Transitions in Nonrelativistic and
+  Relativistic Media","23 pages, replaced version - tex problems corrected",,,"Imperial/TP/94-95/47","hep-ph",,"  We examine string (vortex) formation at a quench for a weakly-coupled global
+U(1) theory when the excitation spectrum is non-relativistic. It is so similar
+to vortex production in the corresponding relativistic plasma as to reinforce
+arguments for the similarity of vorheptex production in the early universe and
+in low-temperature many-body physics.
+","[{""version"":""v1"",""created"":""Fri, 28 Jul 1995 13:16:56 GMT""},{""version"":""v2"",""created"":""Tue, 1 Aug 1995 12:22:13 GMT""}]","2008-02-03"
+"hep-ph/9507448","Mauro Donizeti Tonasse","Vicente Pleitez","The heavy top quark and right-handed currents","14 pages, Revtex, no figure, revised and extended version",,,"IFT-P.035/95","hep-ph",,"  We consider a modification of the standard electroweak model with the third
+quark generation and the $\tau$-lepton in vector representations of
+$SU(2)\otimes U(1)_Y$ electroweak symmetry. This is a new way to implement
+right-handed currents which are controlled by the usual Fermi constant, $G_F$,
+the weak mixing angle, $\sin\theta_W$, and also by the right-handed mixing
+matrices which survive when the Lagrangian density is written in terms of the
+mass eigenstates. In this case there are also new CP violation phases.
+","[{""version"":""v1"",""created"":""Fri, 28 Jul 1995 12:35:00 GMT""},{""version"":""v2"",""created"":""Tue, 6 Jan 1998 18:40:30 GMT""}]","2008-02-03"
+"hep-th/9507154","Dr A. K. Kapoor","R.S.Bhalla, A.K.Kapoor and P.K.Panigrahi","Energy Eigenvalues For Supersymmetric Potentials via Quantum
+  Hamilton-Jacobi Formalism","15 pages Latex Compile twice to get cross references correct. 2
+  Figures not included. Requests for figures should be sent to
+  akksp@uohyd.ernet.in",,,"MRI-PHYS-95/11","hep-th",,"  Using quantum Hamilton-Jacobi formalism of Leacock and Padgett, we show how
+to obtain the exact eigenvalues for supersymmetric (SUSY) potentials.
+","[{""version"":""v1"",""created"":""Thu, 27 Jul 1995 16:42:56 GMT""}]","2009-09-25"
+"hep-th/9507155",,"B. Bellet, P. Garcia (U. Montpellier II-CNRS)and A. Neveu (Lawrence
+  Berkeley Laboratory)","Convergent sequences of perturbative approximations for the anharmonic
+  oscillator I. Harmonic approach","29 pages, 12 Postscript figures available through anonymous ftp at
+  ftp://algol.lpm.univ-montp2.fr ; replaces earlier version which could not be
+  postscripted presumably due to lack of figures.uu file","Int.J.Mod.Phys. A11 (1996) 5587-5606","10.1142/S0217751X9600256X","LBL-37559 UCB-PTH-95/27","hep-th",,"  We present numerical evidence that a simple variational improvement of the
+ordinary perturbation theory of the quantum anharmonic oscillator can give a
+convergent sequence of approximations even in the extreme strong coupling
+limit, the purely anharmonic case. Some of the new techniques of this paper can
+be extended to renormalizable field theories.
+","[{""version"":""v1"",""created"":""Fri, 28 Jul 1995 01:19:14 GMT""},{""version"":""v2"",""created"":""Fri, 28 Jul 1995 21:28:50 GMT""}]","2009-10-28"
+"hep-th/9507156",,"B. Bellet, P. Garcia (U. Montpellier II-CNRS) and A. Neveu (Lawrence
+  Berkeley Laboratory)","Convergent sequences of perturbative approximations for the anharmonic
+  oscillator II. Compact time approach","21 pages, 4 Postscript figures available through anonymous ftp at
+  ftp://algol.lpm.univ-montp2.fr ; replaces version which could not be
+  postscripted presumably for lack of figures.uu file","Int.J.Mod.Phys. A11 (1996) 5607-5622","10.1142/S0217751X96002571","LBL-37560 UCB-PTH-95/28","hep-th",,"  We present an alternative pathway in the application of the variation
+improvement of ordinary perturbation theory exposed in [1] which can preserve
+the internal symmetries of a model by means of a time compactification.
+","[{""version"":""v1"",""created"":""Fri, 28 Jul 1995 01:20:04 GMT""},{""version"":""v2"",""created"":""Fri, 28 Jul 1995 21:31:43 GMT""}]","2009-10-28"
+"hep-th/9507157","Bala Sathiapalan","B. Sathiapalan","On Factorizing Correlation Functions in String Theory Using Loop
+  Variables","Latex file, 15 pages","Mod. Phys. Lett. A10 (1995) 2381","10.1142/S0217732395002532",,"hep-th",,"  Factorization of string amplitudes is one way of constructing string
+interaction vertices. We show that correlation functions in string theory can
+be conveniently factorized using loop variables representing delta functionals.
+We illustrate this construction with some examples where one particle is
+off-shell. These vertices are ``correct'' in the sense that they are
+guaranteed, by construction, to reproduce S-matrix elements when combined with
+propagators in a well defined way.
+","[{""version"":""v1"",""created"":""Fri, 28 Jul 1995 02:47:00 GMT""}]","2015-06-26"
+"hep-th/9507158","Melanie Becker","Katrin Becker, Melanie Becker and Andrew Strominger","Fivebranes, Membranes and Non-Perturbative String Theory","34 pages, phyzzx (A new section about conifold singularities in
+  hypermultiplet moduli spaces is added)","Nucl.Phys.B456:130-152,1995","10.1016/0550-3213(95)00487-1",,"hep-th",,"  Non-perturbative instanton corrections to the moduli space geometry of type
+IIA string theory compactified on a Calabi-Yau space are derived and found to
+contain order $e^{-1/g_s}$ contributions, where $g_s$ is the string coupling.
+The computation reduces to a weighted sum of supersymmetric extremal maps of
+strings, membranes and fivebranes into the Calabi-Yau space, all three of which
+enter on equal footing. It is shown that a supersymmetric 3-cycle is one for
+which the pullback of the K\""ahler form vanishes and the pullback of the
+holomorphic three-form is a constant multiple of the volume element. Quantum
+mirror symmetry relates the sum in the IIA theory over supersymmetric,
+odd-dimensional cycles in the Calabi-Yau space to a sum in the IIB theory over
+supersymmetric, even-dimensional cycles in the mirror.
+","[{""version"":""v1"",""created"":""Fri, 28 Jul 1995 03:34:00 GMT""},{""version"":""v2"",""created"":""Fri, 25 Aug 1995 18:15:16 GMT""},{""version"":""v3"",""created"":""Wed, 27 Sep 1995 23:16:36 GMT""}]","2009-09-17"
+"hep-th/9507159","Juergen Berges","J. Berges, N. Tetradis and C. Wetterich","Critical equation of state from the average action","Latex, 8 pages, 2 uuencoded figures","Phys.Rev.Lett. 77 (1996) 873-876","10.1103/PhysRevLett.77.873","HD-THEP-95-27, OUTP 95-27 P","hep-th cond-mat",,"  The scaling form of the critical equation of state is computed for
+$O(N)$-symmetric models. We employ a method based on an exact flow equation for
+a coarse grained free energy. A suitable truncation is solved numerically.
+","[{""version"":""v1"",""created"":""Fri, 28 Jul 1995 08:17:12 GMT""}]","2009-10-28"
+"hep-th/9507161",,"Emilio N. M. Cirillo, Giuseppe Gonnella, Alessandro Pelizzola","Folding transitions of the triangular lattice with defects","16 pages, latex, 5 postscript figures","Phys. Rev. E 53 (1996) 1479","10.1103/PhysRevE.53.1479","BARI-TH/95-215","hep-th cond-mat",,"  A recently introduced model describing the folding of the triangular lattice
+is generalized allowing for defects in the lattice and written as an Ising
+model with nearest-neighbor and plaquette interactions on the honeycomb
+lattice. Its phase diagram is determined in the hexagon approximation of the
+cluster variation method and the crossover from the pure Ising to the pure
+folding model is investigated, obtaining a quite rich structure with several
+multicritical points. Our results are in very good agreement with the available
+exact ones and extend a previous transfer matrix study.
+","[{""version"":""v1"",""created"":""Fri, 28 Jul 1995 08:46:20 GMT""}]","2009-10-28"
+"hep-th/9507162","Aldazabal Gerardo","Gerardo Aldazabal","Standard Grand Unification from Superstrings","7 pages, Latex, no figures. Talk at Susy 95. Paris, May 1995",,,"IC/95/202","hep-th",,"  Recent developments about the construction of standard $SO(10)$ and $SU(5)$
+grand unified theories from 4-dimensional superstrings are presented. Explicit
+techniques involving higher level affine Lie algebras, for obtaining such
+stringGUTs from symmetric orbifolds are discussed. Special emphasis is put on
+the different constraints and selection rules for model building in this string
+framework, trying to disentangle those which are generic from those depending
+on the orbifold construction proposed. Some phenomenological implications from
+such constraints are briefly discussed.
+","[{""version"":""v1"",""created"":""Fri, 28 Jul 1995 12:44:55 GMT""}]","2007-05-23"
+"math/9507215","Dirk Werner","Dirk Werner","The Daugavet equation for operators on function spaces",,"J. Funct. Anal. 143, No.1, 117-128 (1997)",,"Banach Archive 7/28/95","math.FA",,"  We prove the norm identity $\|\Id+T\| =1+\|T\|$, which is known as the
+Daugavet equation, for weakly compact operators $T$ on natural function spaces
+such as function algebras and $L^{1}$-predual spaces, provided a
+non-discreteness assumption is met. We also consider $c_{0}$-factorable
+operators and operators on $C_{\Lambda}$-spaces.
+","[{""version"":""v1"",""created"":""Fri, 28 Jul 1995 00:00:00 GMT""}]","2011-03-17"
+"nucl-ex/9507002","Dolezal Zdenek","J. Broz, J. Cerny, Z.Dolezal, G.M. Gurevich M. Jirasek, P. Kubik, A.A.
+  Lukhanin, J. Svejda and I. Wilhelm (PRAGUE), N.S. Borisov, Yu.M. Kazarinov
+  B.A. Khachaturov, E.S. Kuzmin, V.N. Matafonov, A.B. Neganov, I.L. Pisarev,
+  Yu.A. Plis and Yu.A. Usov (DUBNA), M. Rotter and B. Sedlak (PRAGUE)","Measurement of spin-dependent total cross-section difference
+  $\Delta\sigma_T$ in neutron-proton scattering at 16 MeV","17 pages, 8 ps figures, available at
+  http://www.troja.mff.cuni.cz/~dolezal/dstprep.html",,"10.1007/s002180050062","PRA-HEP-95/5","nucl-ex",,"  A new measurement of $\Delta\sigma_T$ for polarized neutrons transmitted
+through a polarized proton target at 16.2 MeV has been made. A polarized
+neutron beam was obtained from the $^{3}\rm{H}(d,\vec n)^{4}\rm{He}$ reaction;
+proton polarization over 90\% was achieved in a frozen spin target of 20 cm$^3$
+volume. The measurement yielded the value $\Delta\sigma_T=(-126\pm21\pm14)$ mb.
+The result of a simple phase shift analysis for the $^3S_1-^3D_1$ mixing
+parameter $\epsilon_1$ is presented and compared with the theoretical potential
+model predictions.
+","[{""version"":""v1"",""created"":""Fri, 28 Jul 1995 13:09:11 GMT""}]","2015-06-26"
+"nucl-th/9507041","Tomoyuki Maruyama","Tomoyuki Maruyama, Toshiki Maruyama, Koji Niita","Relativistic Effects in Simulations of the Fragmentation Process with
+  the Microscopic Framework","8pages, Latex is used, 3 Postscript figures are available by request
+  from tomo@hadron05.tokai.jaeri.go.jp","Phys.Lett. B358 (1995) 34-39","10.1016/0370-2693(95)00976-R",,"nucl-th",,"  We simulate the fragmentation processes in the \CaCa collisions at the
+bombarding energy 1.05 GeV/u using the Lorentz covariant RQMD and the
+non-covariant QMD approaches, incorporated with the statistical decay model. By
+comparing the results of RQMD with those of QMD, we examine the relativistic
+effects and find that the multiplicity of the $\alpha$ particle after the
+statistical decay process is sensitive to the relativistic effects. It is shown
+that the Lorentz covariant approach is necessary to analyze the fragmentation
+process even at the energy around \Elab = 1 GeV/u as long as we are concerned
+with the final observables of the mass distribution, particularly, the light
+fragments around $A = 3 \sim 4$.
+","[{""version"":""v1"",""created"":""Fri, 28 Jul 1995 06:38:37 GMT""},{""version"":""v2"",""created"":""Mon, 31 Jul 1995 08:54:48 GMT""},{""version"":""v3"",""created"":""Tue, 1 Aug 1995 06:53:47 GMT""},{""version"":""v4"",""created"":""Wed, 2 Aug 1995 09:06:39 GMT""},{""version"":""v5"",""created"":""Mon, 2 Oct 1995 02:24:33 GMT""}]","2019-08-17"
+"q-alg/9507033","Jan Felipe Van Diejen","Jan F. van Diejen","Self-dual Koornwinder-Macdonald polynomials","21 pages, AMSLaTeX 1.1 with amssymb","Invent. Math. 126 (1996), 319--339","10.1007/s002220050102","University of Tokyo Math. preprint UTMS 95-36; OP-SF 19 Sep 1995","q-alg math.CA math.QA",,"  We prove certain duality properties and present recurrence relations for a
+four-parameter family of self-dual Koornwinder-Macdonald polynomials. The
+recurrence relations are used to verify Macdonald's normalization conjectures
+for these polynomials.
+","[{""version"":""v1"",""created"":""Fri, 28 Jul 1995 06:50:18 GMT""},{""version"":""v2"",""created"":""Mon, 31 Jul 1995 04:09:48 GMT""}]","2009-10-28"
+"quant-ph/9507013",,"M. Baldo, F. Raciti","Building scars for integrable systems",,,,"Dipartimento di Fisica, Universit\`a di Catania ref. 95/3","quant-ph",,"  It is shown, by means of a simple specific example, that for integrable
+systems it is possible to build up approximate eigenfunctions, called {\it
+asymptotic eigenfunctions}, which are concentrated as much as one wants to a
+classical trajectory and have a lifetime as long as one wants. These states are
+directly related to the presence of shell structures in the quantal spectrum of
+the system. It is argued that the result can be extended to classically chaotic
+system, at least in the asymptotic regime.
+","[{""version"":""v1"",""created"":""Fri, 28 Jul 1995 14:28:12 GMT""}]","2009-09-25"
+"supr-con/9507006",,"A. Petraglia (Dept. of Physics, Lyngby) G.Filatrella (Dept. of
+  Physics, Salerno), and G. Rotoli (Dept. of Energetics, L'Aquila)","Screening current effects in Josephson junction arrays","Figures available from the authors",,"10.1103/PhysRevB.53.2732",,"supr-con chao-dyn cond-mat.supr-con nlin.CD",,"  The purpose of this work is to compare the dynamics of arrays of Josephson
+junctions in presence of magnetic field in two different frameworks: the so
+called XY frustrated model with no self inductance and an approach that takes
+into account the screening currents (considering self inductances only). We
+show that while for a range of parameters the simpler model is sufficiently
+accurate, in a region of the parameter space solutions arise that are not
+contained in the XY model equations.
+","[{""version"":""v1"",""created"":""Fri, 28 Jul 1995 13:49:54 GMT""}]","2009-10-28"

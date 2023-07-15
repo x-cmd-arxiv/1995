@@ -1,0 +1,328 @@
+"alg-geom/9512002","Mark Gross","Mark Gross","Primitive Calabi-Yau Threefolds",,,,,"alg-geom math.AG",,"  A primitive Calabi-Yau threefold is a non-singular Calabi-Yau threefold which
+cannot be written as a crepant resolution of a singular fibre of a degeneration
+of Calabi-Yau threefolds. These should be thought as the most basic Calabi-Yau
+manifolds; all others should arise through degenerations of these. This paper
+first continues the study of smoothability of Calabi-Yau threefolds with
+canonical singularities begun in the author's previous paper, ``Deforming
+Calabi-Yau Threefolds.'' (alg-geom 9506022). If X' is a non-singular Calabi-Yau
+threefold, and f:X'->X is a contraction of a divisor to a curve, we obtain
+results on when X is smoothable. We then discuss applications of this result to
+the classification of primitive Calabi-Yau threefolds. Combining the
+deformation theoretic results of this paper with those of ``Deforming
+Calabi-Yau Threefolds,'' we obtain strong restrictions on the class of
+primitive Calabi-Yau threefolds. We also speculate on how such work might yield
+results on connecting together all moduli spaces of Calabi-Yau threefolds.
+","[{""version"":""v1"",""created"":""Mon, 4 Dec 1995 11:59:24 GMT""}]","2015-06-30"
+"astro-ph/9512007","Eric Blackman","Eric G. Blackman (Institute of Astronomy, Cambridge UK)","Reconnecting Magnetic Flux Tubes as a Source of In Situ Acceleration in
+  Extragalactic Radio Sources","14 pages, plain TeX, accepted to Ap.J.Lett","(1996) ApJ, 56, L87","10.1086/309873",,"astro-ph",,"  Many extended extragalactic radio sources require a local {\it in situ\/}
+acceleration mechanism for electrons, in part because the synchrotron lifetimes
+are shorter than the bulk travel time across the emitting regions. If the
+magnetic field in these sources is localized in flux tubes, reconnection may
+occur between regions of plasma $\be$ (ratio of particle to magnetic pressure)
+$<<1$, even though $\beta$ averaged over the plasma volume may be $\gsim 1$.
+Reconnection in low $\beta$ regions is most favorable to acceleration from
+reconnection shocks. The reconnection X-point regions may provide the injection
+electrons for their subsequent non-thermal shock acceleration to distributions
+reasonably consistent with observed spectra. Flux tube reconnection might
+therefore be able to provide $in\ situ$ acceleration required by large scale
+jets and lobes.
+","[{""version"":""v1"",""created"":""Sun, 3 Dec 1995 18:33:00 GMT""}]","2009-10-28"
+"astro-ph/9512008","Enrique Gaztanaga","E. Gaztanaga (CSIC, Blanes) and P. Mahonen (Univ. Oulu)","Large scale clustering from Non-Gaussian texture models","revised version to appear in ApJ Let., gzip postscript",,"10.1086/310023",,"astro-ph hep-ph",,"  A basic ingredient to understand large scale fluctuations in our present day
+Universe is the initial conditions. Using N-body simulations, we compare the
+clustering that arises from Gaussian and non-Gaussian initial conditions. The
+latter is motivated by a global texture model which has initial $J$-order
+correlations $\xibar_J$ close to the strongly non-Gaussian regime $\xibar_J
+\simeq \xibar_2^{J/2}$. The final amplitudes $S_J \equiv
+\xibar_J/\xibar_2^{J-1}$ in the non-Gaussian (texture) model evolves slowly
+towards the (Gaussian) gravitational predictions but, even at $\sigma_8=1$, are
+still significantly larger, showing a characteristic minimum with a sharp
+increase in $S_J$ with increasing scales. This minimum, which is between $10$
+and $15 \Mpc$, depending on the normalization, separates the regime where
+gravity starts dominating the evolution from the one in which the initial
+conditions are the dominant effect. In comparing this results with galaxy
+clustering observations, one has to take into account {\it biasing}, i.e. how
+galaxy fluctuations trace matter fluctuations. Although biasing could change
+the amplitudes, we show that the possible distortions to the shape of $S_J$ are
+typically small. In contrast to the non-Gaussian (texture) predictions, we find
+no significant minimum or rise in $S_J$ obtained from the APM Galaxy Survey.
+","[{""version"":""v1"",""created"":""Sun, 3 Dec 1995 20:29:42 GMT""},{""version"":""v2"",""created"":""Thu, 15 Feb 1996 02:08:29 GMT""}]","2009-10-28"
+"astro-ph/9512009","Matthias Steinmetz","Guinevere Kauffmann, Adi Nusser & Matthias Steinmetz","Galaxy Formation and Large-Scale Bias","29 pages, uuencoded postscript file, 15 figures, 12 figures included,
+  submitted to MNRAS, complete version available at
+  http://www.mpa-garching.mpg.de/Galaxien/prep.html","Mon.Not.Roy.Astron.Soc. 286 (1997) 795-811","10.1093/mnras/286.4.795",,"astro-ph",,"  We outline a simple approach to understanding the physical origin of bias in
+the distribution of galaxies relative to that of dark matter. The first step is
+to specify how collapsed, virialized halos of dark matter trace the overall
+matter distribution. The next step is to make a connection between halos and
+the luminous galaxies we observe. We appeal to the results of semi-analytic
+models of galaxy formation that are tuned to fit the observed luminosity
+functions of local groups and clusters. We have also used a high-resolution
+N-body simulation of a cold dark matter (CDM) universe to study the bias
+relation in more detail. The differences between the galaxy and dark matter
+distributions are quantified using a number of different clustering statistics.
+We arrive at the following general conclusions: 1) A comparison of the galaxy
+and dark matter density fields shows that linear biasing is a good description
+on large scales. 2) The bias factor b depends on the shape and normalization of
+the power spectrum. The lower the normalization, the larger the bias. More bias
+is obtained for spectra with more power on large scales. For ""realistic""
+models, b ranges from 1 to 2.5. 3) Galaxies of different luminosity or
+morphology have different bias factors. 4) The scale dependence of the bias
+factor is weak.
+","[{""version"":""v1"",""created"":""Mon, 4 Dec 1995 07:41:15 GMT""}]","2015-06-24"
+"astro-ph/9512010",,"J. Greiner, R. Danner, N. Bade, G.A. Richter, P. Kroll, S. Komossa","Four new active galaxies with steep soft X-ray spectra","18 pages gzipped and uuencoded postscript, including 10 figures
+  accepted for publication in Astron. Astrophys",,,,"astro-ph",,"  We have discovered four AGN in the ROSAT all-sky-survey data with very steep
+X-ray spectra. We apply several models to these X-ray spectra with emphasis on
+warm absorber models which give an adequate description of the data. We report
+on the follow-up optical and radio observations which allow the identification
+of three of these objects as Narrow Line Seyfert 1 galaxies, and the fourth as
+BL Lac object. We have measured small-FWHM Hbeta lines, strong FeII emission
+and weak [OIII] emission in the three Narrow Line Seyfert 1 galaxies, in line
+with known correlations with respect to the steepness of the X-ray spectra. We
+have discovered strong optical variability in the BL Lac object and two of the
+Seyfert galaxies using photographic plates of the Sonneberg Observatory field
+patrol. We finally discuss the statistical implications of our search algorithm
+on the expected number density of soft X-ray selected AGN and conclude that up
+to 30% of X-ray selected AGN might have supersoft X-ray spectra.
+","[{""version"":""v1"",""created"":""Mon, 4 Dec 1995 10:51:36 GMT""}]","2007-05-23"
+"astro-ph/9512011","Carlton M. Baugh","C.M. Baugh (Univ. of Durham, UK)","The Real Space Correlation Function Measured from the APM Galaxy Survey","Accepted for publication in MNRAS. 11 pages uuencoded posctscript,
+  containing 9 figures","Mon.Not.Roy.Astron.Soc.280:267-275,1996","10.1093/mnras/280.1.267",,"astro-ph",,"  We present a determination of the real space correlation function for
+galaxies in the APM Survey, with magnitudes in the range $17 < b_J < 20$. We
+recover a power law form for the correlation function $\xi(r) = (r/4.5)^{-1.7}$
+on scales $r < 4 Mpc/h$, for a flat universe and clustering that is fixed in
+comoving coordinates.If we assume that clustering evolves according to linear
+perturbation theory, we obtain $\xi(r) = (r/5.25)^{-1.7}$. We recover a
+shoulder feature in $\xi(r)$ for scales $4 < r < 25 Mpc/h$, with the
+correlation function rising above the power law, before becoming consistent
+with zero around $r > 40 Mpc/h$. The form we obtain for $\xi(r)$ is smooth on
+large scales, allowing a determination of the distortions in the correlation
+function in redshift space, caused by the peculiar motions of galaxies to be
+made. Comparing the real space correlation function with the measurement of the
+redshift space correlation function by Loveday et al (1995), we find that a
+value for $omega^{0.6}/b$ (where $\omega$ is the density parameter of the
+universe and b is the bias factor between the density of light and mass) of
+unity is ruled out at the 2 sigma level.
+","[{""version"":""v1"",""created"":""Mon, 4 Dec 1995 15:58:15 GMT""}]","2015-06-24"
+"atom-ph/9512002",,"M. Kibler and Yu.F. Smirnov","Coulomb Energy Averaged over the $n\ell^N$-Atomic States with a Definite
+  Spin","12 pages, Tex File","Int. J. Quantum Chem. 53 (1995) 495-499",,,"atom-ph chem-ph cond-mat physics.atom-ph quant-ph",,"  A purely group-theoretical approach (for which the symmetric group plays a
+central r\^ole), based upon the use of properties of fractional-parentage
+coefficients and isoscalar factors, is developed for the derivation of the
+Coulomb energy averaged over the states, with a definite spin, arising from an
+atomic configuration $n \ell^N$.
+","[{""version"":""v1"",""created"":""Mon, 4 Dec 1995 15:33:49 GMT""}]","2008-02-03"
+"bayes-an/9512001","Darren J. Wilkinson","Darren J Wilkinson (http://fourier.dur.ac.uk:8000/djw.html)","Bayes linear covariance matrix adjustment","146 pages. PhD thesis. Available as Postscript only. Also available
+  from http://fourier.dur.ac.uk:8000/~dma1djw/pub/thesis.html with figures.
+  More information about the Bayes linear programme can be found at
+  http://fourier.dur.ac.uk:8000/stats/bd/",,,,"bayes-an physics.data-an",,"  In this thesis, a Bayes linear methodology for the adjustment of covariance
+matrices is presented and discussed. A geometric framework for quantifying
+uncertainties about covariance matrices is set up, and an inner-product for
+spaces of random matrices is motivated and constructed. The inner-product on
+this space captures aspects of our beliefs about the relationship between
+covariance matrices of interest to us, providing a structure rich enough for us
+to adjust beliefs about unknown matrices in the light of data such as sample
+covariance matrices, exploiting second-order exchangeability and related
+specifications to obtain representations allowing analysis.
+  Adjustment is associated with orthogonal projection, and illustrated with
+examples of adjustments for some common problems. The problem of adjusting the
+covariance matrices underlying exchangeable random vectors is tackled and
+discussed. Learning about the covariance matrices associated with multivariate
+time series dynamic linear models is shown to be amenable to a similar
+approach. Diagnostics for matrix adjustments are also discussed.
+","[{""version"":""v1"",""created"":""Mon, 4 Dec 1995 14:15:56 GMT""}]","2016-08-31"
+"cond-mat/9512014","Diptiman Sen","Diptiman Sen (Indian Institute of Science, Bangalore)","A multispecies Calogero-Sutherland model","27 pages, LaTeX, no figures; all sections have been significantly
+  expanded from the previous version of 13 pages; a new section on low-energy
+  excitations; to appear in Nucl. Phys. B","Nucl.Phys. B479 (1996) 554-574","10.1016/0550-3213(96)00420-8",,"cond-mat hep-th",,"  Motivated by the concept of ideal mutual statistics, we study a multispecies
+Calogero-Sutherland model in which the interaction parameters and masses
+satisfy some specific relations. The ground state is exactly solvable if those
+relations hold, both on a circle and on a line with a simple harmonic
+potential. In the latter case, the one-particle densities can be obtained using
+a generalization of the Thomas-Fermi method. We calculate the second virial
+coefficients in the high temperature expansion for the pressure. We show that
+the low-energy excitations are the same as those of a Gaussian conformal field
+theory. Finally, we discuss similar relations between the statistics parameters
+and charges for a multispecies anyon model in a magnetic field.
+","[{""version"":""v1"",""created"":""Mon, 4 Dec 1995 05:11:05 GMT""},{""version"":""v2"",""created"":""Sat, 16 Dec 1995 07:59:18 GMT""},{""version"":""v3"",""created"":""Thu, 15 Aug 1996 07:39:16 GMT""}]","2009-10-28"
+"cond-mat/9512015","Dongzi Liu","X.C. Xie and D.Z. Liu","Transition from Integer Quantum Hall State to Insulator","4 pages, uuencoded postscript file for entire paper, also available
+  at http://rainbow.uchicago.edu/~ldz/paper",,"10.1103/PhysRevB.54.4966","ldz-psd11","cond-mat",,"  We study disorder induced transition between quantum Hall states and
+insulator state in a {\it lattice} model. We find the positions of the extended
+states do not change as disorder strength is varied. As a consequence, there
+are direct transitions from all Landau level quantum Hall states to insulator
+states, in contrast to the global phase diagram from early studies based on
+continuous models. We also provide the microscopic understanding of the
+transition in terms of the topological properties of the system.
+","[{""version"":""v1"",""created"":""Mon, 4 Dec 1995 04:54:54 GMT""}]","2009-10-28"
+"cond-mat/9512017","Ferenc Kun","Ferenc Kun and Hans J. Herrmann (PMMH,ESPCI, Paris)","A study of fragmentation processes using a discrete element method","16 pages in LaTex format, 17 PostScript figures. Figures are
+  available upon request from the authors. Submitted to Int. J. of Mod. Phys. C",,"10.1016/S0045-7825(96)01012-2",,"cond-mat",,"  We present a model of solids made from polygonal cells connected via beams.
+We calculate the macroscopic elastic moduli from the beam and cell parameters.
+This modellisation is particularly suited for the simulation of fragmentation
+processes. We study the effects of an explosion inside a circular disk and the
+impact of a projectile and obtain the fragment size distribution. We find that
+if breaking only happens under tensile forces a layer on the free wall opposed
+to impact is first ejected. In that case the distribution follows a power-law
+with an exponent that in most cases is around two.
+","[{""version"":""v1"",""created"":""Mon, 4 Dec 1995 15:29:52 GMT""},{""version"":""v2"",""created"":""Tue, 5 Dec 1995 17:58:25 GMT""}]","2015-06-25"
+"gr-qc/9512008","Kenneth Dalton","Kenneth Dalton","Einstein's Energy-Free Gravitational Field","5 pages, LaTeX. Note: Divergence formula (13) is clarified",,,,"gr-qc",,"  We show that Einstein's gravitational field has zero energy, momentum, and
+stress. This conclusion follows directly from the gravitational field
+equations, in conjunction with the differential law of energy-momentum
+conservation $ T^{\mu\nu}_{;\nu} = 0 $. Einstein rejected this conservation law
+despite the fact that it is generally covariant. We trace his rejection to a
+misapplication of Gauss' divergence formula. Finally, we derive the formula
+which pertains to energy-momentum conservation.
+","[{""version"":""v1"",""created"":""Mon, 4 Dec 1995 15:14:00 GMT""},{""version"":""v2"",""created"":""Fri, 7 Mar 1997 18:17:03 GMT""},{""version"":""v3"",""created"":""Fri, 13 Mar 1998 21:29:34 GMT""}]","2008-02-03"
+"hep-lat/9512003","Hazem Suman","H. Suman and K. Schilling","First Lattice Study of Ghost Propagators in SU(2) and SU(3) Gauge
+  Theories","7 pages, uuencoded compressed latex file, 2 figures included","Phys.Lett. B373 (1996) 314-318","10.1016/0370-2693(96)00162-1","HLRZ 95-73 and WUB 95-44","hep-lat",,"  We present a numerical study of the ghost propagators in Landau gauge for
+SU(2) and SU(3) gauge theories at $\beta$=2.7 and $\beta$=6.0, respectively.
+Analyzing different lattice sizes up to $32^4$, we find small finite size
+effects. Down to the smallest available momenta, we observe no evidence for
+dipole behaviour of the ghost propagators.
+","[{""version"":""v1"",""created"":""Mon, 4 Dec 1995 11:42:11 GMT""}]","2009-10-28"
+"hep-lat/9512004","Margarita Garcia Perez","Margarita Garcia Perez and Pierre van Baal","The electroweak sphaleron on the lattice","13p LaTeX with 3 figs, uufiles -gz format","Nucl.Phys. B468 (1996) 277-292","10.1016/0550-3213(96)00105-8","INLO-PUB-20/95","hep-lat hep-ph",,"  We study the properties of the electroweak sphaleron on a finite lattice. The
+cooling algorithm for saddle points is used to obtain the static classical
+solutions of the SU(2)-Higgs field theory. Results are presented for
+$M_H=\infty, M_W, 0.75M_W$. After performing finite size scaling we find good
+agreement with the results obtained from variational approaches. Of relevance
+for numerical determinations of the transition rate is that the lattice
+artefacts are surprisingly small for $M_W\approx M_H$.
+","[{""version"":""v1"",""created"":""Mon, 4 Dec 1995 15:42:20 GMT""}]","2015-06-25"
+"hep-ph/9512218","Werner Vogelsang","W. Vogelsang (Rutherford)","A Rederivation of the Spin-dependent Next-to-leading Order Splitting
+  Functions","16 Pages, LaTeX, 2 figures as eps - files Eqs. (28),(29) in the
+  previous version contained errors and have been corrected","Phys.Rev.D54:2023-2029,1996","10.1103/PhysRevD.54.2023","RAL-TR-95-071","hep-ph",,"  We perform a new calculation of the polarized next-to-leading order splitting
+functions, using the method developed by Curci, Furmanski and Petronzio. We
+confirm the results of the recent calculation by Mertig and van Neerven.
+","[{""version"":""v1"",""created"":""Sun, 3 Dec 1995 18:06:22 GMT""},{""version"":""v2"",""created"":""Tue, 5 Dec 1995 13:18:40 GMT""}]","2014-11-17"
+"hep-ph/9512219","PostDoc Its","N.G. Deshpande and Xiao-Gang He","CP Asymmetry In Neutral $B$ System At Symmetric Colliders","10 pages, Revtex; Accepted for publicatin in Phys. Rev. Lett","Phys.Rev.Lett. 76 (1996) 360-363","10.1103/PhysRevLett.76.360","OITS-585","hep-ph",,"  Contrary to the conventional belief, time integrated asymmetry are measurable
+in selected final states in the neutral $B$ system at symmetric $e^+e^-$
+colliders. They occur due to the interplay of weak and strong phases of two
+different amplitudes in addition to the $B^0 - \bar B^0$ mixing. Observation of
+these asymmetries would be evidence for direct CP violation in the decay
+amplitudes.
+","[{""version"":""v1"",""created"":""Sun, 3 Dec 1995 21:36:53 GMT""}]","2009-10-28"
+"hep-ph/9512220","James Pantaleone","A. Halprin, C.N. Leung (University of Delaware) and J. Pantaleone
+  (University of Alaska Anchorage)","A Possible Violation of the Equivalence Principle by Neutrinos","45 pages of text, 5 figures available upon request to
+  jim@neutrino.phys.uaa.alaska.edu","Phys.Rev.D53:5365-5376,1996","10.1103/PhysRevD.53.5365",,"hep-ph astro-ph gr-qc",,"  We consider the effect of a long range, flavor changing tensor interaction of
+possible gravitational origin. Neutrino mixing experiments provide the most
+sensitive probe to date for such forces---testing the equivalence principle at
+levels below $10^{-20}$. Here we justify and generalize a formalism for
+describing such effects. The constraints from neutrino mixing experiments on
+gravitationally induced mixing are calculated. Our detailed analysis of the
+atmospheric neutrino data confirms a remarkable result: the atmospheric
+neutrino data implies the same size force as does the solar neutrino data.
+Additional tests of this suggestive result are discussed.
+","[{""version"":""v1"",""created"":""Mon, 4 Dec 1995 01:39:59 GMT""}]","2009-09-25"
+"hep-ph/9512221","Bernard Pire","Bernard Frois and Bernard Pire","Physics with ELFE","Invited talk, International Conference on Nuclear Physics, Beijing,
+  Aug 21-26, 1995",,,,"hep-ph nucl-th",,"  A 15-30 GeV continuous beam electron facility has been proposed by nuclear
+physicists in Europe to study how color forces build up hadrons from quarks and
+gluons. This project and its physics case are briefly reviewed. The
+recommendations of NuPECC, the Nuclear Physics Committee of the European
+Science Foundation are presented.
+","[{""version"":""v1"",""created"":""Mon, 4 Dec 1995 08:28:18 GMT""}]","2007-05-23"
+"hep-ph/9512222","Seong-Youl Choi","C. S. Kim and S. Y. Choi","Form Factors of Semileptonic $M_{l3}$ Decays","12 pages, uuencoded file with ``text.tex"" and ``transform.ps"". Based
+  on the invited talk by C.S. Kim at International Symposium on Heavy Flavor
+  and Electroweak Theory (16-19, August 1995, Beijing, China), and at Korean
+  Theoretical Particle Physics Symposium (20-25, July 1995, Jeju Island, Korea)",,,"YUMS 95-24, SNUTP 95-118, and KEK-TH-457","hep-ph",,"  We study in detail the kinematics of semileptonic $M_{l3}$ ($M \rightarrow
+M^\prime l \nu$) decay, considering only the new models preserving all the
+gauge symmetries of the Standard Model (SM), and assuming that neutrinos are
+massless and left-handed as in the SM. And we present a brief review of the
+recent theoretical progress on model independent constraints on the form
+factors of $M_{l3}$ decays using dispersion relations. Finally we review a new
+parton model approach for semileptonic $B \rightarrow D(D^*) l \nu$ decays, by
+extending the inclusive parton model and by combining with the results of the
+heavy quark effective theory. We also obtain the slope of the Isgur-Wise
+function.
+","[{""version"":""v1"",""created"":""Mon, 4 Dec 1995 08:52:03 GMT""}]","2007-05-23"
+"hep-ph/9512232","Wolfgang Hollik","W. Hollik","Tests of the Standard Model","10 pages, LaTex + 1 figure (postscript file) Plenary talk at the
+  International Europhysics Conference on High Energy Physics, Brussels, July
+  27 - August 2, 1995; Complete with style-files, two misprints in table 2
+  corrected",,,"KA-TP-15-1995","hep-ph",,"  In this conference report a summary is given on the recent theoretical work
+that has contributed to improve the theoretical predictions for testing the
+standard model in present and future experiments. Precision calculations for
+the $Z$ resonance are reviewed and the status of the standard model is
+discussed in the light of the recent top discovery and of the results from
+precision experiments. Furthermore, theoretical progress for the Higgs search,
+for $W$ physics at LEP II, and for the anomalous magnetic moment of the muon is
+summarized. New Physics beyond the minimal model is briefly discussed, in
+particular the mimimal supersymmetric standard model in view of the recent
+electroweak precision data.
+","[{""version"":""v1"",""created"":""Mon, 4 Dec 1995 15:37:51 GMT""},{""version"":""v2"",""created"":""Tue, 5 Dec 1995 15:37:08 GMT""},{""version"":""v3"",""created"":""Fri, 9 Feb 1996 15:17:14 GMT""}]","2008-02-03"
+"hep-th/9512006","Ignatios Antoniadis","I. Antoniadis, H. Partouche and T.R. Taylor","Spontaneous Breaking of N=2 Global Supersymmetry","12 pages, LaTeX","Phys.Lett. B372 (1996) 83-87","10.1016/0370-2693(96)00028-7","CPTH-S397.1195","hep-th hep-ph",,"  We study spontaneous supersymmetry breaking in N=2 globally supersymmetric
+theories describing a system of abelian vector multiplets. We find that the
+most general form of the action admits, in addition to the usual
+Fayet-Iliopoulos term, a magnetic Fayet-Iliopoulos term for the auxiliary
+components of dual vector multiplets. In a generic case, N=2 supersymmetry is
+broken down spontaneously to N=1. In some cases however, the scalar potential
+can drive the theory towards a N=2 supersymmetric ground state where massless
+dyons condense in the vacuum.
+","[{""version"":""v1"",""created"":""Sun, 3 Dec 1995 16:18:50 GMT""}]","2009-10-28"
+"hep-th/9512007","Folkert Mueller-Hoissen","A. Dimakis (Goettingen) and F. Mueller-Hoissen (Goettingen)","Integrable Discretizations of Chiral Models","14 pages, Latex","J.Phys.A29:5007-5018,1996","10.1088/0305-4470/29/16/022","GOET-TP 100/95","hep-th hep-lat nlin.SI solv-int",,"  A construction of conservation laws for chiral models (generalized
+sigma-models on a two-dimensional space-time continuum using differential forms
+is extended in such a way that it also comprises corresponding discrete
+versions. This is achieved via a deformation of the ordinary differential
+calculus. In particular, the nonlinear Toda lattice results in this way from
+the linear (continuum) wave equation. The method is applied to several further
+examples. We also construct Lax pairs and B\""acklund transformations for the
+class of models considered in this work.
+","[{""version"":""v1"",""created"":""Sun, 3 Dec 1995 19:26:39 GMT""}]","2008-11-26"
+"hep-th/9512009","Tetsuyuki Ochiai","Tetsuyuki Ochiai","Neutral Multi-Instanton as a Bridge from Weak to Strong Coupling phase
+  in Two Dimensional QCD","26pages, Latex, 7 Postscript figures included by epsf",,,"EPHOU-95-005","hep-th",,"  Using a contour integral representation we analyze the multi-instanton sector
+in two dimensional $U(N)$ Yang-Mills theory on a sphere and argue the role of
+multi-instanton in the large $N$ phase transition. In the strong coupling
+region at the large $N$ , we encounter ``singular saddle point''. Because of
+this situation, ``neutral'' configurations of the multi-instanton are dominant
+in this region. Based on the ``neutral'' multi-instanton approximation we
+numerically calculate the multi-instanton amplitude , the free energies and the
+Wilson loops for finite $N$ . We also compare our results with the large $N$
+exact solution of the free energy and the Wilson loop and argue some problems.
+We find the ``neutral'' multi-instanton contribution bridges the gap between
+weak and strong coupling phase.
+","[{""version"":""v1"",""created"":""Mon, 4 Dec 1995 07:28:46 GMT""}]","2007-05-23"
+"hep-th/9512010","Lev F. M.","Felix M. Lev","Current Operators in Quantum Field Theory and Sum Rules in Deep
+  Inelastic Scattering","18 pages, LaTeX",,,,"hep-th",,"  It is shown that in the general case the canonical construction of the
+current operators in quantum field theory does not render a bona fide vector
+field since Lorentz invariance is violated by Schwinger terms. We argue that
+the nonexistence of the canonical current operators for spinor fields follows
+from a very simple algebraic consideration. As a result, the well-known sum
+rules in deep inelastic scattering are not substantiated.
+","[{""version"":""v1"",""created"":""Mon, 4 Dec 1995 08:55:13 GMT""}]","2007-05-23"
+"hep-th/9512011","Sheng Zheng-Mao","Z-M Sheng and H-B Gao","On the sine-Gordon--Thirring equivalence in the presence of a boundary","14 pages, Latex, to be published in Int. J. Mod. Phys. A. Two
+  references added","Int.J.Mod.Phys. A11 (1996) 4089-4102","10.1142/S0217751X96001929","DTP-95/43","hep-th",,"  In this paper, the relationship between the sine-Gordon model with an
+integrable boundary condition and the Thirring model with boundary is discussed
+and the reflection $R$-matrix for the massive Thirring model, which is related
+to the physical boundary parameters of the sine-Gordon model, is given. The
+relationship between the the boundary parameters and the two formal parameters
+appearing in the work of Ghoshal and Zamolodchikov is discussed.
+","[{""version"":""v1"",""created"":""Mon, 4 Dec 1995 14:31:18 GMT""},{""version"":""v2"",""created"":""Sat, 6 Jan 1996 16:50:41 GMT""}]","2009-10-28"
+"math/9512214",,"Carroll Guillory","Some conditions on Douglas algebras that imply the invariance of the
+  minimal envelope map",,,,"MSRI 1995-095","math.OA",,"  We give several conditions on certain families of Douglas algebras that imply
+that the minimal envelope of the given algebra is the algebra itself. We also
+prove that the minimal envelope of the intersection of two Douglas algebras is
+the intersection of their minimal envelope.
+","[{""version"":""v1"",""created"":""Mon, 4 Dec 1995 00:00:00 GMT""}]","2016-09-06"
+"nucl-th/9512004","Piotr Magierski","P. Magierski","On the Staggering Effect of Dynamical Moments of Inertia in
+  Superdeformed Bands","REVTeX file, 6 pages, 2 figures (available as postscript files upon
+  request to magiersk@dingo.if.pw.edu.pl), to appear in Acta Phys. Pol. B","Acta Phys.Polon. B27 (1996) 127-132",,,"nucl-th",,"  The possibility of the appearance of the C$_{4}$ symmetry in the rotational
+bands is studied within the particle-rotor model. Allowing for a slight
+triaxiality of the rotor it is shown that the lowest states of the system for a
+sufficiently high spin possess the symmetry which allows to distinguish states
+differing by two units of angular momentum.
+","[{""version"":""v1"",""created"":""Mon, 4 Dec 1995 12:22:15 GMT""}]","2007-05-23"
+"patt-sol/9512001",,"George C. John, Vijay A. Singh (Physics Department, Indian Institute
+  of Technology - Kanpur)","Two Scale Model for Aggregation and Etching","12 pages revtex file, figures not included. Hard copy of figures
+  available on request from george@iitk.ernet.in",,"10.1103/PhysRevE.53.3920","IITK-PHY-95-gv2","patt-sol nlin.PS",,"  We propose a dual scale drift-diffusion model for interfacial growth and
+etching processes. The two scales are: (i) a depletion layer width surrounding
+the aggregate and (ii) a drift length.The interplay between these two
+antithetical scales yields a variety of distinct morphologies reported in
+electrochemical deposition of metals, viscous fingering in fluids and in porous
+silicon formation. Further, our algorithm interpolates between existing growth
+models (diffusion limited aggregation, ballistic deposition and Eden) for
+limiting values of these variables.
+","[{""version"":""v1"",""created"":""Mon, 4 Dec 1995 08:33:12 GMT""}]","2009-10-28"
+"q-alg/9512003",,"V.V. Mangazeev","A_2 Macdonald polynomials: a separation of variables","17 pages, LaTeX, no figures",,,,"q-alg math.QA",,"  In this paper we construct a discrete linear operator $K$ which transforms
+$A_2$ Macdonald polynomials into the product of two basic $3\phi_2$
+hypergeometric series with known arguments. The action of the operator $K$ on
+power sums in two variables can be reduced to a generalization of one
+particular case of the Bailey's summation formula for a very-well-poised
+$6\psi_6$ series. We also propose the conjecture for a transformation of
+$6\psi_6$ series with different arguments.
+","[{""version"":""v1"",""created"":""Mon, 4 Dec 1995 01:42:39 GMT""}]","2008-02-03"
+"q-alg/9512004","Madore","M. Dubois-Violette, J. Madore, T. Masson, J. Mourad","On Curvature in Noncommutative Geometry","16 pages, PlainTex",,"10.1063/1.531618","LPTHE Orsay 95/63","q-alg dg-ga math.DG math.QA",,"  A general definition of a bimodule connection in noncommutative geometry has
+been recently proposed. For a given algebra this definition is compared with
+the ordinary definition of a connection on a left module over the associated
+enveloping algebra. The corresponding curvatures are also compared.
+","[{""version"":""v1"",""created"":""Mon, 4 Dec 1995 09:54:32 GMT""}]","2009-10-28"

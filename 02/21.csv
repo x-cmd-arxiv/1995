@@ -1,0 +1,320 @@
+"alg-geom/9502021","Bezrukavnikov Roman","Roman Bezrukavnikov","Koszul Property and Frobenius Splitting of Schubert Varieties","8 pages, latex",,,,"alg-geom math.AG",,"  We show how the Frobenius splitting method of Mehta-Ramanathan implies the
+Koszul property of projective coordinate rings of Schubert varieties.
+","[{""version"":""v1"",""created"":""Mon, 20 Feb 1995 18:37:15 GMT""}]","2008-02-03"
+"astro-ph/9502087",,"Andrew A. de Laix, Robert J. Scherrer and Robert K. Schaefer","Constraints on Self-Interacting Dark Matter","19 pages compressed post-script (3 figures included)","Astrophys.J.452:495,1995","10.1086/176322","OSU-TA-9/94, BA-95-08","astro-ph",,"  We consider the growth of density perturbations in the presence of
+self--interacting dark matter, SIDM, proposed by Carlson, Machacek and Hall
+(1992). We determine the range of values for the coupling constant $\lambda$
+and the particle mass $m^\prime$, for which the power spectrum lies in the
+``allowed"" range based on constraints from the IRAS galaxy survey and damped
+Lyman--$\alpha $ systems. Our results show that no combination of parameters
+can meet both limits. We consider constraints on the $\2-2$ scatterings which
+keep the SIDM particles in pressure equilibrium, and we show that if such
+interactions maintain pressure equilibrium down to the present, they will be
+strong enough to disrupt galaxy mergers and may lead to stripping of galaxy
+halos as galaxies move through the dark matter background of these particles.
+Hence, we also investigate the evolution of large-scale structure in the SIDM
+model when the particles drop out of pressure equilibrium at some higher
+redshift. The resulting free-streaming leads to an additional suppression of
+small-scale perturbations, but it does not significantly affect our results.
+","[{""version"":""v1"",""created"":""Mon, 20 Feb 1995 20:20:17 GMT""}]","2011-05-12"
+"astro-ph/9502088","Alejandro Gonzalez","Alejandro Gonzalez S. and Oscar Martinez (Instituto Nacional de
+  Astrofisica, Optica y Elect)","On the Morphology of Density Perturbations","7 pages in A&A LAtex Style. 5 figures available on request. 1 Table
+  included. Submitted to Astronomy and Astrophysics",,,,"astro-ph",,"  The morphological distribution of primordial density peaks is assessed.
+Previous determinations, those of Peacock & Heavens (1985) and those of Bardeen
+et al (1986) have contradictory concluded that there exist a tendency towards
+prolate or towards oblate shapes, respectively. By using two methods, the
+Hessian and the inertia tensor momenta we have performed numerical
+determinations of the triaxiality of density perturbations in Gaussian random
+fields with power law spectra. We show that there is no present any tendency of
+shapes, and that the triaxiality distribution is independent of the spectral
+index. Moreover, it is shown that the results of Peacock and Heavens are
+compatible with our determinations. These results are in complete agreement
+with current triaxial distributions inferred for galaxies and clusters both,
+from observations and from numerical simulations.
+","[{""version"":""v1"",""created"":""Tue, 21 Feb 1995 02:04:19 GMT""}]","2007-05-23"
+"astro-ph/9502089","Francis Bernardeau","F. Bernardeau","The angular correlation hierarchy in the quasilinear regime.","9 pages; uuencoded compressed postscript file with 5 included
+  figures. To appear in Astron. and Astrophys.","Astron.Astrophys.301:309,1995",,"Saclay SPhT T94/076","astro-ph",,"  For Gaussian initial conditions the perturbation theory predicts a very
+specific hierarchy for the projected matter $p$-point correlation functions. In
+the small angle approximation and assuming a power-law spectrum I derive the
+exact expressions of the coefficients $s_p$ relating the averaged $p$-order
+angular correlation function, $\omb_p$ to the second one, $\omb_p=s_p\
+\omb_2^{p-1}$. These results are valid for any selection function, but for a
+top-hat angular filter only. These coefficients are found to be significantly
+higher than their 3D counterparts, $S_p=\xib_p/\xib_2^{p-1}$.
+  For the coefficient $s_3$ I discussed the accuracy of the small angle
+approximation by computing, for particular examples, its angular dependence
+with Monte-Carlo numerical integrations. It is found that the accuracy of the
+small angle approximation for $\theta\approx 1^o$ slightly depends on the
+selection function. Using the selection function expected for galaxy catalogues
+the approximation is found to be reasonably good.
+  The measurements of the $s_p$ parameters made in the APM angular survey are
+found to give systematic lower values than the theoretical predictions. How
+significant this discrepancy is and what the implications would be for galaxy
+formation models is discussed in the last section.
+","[{""version"":""v1"",""created"":""Tue, 21 Feb 1995 10:58:14 GMT""}]","2011-05-23"
+"cmp-lg/9502024",,"Kong Joo Lee, Cheol Jung Kweon, Jungyun Seo and Gil Chang Kim","A Robust Parser Based on Syntactic Information","6 pages LaTeX, uses eaclap.sty, to appear in EACL-95.",,,,"cmp-lg cs.CL",,"  In this paper, we propose a robust parser which can parse extragrammatical
+sentences. This parser can recover them using only syntactic information. It
+can be easily modified and extended because it utilize only syntactic
+information.
+","[{""version"":""v1"",""created"":""Tue, 21 Feb 1995 01:57:32 GMT""},{""version"":""v2"",""created"":""Wed, 22 Feb 1995 02:12:39 GMT""}]","2016-08-31"
+"cmp-lg/9502025","Anette Frank","Anette Frank and Uwe Reyle (Institute for Computational Linguistics
+  University of Stuttgart)","Principle Based Semantics for HPSG","EACL-95",,,,"cmp-lg cs.CL",,"  The paper presents a constraint based semantic formalism for HPSG. The
+syntax-semantics interface directly implements syntactic conditions on
+quantifier scoping and distributivity. The construction of semantic
+representations is guided by general principles governing the interaction
+between syntax and semantics. Each of these principles acts as a constraint to
+narrow down the set of possible interpretations of a sentence. Meanings of
+ambiguous sentences are represented by single partial representations
+(so-called U(nderspecified) D(iscourse) R(epresentation) S(tructure)s) to which
+further constraints can be added monotonically to gain more information about
+the content of a sentence. There is no need to build up a large number of
+alternative representations of the sentence which are then filtered by
+subsequent discourse and world knowledge. The advantage of UDRSs is not only
+that they allow for monotonic incremental interpretation but also that they are
+equipped with truth conditions and a proof theory that allows for inferences to
+be drawn directly on structures where quantifier scope is not resolved.
+","[{""version"":""v1"",""created"":""Tue, 21 Feb 1995 13:32:27 GMT""}]","2008-02-03"
+"cmp-lg/9502026","Uwe Reyle","Uwe Reyle (Institute for Computational Linguistics, University of
+  Stuttgart)","On Reasoning with Ambiguities","EACL 1995",,,,"cmp-lg cs.CL",,"  The paper adresses the problem of reasoning with ambiguities. Semantic
+representations are presented that leave scope relations between quantifiers
+and/or other operators unspecified. Truth conditions are provided for these
+representations and different consequence relations are judged on the basis of
+intuitive correctness. Finally inference patterns are presented that operate
+directly on these underspecified structures, i.e. do not rely on any
+translation into the set of their disambiguations.
+","[{""version"":""v1"",""created"":""Tue, 21 Feb 1995 13:36:36 GMT""},{""version"":""v2"",""created"":""Wed, 22 Feb 1995 15:00:29 GMT""}]","2008-02-03"
+"cond-mat/9502078","Harold Baranger","H.U. Baranger (AT&T Bell Labs) and P.A. Mello (UNAM, Mexico)","SCATTERING INVOLVING PROMPT AND EQUILIBRATED COMPONENTS, INFORMATION
+  THEORY, AND CHAOTIC QUANTUM DOTS","4 pages, revtex, 1 figure uuencoded",,,"hub.pam.95.1","cond-mat chao-dyn nlin.CD",,"  We propose an information-theoretic statistical model to describe the
+universal features of those chaotic scattering processes characterized by a
+prompt and an equilibrated component. The model, introduced in the past in
+nuclear physics, incorporates the average value of the scattering matrix to
+describe the prompt processes, and satisfies the requirements of flux
+conservation, causality, and ergodicity. We show that the model successfully
+describes electronic transport through chaotic quantum dots. The predicted
+distribution of the conductance may show a remarkable two-peak structure.
+","[{""version"":""v1"",""created"":""Mon, 20 Feb 1995 22:56:45 GMT""}]","2016-08-31"
+"cond-mat/9502079","Walter Lehle","W. Lehle, A. Schmid","Mesoscopic Systems With Fixed Number of Electrons","34 pages, revtex, 1 (postscript) figure",,"10.1002/andp.19955070506","TKM-Leh94","cond-mat",,"  In this paper, we study the physics of mesoscopic systems with
+noninteracting, but fixed number of electrons. From a technical point of view,
+this means a discussion of the differences between the canonical and the grand
+canonical ensemble (fixed versus fluctuating number of particles). Such a
+discussion is not trivial since the grand canonical ensemble is the most
+convenient basis for the statistics of identical particles and one has to spend
+labour in order to retrieve the canonical ensemble. Specifically, we are
+considering ensembles of mesoscopic systems with disorder, either by atomic
+defects or by fluctuations in their geometric definitions and we discuss
+various forms of disorder averages.
+","[{""version"":""v1"",""created"":""Tue, 21 Feb 1995 10:13:36 GMT""}]","2016-08-31"
+"cond-mat/9502080","Eugene Kogan","Eugene Kogan and Moshe Kaveh","RANDOM MATRIX THEORY APPROACH TO THE INTENSITY DISTRIBUTIONS OF WAVES
+  PROPAGATING IN A RANDOM MEDIUM","8 pages, latex, no figures. Submitted to Phys.Rev.B",,"10.1103/PhysRevB.52.R3813",,"cond-mat",,"  Statistical properties of coherent radiation propagating in a quasi - 1D
+random media is studied in the framework of random matrix theory. Distribution
+functions for the total transmission coefficient and the angular transmission
+coefficient are obtained.
+","[{""version"":""v1"",""created"":""Tue, 21 Feb 1995 11:22:26 GMT""},{""version"":""v2"",""created"":""Fri, 28 Apr 1995 12:04:32 GMT""},{""version"":""v3"",""created"":""Thu, 25 May 1995 07:58:27 GMT""},{""version"":""v4"",""created"":""Sun, 28 May 1995 08:25:40 GMT""},{""version"":""v5"",""created"":""Tue, 30 May 1995 05:41:04 GMT""}]","2009-10-28"
+"cond-mat/9502081","Alexei Tsvelik","A. M. Tsvelik,","The Toulose limit of the Multi-Channel Kondo model.","10 pages, LaTex, a discussion about the magnetic properties is added.",,"10.1103/PhysRevB.52.4366",,"cond-mat",,"  We study the Toulouse limit of the multi-channel Kondo model defined as the
+limit of maximal anisotropy which can be achieved without changing the infrared
+behaviour of the model. It is shown that when the number of channels exceeds 2,
+the interactions do not vanish and the Toulouse limit remains a non-trivial
+field theory. Considerable simplifications take place only for k = 2, where the
+Bethe ansatz reproduces the results by Emery and Kivelson.
+","[{""version"":""v1"",""created"":""Tue, 21 Feb 1995 15:20:11 GMT""},{""version"":""v2"",""created"":""Tue, 28 Feb 1995 08:48:54 GMT""}]","2016-08-31"
+"cond-mat/9502083","Ken J. E. Vos","A. Nazarenko, K.J.E. Vos, S. Haas, E. Dagotto, and R.J. Gooding","Photoemission spectra of ${\rm Sr_2 Cu O_2 Cl_2}$: a theoretical
+  analysis","11 pages, RevTex version 3.0, 3 postscript figures, LaTeX file and
+  figures have been uuencoded.",,"10.1103/PhysRevB.51.8676",,"cond-mat",,"  Recent angle resolved photoemission (ARPES) results for the insulating
+cuprate ${\rm Sr_2 Cu O_2 Cl_2}$ have provided the first experimental data
+which can be directly compared to the (theoretically) well--studied problem of
+a single hole propagating in an antiferromagnet. The ARPES results reported a
+small bandwidth, providing evidence for the existence of strong correlations in
+the cuprates. However, in the same experiment some discrepancies with the
+familiar 2D ${\rm t-J}$ model were also observed. Here we discuss a comparison
+between the ARPES results and the quasiparticle dispersion of both (i) the
+${\rm t-t'-J}$ Hamiltonian and (ii) the three--band Hubbard model in the
+strong--coupling limit. Both model Hamiltonians show that the experimentally
+observed one--hole band structure can be approximately reproduced using
+reasonable values for ${\rm t'}$, or the direct oxygen hopping amplitude ${\rm
+t_{pp}}$.
+","[{""version"":""v1"",""created"":""Tue, 21 Feb 1995 07:11:05 GMT""}]","2016-08-31"
+"funct-an/9502005","Elena Braverman","L. Berezansky (Ben-Gurion University of the Negev, Israel) and E.
+  Braverman (Technion, Israel)","Impulsive Stabilization of Linear Delay Differential Equations","18 pages, LaTeX, no figures",,,,"funct-an math.DS math.FA",,"  The paper is concerned with stabilization of a scalar delay differention
+equation $$ {\dot x}(t) - \sum_{k=1}^m A_k(t)x[h_k(t)] = 0,~t\geq 0,~
+x(\xi)=\varphi (\xi), \xi <0, $$ by introducing impulses in certain moments of
+time $$ x(\tau_j) = B_j x(\tau_j -0), ~j=1,2, \dots ~. $$ Explicit stability
+results are presented both for the equation with positive coefficients and for
+the equation with $A_k$ being of arbitrary sign.
+","[{""version"":""v1"",""created"":""Tue, 21 Feb 1995 07:07:40 GMT""}]","2008-02-03"
+"hep-ph/9502353","James Liu","Jyoti Agrawal, Paul H. Frampton, James T. Liu","The decay $b\to s\gamma$ in the 3-3-1 model","20 pp. + 6 postscript figures (included at end)","Int.J.Mod.Phys. A11 (1996) 2263-2280","10.1142/S0217751X96001139","CTP-TAMU-3/95, IFP-709-UNC","hep-ph",,"  The 3-3-1 model, based on the gauge group $SU(3)_c\times SU(3)_L\times
+U(1)_X$, makes a natural prediction of three generations based on anomaly
+cancellation. Since this is accomplished by incorporating the third family of
+quarks differently from the other two, it leads to potentially large flavor
+changing neutral currents. A sensitive place to look for such effects is the
+flavor changing $b\to s\gamma$ decay, which has recently been measured at CLEO.
+We compute this decay rate in the 3-3-1 model and compare it with that of the
+two-Higgs-doublet model, a subset of the full 3-3-1 model. We find that the
+additional 3-3-1 physics weakens the bound on the charged Higgs mass from
+$M_{H^+}>290$~GeV to $M_{H^+}\agt120$~GeV.
+","[{""version"":""v1"",""created"":""Mon, 20 Feb 1995 17:26:51 GMT""}]","2015-06-25"
+"hep-ph/9502354","Oleg Kalashnikov","O.K.Kalashnikov","THE HIGH TEMPERATURE DISPERSION EQUATION FOR LONGITUDINAL PLASMA
+  OSCILLATIONS IN TAG","9 pages, LaTex, No figures",,,"BI-TP 95/06","hep-ph",,"  The calculations in the temporal axial gauge (TAG) are revised and a new
+prescription is introduced to avoid the well-known TAG-singularity. With this
+prescription we use the TAG-formalism to calculate the one-loop dispersion
+equation for the longitudinal plasma oscillations in the high temperature limit
+and find the complete selfconsistency of TAG for pragmatic aims. Our result
+reproduces the earlier known dispersion equation obtained in covariant gauges
+and this equality explicitly demonstrates the gauge independence of the
+dispersion law in the high temperature limit and its reliability.
+","[{""version"":""v1"",""created"":""Mon, 20 Feb 1995 19:08:50 GMT""}]","2016-09-01"
+"hep-ph/9502355",,"Oscar F. Hernandez","How To Use SU(3)-Flavor Symmetry to Extract CP Violating Phases and
+  Strong Phase Shifts at CLEO","14 pages, 6 figures, LaTeX file. Talk presented at the Mexican School
+  of Particles and Fields in Villahermosa, Tabasco in October 1994",,,"UdeM-GPP-TH-95-20","hep-ph",,"  After a short introduction to the SM picture of CP violation, we discuss
+recent work on how to use SU(3) flavor symmetry, along with some dynamical
+approximations, to extract the CKM weak phases and the strong rescattering
+phases from experimental measurements alone. This suprising wealth of
+information depends on our two strongest assumptions: SU(3) invariance, and the
+relative unimportance of exhange and annihilation diagrams. We discuss soon to
+be measured decay rate measurements that will test the validity of these
+assumptions.
+","[{""version"":""v1"",""created"":""Mon, 20 Feb 1995 22:08:23 GMT""}]","2009-09-25"
+"hep-ph/9502356",,"K. Goulianos (The Rockefeller University)","POMERON FLUX RENORMALIZATION IN SOFT AND HARD DIFFRACTION","14 pages, 3 EPS figures tarred, compressed, uuencoded","Phys.Lett.B358:379-388,1995; Erratum-ibid.B363:268,1995","10.1016/0370-2693(95)01023-J","RU-95/E-06","hep-ph",,"  While the main features of elastic, diffractive and total cross sections are
+described well by Regge theory, the measured rise of the proton-(anti)proton
+single diffraction dissociation cross section with energy is considerably
+smaller than the theoretical prediction based on factorization and a constant
+triple-pomeron coupling. The observed energy dependence is obtained by
+renormalizing the pomeron flux ""carried"" by a nucleon to unity. Double
+diffraction and double pomeron exchange cross sections are reevaluated and
+compared to data, and a new interpretation of hard diffraction results emerges
+in which the hard pomeron obeys the momentum sum rule.
+","[{""version"":""v1"",""created"":""Mon, 20 Feb 1995 22:47:24 GMT""}]","2010-05-12"
+"hep-ph/9502357","Andrzej Czarnecki","Andrzej Czarnecki and Marek Jezabek","Recent Results on QCD Corrections to Semileptonic $b$-Decays","Updated references 7 pages, Latex, figures not included. The complete
+  paper, including figures, is available via anonymous ftp at (129.13.102.139)
+  ftp://ttpux2.physik.uni-karlsruhe.de/ttp95-04/ttp95-04.ps, or via www at
+  http://ttpux2.physik.uni-karlsruhe.de/cgi-bin/preprints/",,,"TTP 95-04","hep-ph",,"  We summarize recent results on QCD corrections to various observables in
+semileptonic $b$ quark decays. For massless leptons in the final state we
+present effects of such corrections on triple differential distribution of
+leptons which are important in studies of polarized $b$ quark decays. Analogous
+formulas for distributions of neutrinos are applicable in decays of polarized
+$c$ quarks. In the case of decays with a $\tau$ lepton in the final state mass
+effect of $\tau$ has to be included. In this case we concentrate on corrections
+to the total decay width.
+","[{""version"":""v1"",""created"":""Tue, 21 Feb 1995 10:20:18 GMT""},{""version"":""v2"",""created"":""Wed, 1 Mar 1995 09:39:27 GMT""}]","2016-09-01"
+"hep-ph/9502358","Dr Georg Raffelt","Georg Raffelt (MPI fur Physik, Munich)","AXIONS IN ASTROPHYSICS AND COSMOLOGY","uu-encoded and compressed postscript file, 11 pages, includes 1
+  figure, one reference updated in the replacement, one small correction.",,,,"hep-ph",,"  If axions exist they are efficiently produced in the hot and dense interior
+of stars, providing a novel energy-loss mechanism. In order to avoid a conflict
+with the observed properties of stars, one can derive a lower limit on the
+Peccei-Quinn scale (an upper limit on the axion mass). In the early universe,
+axions are produced by the ``misalignment mechanism'' and the emission from
+global strings as well as the relaxation of the string-domain wall system
+formed at the QCD phase transition. In order to avoid an ``overclosed
+universe'' the Peccei-Quinn scale must obey an upper limit (a lower limit on
+the axion mass). The current values of these bounds are reviewed. There remains
+a ``window of opportunity'' $10^{-5}\,\eV\lapprox m_a\lapprox 10^{-2}\,\eV$,
+with large uncertainties on either side, where axions could still exist.
+[Contribution to the XVth Moriond workshop, 21-28 Jan. 1995, Villars-sur-Ollon,
+Switzerland.]
+","[{""version"":""v1"",""created"":""Tue, 21 Feb 1995 13:46:24 GMT""},{""version"":""v2"",""created"":""Sat, 11 Mar 1995 12:47:51 GMT""},{""version"":""v3"",""created"":""Thu, 23 Mar 1995 09:41:32 GMT""}]","2008-02-03"
+"hep-ph/9502359",,"Miguel Angel Sanchis-Lozano","Weak decays of doubly heavy hadrons","Latex, 26 pages, 2 figures available by FAX.","Nucl.Phys. B440 (1995) 251-278","10.1016/0550-3213(95)00064-Y","FTUV/94-45, IFIC/94-40. To appear in Nuclear Physics B.","hep-ph",,"  We explore the application and usefulness of the heavy quark symmetry to
+describe the weak decays of hadrons (mesons and baryons) containing two heavy
+quarks. Firstly, we address the internal dynamics of a heavy-heavy bound system
+with the help of estimates based on potential models, showing an approximate
+spin symmetry in the preasymptotic quark mass region including charmonium,
+bottonium and $B_c$ meson states. However, no asymptotic spin symmetry should
+hold in the infinite quark mass limit in contrast to singly heavy hadrons.
+Predictions on semileptonic and two-body nonleptonic decays of $B_c$ mesons are
+shown. Furthermore, the stemming flavor and spin symmetries from the
+interaction between the heavy and light components in hadrons (combining in a
+$\lq\lq$superflavor"" symmetry) permit their classification in $meson$-type
+supermultiplets containing singly heavy mesons together with doubly heavy
+baryons, and $baryon$-type supermultiplets containing singly heavy baryons
+together with some exotic doubly heavy multiquark states (diquonia). Exploiting
+their well-defined transformation properties under the superflavor symmetry
+group, we get predictions on the widths for some semileptonic and two-body
+nonleptonic decays of baryons containing both $b$ and $c$ quarks.
+","[{""version"":""v1"",""created"":""Tue, 21 Feb 1995 13:15:12 GMT""}]","2016-09-01"
+"hep-ph/9502360","Silvano Simula","F. Cardarelli, I.L. Grach, I.M. Narodetskii, G. Salme', S. Simula","Electromagnetic form factors of the $\rho$ meson in a light-front
+  constituent quark model","8 pages, latex file, 4 figures available as a separate .uu file","Phys.Lett.B349:393-399,1995","10.1016/0370-2693(95)00230-I","preprint INFN/ISS 94/9, to appear in Phys. Lett. B.","hep-ph",,"  The electromagnetic form factors of the $\rho$ meson are evaluated adopting a
+relativistic constituent quark model based on the light-front formalism, and
+using a meson wave function with the high-momentum tail generated by the
+one-gluon-exchange interaction. The breakdown of the rotational covariance for
+the one-body component of the current operator is investigated and the
+sensitivity of the ratio of the $\rho$-meson form factors to the pion (charge)
+form factor to the spin-dependent component of the effective $q \bar{q}$
+interaction is illustrated.
+","[{""version"":""v1"",""created"":""Tue, 21 Feb 1995 15:31:07 GMT""},{""version"":""v2"",""created"":""Wed, 22 Feb 1995 09:39:56 GMT""}]","2016-09-01"
+"hep-th/9502122","Ctirad Klimcik","C. Klimcik, P. Severa","Dual Non-Abelian Duality and the Drinfeld Double","(misprint in the bialgebra condition corrected)","Phys.Lett.B351:455-462,1995","10.1016/0370-2693(95)00451-P",,"hep-th",,"  The standard notion of the non-Abelian duality in string theory is
+generalized to the class of $\si$-models admitting `non-commutative conserved
+charges'. Such $\si$-models can be associated with every Lie bialgebra $(\cg
+,\cgt)$ and they possess an isometry group iff the commutant
+  $[\cgt,\cgt]$ is not equal to $\cgt$. Within the enlarged class of the
+backgrounds the non-Abelian duality {\it is} a duality transformation in the
+proper sense of the word. It exchanges the roles of $\cg$ and $\cgt$ and it can
+be interpreted as a symplectomorphism of the phase spaces of the mutually dual
+theories. We give explicit formulas for the non-Abelian duality transformation
+for any $(\cg,\cgt)$. The non-Abelian analogue of the Abelian modular space
+$O(d,d;{\bf Z})$ consists of all maximally isotropic decompositions of the
+corresponding Drinfeld double.
+","[{""version"":""v1"",""created"":""Mon, 20 Feb 1995 17:35:40 GMT""},{""version"":""v2"",""created"":""Wed, 22 Feb 1995 14:16:44 GMT""},{""version"":""v3"",""created"":""Mon, 10 Jul 1995 17:27:24 GMT""}]","2009-07-09"
+"hep-th/9502123","Yang Chen","Yang Chen, Kasper J. Eriksen and Craig A. Tracy","Largest eigenvalue distribution in the double scaling limit of matrix
+  models: A Coulomb fluid approach","10 pages, no figures, to appear in J.Phys. A Lett. 1995","J.Phys. A28 (1995) L207-L212","10.1088/0022-3727/28/1/029",,"hep-th",,"  Using thermodynamic arguments we find that the probability that there are no
+eigenvalues in the interval (-s,\infty) in the double scaling limit of
+Hermitean matrix models is O(exp(-s^{2m+1})) as s\to+\infty.Here m=1,2,3..
+determine the m^{th} multi-critical point of the level density:\sigma(x)\sim
+b[1-(x/b)^2]^{m-1/2} and b^2\sim N.Furthermore,the size of the transition zone
+where the eigenvalue density becomes vanishingly small at the tail of the
+spectrum is \sim N^{(m-3/2)/(2m+1)} in agreement with earlier work based on the
+string equation.
+","[{""version"":""v1"",""created"":""Mon, 20 Feb 1995 17:52:33 GMT""}]","2009-10-28"
+"hep-th/9502124","Dimitri Polyakov","Dimitri Polyakov","Picture-Changing operators and Space-Time supersymmetry","24 pages","Nucl.Phys. B449 (1995) 159-182","10.1016/0550-3213(95)00217-G","RU 94-32","hep-th",,"  We explore geometrical properties of fermionic vertex operators for a NSR
+superstring in order to establish connection between worldsheet and target
+space supersymmetries. The mechanism of picture-changing is obtained as a
+result of imposing certain constraints on a world-sheet gauge group of the NSR
+theory. It is found that picture-changing operators of various integer ghost
+numbers form a polynomial ring. By using properties of the picture-changing
+formalism we establish connection between the NSR and GS superstring theories.
+We explore the properties of the $\kappa$-symmetry in the NSR formalism and
+show that it leads to some new identities between correlation functions.
+","[{""version"":""v1"",""created"":""Mon, 20 Feb 1995 22:36:58 GMT""}]","2016-09-06"
+"hep-th/9502126","Cosmas Zachos","Thomas Curtright and Cosmas Zachos","CANONICAL NONABELIAN DUAL TRANSFORMATIONS IN SUPERSYMMETRIC FIELD
+  THEORIES","5 pages, Revtex","Phys.Rev.D52:573-576,1995","10.1103/PhysRevD.52.R573",,"hep-th",,"  A generating functional $F$ is found for a canonical nonabelian dual
+transformation which maps the supersymmetric chiral O(4) $\sigma$-model to an
+equivalent supersymmetric extension of the dual $\sigma$-model. This $F$
+produces a mapping between the classical phase spaces of the two theories in
+which the bosonic (coordinate) fields transform nonlocally, the fermions
+undergo a local tangent space chiral rotation, and all currents (fermionic and
+bosonic) mix locally. Purely bosonic curvature-free currents of the chiral
+model become a {\em symphysis} of purely bosonic and fermion bilinear currents
+of the dual theory. The corresponding transformation functional $T$ which
+relates wavefunctions in the two quantum theories is argued to be {\em exactly}
+given by $T=\exp(iF)$.
+","[{""version"":""v1"",""created"":""Tue, 21 Feb 1995 15:47:28 GMT""}]","2016-09-06"
+"q-alg/9502013","Victor Ginzburg","Victor Ginzburg, Mikhail Kapranov, and Eric Vasserot","Langlands Reciprocity for Algebraic Surfaces","13 pages, submitted to Mathematical Research Letters",,,,"q-alg alg-geom math.AG math.QA",,"  This note is an attempt to extend ""Geometric Langlands Conjecture"" from
+algebraic curves to algebraic surfaces. We introduce certain Hecke-type
+operators on vector bundles on an algebraic surface. The crucial observation is
+that the algebra generated by the Hecke operators turns out to be a homomorphic
+image of the {\it quantum toroidal algebra}. The latter is a quantization, in
+the spirit of Drinfeld-Jimbo, of the universal enveloping algebra of the
+universal central extension of a ""double-loop"" Lie algebra. This yields, in
+particular, a new geometric construction of affine quantum groups of types A, D
+E in terms of Hecke operators for an elliptic surface.
+","[{""version"":""v1"",""created"":""Mon, 20 Feb 1995 19:09:13 GMT""}]","2008-02-03"
+"q-alg/9502014","Shahn Majid","S. Majid","Some remarks on the {$q$}-Poincare algebra in R-matrix form","LATEX 33 pages. Mostly review. To appear in some version in a
+  conference proceedings. Proposition~8.1 about $*$ structures was extended.",,,"DAMTP/95-08","q-alg math.QA",,"  The braided approach to q-deformation (due to the author and collaborators)
+gives natural algebras $R_{21}u_1Ru_2=u_2R_{21}u_1R$ and $R_{21}x_1x_2=x_2x_1R$
+for q-Minkowski and q-Euclidean spaces respectively. These algebras are
+covariant under a corresponding background `rotation' quantum group. Semidirect
+product by this according to the bosonisation procedure (also due to the
+author) gives the corresponding Poincar\'e quantum groups. We review the
+construction and collect the resulting R-matrix formulae for both Euclidean and
+Minkowski cases in both enveloping algebra and function algebra form, and the
+duality between them. Axioms for the Poincar\'e quantum group $*$-structure and
+the dilaton problem are discussed.
+","[{""version"":""v1"",""created"":""Mon, 20 Feb 1995 22:55:37 GMT""},{""version"":""v2"",""created"":""Tue, 21 Feb 1995 19:08:45 GMT""},{""version"":""v3"",""created"":""Tue, 28 Feb 1995 04:58:33 GMT""}]","2016-09-08"
+"quant-ph/9502020","Tal Mor","B. Huttner, N. Imoto, N. Gisin, and T. Mor","Quantum Cryptography with Coherent States","20 pp. Revtex, Figures available from the authors upon request, To be
+  published in PRA (March 95)",,"10.1103/PhysRevA.51.1863",,"quant-ph",,"  The safety of a quantum key distribution system relies on the fact that any
+eavesdropping attempt on the quantum channel creates errors in the
+transmission. For a given error rate, the amount of information that may have
+leaked to the eavesdropper depends on both the particular system and the
+eavesdropping strategy. In this work, we discuss quantum cryptographic
+protocols based on the transmission of weak coherent states and present a new
+system, based on a symbiosis of two existing ones, and for which the
+information available to the eavesdropper is significantly reduced. This system
+is therefore safer than the two previous ones. We also suggest a possible
+experimental implementation.
+","[{""version"":""v1"",""created"":""Tue, 21 Feb 1995 11:44:48 GMT""}]","2009-10-28"

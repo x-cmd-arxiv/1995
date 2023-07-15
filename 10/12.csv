@@ -1,0 +1,395 @@
+"astro-ph/9510065","Massimo Cappi","M. Cappi, T. Mihara, M. Matsuoka (RIKEN-Japan), K. Hayashida (Osaka
+  University-Japan), K.A. Weaver (Johns Hopkins University-USA) and C. Otani
+  (RIKEN-Japan)","Warm absorber, reflection and Fe K line in the X-ray spectrum of IC
+  4329A","Accepted for publication in The Astrophysical Journal, 10th February
+  1996 issue; 24 pages and 8 figures + 1 table tared, compressed and uuencoded
+  (with uufiles)",,"10.1086/176799",,"astro-ph",,"  Results from the X-ray spectral analysis of the ASCA PV phase observation of
+the Seyfert 1 galaxy IC 4329A are presented. We find that the 0.4 - 10 keV
+spectrum of IC 4329A is best described by the sum of a steep ($\Gamma \sim
+1.98$) power-law spectrum passing through a warm absorber plus a strong
+reflection component and associated Fe K line, confirming recent results
+(Madejski et al. 1995, Mushotsky et al. 1995). Further cold absorption in
+excess of the Galactic value and covering the entire source is also required by
+the data, consistent with the edge-on galactic disk and previous X-ray
+measurements. The effect of the warm absorber at soft X-ray energies is best
+parameterized by two absorption edges, one consistent with OVI, OVII or NVII,
+the other consistent with OVIII. A description of the soft excess in terms of
+blackbody emission, as observed in some other Seyfert 1 galaxies, is ruled out
+by the data. A large amount of reflection is detected in both the GIS and SIS
+detectors, at similar intensities. We find a strong correlation between the
+amount of reflection and the photon index, but argue that the best solution
+with the present data is that given by the best statistical fit. The model
+dependence of the Fe K line parameters is also discussed. Our best fit gives a
+slightly broad ($\sigma \simeq 0.11 \pm 0.08$ keV) and redshifted (E $\simeq
+6.20 \pm 0.07$ keV) Fe K line, with equivalent width $\simeq$ 89 $\pm$ 33 eV.
+The presence of a weak Fe K line with a strong reflection can be reconciled if
+one assumes iron underabundances or ionized reflection. We also have modeled
+the line with a theoretical line profile produced by an accretion disk. This
+yields results in better agreement with the constraints obtained from the
+reflection component.
+","[{""version"":""v1"",""created"":""Thu, 12 Oct 1995 09:56:38 GMT""}]","2009-10-28"
+"astro-ph/9510066","Peter Duffy","L O'C Drury (Dublin Institute for Advanced Studies, Dublin, Ireland),
+  P Duffy, J G Kirk (MPI fuer Kernphysik, Heidelberg, Germany)","Limits on diffusive shock acceleration in dense and incompletely ionised
+  media","9 pages uuencoded, compressed, tar file. A&A (in press) Replacement
+  of earlier failed submission to astro-ph",,,"MPK-ASTRO-95-19","astro-ph",,"  The limits imposed on diffusive shock acceleration by upstream ion-neutral
+Alfven wave damping, and by ionisation and Coulomb losses of low energy
+particles, are calculated. Analytic solutions are given for the steady upstream
+wave excitation problem with ion-neutral damping and the resulting escaping
+upstream flux calculated. The time dependent problem is discussed and numerical
+solutions presented. Finally the significance of these results for possible
+observational tests of shock acceleration in supernova remnants is discussed.
+","[{""version"":""v1"",""created"":""Thu, 12 Oct 1995 10:40:38 GMT""},{""version"":""v2"",""created"":""Wed, 31 Jan 1996 08:57:55 GMT""}]","2008-02-03"
+"astro-ph/9510067","Maggie Best","P. T. de Zeeuw and C. M. Carollo","Dynamical Constraints on the Formation of Elliptical Galaxies","8 pages uuencoded Z-compressed postscript file",,,,"astro-ph",,"  Recent work on the construction of spherical, Axisymmetric and triaxial
+dynamical models for elliptical galaxies is reviewed briefly, including their
+role in providing evidence for dark halos and central black holes. The
+different orbital structures and shapes of low-mass and giant elliptical
+galaxies provide essential constraints on scenarios of galaxy formation.
+","[{""version"":""v1"",""created"":""Thu, 12 Oct 1995 13:17:40 GMT""}]","2007-05-23"
+"chao-dyn/9510003","S. Y. Kim","Sang-Yoon Kim and Kijin Lee (Dept. of Phys., Kangwon Nat'l Univ.,
+  Kangwon-Do, Korea)","Multiple Transitions to Chaos in a Damped Parametrically Forced Pendulum","20 pages + 7 figures (available upon request), RevTex 3.0",,"10.1103/PhysRevE.53.1579","KWNU-SP-95-3","chao-dyn cond-mat nlin.CD",,"  We study bifurcations associated with stability of the lowest stationary
+point (SP) of a damped parametrically forced pendulum by varying $\omega_0$
+(the natural frequency of the pendulum) and $A$ (the amplitude of the external
+driving force). As $A$ is increased, the SP will restabilize after its
+instability, destabilize again, and so {\it ad infinitum} for any given
+$\omega_0$. Its destabilizations (restabilizations) occur via alternating
+supercritical (subcritical) period-doubling bifurcations (PDB's) and pitchfork
+bifurcations, except the first destabilization at which a supercritical or
+subcritical bifurcation takes place depending on the value of $\omega_0$. For
+each case of the supercritical destabilizations, an infinite sequence of PDB's
+follows and leads to chaos. Consequently, an infinite series of period-doubling
+transitions to chaos appears with increasing $A$. The critical behaviors at the
+transition points are also discussed.
+","[{""version"":""v1"",""created"":""Wed, 11 Oct 1995 23:37:16 GMT""}]","2009-10-28"
+"chao-dyn/9510004",,"R. Benzi, L. Biferale, S. Ciliberto, M.V. Struglia, R. Tripiccione","Generalized scaling in fully developed turbulence","25 pages, plain Latex, figures are available upon request to the
+  authors (struglia@roma2.infn.it, biferale@roma2.infn.it)",,"10.1016/0167-2789(96)00018-8",,"chao-dyn nlin.CD",,"  In this paper we report numerical and experimental results on the scaling
+properties of the velocity turbulent fields in several flows. The limits of a
+new form of scaling, named Extended Self Similarity(ESS), are discussed. We
+show that, when a mean shear is absent, the self scaling exponents are
+universal and they do not depend on the specific flow (3D homogeneous
+turbulence, thermal convection , MHD). In contrast, ESS is not observed when a
+strong shear is present. We propose a generalized version of self scaling which
+extends down to the smallest resolvable scales even in cases where ESS is not
+present. This new scaling is checked in several laboratory and numerical
+experiment. A possible theoretical interpretation is also proposed. A synthetic
+turbulent signal having most of the properties of a real one has been
+generated.
+","[{""version"":""v1"",""created"":""Thu, 12 Oct 1995 12:19:01 GMT""}]","2015-06-24"
+"chao-dyn/9510005","Leyvraz Francois","F. Leyvraz (Instituto de F\'isica--UNAM, Mexico), D. Ullmo (ATT Bell
+  Laboratories, New-Jersey, U.S.A.)","The Level Splitting Distribution in Chaos-assisted Tunneling","25 pages, RevTeX, 3 figures",,"10.1088/0305-4470/29/10/030",,"chao-dyn nlin.CD",,"  A compound tunneling mechanism from one integrable region to another mediated
+by a delocalized state in an intermediate chaotic region of phase space was
+recently introduced to explain peculiar features of tunneling in certain
+two-dimensional systems. This mechanism is known as chaos-assisted tunneling.
+We study its consequences for the distribution of the level splittings and
+obtain a general analytical form for this distribution under the assumption
+that chaos assisted tunneling is the only operative mechanism. %The validity of
+this form can then in %principle be checked either numerically or even
+experimentally. We have checked that the analytical form we obtain agrees with
+splitting distributions calculated numerically for a model system in which
+chaos-assisted tunneling is known to be the dominant mechanism. The
+distribution depends on two parameters: The first gives the scale of the
+splittings and is related to the magnitude of the classically forbidden
+processes, the second gives a measure of the efficiency of possible barriers to
+classical transport which may exist in the chaotic region. If these are weak,
+this latter parameter is irrelevant; otherwise it sets an energy scale at which
+the splitting distribution crosses over from one type of behavior to another.
+The detailed form of the crossover is also obtained and found to be in good
+agreement with numerical results for models for chaos-assisted tunneling.
+","[{""version"":""v1"",""created"":""Thu, 12 Oct 1995 11:40:19 GMT""},{""version"":""v2"",""created"":""Mon, 16 Oct 1995 21:55:33 GMT""}]","2016-08-16"
+"cond-mat/9510054","Per Arne Rikvold","Jun Zhang, Yung-Eun Sung, P.A. Rikvold and A. Wieckowski","Underpotential deposition of Cu on Au(111) in sulfate-containing
+  electrolytes: a theoretical and experimental study","36 pages, 14 Postscript figures are in uufiles form","J. Chem. Phys. 104 (1996) 5699","10.1063/1.471769","FSU-SCRI-95-104","cond-mat chem-ph mtrl-th",,"  We study the underpotential deposition of Cu on single-crystal Au(111)
+electrodes in sulfate-containing electrolytes by a combination of computational
+statistical-mechanics based lattice-gas modeling and experiments. The
+experimental methods are in situ cyclic voltammetry and coulometry and ex situ
+Auger electron spectroscopy and low-energy electron diffraction. The
+experimentally obtained voltammetric current and charge densities and adsorbate
+coverages are compared with the predictions of a two-component lattice-gas
+model for the coadsorption of Cu and sulfate. This model includes effective,
+lateral interactions out to fourth-nearest neighbors. Using group-theoretical
+ground-state calculations and Monte Carlo simulations, we estimate effective
+electrovalences and lateral adsorbate--adsorbate interactions so as to obtain
+overall agreement with experiments, including both our own and those of other
+groups. In agreement with earlier work, we find a mixed R3xR3 phase consisting
+of 2/3 monolayer Cu and 1/3 monolayer sulfate at intermediate electrode
+potentials, delimited by phase transitions at both higher and lower potentials.
+Our approach provides estimates of the effective electrovalences and lateral
+interaction energies, which cannot yet be calculated by first-principles
+methods.
+","[{""version"":""v1"",""created"":""Wed, 11 Oct 1995 17:31:52 GMT""}]","2009-10-28"
+"cond-mat/9510055","Paul Fendley","P. Fendley, F. Lesage and H. Saleur","A unified framework for the Kondo problem and for an impurity in a
+  Luttinger liquid","36 pages (22 in double-page format), 7 figures in uuencoded file,
+  uses harvmac and epsf macros","J.Statist.Phys. 85 (1996) 211","10.1007/BF02175563","USC-95-20","cond-mat hep-th",,"  We develop a unified theoretical framework for the anisotropic Kondo model
+and the boundary sine-Gordon model. They are both boundary integrable quantum
+field theories with a quantum-group spin at the boundary which takes values,
+respectively, in standard or cyclic representations of the quantum group
+$SU(2)_q$. This unification is powerful, and allows us to find new results for
+both models. For the anisotropic Kondo problem, we find exact expressions (in
+the presence of a magnetic field) for all the coefficients in the
+``Anderson-Yuval'' perturbative expansion. Our expressions hold initially in
+the very anisotropic regime, but we show how to continue them beyond the
+Toulouse point all the way to the isotropic point using an analog of
+dimensional regularization. For the boundary sine-Gordon model, which describes
+an impurity in a Luttinger liquid, we find the non-equilibrium conductance for
+all values of the Luttinger coupling.
+","[{""version"":""v1"",""created"":""Wed, 11 Oct 1995 21:56:28 GMT""}]","2009-10-28"
+"cond-mat/9510056","Hisao Nakanishi","Sonali Mukherjee and Hisao Nakanishi","Diffusion with critically correlated traps and the slow relaxation of
+  the longest wavelength mode","15 pages, LaTeX (RevTeX)",,"10.1103/PhysRevE.53.1470","STATPHYS-95/03","cond-mat",,"  We study diffusion on a substrate with permanent traps distributed with
+critical positional correlation, modeled by their placement on the perimeters
+of a critical percolation cluster. We perform a numerical analysis of the
+vibrational density of states and the largest eigenvalue of the equivalent
+scalar elasticity problem using the method of Arnoldi and Saad. We show that
+the critical trap correlation increases the exponent appearing in the stretched
+exponential behavior of the low frequency density of states by approximately a
+factor of two as compared to the case of no correlations. A finite size scaling
+hypothesis of the largest eigenvalue is proposed and its relation to the
+density of states is given. The numerical analysis of this scaling postulate
+leads to the estimation of the stretch exponent in good agreement with the
+density of states result.
+","[{""version"":""v1"",""created"":""Wed, 11 Oct 1995 21:47:38 GMT""}]","2009-10-28"
+"cond-mat/9510057","Uwe Ritschel","U. Ritschel and P. Czerner","Universal Short-Time Behavior in Critical Dynamics near Surfaces","7 pages, 1 postscript figure, REVTEX 3.0, to be published in Phys.
+  Rev. Lett","Phys. Rev. Lett. 75 (1995) 3882","10.1103/PhysRevLett.75.3882",,"cond-mat",,"  We study the time evolution of classical spin systems with purely
+relaxational dynamics, quenched from T >> T_c to the critical point, in the
+semi-infinite geometry. Shortly after the quench, like in the bulk, a
+nonequilibrium regime governed by universal power laws is also found near the
+surface. We show for `ordinary' and `special' transitions that the
+corresponding critical exponents differ from their bulk values, but can be
+expressed via scaling relations in terms of known bulk and surface exponents.
+To corroborate our scaling analysis, we present perturbative
+(epsilon-expansion) and Monte Carlo results.
+","[{""version"":""v1"",""created"":""Thu, 12 Oct 1995 08:45:29 GMT""}]","2009-10-28"
+"cond-mat/9510058","Granato Enzo","E. Granato, M.R. Baldan and S.C. Ying","Sliding Friction in the Frenkel-Kontorova Model","16 pages, Latex, to appear in ""The Physics of Sliding Friction"",
+  Adriatico Conf. (95). (Kluwer Publ.)","in ""the Physics of Sliding Friction"", Ed. B.N.J. Persson and E.
+  Tosatti (Kluwer Academic Publishers), p. 103 (1996).",,,"cond-mat mtrl-th",,"  A two-dimensional \underline{Frenkel-Kontorova model} under a steady external
+force is used to study the nonlinear sliding friction between flat macroscopic
+surfaces with a lubricant layer in between. The nonequilibrium properties of
+the model are simulated by a Brownian molecular dynamics and results are
+obtained as a function of temperature and a microscopic friction parameter
+$\eta$.
+","[{""version"":""v1"",""created"":""Thu, 12 Oct 1995 10:20:31 GMT""}]","2007-05-23"
+"cond-mat/9510059","Arkadi A. Odintsov","A. A. Odintsov","One-dimensional Josephson arrays as superlattices for single Cooper
+  pairs","4 pages (LATEX), 2 figures",,"10.1103/PhysRevB.54.1228",,"cond-mat",,"  We investigate uniform one-dimensional arrays of small Josephson junctions
+($E_J \ll E_C$, $E_C = (2e)^2/2C$) with a realistic Coulomb interaction $U(x) =
+E_C \lambda \exp( - |x|/\lambda)$ (here $\lambda \gg 1$ is the screening length
+in units of the lattice constant of the array). At low energies this system can
+be described in terms of interacting Bose particles (extra single Cooper pairs)
+on the lattice. With increasing concentration $\nu$ of extra Cooper pairs, a
+crossover from the Bose gas phase to the Wigner crystal phase and then to the
+superlattice regime occurs. The phase diagram in the superlattice regime
+consists of commensurable insulating phases with $\nu = 1/l$ ($l$ is integer)
+separated by superconducting regions where the current is carried by
+excitations with {\em fractional} electric charge $q = \pm 2e/l$. The Josephson
+current through a ring-shaped array pierced by magnetic flux is calculated for
+all of the phases.
+","[{""version"":""v1"",""created"":""Thu, 12 Oct 1995 11:07:16 GMT""}]","2016-08-31"
+"cond-mat/9510060","Uwe Ritschel","E. Eisenriegler and U. Ritschel","Casimir Forces between Spherical Particles in a Critical Fluid and
+  Conformal Invariance","37 pages, 2 postscript figures, REVTEX 3.0, published in Phys. Rev. B
+  51, 13717 (1995)","Phys. Rev. B 51 (1995) 13717","10.1103/PhysRevB.51.13717",,"cond-mat",,"  Mesoscopic particles immersed in a critical fluid experience long-range
+Casimir forces due to critical fluctuations. Using field theoretical methods,
+we investigate the Casimir interaction between two spherical particles and
+between a single particle and a planar boundary of the fluid. We exploit the
+conformal symmetry at the critical point to map both cases onto a highly
+symmetric geometry where the fluid is bounded by two concentric spheres with
+radii R_- and R_+. In this geometry the singular part of the free energy F only
+depends upon the ratio R_-/R_+, and the stress tensor, which we use to
+calculate F, has a particularly simple form. Different boundary conditions
+(surface universality classes) are considered, which either break or preserve
+the order-parameter symmetry. We also consider profiles of thermodynamic
+densities in the presence of two spheres. Explicit results are presented for an
+ordinary critical point to leading order in epsilon=4-d and, in the case of
+preserved symmetry, for the Gaussian model in arbitrary spatial dimension d.
+Fundamental short-distance properties, such as profile behavior near a surface
+or the behavior if a sphere has a `small' radius, are discussed and verified.
+The relevance for colloidal solutions is pointed out.
+","[{""version"":""v1"",""created"":""Thu, 12 Oct 1995 14:29:00 GMT""}]","2009-10-28"
+"gr-qc/9510022","Domenico Giulini","Domenico Giulini","The Group of Large Diffeomorphisms in General Relativity","13 Pages, Plain-TeX, no figures","Banach Center Publ. 39 (1997) 303-315",,"Freiburg THEP-95/19","gr-qc",,"  We investigate the group of large diffeomorphisms fixing a frame at a point
+for general closed 3-manifolds. We derive some general structural properties of
+these groups which relate to the picture of the manifold as being composed of
+extended `objects' (geons).
+","[{""version"":""v1"",""created"":""Wed, 11 Oct 1995 20:20:58 GMT""}]","2007-05-23"
+"hep-ex/9510002",,"Daniel M. Kaplan (Illinois Institute of Technology)","Production of Charm, Charmonium, and Beauty in 800$\,$GeV Proton-Nucleon
+  Collisions","3 pages, 2 PostScript figures",,,"IIT-HEP-95/5","hep-ex",,"  Some recent results from the Fermilab fixed-target experiment E789 on
+production of charm, charmonium, and beauty are summarized and compared to
+model predictions. The data indicate that heavy-quark and quarkonium production
+are not yet entirely understood. The largest discrepancy concerns the rate of
+$\psi^\prime$ production, which is a factor $\approx$25 above expectations.
+","[{""version"":""v1"",""created"":""Thu, 12 Oct 1995 15:56:34 GMT""}]","2007-05-23"
+"hep-ph/9510267",,"Dong-Sheng Du and Mao-Zhi Yang","CP-Violation For $B \to X_sl^+l^-$ Including Long-Distance Effects","9 pages, Latex file, one figure included","Phys.Rev. D54 (1996) 882-885","10.1103/PhysRevD.54.882",,"hep-ph",,"  We consider the CP violating effect for $B\to X_sl^+l^-$ process, including
+both short and long distance effects. We obtain the CP asymmetry parameter and
+present its variation over the dilepton mass.
+","[{""version"":""v1"",""created"":""Wed, 11 Oct 1995 17:37:53 GMT""},{""version"":""v2"",""created"":""Sat, 14 Oct 1995 02:52:37 GMT""},{""version"":""v3"",""created"":""Mon, 29 Jan 1996 20:37:34 GMT""}]","2009-10-28"
+"hep-ph/9510274","Tony M. Liss","Tony M. Liss","The Future of Top Physics at the Tevatron and LHC","10 pages latex + 1 uuencoded postscript figure. Talk given at EPS95,
+  Brussels",,,,"hep-ph hep-ex",,"  I review the prospects for measuring the properties of the top quark at the
+Tevatron, with an integrated luminosity of 2 fb$^{-1}$ or more, and at LHC in
+the early running at instantaneous luminosities of
+$10^{32}-10^{33}~cm^{-2}~s^{-1}$.
+","[{""version"":""v1"",""created"":""Wed, 11 Oct 1995 20:13:59 GMT""}]","2007-05-23"
+"hep-ph/9510275","Q. Shafi","G. Lazarides (School of Technology, Univ. of Thessaloniki) and Q.
+  Shafi (Bartol Research Institute, Univ. of Delaware)","Topological Defects and Inflation","11 pages, LaTEX","Phys.Lett.B372:20-24,1996","10.1016/0370-2693(96)00136-0","Bartol Preprint BA-95-20","hep-ph",,"  In the context of supersymmetric models, we analyze the production of
+topological defects at the end of inflation driven by a conjugate pair of
+inflaton fields which are non-singlets under the continuous symmetry group of
+the theory. We find that magnetic monopoles of mass on the order of $10^{13}\
+GeV$ can survive inflation and be present in our galaxy at an observable level.
+We also consider cosmic strings as well as domain walls.
+","[{""version"":""v1"",""created"":""Wed, 11 Oct 1995 17:20:30 GMT""}]","2008-11-26"
+"hep-ph/9510276","John Collins","John Collins (Penn State)","The Problem Of Scales: Renormalization and All That","Lectures at TASI 95. Correction of signs in degree of divergence on
+  p. 4","""Theoretical Advanced Study Institute in Elementary Particle
+  Physics, 1995: QCD and Beyond'', D.E. Soper, ed., (World Scientific
+  Singapore)",,,"hep-ph","http://arxiv.org/licenses/nonexclusive-distrib/1.0/","  I explain the methods that are used in field theory for problems involving
+typical momenta on two or more widely disparate scales. The principal topics
+are: (a) renormalization, which treats the problem of taking an ultra-violet
+cut-off to infinity, (b) the renormalization group, which is used to relate
+phenomena on different scales, (c) the operator product expansion, which shows
+how to obtain the asymptotics of amplitudes when some of its external momenta
+approach infinity.
+","[{""version"":""v1"",""created"":""Wed, 11 Oct 1995 21:08:57 GMT""},{""version"":""v2"",""created"":""Fri, 13 Oct 1995 22:47:33 GMT""},{""version"":""v3"",""created"":""Thu, 12 Feb 2009 14:42:39 GMT""}]","2009-02-12"
+"hep-ph/9510277","Junji Hisano","J.Hisano (TIT, ITP) and T.Yanagida (Univ. of Tokyo, TIT)","An N=2 SUSY Gauge Model for Dynamical Breaking of the Grand Unified
+  SU(5) Symmetry","7 pages","Mod.Phys.Lett.A10:3097-3102,1995","10.1142/S0217732395003240","NSF-ITP-95-124,TIT-HEP-303,UT-726","hep-ph",,"  We construct an extension of the recently proposed dynamical model for the
+breaking of SU(5)$_{\rm GUT}$ gauge symmetry, in which a pair of massless
+chiral supermultiplets for Higgs doublets are naturally obtained. We point out
+that a model at a specific point in the parameter space of superpotential is
+regarded as a low-energy effective theory of an N=2 supersymmetric gauge model
+for the strongly interacting hypercolor sector.
+","[{""version"":""v1"",""created"":""Wed, 11 Oct 1995 21:03:32 GMT""}]","2008-11-26"
+"hep-ph/9510278",,"Tao Huang and Chuan-Wang Luo","SU(3) Flavor Dependence of the Heavy Quark Symmetry","Invited talk given by T.Huang at International Symposium on Particle
+  Theory and Phenomenology, Ames, Iowa, 22-24 May 1995; 9 Pages, Latex file",,,"BIHEP-TH-95-29","hep-ph",,"  SU(3) flavor dependence of the leading and subleading parameters appeared in
+the heavy quark expansion of the heavy-light mesons are systematically analyzed
+by using QCD sum rules.
+","[{""version"":""v1"",""created"":""Thu, 12 Oct 1995 15:47:39 GMT""}]","2007-05-23"
+"hep-ph/9510279","Jisuke Kubo","Jisuke Kubo, Myriam Mondragon, Mark Olechowski, George Zoupanos","Gauge-Yukawa Unification and the Top-Bottom Hierarchy","5 pages",,,"Kanazawa University KANAZAWA-95-16","hep-ph",,"  The consequences of Gauge-Yukawa Unification (GYU) in supersymmetric unified
+models on low energy physics are analyzed. We find that the observed top-bottom
+mass hierarchy can be explained by supersymmetric GYU and different models can
+be experimentally distinguished if the top quark mass does not exceed the value
+$\sim 185$ GeV.
+","[{""version"":""v1"",""created"":""Thu, 12 Oct 1995 05:18:11 GMT""}]","2007-05-23"
+"hep-ph/9510280","Hai-Yang Cheng","Hai-Yang Cheng","U(1) Goldberger-Treiman Relation and Its Connection to the Proton Spin","10 pages, 2 Postscript figures","Chin.J.Phys. 34 (1996) 738-747",,"IP-ASTP-21-95","hep-ph nucl-th",,"  The U(1) Goldberger-Treiman (GT) relation for the axial charge $g_A^0$ is
+reexamined. It is stressed that the isosinglet GT relation in terms of the
+$\eta_0$ holds irrespective of the quark masses and the axial anomaly. We
+pointed out that the identification of the $\eta_0-N$ and $\dk-N$coupling terms
+with the quark and gluon spin components respectively in a proton is possible
+but valid only in the chiral-invariant factorization scheme. In general, the
+two-component U(1) GT relation can be identified in a gauge-invariant way with
+connected and disconnected insertions. The observation that $(\sqrt{3}f_\pi
+/2m_N)\getao$ is related to the connected insertion i.e., the total valence
+quark contribution to the proton spin enables us to determine the physical
+coupling constants $\getap$ and $\geta$ from the GT relations for $g_A^0$ and
+$g_A^8$. We found $\getap=3.4$ and $\geta=4.7\,$.
+","[{""version"":""v1"",""created"":""Thu, 12 Oct 1995 07:08:01 GMT""}]","2007-05-23"
+"hep-ph/9510281","Tomasz Taylor","T.R. Taylor","Methods of Supersymmetry Breaking","Talk presented at SUSY-95, to appear in the proceedings. 11 pages,
+  LaTeX",,,,"hep-ph hep-th",,"  This is a review of basic ideas and mechanisms encountered in the
+supersymmetry breaking problem at the global level, in supergravity models, and
+in superstring theory.
+","[{""version"":""v1"",""created"":""Thu, 12 Oct 1995 11:03:14 GMT""}]","2007-05-23"
+"hep-ph/9510282",,"Yu.S.Kalashnikova, A.V.Nefediev (ITEP)","String junction as a baryonic constituent","Latex,7 pages,no figures","Phys.Lett. B367 (1996) 265-269","10.1016/0370-2693(95)01421-7","ITEP-52-95","hep-ph",,"  We extend the model for QCD string with quarks to consider the Mercedes Benz
+string configuration describing the three-quark baryon. Under the assumption of
+adiabatic separation of quark and string junction motion we formulate and solve
+the classical equation of motion for the junction.We dare to quantize the
+motion of the junction, and discuss the impact of these modes on the baryon
+spectra.
+","[{""version"":""v1"",""created"":""Thu, 12 Oct 1995 12:10:51 GMT""}]","2019-08-17"
+"hep-th/9510073","Richard Grimm","R. Grimm","Supergravity, Linear Multiplets, and Chern-Simons Forms",,,,,"hep-th",,"  Some general features of locally supersymmetric theories (N=1 in four
+dimensions) involving Chern-Simons forms and antisymmetric tensors are sketched
+out. The relevance of the three-form multiplet both for the description of
+Chern-Simons forms and the supersymmetry properties of the gaugino condensate
+is pointed out.
+","[{""version"":""v1"",""created"":""Wed, 11 Oct 1995 16:27:45 GMT""}]","2007-05-23"
+"hep-th/9510074","Massimo Porrati","S. Ferrara, L. Girardello and M. Porrati","Minimal Higgs Branch for the Breaking of Half of the Supersymmetries in
+  N=2 Supergravity","7 pages, plain Latex","Phys.Lett. B366 (1996) 155-159","10.1016/0370-2693(95)01378-4","NYU-TH-95/10/02, CERN-TH/95-268, UCLA/95/TEP/33","hep-th",,"  It is shown that the minimal Higgs sector of a generic N=2 supergravity
+theory with unbroken N=1 supersymmetry must contain a Higgs hypermultiplet and
+a vector multiplet. When the multiplets parametrize the quaternionic manifold
+SO(4,1)/SO(4), and the special Kahler manifold SU(1,1)/U(1), respectively, a
+vanishing vacuum energy with a sliding massive spin 3/2 multiplet is obtained.
+Potential applications to N=2 low energy effective actions of superstrings are
+briefly discussed.
+","[{""version"":""v1"",""created"":""Wed, 11 Oct 1995 22:26:52 GMT""}]","2009-10-28"
+"hep-th/9510076","Phillial Oh","Sang-Ok Hahn, Phillial Oh and Myung-Ho Kim","Quantum Mechanics of Integrable Spins on Coadjoint Orbits","14 pages, Revtex, revised virsion","J.KoreanPhys.Soc.29:409-414,1996",,"SNUTP/95-092","hep-th",,"  We investigate classical integrable spins defined on the reduced phase spaces
+of coadjoint orbits of $G= SU(N)$ and study quantum mechanics of them.
+  After discussions on a complete set of commuting functions on each orbit and
+construction of integrable spin models on the flag manifolds, we quantize a
+concrete example of integrable spins on SU(3) flag manifold in the coherent
+state quantization scheme and solve explicitly the time-dependent Schr\""odinger
+equation.
+","[{""version"":""v1"",""created"":""Thu, 12 Oct 1995 02:59:09 GMT""},{""version"":""v2"",""created"":""Wed, 17 Apr 1996 06:34:52 GMT""}]","2016-09-06"
+"hep-th/9510077","Ryuji Kemmoku 0426-77-1111x3377","Ryuji Kemmoku and Satoru Saito","Phase Space Discretization and Moyal Quantization","8 pages",,,"TMUP-HEL-9507","hep-th",,"  The Moyal quantization is described as a discretization of the classical
+phase space by using difference analogue of vector fields. Difference analogue
+of Lie brackets plays the role of Heisenberg commutators.
+","[{""version"":""v1"",""created"":""Thu, 12 Oct 1995 06:14:42 GMT""}]","2007-05-23"
+"hep-th/9510078","Lucchesi","Claudio Lucchesi (University of Neuchatel, Switzerland)","All-orders finite $N=1$ super-Yang-Mills Theories","6 pages, no figures, plain LATEX file",,,"NEIP-95-012","hep-th hep-ph",,"  I present a criterion for all-order finiteness in $N=1$ SYM theories. The
+structure of the supercurrent anomaly, the Callan-Symanzik equation and the
+supersymmetric non-renormalization theorem for chiral anomalies are the
+essential ingredients of the proof.
+","[{""version"":""v1"",""created"":""Thu, 12 Oct 1995 11:44:29 GMT""}]","2007-05-23"
+"hep-th/9510079","Tomasz Taylor","I. Antoniadis, S. Ferrara, E. Gava, K.S. Narain and T.R. Taylor","Duality Symmetries in N=2 Heterotic Superstring","Based on talks presented at several conferences. 12 pages, LaTeX","Nucl.Phys.Proc.Suppl. 45BC (1996) 177-187; Nucl.Phys.Proc.Suppl.
+  46 (1996) 162-172","10.1016/0920-5632(96)00018-7","CERN-TH/95-257, CPTH-PC378.1095","hep-th",,"  We review the derivation and the basic properties of the perturbative
+prepotential in N=2 compactifications of the heterotic superstring. We discuss
+the structure of the perturbative monodromy group and the embedding of rigidly
+supersymmetric monodromies associated with enhanced gauge groups, at both
+perturbative and non-perturbative level.
+","[{""version"":""v1"",""created"":""Thu, 12 Oct 1995 11:46:52 GMT""}]","2009-10-28"
+"hep-th/9510080","Klaus Behrndt","K. Behrndt","String duality and massless string states","7 pages, Latex, Talk at Trieste workshop on ""Strings, gravity..""",,,"SU-ITP-95-17, HUB-EP-95/22","hep-th",,"  We are discussing the $S$ \& $T$ duality for special class of heterotic
+string configurations. This class of solutions includes various types of black
+hole solutions and Taub-NUT geometries. It allows a self-dual point for both
+dualities which corresponds to massless configurations. As string state this
+point corresponds to $N_R=1/2$ and $N_L=0$. The string/string duality is
+shortly discussed.
+","[{""version"":""v1"",""created"":""Thu, 12 Oct 1995 12:35:21 GMT""}]","2007-05-23"
+"hep-th/9510081",,"R. Brustein, M. Gasperini, M. Giovannini and G. Veneziano","Gravitational Radiation from String Cosmology","4 pages, uuencoded ps",,,"CERN-TH/95-269","hep-th astro-ph gr-qc",,"  A spectrum of relic stochastic gravitational radiation, strongly tilted
+towards high frequencies, and characterized by two basic parameters is shown to
+emerge in a class of string theory models. We estimate the required sensitivity
+for detection of the predicted gravitational radiation and show that a region
+of our parameter space is within reach for some of the
+plannedgravitational-wave detectors.
+","[{""version"":""v1"",""created"":""Thu, 12 Oct 1995 12:53:18 GMT""}]","2007-05-23"
+"hep-th/9510082","Harutada Sato","Haru-Tada Sato","OPE formulae for deformed super-Virasoro algebras","Latex, 18 pages","Nucl.Phys. B471 (1996) 553-569","10.1016/0550-3213(96)00185-X","NBI-HE-95-34","hep-th",,"  We show the OPE formulae for three types of deformed super-Virasoro algebras:
+Chaichian-Presnajder's deformation, Belov-Chaltikhian's one and its modified
+version. Fundamental (anti-)commutation relations toward a ghost realization of
+deformed super-Virasoro algebra are also discussed.
+","[{""version"":""v1"",""created"":""Thu, 12 Oct 1995 14:14:47 GMT""}]","2009-10-28"
+"hep-th/9510084",,"Silvia Penati, Andrea Refolli and Daniela Zanon","Quantum boundary currents for nonsimply-laced Toda theories","11 pages, latex, no figures","Phys.Lett. B369 (1996) 16-22","10.1016/0370-2693(95)01515-9","IFUM-518-FT","hep-th",,"  We study the quantum integrability of nonsimply--laced affine Toda theories
+defined on the half--plane and explicitly construct the first nontrivial
+higher--spin charges in specific examples. We find that, in contradistinction
+to the classical case, addition of total derivative terms to the ""bulk"" current
+plays a relevant role for the quantum boundary conservation.
+","[{""version"":""v1"",""created"":""Thu, 12 Oct 1995 15:33:09 GMT""}]","2009-10-28"
+"nucl-ex/9510002","Pierfrancesco Dip. Di Fisica Augusto Righi","P. F. Mastinu, P. M. Milazzo, M. Bruno and M. D'agostino (Phys. Dept,
+  Univ. of Bologna, Italy)","A Procedure to Calibrate a Multi-Modular Telescope","9 pages, Tex file, 3 postscript figures available upon request from
+  mastinu@bologna.infn.it; to appear in Nucl. Inst. Meth","Nucl. Instrum. Meth. A371 (1996) 510","10.1016/0168-9002(95)01015-7",,"nucl-ex",,"  A procedure has been developed for the charge, mass and energy calibration of
+ions produced in nuclear heavy ion reactions. The charge and mass
+identification are based on a $\Delta$E-E technique. A computer code determines
+the conversion from ADC channels into energy values, atomic number and mass of
+the detected fragments by comparing with energy loss calculations through a
+minimization routine. The procedure does not need prior measurements with beams
+of known energy and charge. An application of this technique to the calibration
+of the MULTICS apparatus is described.
+","[{""version"":""v1"",""created"":""Wed, 11 Oct 1995 16:36:01 GMT""}]","2009-10-28"
+"nucl-th/9510022","Brian Pudliner","B. S. Pudliner, A. Smerzi, J. Carlson, V. R. Pandharipande, Steven C.
+  Pieper, D. G. Ravenhall","Neutron Drops and Skyrme Energy-Density Functionals",,"Phys.Rev.Lett. 76 (1996) 2416-2419","10.1103/PhysRevLett.76.2416","P-95-10-070","nucl-th",,"  The J$^{\pi}$=0$^+$ ground state of a drop of 8 neutrons and the lowest
+1/2$^-$ and 3/2$^-$ states of 7-neutron drops, all in an external well, are
+computed accurately with variational and Green's function Monte Carlo methods
+for a Hamiltonian containing the Argonne $v_{18}$ two-nucleon and Urbana IX
+three-nucleon potentials. These states are also calculated using Skyrme-type
+energy-density functionals. Commonly used functionals overestimate the central
+density of these drops and the spin-orbit splitting of 7-neutron drops.
+Improvements in the functionals are suggested.
+","[{""version"":""v1"",""created"":""Thu, 12 Oct 1995 15:10:44 GMT""}]","2009-10-28"
+"q-alg/9510012",,"Yuri Bespalov","On braided FRT-construction","12 pages, latex, 6 figures prepared by latex, To appear in {\it J.
+  Nonlinear Math. Phys.}",,,,"q-alg math.QA",,"  Fully braided analog of Faddeev-Reshetikhin-Takhtajan construction of
+quasitriangular bialgebra $A(X,R)$ is proposed. For given pairing $C$
+factor-algebra $A(X,R;C)$ is a dual quantum braided group. Corresponding
+inhomogeneous quantum group is obtained as a result of generalized
+bosonization. Construction of first order bicovariant differential calculus is
+proposed.
+","[{""version"":""v1"",""created"":""Thu, 12 Oct 1995 10:22:26 GMT""}]","2008-02-03"
+"q-alg/9510013",,"Yu.N. Bespalov","Crossed modules and quantum groups in braided categories","54 pages, latex, 28 figures prepared by latex This is a completely
+  revised and complemented version of hep-th/9408102,hep-th/9408106 submitted
+  to {\it Appl. Categorical Structures}",,,,"q-alg math.QA",,"  Let $A$ be a Hopf algebra in a braided category $\cal C$. Crossed modules
+over $A$ are introduced and studied as objects with both module and comodule
+structures satisfying a compatibility condition. The category $\DY{\cal C}^A_A$
+of crossed modules is braided and is a concrete realization of a known general
+construction of a double or center of a monoidal category. For a quantum
+braided group $(A,\overline A,{\cal R})$ the corresponding braided category of
+modules ${\cal C}_{\cO{A,\overline A}}$ is identified with a full subcategory
+in $\DY{\cal C}_A^A$. The connection with cross products is discussed and a
+suitable cross product in the class of quantum braided groups is built.
+Majid--Radford theorem, which gives equivalent conditions for an ordinary Hopf
+algebra to be such a cross product, is generalized to the braided category.
+Majid's bosonization theorem is also generalized.
+","[{""version"":""v1"",""created"":""Thu, 12 Oct 1995 10:17:28 GMT""}]","2008-02-03"

@@ -1,0 +1,210 @@
+"adap-org/9504004","Yoshihiro Taguchi","Yasushi Maeno, Dr. Y-h. Taguchi (Department of Physics, Tokyo
+  Institute of Technology, Oh-okayama, Meguro-ku, Tokyo 152, Japan)","Numerical investigation of surface level instability due to tube in
+  vibrating bed of powder","9 pages using REVTEX + postscript figures (uuencoded gziped tar file)
+  ***** DO NOT SEND ANYTHING TO Y. MAENO BUT SEND EVERYTHING TO Y-H. TAGUCHI
+  ****",,"10.1016/0378-4371(96)00025-8","titcmt-95-10","adap-org cond-mat nlin.AO",,"  Surface level instability when tube is injected into vibrating bed of powder,
+which was originally found in experiments, is investigated numerically. We find
+that thicker (thiner) tube makes surface level inside tube higher (lower) than
+surface level outside tube. With fixed acceleration amplitude of vibration,
+surface level inside tube becomes higher as amplitude of vibration increases,
+which can be explained by considering the dependence upon strength of
+convective flow.
+","[{""version"":""v1"",""created"":""Mon, 17 Apr 1995 08:01:37 GMT""}]","2015-06-24"
+"alg-geom/9504009",,"Jun Li and Gang Tian","The quantum cohomology of homogeneous varieties","36 pages with 0 figures, AMSTeX",,,,"alg-geom math.AG",,"  We established the associativity of the quantum cohomologies of homogeneous
+varieties by using degeneration method in algebraic geometry.
+","[{""version"":""v1"",""created"":""Sun, 16 Apr 1995 21:56:16 GMT""}]","2008-02-03"
+"alg-geom/9504010",,"Jun Li","The first two Betti numbers of the moduli spaces of vector bundles on
+  surfaces","41 pages, AMSTeX",,,,"alg-geom math.AG",,"  We determined the first two Betti numbers of the moduli of rank two stable
+sheaves on an arbitrary algebraic surface
+","[{""version"":""v1"",""created"":""Sun, 16 Apr 1995 21:58:49 GMT""}]","2008-02-03"
+"alg-geom/9504011",,"Jun Li","Picard groups of the moduli spaces of vector bundles over algebraic
+  surfaces","23 pages, AMSTeX",,,,"alg-geom math.AG",,"  We determined the Picard group of the moduli of rank two stable sheaves on an
+arbitrary algebraic surface up to finite index
+","[{""version"":""v1"",""created"":""Sun, 16 Apr 1995 22:15:28 GMT""}]","2008-02-03"
+"astro-ph/9504051","Mark Abney","Mark Abney (U. of Chicago), Richard I Epstein (LANL)","Ekman Pumping in Compact Astrophysical Bodies","Latex, 21 pages, 5 ps figures. Revised version includes extended
+  discussion in the introduction and references to previous works. Various
+  minor corrections and clarifications included","J.Fluid Mech.312:327-340,1996","10.1017/S0022112096002030","FERMILAB-Pub-95/074-A","astro-ph",,"  We examine the dynamics of a rotating viscous fluid following an abrupt
+change in the angular velocity of the solid bounding surface. We include the
+effects of a density stratification and compressibility which are important in
+astrophysical objects such as neutron stars. We confirm and extend the
+conclusions of previous studies that stratification restricts the Ekman pumping
+process to a relatively thin layer near the boundary, leaving much of the
+interior fluid unaffected. We find that finite compressibility further inhibits
+Ekman pumping by decreasing the extent of the pumped layer and by increasing
+the time for spin-up. The results of this paper are important for interpreting
+the spin period discontinuities (``glitches'') observed in rotating neutron
+stars.
+","[{""version"":""v1"",""created"":""Sun, 16 Apr 1995 20:55:38 GMT""},{""version"":""v2"",""created"":""Thu, 22 Feb 1996 18:27:17 GMT""}]","2014-10-13"
+"astro-ph/9504052","Igor Tkachev","P. Sikivie, I. I. Tkachev and Yun Wang","The velocity peaks in the cold dark matter spectrum on Earth","12 pages including 1 table and 4 figures, LaTeX, REVTEX 3.0 version","Phys.Rev.Lett.75:2911-2915,1995","10.1103/PhysRevLett.75.2911","UFIFT-HEP-95-6, Fermilab-Pub-95/080-A","astro-ph hep-ph",,"  The cold dark matter spectrum on earth is expected to have peaks in velocity
+space. We obtain estimates for the sizes and locations of these peaks. To this
+end we have generalized the secondary infall model of galactic halo formation
+to include angular momentum of the dark matter particles. This new model is
+still spherically symmetric and it has self-similar solutions. Our results are
+relevant to direct dark matter search experiments.
+","[{""version"":""v1"",""created"":""Mon, 17 Apr 1995 15:15:25 GMT""}]","2010-11-30"
+"cond-mat/9504064","Icmp","O.Derzhko, T.Krokhmalskii","Random $s=1/2$ $XY$ chains and the theory of quasi-one-dimensional
+  ferroelectrics with hydrogen bonds","12 pages, LaTeX",,,"Preprint ICTP-94-15E","cond-mat",,"  The paper presents a new numerical approach for studying the thermodynamical
+and dynamical properties of finite spin-$\frac{1}{2}$ $XY$ chains. Special
+attention is given to examining the influence of disorder on the average
+transverse dynamical susceptibility of Ising chain in random transverse field.
+","[{""version"":""v1"",""created"":""Mon, 17 Apr 1995 07:51:44 GMT""}]","2007-05-23"
+"cond-mat/9504065","Alexander Hartmann","A.K. Hartmann (Universitaet Heidelberg, Germany)","Cluster-Exact Approximation of Spin Glass Groundstates","13 pages, LaTeX (including figures in LaTeX-format)","Physica A 224, 480 (1996)","10.1016/0378-4371(95)00404-1",,"cond-mat",,"  We present an algorithm which calculates groundstates of Ising spin glasses
+approximately. It works by randomly selecting clusters of spins which exhibit
+no frustrations. The spins which were not selected, contribute to the local
+fields of the selected spins. For the spin--cluster a groundstate is exactly
+calaculated by using graphtheoretical methods. The other spins remain
+unchanged. This procedure is repeated many times resulting in a state with low
+energy. The total time complexity of this scheme is approximately cubic. We
+estimate that the groundstate energy density of the infinite system for the +/-
+J model is -1.400 +/- 0.005 (2d) and -1.766 +/- 0.002 (3d). The distribution of
+overlaps for selected systems is calculated in order to characterize the
+algorithm.
+","[{""version"":""v1"",""created"":""Mon, 17 Apr 1995 15:00:10 GMT""}]","2015-06-25"
+"gr-qc/9504023","Mathias Pillin","Mathias Pillin","Selfdual 2-form formulation of gravity and classification of
+  energy-momentum tensors","title changed, extended version","Class. Quant. Grav. 13 (1996) 2379","10.1088/0264-9381/13/8/020",,"gr-qc",,"  It is shown how the different irreducibility classes of the energy-momentum
+tensor allow for a Lagrangian formulation of the gravity-matter system using a
+selfdual 2-form as a basic variable. It is pointed out what kind of
+difficulties arise when attempting to construct a pure spin-connection
+formulation of the gravity-matter system. Ambiguities in the formulation
+especially concerning the need for constraints are clarified.
+","[{""version"":""v1"",""created"":""Mon, 17 Apr 1995 01:43:50 GMT""},{""version"":""v2"",""created"":""Tue, 17 Dec 1996 04:04:48 GMT""}]","2009-10-28"
+"gr-qc/9504024","Ganesh Devaraj","Ganesh Devaraj and Martin B. Einhorn","Interacting scalar fields in de Sitter space","12 pages, Latex file, uses epsf.sty, 2 figures in a uufile. Revision
+  of the infrared limit in the symmetric case. Conclusions remain unchanged",,,"UM-TH-95-10","gr-qc hep-th",,"  We investigate the massless $\lambda \phi^4$ theory in de~Sitter space. It is
+unnatural to assume a minimally coupled interacting scalar field, since $\xi=0$
+is not a fixed point of the renormalization group once interactions are
+included. In fact, the only case where perturbation theory can be trusted is
+when the field is non-minimally coupled at the minimum of the effective
+potential. Thus, in perturbation theory, there is no infrared divergence
+associated with this scalar field.
+","[{""version"":""v1"",""created"":""Mon, 17 Apr 1995 02:06:31 GMT""},{""version"":""v2"",""created"":""Mon, 12 Jun 1995 22:01:01 GMT""}]","2008-02-03"
+"hep-lat/9504010","Hagen Kleinert","W. Janke and H. Kleinert","Geometrical Origin of Tricritical Points of various U(1) Lattice Models","LaTeX and figure files, http://www.physik.fu-berlin.de/kleinert.html","in Proceedings of the Workshop and Conference on Frontiers in
+  Non-perturbative Field Theory in Eger/Hungary (1988), World Scientific, 1989,
+  p. 279",,,"hep-lat",,"  We review the dual relationship between various compact U(1) lattice models
+and Abelian Higgs models, the latter being the disorder field theories of
+line-like topological excitations in the systems. We point out that the
+predicted first-order transitions in the Abelian Higgs models (Coleman-Weinberg
+mechanism) are, in three dimensions, in contradiction with direct numerical
+investigations in the compact U(1) formulation since these yield continuous
+transitions in the major part of the phase diagram. In four dimensions, there
+are indications from Monte Carlo data for a similar situation. Concentrating on
+the strong-coupling expansion in terms of geometrical objects, surfaces or
+lines, with certain statistical weights, we present semi-quantitative arguments
+explaining the observed cross-over from first-order to continuous transitions
+by the balance between the lowest two weights (``2:1 ratio'') of these
+geometrical objects.
+","[{""version"":""v1"",""created"":""Mon, 17 Apr 1995 14:00:45 GMT""}]","2007-05-23"
+"hep-ph/9504310",,"Krishna Rajagopal (Harvard University)","The Chiral Phase Transition in QCD: Critical Phenomena and Long
+  Wavelength Pion Oscillations","References added. Review article to appear in Quark Gluon Plasma 2,
+  edited by R. Hwa, World Scientific, 1995. latex; 12 of 14 figs included",,"10.1142/9789812830661_0009","HUTP-95-A013","hep-ph hep-lat hep-th nucl-th",,"  In QCD with two massless quarks, the chiral phase transition is plausibly in
+the same universality class as the classical O(4) magnet. To test this
+hypothesis, critical exponents characterizing the behaviour of universal
+quantities near the 2nd order critical point can be calculated and compared to
+results from lattice simulations. Present simulations already allow many
+qualitative tests; quantitative tests await future simulations with longer
+correlation lengths. In a heavy ion collision, a long correlation length would
+lead to large fluctuations in the number ratio of neutral to charged pions.
+Unfortunately, no equilibrium correlation length gets long enough for this to
+occur. Modelling the dynamics of the chiral order parameter in a far from
+equilibrium transition by quenching in the linear sigma model suggests that
+long wavelength modes of the pion field can be amplified. This could have
+dramatic phenomenological consequences. Theoretical advances include attempts
+to relax the quench approximation and to include expansion and quantum effects.
+Long wavelength pion oscillations arise in a number of theoretical treatments;
+however, all involve idealizations and are at best qualitative guides. It is up
+to experimentalists to determine whether such phenomena occur; detection in a
+heavy ion collision would imply an out of equilibrium chiral transition.
+","[{""version"":""v1"",""created"":""Sun, 16 Apr 1995 22:54:29 GMT""},{""version"":""v2"",""created"":""Sun, 7 May 1995 21:16:40 GMT""}]","2016-11-03"
+"hep-ph/9504312",,"Yosef Nir","Gauge Unification, Yukawa Hierarchy and the $\mu$ Problem","7 pages, harvmac","Phys.Lett. B354 (1995) 107-110","10.1016/0370-2693(95)00619-V","WIS-95/18/Apr-PH","hep-ph",,"  The hierarchy in the Yukawa couplings may be the result of a gauged
+horizontal $U(1)_H$ symmetry. If the mixed anomalies of the Standard Model
+gauge group with $U(1)_H$ are cancelled by a Green-Schwarz mechanism, a
+relation between the gauge couplings, the Yukawa couplings and the $\mu$-term
+arises. Assuming that at a high energy scale $g_3^2=g_2^2={5\over3}g_1^2$ and
+$(m_e m_\mu m_\tau)/(m_d m_s m_b)\sim \lambda$ (where $\lambda$ is of the order
+of the Cabibbo angle), the $U(1)_H$ symmetry solves the $\mu$-problem with
+$\mu\sim\lambda m_{3/2}$.
+","[{""version"":""v1"",""created"":""Mon, 17 Apr 1995 06:15:49 GMT""}]","2009-10-28"
+"hep-ph/9504313","Kiselev","Kiselev V.V","Scaling Relations in Phenomenology of QCD Sum Rules for Heavy Quarkonium","23 pages, latex, 4 figures included as latex pictures","Int.J.Mod.Phys. A11 (1996) 3689-3710",,"IHEP 95-63","hep-ph",,"  In the framework of a specific scheme of the QCD sum rules for $S$-wave
+levels of the heavy quarkonium, one derives expressions, relating the leptonic
+constants, the energetic density of quarkonium states and universal
+characteristics in the heavy quarkonium physics, such as the difference between
+the masses of heavy quark $Q$ and meson $(Q\bar q)$ and the number of heavy
+quarkonium levels below the threshold of $(Q\bar Q) \to (Q\bar q) + (\bar Q q)$
+decay.
+","[{""version"":""v1"",""created"":""Mon, 17 Apr 1995 10:48:29 GMT""}]","2007-05-23"
+"hep-ph/9504314",,"Gautam Bhattacharyya, Debajyoti Choudhury and K. Sridhar","New LEP bounds on $B$-violating scalar couplings: R-parity violating
+  supersymmetry or diquarks","LaTeX, 12 pages, 4 figures (uuencoded compressed postscript files
+  added through ""figures"" option)","Phys.Lett. B355 (1995) 193-198","10.1016/0370-2693(95)00701-L","preprint CERN-TH/95-89","hep-ph",,"  We use the precision electroweak data at LEP to place bounds on $B$-violating
+Yukawa couplings, two theoretically appealing examples being provided by
+$R$-parity--violating supersymmetry and diquarks. The couplings involving the
+third generation quarks are most severely constrained. These bounds are
+complementary to those obtained from low-energy processes.
+","[{""version"":""v1"",""created"":""Mon, 17 Apr 1995 14:13:23 GMT""}]","2009-10-28"
+"hep-th/9504079","Park daegil","D.K.Park","Propagators on the two-dimensional light-cone","LATEX, 9pages","Phys.Rev. D52 (1995) 6192-6194","10.1103/PhysRevD.52.6192",,"hep-th",,"  Light-cone quantization procedure recently presented is applied to the
+two-dimensional light-cone theories. By introducing the two distinct null
+planes it is shown that the modification term in the two-dimensional massless
+light-cone propagators suggested about twenty years ago vanishs.
+","[{""version"":""v1"",""created"":""Mon, 17 Apr 1995 04:37:34 GMT""}]","2009-10-28"
+"hep-th/9504080","Amit Giveon","S. Elitzur, A. Forge, A. Giveon, E. Rabinovici","More Results in $N=1$ Supersymmetric Gauge Theories","9 pages","Phys.Lett. B353 (1995) 79-83","10.1016/0370-2693(95)00526-Q","RI-4-95","hep-th",,"  We present the exact effective superpotentials in $4d$, $N=1$ supersymmetric
+$SU(2)$ gauge theories with $N_3$ triplets and $N_2$ doublets of matter
+superfields. For the theories with a single triplet matter superfield we
+present the exact gauge couplings for arbitrary bare masses and Yukawa
+couplings.
+","[{""version"":""v1"",""created"":""Sun, 16 Apr 1995 18:12:00 GMT""}]","2009-10-28"
+"hep-th/9504081","Tomas Ortin","E. Bergshoeff, C.M. Hull and T. Ortin","Duality in the Type--II Superstring Effective Action","Latex file. Several missprints in equations, some important and not
+  yet corrected in the published version, have now been corrected. No changes
+  in main results and conclusions. 43+1 pages, LaTeX file","Nucl.Phys. B451 (1995) 547-578","10.1016/0550-3213(95)00367-2","UG-3/95 and QMW-PH-95-2","hep-th",,"  We derive the T-duality transformations that transform a general d=10
+solution of the type-IIA string with one isometry to a solution of the type-IIB
+string with one isometry and vice versa. In contrast to other superstring
+theories, the T-duality transformations are not related to a non-compact
+symmetry of a d=9 supergravity theory. We also discuss S-duality in d=9 and
+d=10 and the relationship with eleven-dimensional supergravity theory. We apply
+these dualities to generate new solutions of the type IIA and type IIB
+superstrings and of eleven-dimensional supergravity.
+","[{""version"":""v1"",""created"":""Sun, 16 Apr 1995 20:09:15 GMT""},{""version"":""v2"",""created"":""Mon, 17 Apr 1995 11:40:52 GMT""},{""version"":""v3"",""created"":""Sun, 30 Apr 1995 23:31:36 GMT""},{""version"":""v4"",""created"":""Thu, 18 Apr 1996 12:03:11 GMT""}]","2009-10-28"
+"hep-th/9504082","Oleg D. Andreev","Oleg Andreev","Operator algebra of the SL(2) conformal field theories","10 pages, LaTeX2e, no figures, new refs and minor changes","Phys.Lett.B363:166-172,1995","10.1016/0370-2693(95)01226-G","LANDAU-95-TMP-1","hep-th",,"  Structure constants of Operator Algebras for the SL(2) degenerate conformal
+field theories are calculated.
+","[{""version"":""v1"",""created"":""Mon, 17 Apr 1995 12:07:02 GMT""},{""version"":""v2"",""created"":""Tue, 13 Jun 1995 11:23:04 GMT""}]","2011-01-26"
+"hep-th/9504083",,"M. GasperinI, M. Giovannini and G. Veneziano","Primordial Magnetic Fields From String Cosmology","12 pages, latex, two figures available by fax upon request","Phys.Rev.Lett. 75 (1995) 3796-3799","10.1103/PhysRevLett.75.3796","CERN-TH/95-85","hep-th astro-ph gr-qc",,"  Sufficiently large seeds for generating the observed (inter)galactic magnetic
+fields emerge naturally in string cosmology from the amplification of
+electromagnetic vacuum fluctuations due to a dynamical dilaton background. The
+success of the mechanism depends crucially on two features of the so-called
+pre-big-bang scenario, an early epoch of dilaton-driven inflation at very small
+coupling, and a sufficiently long intermediate stringy era preceding the
+standard radiation-dominated evolution.
+","[{""version"":""v1"",""created"":""Mon, 17 Apr 1995 11:53:23 GMT""}]","2009-10-28"
+"hep-th/9504084","Krivonos Serge","S. Krivonos and A. Sorin","THE MINIMAL N=2 SUPEREXTENSION OF THE NLS EQUATION","LaTeX, 7 pages","Phys.Lett. B357 (1995) 94-98","10.1016/0370-2693(95)00755-A","Preprint JINR E2-95-172","hep-th",,"  We show that the well known $N=1$ NLS equation possesses $N=2$ supersymmetry
+and thus it is actually the $N=2$ NLS equation. This supersymmetry is hidden in
+terms of the commonly used $N=1$ superfields but it becomes manifest after
+passing to the $N=2$ ones. In terms of the new defined variables the second
+Hamiltonian structure of the supersymmetric NLS equation coincides with the
+$N=2$ superconformal algebra and the $N=2$ NLS equation belongs to the $N=2$
+$a=4$ KdV hierarchy. We propose the KP-like Lax operator in terms of the $N=2$
+superfields which reproduces all the conserved currents for the corresponding
+hierarchy.
+","[{""version"":""v1"",""created"":""Mon, 17 Apr 1995 15:39:18 GMT""}]","2009-10-28"
+"quant-ph/9504012","Oleg Shvedov","O.Yu.Shvedov","LARGE ORDER ASYMPTOTICS OF SEMICLASSICAL EXPANSION: A NEW APPROACH","24 pages, LaTeX, 4 figures can be obtained from the author, revised
+  russian version is submitted to Yadernaya Fizika","Yadernaya Fizika 59 (1996) 263-270",,,"quant-ph hep-ph hep-th",,"  A new approach to the problem of finding the asymptotical behaviour of large
+orders of semiclassical expansion is suggested. Asymptotics of high orders not
+only for eigenvalues, but also for eigenfunctions, are constructed. Thus, one
+can apply not only functional integral technique, which has been used up to
+now, but also method of direct analysis of the semiclassical expansion
+recursive relations.
+","[{""version"":""v1"",""created"":""Mon, 17 Apr 1995 07:03:26 GMT""}]","2009-09-25"
+"quant-ph/9504013","Timo Weidl","Timo Weidl","On the Lieb-Thirring constants L_gamma,1 for gamma geq 1/2","AMS-LATEX, 15 pages","Commun.Math.Phys. 178 (1996) 135-146","10.1007/BF02104912",,"quant-ph funct-an math.FA",,"  Let $E_i(H)$ denote the negative eigenvalues of the one-dimensional
+Schr\""odinger operator $Hu:=-u^{\prime\prime}-Vu,\ V\geq 0,$ on $L_2({\Bbb
+R})$. We prove the inequality \sum_i|E_i(H)|^\gamma\leq L_{\gamma,1}\int_{\Bbb
+R} V^{\gamma+1/2}(x)dx, (1) for the ""limit"" case $\gamma=1/2.$ This will imply
+improved estimates for the best constants $L_{\gamma,1}$ in (1), as
+$1/2<\gamma<3/2.
+","[{""version"":""v1"",""created"":""Mon, 17 Apr 1995 12:29:16 GMT""}]","2016-09-08"
+"quant-ph/9504014","Oleg Shvedov","O.Yu.Shvedov","ON THE LARGE ORDER ASYMPTOTICS OF THE WAVE FUNCTION PERTURBATION THEORY","9 pages, LaTeX, 1 figure can be obtained from the author","Phys.Lett. B356 (1995) 56-60","10.1016/0370-2693(95)00814-2",,"quant-ph hep-ph hep-th",,"  The problem of finding the large order asymptotics for the eigenfunction
+perturbation theory in quantum mechanics is studied. The relation between the
+wave function argument x and the number of perturbation theory order k that
+allows us to construct the asymptotics by saddle-point technique is found:
+$x/k^{1/2}=const$, k is large. Classical euclidean solutions starting from the
+classical vacuum play an important role in constructing such asymptotics. The
+correspondence between the trajectory end and the parameter $x/k^{1/2}$ is
+found. The obtained results can be applied to the calculation of the main
+values of the observables depending on k in the k-th order of perturbation
+theory at larges k and, probably, to the multiparticle production problem.
+","[{""version"":""v1"",""created"":""Mon, 17 Apr 1995 12:07:27 GMT""}]","2009-10-28"

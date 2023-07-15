@@ -1,0 +1,65 @@
+"chao-dyn/9501016","Kuba Zakrzewski","Jakub Zakrzewski, Karine Dupret and Dominique Delande (Laboratoire
+  Kastler Brossel ENS, Paris, France)","Statistical properties of energy levels of chaotic systems: Wigner or
+  non-Wigner","10 pages, Revtex 3.0 + 4 .ps figures tar-compressed using uufiles
+  package, use csh to unpack (on Unix machine), to be published in Phys. Rev.
+  Lett","Phys. Rev. Lett. 74, 522 (1995)","10.1103/PhysRevLett.74.522",,"chao-dyn nlin.CD",,"  For systems whose classical dynamics is chaotic, it is generally believed
+that the local statistical properties of the quantum energy levels are well
+described by Random Matrix Theory. We present here two counterexamples - the
+hydrogen atom in a magnetic field and the quartic oscillator - which display
+nearest neighbor statistics strongly different from the usual Wigner
+distribution. We interpret the results with a simple model using a set of
+regular states coupled to a set of chaotic states modeled by a random matrix.
+","[{""version"":""v1"",""created"":""Sun, 29 Jan 1995 14:42:51 GMT""}]","2009-10-28"
+"cond-mat/9501130",,"L. S. Levitov and A. V. Shytov","Coulomb Zero-Bias Anomaly: A Semiclassical Calculation","9 pages, RevTeX 3.0","JETP Lett. 66, 214 (1997)","10.1134/1.567489","MIT-366/0788","cond-mat",,"  Effective action is proposed for the problem of Coulomb blocking of
+tunneling. The approach is well suited to deal with the ``strong coupling''
+situation near zero bias, where perturbation theory diverges. By a
+semiclassical treatment, we reduce the physics to that of electrodynamics in
+imaginary time, and express the anomaly through exact conductivity of the
+system $\sigma(\omega, q)$ and exact interaction. For the diffusive anomaly, we
+compare the result with the perturbation theory of Altshuler, Aronov, and Lee.
+For the metal-insulator transition we derive exact relation of the anomaly and
+critical exponent of conductivity.
+","[{""version"":""v1"",""created"":""Sat, 28 Jan 1995 16:11:30 GMT""},{""version"":""v2"",""created"":""Tue, 11 Jul 1995 03:51:23 GMT""}]","2008-04-12"
+"cond-mat/9501131","Pierre Ledoussal","Pierre Le Doussal, Valerii M. Vinokur","Creep in One Dimension and Phenomenological Theory of Glass Dynamics","5 pages. New version reproduces scaling of vortex glass transition
+  and a general theory of certain glass transitions","Physica C Superconductivity {\bf 254} 63 (1995)","10.1016/0921-4534(95)00545-5",,"cond-mat",,"  The dynamics of a glass transition is discussed in terms of the motion of a
+particle in a one dimensional correlated random potential. An exact calculation
+of the velocity $V$ under an applied force $f$ demonstrates a variety of
+dynamic regimes depending on the range of correlations. In a gaussian potential
+with correlator $C(x) = x^{\gamma}$, we find a transition from ohmic behaviour
+($\gamma <0$) to creep motion $V \sim \exp(- const/f^{\mu} )$ ($0<\gamma <1$).
+This provides a generic picture of the glass transition in systems where long
+range correlations in the effective disorder develop due to elasticity such as
+elastic manifolds subject to quenched disorder and the vortex glass transition
+in superconductors.
+","[{""version"":""v1"",""created"":""Sun, 29 Jan 1995 15:07:30 GMT""},{""version"":""v2"",""created"":""Fri, 28 Jul 1995 13:31:33 GMT""}]","2009-10-28"
+"hep-ph/9501398","Engelhardt Michael","Michael Engelhardt","Finite-Sized Plasmas","10 revtex pages, 6 postscript figures, replaced version has no
+  changes w.r.t. original submission except that figures are now
+  tar-compress-uuencoded as opposed to raw postscript.","Phys.Rev. D52 (1995) 1267-1275","10.1103/PhysRevD.52.1267",,"hep-ph cond-mat",,"  When addressing the thermodynamics of finite-sized systems, one must specify
+whether one wants to fix conserved charges to a sharp value or whether one is
+content to fix their thermodynamic average. In other words, contrary to the
+thermodynamic limit, different statistical ensembles are not equivalent. When
+treating the plasma phases of gauge field theories perturbatively in the
+canonical ensemble, unexpected new difficulties arise in comparison with the
+usual grand canonical treatment. The purpose of this paper is to expose these
+difficulties and show how they can be remedied, thus recovering a well-defined
+description of plasmas even in a finite-size, canonical ensemble setting. For
+definiteness, a specific model is considered, namely QCD$_{1+1} $ with SU(2)
+color; however, the treatment presented should be applicable also to
+higher-dimensional systems with different types of Coulomb interaction.
+","[{""version"":""v1"",""created"":""Sun, 29 Jan 1995 09:33:52 GMT""},{""version"":""v2"",""created"":""Mon, 30 Jan 1995 09:08:44 GMT""}]","2016-09-01"
+"nucl-th/9501033",,"N. K. Devine and S. J. Wallace","Instant Two-Body Equation in Breit Frame","20 pages in revtex 3, 3 figures. Fixed reform/tex errors.","Phys.Rev.C51:3222-3231,1995","10.1103/PhysRevC.51.3222","CEBAF-TH-95-03, DOE/ER/40762-055, UMPP95-091","nucl-th",,"  A quasipotential formalism for elastic scattering from relativistic bound
+states is based on applying an instant constraint to both initial and final
+states in the Breit frame. This formalism is advantageous for the analysis of
+electromagnetic interactions because current conservation and four momentum
+conservation are realized within a three-dimensional formalism. Wave functions
+are required in a frame where the total momentum is nonzero, which means that
+the usual partial wave analysis is inapplicable. In this work, the
+three-dimensional equation is solved numerically, taking into account the
+relevant symmetries. A dynamical boost of the interaction also is needed for
+the instant formalism, which in general requires that the boosted interaction
+be defined as the solution of a four-dimensional equation. For the case of a
+scalar separable interaction, this equation is solved and the Lorentz
+invariance of the three-dimensional formulation using the boosted interaction
+is verified. For more realistic interactions, a simple approximation is used to
+characterize the boost of the interaction.
+","[{""version"":""v1"",""created"":""Sat, 28 Jan 1995 21:10:53 GMT""}]","2016-09-08"

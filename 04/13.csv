@@ -1,0 +1,406 @@
+"alg-geom/9504007","Stein A. Stromme","Geir Ellingsrud, Joseph Le Potier, and Stein A. Stromme","Some Donaldson invariants of CP^2","8 pages. Submitted to the proceedings of the Dec. 94 Taniguchi
+  Symposium ""Vector Bundles"". AMSLaTeX v 1.2 (latex2e, amsart, amscd)",,,,"alg-geom math.AG",,"  We compute the Donaldson numbers $q_{17}(CP^2)=2540$ and
+$q_{21}(CP^2)=233208$.
+","[{""version"":""v1"",""created"":""Thu, 13 Apr 1995 12:24:28 GMT""}]","2008-02-03"
+"astro-ph/9504042","Joao Magueijo","J.C.R.Magueijo (Mullard Radio Astronomy Observatory, Cavendish
+  Laboratory and DAMTP, Cambridge, UK)","Analytical modeling of large-angle CMBR anisotropies from textures",,"Phys.Rev. D52 (1995) 689-701","10.1103/PhysRevD.52.689",,"astro-ph",,"  We propose an analytic method for predicting the large angle CMBR temperature
+fluctuations induced by model textures. The model makes use of only a small
+number of phenomenological parameters which ought to be measured from simple
+simulations. We derive semi-analytically the $C^l$-spectrum for $2\leq l\leq
+30$ together with its associated non-Gaussian cosmic variance error bars. A
+slightly tilted spectrum with an extra suppression at low $l$ is found, and we
+investigate the dependence of the tilt on the parameters of the model. We also
+produce a prediction for the two point correlation function. We find a high
+level of cosmic confusion between texture scenarios and standard inflationary
+theories in any of these quantities. However, we discover that a distinctive
+non-Gaussian signal ought to be expected at low $l$, reflecting the prominent
+effect of the last texture in these multipoles.
+","[{""version"":""v1"",""created"":""Wed, 12 Apr 1995 17:07:42 GMT""},{""version"":""v2"",""created"":""Thu, 13 Apr 1995 14:02:34 GMT""}]","2009-10-28"
+"astro-ph/9504043","Henk Spruit","H.C. Spruit, R. Stehle and J.C.B. Papaloizou","Interchange instability in an accretion disc with a poloidal magnetic
+  field","uuencoded gzip'ed postscript, 9 pages",,"10.1093/mnras/275.4.1223",,"astro-ph",,"  We investigate the stability to nonaxisymmetric perturbations of an accretion
+disc in which a poloidal magnetic field provides part of the radial support
+against gravity. Interchange instability due to radial gradients in the
+magnetic field are strongly stabilized by the shear flow in the disc. For
+smooth field distributions this instability is restricted to discs in which the
+magnetic energy is comparable to the gravitational energy. An incompressible
+model for the instability akin to the Boussinesq approximation for convection
+is given which predicts the behaviour of the instability accurately. Global
+axisymmetric disturbances are also considered and found to be stable for a
+certain class of models. The results indicate that accretion discs may be able
+to support poloidal fields which are strong enough to suppress other forms of
+magnetic instability. These strong and stable field distributions are likely to
+be well suited for the magnetic acceleration of jets and winds.
+","[{""version"":""v1"",""created"":""Wed, 12 Apr 1995 21:31:47 GMT""}]","2015-06-24"
+"astro-ph/9504044","Andreas Burkert","Uta Fritze - v. Alvensleben, Andi Burkert","Globular Clusters in Mergers","uuencoded Z-compressed postscript file, 6 pages. The 6 figures can be
+  requested from burkert@mpia-hd.mpg.de. Astron. Astrophys., in press",,,,"astro-ph",,"  From spectrophotometric and chemical evolutionary modelling of interacting
+and merging galaxies we predict abundances of burst stars and of globular
+clusters (GCs) that may be formed in strong bursts. Observations of young GCs
+in merger remnants confirm the predicted metallicities. We investigate their
+formation as a result of a strong star burst with a high star formation
+efficiency over a large volume of the merger remnant. The evolution of GCs of
+various metallicities in terms of broad band colours and stellar metal indices
+are modeled. Comparing our results to the V-I, Mgb and Fe5270 observations of
+GCs in NGC 7252 largely removes the age metallicity degeneracy and allows for
+accurate age dating as well as for estimating the effects of self enrichment.
+","[{""version"":""v1"",""created"":""Thu, 13 Apr 1995 10:17:56 GMT""}]","2007-05-23"
+"astro-ph/9504045","Prokhorov M. E.","V.M. Lipunov, K.A. Postnov, M.E. Prokhorov, and I.E. Panchenko
+  (Sternberg Astronomical Inst., Moscoww, Russia)","Evolution of the double neutron star merging rate and the cosmological
+  origin of gamma-ray burst sources","13 pages, compressed uuencoded postscript, 6 figures. This paper has
+  been accepted for publication in the Astrophysical Journal part I","Astrophys.J. 454 (1995) 593","10.1086/176512",,"astro-ph",,"  Evolution of the coalescence rate of double neutron stars (NS) and neutron
+star -- black hole (BH) binaries are computed for model galaxies with different
+star formation rates. Assuming gamma-ray bursts (GRB) to originate from NS+NS
+or NS+BH merging in distant galaxies, theoretical logN--logS distributions and
+<V/V_max> tests of gamma-ray bursts (GRB) are calculated for the first time
+taking the computed merging rates into account. We use a flat cosmological
+model (Omega=1) with different values of the cosmological constant Lambda and
+under various assumptions about the star formation history in galaxies. The
+calculated source evolution predicts a 5-10 times increase of the source
+statistics at count rates 3-10 times lower than the exising BATSE sensitivity
+limit. The most important parameter in fitting the 2nd BATSE catalogue is the
+initial redshift of star formation, which is found to be z_*=2-5 depending on a
+poorly determined average spectral index of GRB.
+","[{""version"":""v1"",""created"":""Thu, 13 Apr 1995 15:36:16 GMT""}]","2009-10-28"
+"bayes-an/9504001","Carlos Rodriguez","Carlos C. Rodriguez (Albany)","Confidence Intervals from One One Observation","LaTeX, 6 pages, 4 PostScript figures, MaxEnt94 macros. This paper
+  will appear in the Proceedings of the 1994 Maximun Entropy and Bayesian
+  Methods, Kluwer Academic Publishers. Author website:
+  http://omega.albany.edu:8008/carlos/",,,,"bayes-an physics.data-an",,"  Robert Machol's surprising result, that from a single observation it is
+possible to have finite length confidence intervals for the parameters of
+location-scale models, is re-produced and extended. Two previously unpublished
+modifications are included. First, Herbert Robbins nonparametric confidence
+interval is obtained. Second, I introduce a technique for obtaining confidence
+intervals for the scale parameter of finite length in the logarithmic metric.
+  Keywords: Theory/Foundations , Estimation, Prior Distributions,
+Non-parametrics & Semi-parametrics Geometry of Inference, Confidence Intervals,
+Location-Scale models
+","[{""version"":""v1"",""created"":""Wed, 12 Apr 1995 22:03:39 GMT""}]","2008-04-17"
+"chao-dyn/9504011",,"Michael P. Brenner, Detlef Lohse, and T.F. Dupont (Dept. of
+  Mathematics, The University of Chicago)","Bubble Shape Oscillations and the Onset of Sonoluminescence","Phys. Rev. Lett., in press",,"10.1103/PhysRevLett.75.954","Preprint 1995-3, Chicago","chao-dyn nlin.CD",,"  An air bubble trapped in water by an oscillating acoustic field undergoes
+either radial or nonspherical pulsations depending on the strength of the
+forcing pressure. Two different instability mechanisms (the Rayleigh--Taylor
+instability and parametric instability) cause deviations from sphericity.
+Distinguishing these mechanisms allows explanation of many features of recent
+experiments on sonoluminescence, and suggests methods for finding
+sonoluminescence in different parameter regimes.
+","[{""version"":""v1"",""created"":""Thu, 13 Apr 1995 07:23:12 GMT""},{""version"":""v2"",""created"":""Wed, 28 Jun 1995 15:54:58 GMT""}]","2016-08-31"
+"cmp-lg/9504009",,"Shuly Wintner and Nissim Francez (Computer Science, Technion, Israel
+  Institute of Techniology, Haifa 32000, Israel)","Abstract Machine for Typed Feature Structures","Self-contained LaTeX, 15 pages, to appear in NLULP95","Proc. 5th Int. Workshop on Natural Language Understanding and
+  Logic Programming, Lisbon, May 1995",,,"cmp-lg cs.CL",,"  This paper describes an abstract machine for linguistic formalisms that are
+based on typed feature structures, such as HPSG. The core design of the
+abstract machine is given in detail, including the compilation process from a
+high-level language to the abstract machine language and the implementation of
+the abstract instructions. The machine's engine supports the unification of
+typed, possibly cyclic, feature structures. A separate module deals with
+control structures and instructions to accommodate parsing for phrase structure
+grammars. We treat the linguistic formalism as a high-level declarative
+programming language, applying methods that were proved useful in computer
+science to the study of natural languages: a grammar specified using the
+formalism is endowed with an operational semantics.
+","[{""version"":""v1"",""created"":""Thu, 13 Apr 1995 05:36:21 GMT""}]","2008-02-03"
+"cmp-lg/9504010","Pierre Collet","P.Collet (CNRS), A.Galves (USP), A.Lopes (UFRGS)","MAXIMUM LIKELIHOOD AND MINIMUM ENTROPY IDENTIFICATION OF GRAMMARS","12 pages, ps, gzip, uuencoded",,,,"cmp-lg cs.CL",,"  Using the Thermodynamic Formalism, we introduce a Gibbsian model for the
+identification of regular grammars based only on positive evidence. This model
+mimics the natural language acquisition procedure driven by prosody which is
+here represented by the thermodynamical potential. The statistical question we
+face is how to estimate the incidenc e matrix of a subshift of finite type from
+a sample produced by a Gibbs state whose potential is known. The model
+acquaints for both the robustness of t he language acquisition procedure and
+language changes. The probabilistic appr oach we use avoids invoking ad-hoc
+restrictions as Berwick's Subset Principle.
+","[{""version"":""v1"",""created"":""Thu, 13 Apr 1995 15:28:55 GMT""}]","2008-02-03"
+"cond-mat/9504053",,"Anwar Hasmy, Ren\'e Vacher and R\'emi Jullien","Small Angle Scattering by Fractal Aggregates: A Numerical Investigation
+  of the Crossover Between the Fractal Regime and the Porod Regime","RevTex, 4 pages + 6 postscript figures, compressed using ""uufiles"",
+  published in Phys. Rev. B 50, 1305 (1994)",,"10.1103/PhysRevB.50.1305",,"cond-mat",,"  Fractal aggregates are built on a computer using off-lattice cluster-cluster
+aggregation models. The aggregates are made of spherical particles of different
+sizes distributed according to a Gaussian-like distribution characterised by a
+mean $a_0$ and a standard deviation $\sigma$. The wave vector dependent
+scattered intensity $I(q)$ is computed in order to study the influence of the
+particle polydispersity on the crossover between the fractal regime and the
+Porod regime. It is shown that, given $a_0$, the location $q_c$ of the
+crossover decreases as $\sigma$ increases. The dependence of $q_c$ on $\sigma$
+can be understood from the evolution of the shape of the center-to-center
+interparticle-distance distribution function.
+","[{""version"":""v1"",""created"":""Wed, 12 Apr 1995 16:20:34 GMT""}]","2015-06-25"
+"cond-mat/9504054",,"Anwar Hasmy and R\'emi Jullien","Percolation in Cluster-Cluster Aggregation Processes","RevTex, 5 pages + 7 postscript figures, compressed using ""uufiles""",,"10.1103/PhysRevE.53.1789",,"cond-mat",,"  Numerical simulations of Diffusion-Limited and Reaction-Limited
+Cluster-Cluster Aggregation processes of identical particles are performed in a
+two-dimensional box. It is shown that, for concentrations larger than a
+characteristic gel concentration, the morphology of the resulting spanning
+cluster at the gel time $t_g$ exhibits a crossover length $L_c$ between
+percolation ($l>L_c$) and aggregation ($l<L_c$). $L_c$ vanishes when increasing
+$c$, and, at a critical concentration value $c_p$ (where $L_c \rightarrow 0$)
+the entire spanning cluster scales as the percolating cluster obtained by
+standard percolation. Even if for $c>c_p$ the long-range correlations are
+similar to that of percolation, the vanishing links in the structure suggest
+that an homogeneous regime appears at small scales.
+","[{""version"":""v1"",""created"":""Wed, 12 Apr 1995 16:20:56 GMT""}]","2009-10-28"
+"cond-mat/9504055",,"Anwar Hasmy, Marie Foret, Eric Anglaret, Jacques Pelous, Ren\'e Vacher
+  and R\'emi Jullien","Small Angle Neutron Scattering of Aerogels: Simulations and Experiments","RevTex, 9 pages + 11 postscript figures, compressed using ""uufiles"".
+  Proceeding of the 4th International Simposium on Aerogels (To appear in J. of
+  Non-Cryst. Solids)",,"10.1016/0022-3093(95)00046-1",,"cond-mat",,"  A numerical simulation of silica aerogels is performed using
+diffusion-limited cluster-cluster aggregation of spheres inside a cubic box
+(with periodic boundary conditions). The volume fraction $c$ is taken to be
+sufficiently large to get a gel structure at the end of the process. In the
+case of monodisperse spheres, the wavevector dependent scattered intensity
+$I(q)$ is calculated from the product of the form factor $P(q)$ of a sphere by
+the structure factor $S(q)$, which is related to the Fourier transform of
+$g(r)-1$, where $g(r)$ is the pair correlation function between sphere centers.
+The structure factor $S(q)$ exhibits large-$q$ damped oscillations
+characteristics of the short range (intra-aggregate) correlations between
+spheres. These oscillations influence the $I(q)$ curve in the $q$-region
+between the fractal regime and the Porod regime and quantitative comparisons
+are made with experiments on colloidal aerogels. Moreover, at small-$q$ values,
+$S(q)$ goes through a maximum characteristic of large range (inter-aggregate)
+correlations. Quantitative fits of the maximum in the experimental $I(q)$
+curves of base-catalyzed aerogel are presented. In the case of polydisperse
+spheres, $I(q)$ is calculated directly from a single aggregate simulation. It
+is shown that increasing polydispersity shifts the location of the cross-over
+between the fractal and Porod regimes towards low $q$-value.
+","[{""version"":""v1"",""created"":""Wed, 12 Apr 1995 16:20:45 GMT""}]","2009-10-28"
+"cond-mat/9504056","Theo Nieuwenhuizen","Th. M. Nieuwenhuizen (Amsterdam)","To maximize or not to maximize the free energy of glassy systems, !=?","4 pages PostScript, one figure",,"10.1103/PhysRevLett.74.3463",,"cond-mat",,"  The static free energy of glassy systems can be expressed in terms of the
+Parisi order parameter function. When this function has a discontinuity, the
+location of the step is determined by maximizing the free energy. In dynamics a
+transition is found at larger temperature, while the location of the step
+satisfies a marginality criterion. It is shown here that in a replica
+calculation this criterion minimizes the free energy. This leads to first order
+phase transitions at the dynamic transition point. Though the order parameter
+function is the same as in the long-time limit of a dynamical analysis,
+thermodynamics is different.
+","[{""version"":""v1"",""created"":""Thu, 13 Apr 1995 08:00:16 GMT""}]","2009-10-28"
+"cond-mat/9504057","Alex Kamenev","Alex Kamenev and Yuval Oreg","Coulomb Drag in Normal Metals and Superconductors: Diagrammatic Approach","15 double--pages, self--extracting compressed ps file, landscape
+  format",,"10.1103/PhysRevB.52.7516",,"cond-mat",,"  The diagrammatic linear response formalism for the Coulomb drag in two--layer
+systems is developed. This technique can be used to treat both elastic disorder
+and intralayer interaction effects. In the absence of intralayer
+electron--electron correlations we reproduce earlier results, obtained using
+the kinetic equation and the memory--function formalism. In addition we
+calculate weak--localization corrections to the drag coefficient and the Hall
+drag coefficient in a perpendicular magnetic field. As an example of the
+intralayer interaction effects we consider a situation where one (or both)
+layers are close to (but above) the superconducting transition temperature.
+Fluctuation corrections, analogous to the Aslamazov--Larkin corrections, to the
+drag coefficient are calculated. Although the fluctuation corrections do not
+enhance the drag coefficient for normal--superconductor systems, a dramatic
+enhancement is found for superconductor--superconductor structures.
+","[{""version"":""v1"",""created"":""Thu, 13 Apr 1995 14:21:47 GMT""}]","2009-10-28"
+"cond-mat/9504058","Theo Nieuwenhuizen","E. Amic, J.M. Luck, and Th.M. Nieuwenhuizen","Anisotropic multiple scattering in diffuse media","53 pages TEX, including 2 tables. The 4 figures are sent at request",,,,"cond-mat",,"  The multiple scattering of scalar waves in diffusive media is investigated by
+means of the radiative transfer equation. This approach amounts to a
+resummation of the ladder diagrams of the Born series; it does not rely on the
+diffusion approximation. Quantitative predictions are obtained, concerning
+various observables pertaining to optically thick slabs, such as the mean
+angle-resolved reflected and transmitted intensities, and the shape of the
+enhanced backscattering cone. Special emphasis is put on the dependence of
+these quantities on the anisotropy of the cross-section of the individual
+scatterers, and on the internal reflections due to the optical index mismatch
+at the boundaries of the sample. The regime of very anisotropic scattering,
+where the transport mean free path $\ell^*$ is much larger than the scattering
+mean free path $\ell$, is studied in full detail. For the first time the
+relevant Schwarzschild-Milne equation is solved exactly in the absence of
+internal reflections, and asymptotically in the regime of a large index
+mismatch. An unexpected outcome concerns the angular width of the enhanced
+backscattering cone, which is predicted to scale as
+$\Delta\theta\sim\lambda/\sqrt{\ell\ell^*}$, in contrast with the generally
+accepted $\lambda/\ell^*$ law, derived within the diffusion approximation.
+","[{""version"":""v1"",""created"":""Thu, 13 Apr 1995 14:11:56 GMT""}]","2007-05-23"
+"cond-mat/9504059","Theo Nieuwenhuizen","Th. M. Nieuwenhuizen (University of Amsterdam)","Complexity as the driving force for dynamical glassy transitions","4 pages Revtex, no figures",,,,"cond-mat",,"  Aspects of the dynamical glass transition are considered within a mean field
+spin glass model. At the dynamical transition the the system condenses in a
+state of lower entropy. The difference, the information entropy or complexity,
+is calculated by analysis of the metastable (TAP) states. It increases for
+lower temperatures, showing that more and more free energy barriers cannot be
+overcome on accessible times scales. Near $T_c$ the total glassy free energy
+lies below the paramagnetic one, which makes the transition unavoidable from a
+thermodynamic point of view. The multitude of glassy states implies an
+extensive difference between the average specific heat and the derivative of
+the average internal energy.
+","[{""version"":""v1"",""created"":""Thu, 13 Apr 1995 14:37:12 GMT""}]","2007-05-23"
+"cond-mat/9504060",,"Katarina Uzelac, Anwar Hasmy and R\'emi Jullien","A Numerical Study of Phase Transitions Inside the Pores of Aerogels","RevTex, 12 pages + 10 postscript figures compressed using ""uufiles"",
+  To appear in J. of Non-Cryst. Solids",,"10.1016/0022-3093(95)00078-X",,"cond-mat",,"  Phase transitions inside the pores of an aerogel are investigated by
+modelizing the aerogel structure by diffusion-limited cluster-cluster
+aggregation on a cubic lattice in a finite box and considering $q$-states Potts
+variables on the empty sites interacting via nearest-neighbours. Using a finite
+size scaling analysing of Monte-Carlo numerical results, it is concluded that
+for $q=4$ the transition changes from first order to second order as the
+aerogel concentration (density) increases. Comparison is made with the case
+$q=3$ (where the first order transition is weaker in three dimensions) and with
+the case $q=4$ but for randomly (non correlated) occupied sites. Possible
+applications to experiments are discussed.
+","[{""version"":""v1"",""created"":""Thu, 13 Apr 1995 15:32:24 GMT""}]","2009-10-28"
+"gr-qc/9504018","Donald Marolf","Abhay Ashtekar, Jerzy Lewandowski, Donald Marolf, Jose Mourao, Thomas
+  Thiemann","Quantization of diffeomorphism invariant theories of connections with
+  local degrees of freedom","30 pages Revtex, Section 6 corrected, references added, format
+  changed","J.Math.Phys.36:6456-6493,1995","10.1063/1.531252","UCSBTH-95-7","gr-qc",,"  Quantization of diffeomorphism invariant theories of connections is studied.
+A solutions of the diffeomorphism constraints is found. The space of solutions
+is equipped with an inner product that is shown to satisfy the physical reality
+conditions. This provides, in particular, a quantization of the
+Husain-Kucha\v{r} model. The main results also pave way to quantization of
+other diffeomorphism invariant theories such as general relativity. In the
+Riemannian case (i.e., signature ++++), the approach appears to contain all the
+necessary ingredients already. In the Lorentzian case, it will have to combined
+in an appropriate fashion with a coherent state transform to incorporate
+complex connections.
+","[{""version"":""v1"",""created"":""Wed, 12 Apr 1995 21:06:50 GMT""},{""version"":""v2"",""created"":""Mon, 5 Jun 1995 16:35:53 GMT""}]","2010-11-01"
+"hep-lat/9504008",,"Paolo Cea and Leonardo Cosmai","Dual superconductivity in the SU(2) pure gauge vacuum: a lattice study","38 pages, uuencoded compressed (using GNU's gzip) tar file containing
+  1 LaTeX2e file (to be processed 3 times) + 16 encapsulated Postscript
+  figures. A full Postscript version of this paper is available at
+  http://www.ba.infn.it/disk$gruppo_4/cosmai/www/papers/195-95.PS","Phys.Rev. D52 (1995) 5152-5164","10.1103/PhysRevD.52.5152","BARI-TH 195/95","hep-lat hep-th",,"  We investigate the dual superconductivity hypothesis in pure SU(2) lattice
+gauge theory. We focus on the dual Meissner effect by analyzing the
+distribution of the color fields due to a static quark-antiquark pair. We find
+evidence of the dual Meissner effect both in the maximally Abelian gauge and
+without gauge fixing. We measure the London penetration length. Our results
+suggest that the London penetration length is a physical gauge-invariant
+quantity. We put out a simple relation between the penetration length and the
+square root of the string tension. We find that our extimation is quite close
+to the extrapolated continuum limit available in the literature. A remarkable
+consequence of our study is that an effective Abelian theory can account for
+the long range properties of the SU(2) confining vacuum.
+","[{""version"":""v1"",""created"":""Thu, 13 Apr 1995 11:53:37 GMT""}]","2009-10-28"
+"hep-ph/9504292","Emilian Dudas","E. Dudas, S. Pokorski and C.A. Savoy","Yukawa matrices from a spontaneously broken abelian symmetry","16 pages, tex, no figures","Phys.Lett.B356:45-55,1995","10.1016/0370-2693(95)00795-M","SPhT T95/027, MPI-PTh 95-33","hep-ph",,"  We classify all the phenomenologically viable fermion mass matrices coming
+from a spontaneously broken abelian symmetry $ U(1)_X, $ with one and two
+additional chiral fields of opposite charges $ X=\pm 1. $ We find that the
+non-trivial K\""ahler metric can fill zeroes of the fermion mass matrices up to
+phenomenologically interesting values. A general anomaly analysis shows that
+for one additional chiral field the only way to achieve anomaly cancellation is
+by use of the Green-Schwarz mechanism. For two additional fields with $X=\pm 1$
+and negative charge differences in the lepton sector the anomalies can however
+be directly put to zero. This case gives a unique prediction for the ratio of
+the two Higgs scalars of MSSM, ${\rm tg} \beta \sim { m_t \over m_b} (sin
+\theta_c)^ 2$, where $\theta_c$ is the Cabibbo angle.
+","[{""version"":""v1"",""created"":""Wed, 12 Apr 1995 21:10:54 GMT""}]","2016-09-01"
+"hep-ph/9504295","Glennys Farrar","Glennys R. Farrar (Rutgers)","Phenomenology of Light Gauginos","21pp latex, including 3 figs",,,"RU-95-17","hep-ph",,"  I advocate the virtues of a very economical version of the minimal
+supersymmetric standard model which avoids cosmological problems often
+encountered in dynamical SUSY-breaking and solves the SUSY-CP problem. Imposing
+$m_Z=91$ GeV and $m_t \sim 175$ GeV implies that scalar masses are generally
+$100-200$ GeV. The gluino and photino are massless at tree level. At 1-loop,
+the gluino mass is predicted to be in the range $m_{\gluino}: 100 - 600$ MeV
+and the photino mass can be estimated to be $m_{\photino}: 100 - 1400$ MeV. New
+hadrons with mass $\sim 1 \frac{1}{2}$ GeV are predicted and described. The
+``extra'' flavor singlet pseudoscalar observed in two experiments in the
+$\iota(1440)$ region, if confirmed, is naturally interpreted as the state which
+gets its mass via the QCD anomaly. Its superpartner, a gluon-gluino bound
+state, generally has a lifetime longer than $5~10^{-11}$ sec and would not have
+shown up in existing searches. Search strategies and other consequences of the
+scenario are discussed.
+","[{""version"":""v1"",""created"":""Thu, 13 Apr 1995 02:49:20 GMT""}]","2007-05-23"
+"hep-ph/9504296",,"S. Dimopoulos, G.F. Giudice, and N. Tetradis","Disoriented and Plastic Soft Terms: A Dynamical Solution to the Problem
+  of Supersymmetric Flavor Violations","16 pages, LATEX, CERN-TH/95-90","Nucl.Phys. B454 (1995) 59-74","10.1016/0550-3213(95)00395-9",,"hep-ph hep-th",,"  We postulate that the orientation of the soft supersymmetry-breaking terms in
+flavor space is not fixed by tree level physics at the Planck scale; it is a
+dynamical variable which depends on fields that have no tree level potential.
+These fields can be thought of as either moduli or as the Nambu-Goldstone
+bosons of the spontaneously broken flavor symmetry which is non-linearly
+realized by the soft terms. We show that the soft terms align with the quark
+and lepton Yukawa couplings, just as spins align with an external magnetic
+field. As a result, the soft terms conserve individual lepton numbers and do
+not cause large flavor or CP violations. The vacuum adjusts so as to allow
+large sparticle splittings to naturally coexist with flavor conservation.
+Consequently, the resulting phenomenology is different from that of minimal
+supersymmetric theories. We also propose theories in which the shape of the
+soft terms in flavor space is a dynamical variable which depends on fields that
+have no tree level potential. This dynamically leads to partial degeneracy
+among sparticles and further supression of flavor violations. The ideas of this
+paper suggest a connection between the space of moduli and the spontaneously
+broken flavor group.
+","[{""version"":""v1"",""created"":""Thu, 13 Apr 1995 14:11:31 GMT""},{""version"":""v2"",""created"":""Fri, 30 Jun 1995 16:34:02 GMT""}]","2009-10-28"
+"hep-ph/9504306",,"G. Blaylock (UC Santa Cruz), Abe Seiden (UC Santa Cruz), Y. Nir
+  (Weizmann Institute)","The Role of CP violation in D0 anti-D0 Mixing","14 pages, uuencoded gzip-compressed postscript (84 kB)","Phys.Lett.B355:555-560,1995","10.1016/0370-2693(95)00787-L","SCIPP 95/16, WIS 95/16/Apr-PH","hep-ph",,"  In current searches for D0 anti-D0 mixing, the time evolution of
+``wrong-sign'' decays is used to distinguish between a potential mixing signal
+and the dominant background from doubly-Cabibbo-suppressed decays. A term
+proportional to $\Delta Mt$ in the expression for the time evolution is often
+neglected in theoretical discussions and experimental analyses of these
+processes. We emphasize that, in general, this term does not vanish even in the
+case of CP invariance. Furthermore, CP invariance is likely to be violated if
+the rate of D0 anti-D0 mixing is close to the experimental bound. The
+consequence of either of these two facts is that the strongest existing
+measured bound is not applicable for constraining New Physics.
+","[{""version"":""v1"",""created"":""Thu, 13 Apr 1995 02:38:00 GMT""}]","2010-11-01"
+"hep-th/9504070","Eugeny Ivanov","Evgenyi A. Ivanov","OFF-SHELL (4,4) SUPERSYMMETRIC SIGMA MODELS WITH TORSION AS GAUGE
+  THEORIES IN HARMONIC SUPERSPACE","12 pages, LaTeX, no figures","Phys.Lett. B356 (1995) 239-248","10.1016/0370-2693(95)00825-6","ENSLAPP-L-515/95, JINR-E2-95-156","hep-th",,"  Starting from the action of $(4,4)$ $2D$ twisted multiplets in the harmonic
+superspace with a double set of $SU(2)$ harmonic variables, we present its
+generalization which provides an off-shell description of a wide class of
+$(4,4)$ sigma models with torsion and non-commuting left and right complex
+structures. The distinguishing features of the action constructed are: (i) a
+nonabelian and in general nonlinear gauge invariance ensuring a correct number
+of physical degrees of freedom; (ii) an infinite tower of auxiliary fields. For
+a particular class of such models we explicitly demonstrate the
+non-commutativity of complex structures on the bosonic target.
+","[{""version"":""v1"",""created"":""Wed, 12 Apr 1995 16:27:54 GMT""},{""version"":""v2"",""created"":""Mon, 22 May 1995 13:23:05 GMT""}]","2009-10-28"
+"hep-th/9504071","Eduardo Ramos","E. Ramos and J.Roca","Extended Gauge Invariance in Geometrical Particle Models and the
+  Geometry of W-Symmetry","plain TeX (macros included). Slightly modified version published in
+  Nuc. Phys. B","Nucl.Phys. B452 (1995) 705-723","10.1016/0550-3213(95)00329-Q",,"hep-th",,"  We prove that particle models whose action is given by the integrated $n$-th
+curvature function over the world line possess $n+1$ gauge invariances. A
+geometrical characterization of these symmetries is obtained via Frenet
+equations by rephrasing the $n$-th curvature model in $\reals^d$ in terms of a
+standard relativistic particle in $S^{d-n}$. We ``prove by example'' that the
+algebra of these infinitesimal gauge invariances is nothing but $\W_{n+2}$,
+thus providing a geometrical picture of the $\W$-symmetry for these models. As
+a spin-off of our approach we give a new global invariant for four-dimensional
+curves subject to a curvature constraint.
+","[{""version"":""v1"",""created"":""Thu, 13 Apr 1995 08:50:12 GMT""},{""version"":""v2"",""created"":""Thu, 22 Feb 1996 16:36:57 GMT""}]","2009-10-28"
+"hep-th/9504072",,"Vu B Ho","A geometric formulation of strong interaction","Latex, 5 pages",,,,"hep-th gr-qc",,"  It is observed that, at short range, the field equations of general
+relativity admit a line element that takes the form of Yukawa potential. The
+result leads to the possibility that strong interaction may also be described
+by field equations that have the same form as that of general relativity. It is
+then shown how such field equations may arise from the coupling of two strong
+fields.
+","[{""version"":""v1"",""created"":""Thu, 13 Apr 1995 09:20:18 GMT""}]","2007-05-23"
+"math/9504204",,"Rick G. Faber","A Lifting Theorem for Locally Convex Subspaces of Lo",,,,"Banach Archive 4/13/95","math.FA",,"  We prove that for every closed locally convex subspace $E$ of $L_0$ and for
+any continuous linear operator $T$ from $L_0$ to $L_0/E$ there is a continuous
+linear operator $S$ from $L_0$ to $L_0$ such that $T = QS$ where $Q$ is the
+quotient map from $L_0$ to $L_0/E$.
+","[{""version"":""v1"",""created"":""Thu, 13 Apr 1995 15:44:32 GMT""}]","2009-09-25"
+"math/9504205",,"Maria Girardi, William B. Johnson","Universal Non-Completely-Continuous Operators",,,,"Banach Archive 4/13/95","math.FA",,"  A bounded linear operator between Banach spaces is called {\it completely
+continuous} if it carries weakly convergent sequences into norm convergent
+sequences. Isolated is a universal operator for the class of
+non-completely-continuous operators from $L_1$ into an arbitrary Banach space,
+namely, the operator from $L_1$ into $\ell_\infty$ defined by $$ T_0 (f)
+=\left( \int r_n f \, d\mu \right)_{n\ge 0} \ , $$ where $r_n$ is the
+$n^{\text{th}}$ Rademacher function. It is also shown that there does not exist
+a universal operator for the class of non-completely-continuous operators
+between two arbitrary Banach space. The proof uses the factorization theorem
+for weakly compact operators and a Tsirelson-like space.
+","[{""version"":""v1"",""created"":""Thu, 13 Apr 1995 15:44:32 GMT""}]","2016-09-06"
+"math/9504213",,"Jonathan Berry, Mark Goldberg","Path optimization and near-greedy analysis for graph partitioning: an
+  empirical study",,,,"LACES 68Q-95-25","math.CO cs.CC",,"  This paper presents the results of an experimental study of graph
+partitioning. We describe a new heuristic technique, path optimization, and its
+application to two variations of graph partitioning: the max_cut problem and
+the min_quotient_cut problem. We present the results of computational
+comparisons between this technique and the Kernighan-Lin algorithm, the
+simulated annealing algorithm, the FLOW-lagorithm the multilevel algorithm, and
+teh recent 0.878-approximation algorithm. The experiments were conducted on two
+classes of graphs that have become standard for such tests: random and random
+geometric. They show that for both classes of inputs and both variations of the
+problem, the new heuristic is competitive with the other algorithms and holds
+an advantage for min_quotient_cut when applied to very large, sparse geometric
+graphs. In the last part of the paper, we describe an approach to analyzing
+graph partitioning algorithms from the statistical point of view. Every
+partitioning of a graph is viewed as a result achieved by a ""near gready""
+partitioning algorithm. The experiments show that for ""good"" partitionings, the
+number of non-greedy steps needed to obtain them is quite small; moreover, it
+is ""statistically"" smaller for better partitionings. This led us to conjecture
+that there exists an ""optimal"" distribution of the non-greedy steps that
+characterize the classes of graphs that we studied.
+","[{""version"":""v1"",""created"":""Thu, 13 Apr 1995 00:00:00 GMT""}]","2016-09-06"
+"math/9504214",,"Michael J. Dinneen, Paul R. Hafner","New results for the degree/diameter problem","15 pages",,,"LACES 94C-95-24","math.CO",,"  The results of computer searches for large graphs with given (small) degree
+and diameter are presented. The new graphs are Cayley graphs of semidirect
+products of cyclic groups and related groups. One fundamental use of our
+``dense graphs'' is in the design of efficient communication network
+topologies.
+","[{""version"":""v1"",""created"":""Thu, 13 Apr 1995 00:00:00 GMT""}]","2008-02-03"
+"nucl-th/9504015","Ian Towner","I. S. Towner and J. C. Hardy (Chalk River Laboratories)","CURRENTS AND THEIR COUPLINGS IN THE WEAK SECTOR OF THE STANDARD MODEL","67 pages, plain LaTex, uses worldsci.sty, two figures embedded in
+  manuscript as tex statements. A chapter for a book entitled 'The Nucleus as a
+  Laboratory for Studying Symmetries and Fundamental Interactions', eds. E.M.
+  Henley and W.C. Haxton",,"10.1142/9789812831446_0007",,"nucl-th hep-ph nucl-ex",,"  Beta-decay and muon-capture experiments in nuclei are reviewed. The conserved
+vector current hypothesis is confirmed through the observed constancy of the
+vector coupling constant determined from the superallowed Fermi transitions and
+from the measurement of the weak-magnetism term in mirror Gamow-Teller
+transitions. The axial-vector and pseudoscalar coupling constants in the
+nucleon are determined from neutron decay and muon capture on the proton
+respectively. In finite nuclei, evidence for these coupling constants being
+reduced relative to their free-nucleon values is discussed. Meson-exchange
+currents are shown to be an important correction to the time-like part of the
+axial current as evident in first-forbidden beta decays. Tests of the Standard
+Model are discussed, as well as extensions beyond it involving right-hand
+currents and scalar interactions.
+","[{""version"":""v1"",""created"":""Wed, 12 Apr 1995 16:05:13 GMT""}]","2016-11-03"
+"q-alg/9504007","Shahn Majid","S. Majid","Comments on Bosonisation and Biproducts","16 pages, LATEX, 1.5 figures",,,"DAMTP/95-19","q-alg math.QA",,"  We clarify the relation between the `bosonisation' construction (due to the
+author) which can be used to turn a Hopf algebra $B$ in the category of
+$H$-modules or $H$-comodules into an equivalent ordinary Hopf algebra, and a
+version of Radfords theorem (also due in this form to the author) which does
+the same for $B$ in the category of crossed $H$-modules. We also comment on
+reconstruction from the category of $B$-comodules.
+","[{""version"":""v1"",""created"":""Thu, 13 Apr 1995 03:03:39 GMT""}]","2008-02-03"

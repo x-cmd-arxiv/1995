@@ -1,0 +1,246 @@
+"astro-ph/9503074","http://www. phys. uniroma1. it/DOCS/PIL/pil. html","Yu. V. Baryshev F. Sylos Labini M. Montuori L. Pietronero","FACTS AND IDEAS IN MODERN COSMOLOGY","84 pages, latex, figures are available to F.S.L
+  (sylos@roma1.infn.it). Accepted for publication in Vistas In astronomy,
+  Vol.38, Part.4, 1994","Vistas Astron. 38 (1994) 419","10.1016/0083-6656(94)90013-2",,"astro-ph",,"  A review of the principles of observational testing of cosmological theories
+is given with a special emphasis on the distinction between observational facts
+and theoretical hypotheses. A classification of modern cosmological theories
+and possible observational tests for these theories is presented. The main
+rival cosmological models are analyzed from the point of view of observational
+testing of their initial hypothesis. A comparison of modern observational data
+with theoretical predictions is presented. In particular we discuss in detail
+the validity of the two basic assumptions of modern cosmology that are the
+Cosmological Principle and the Expanding Space Paradigm. It is found that
+classical paradigms need to be reanalyzed and that it is necessary to develop
+crucial cosmological tests to discriminate alternative theories.
+","[{""version"":""v1"",""created"":""Mon, 20 Mar 1995 14:06:26 GMT""}]","2009-10-28"
+"cmp-lg/9503020","Alegria Loinaz. Inaki","I. Aduriz, I. Alegria, J. M. Arriola, X. Artola, Diaz de Illarraza A.,
+  N. Ezeiza, K. Gojenola, M. Maritxalar","Different Issues in the Design of a Lemmatizer/Tagger for Basque","in Proceedings of SIGDAT-95 (EACL-Dublin), 6 pages, uuencoded and
+  gz-compressed postscript",,,,"cmp-lg cs.CL",,"  This paper presents relevant issues that have been considered in the design
+of a general purpose lemmatizer/tagger for Basque (EUSLEM). The
+lemmatizer/tagger is conceived as a basic tool necessary for other linguistic
+applications. It uses the lexical data base and the morphological analyzer
+previously developed and implemented. Due to the characteristics of the
+language, the tagset here proposed in structured in for levels, so that each
+level is a refinement of the previous one in the sense that it adds more
+detailed information. We will focus on the problems found in designing this
+tagset and on the strategies for morphological disambiguation that will be
+used.
+","[{""version"":""v1"",""created"":""Mon, 20 Mar 1995 12:06:42 GMT""}]","2009-09-25"
+"cond-mat/9503110","Denjoe O'Connor","F. Freire, Denjoe O'Connor and C.R. Stephens","The Specific Heat of a Ferromagnetic Film.","21 pages of Plain TeX. Postscript figures available upon request from
+  denjoe@stp.dias.ie",,"10.1103/PhysRevE.53.189","ICN-UNAM-94-08; DIAS-STP-94-42; HD-THEP-94-50.","cond-mat hep-th",,"  We analyze the specific heat for the $O(N)$ vector model on a $d$-dimensional
+film geometry of thickness $L$ using ``environmentally friendly''
+renormalization. We consider periodic, Dirichlet and antiperiodic boundary
+conditions, deriving expressions for the specific heat and an effective
+specific heat exponent, $\alpha\ef$. In the case of $d=3$, for $N=1$, by
+matching to the exact exponent of the two dimensional Ising model we capture
+the crossover for $\xi_L\ra\infty$ between power law behaviour in the limit
+${L\over\xi_L}\ra\infty$ and logarithmic behaviour in the limit
+${L\over\xi_L}\ra0$ for fixed $L$, where $\xi_L$ is the correlation length in
+the transverse dimensions.
+","[{""version"":""v1"",""created"":""Sun, 19 Mar 1995 19:01:40 GMT""}]","2009-10-28"
+"cond-mat/9503111","Ohtsuki","Tohru Kawarabayashi and Tomi Ohtsuki","Diffusion of electrons in random magnetic fields,","22 pages (8 figures will be mailed if requested), LaTeX, to appear in
+  Phys. Rev. B",,"10.1103/PhysRevB.51.10897",,"cond-mat",,"  Diffusion of electrons in a two-dimensional system in static random magnetic
+fields is studied by solving the time-dependent Schr\""{o}dinger equation
+numerically. The asymptotic behaviors of the second moment of the wave packets
+and the temporal auto-correlation function in such systems are investigated. It
+is shown that, in the region away from the band edge, the growth of the
+variance of the wave packets turns out to be diffusive, whereas the exponents
+for the power-law decay of the temporal auto- correlation function suggest a
+kind of fractal structure in the energy spectrum and in the wave functions. The
+present results are consistent with the interpretation that the states away
+from the band edge region are critical.
+","[{""version"":""v1"",""created"":""Mon, 20 Mar 1995 00:01:43 GMT""}]","2009-10-28"
+"cond-mat/9503112","Aristov Dmitri","M. L. Titov, A. G. Yashenkin and D. N. Aristov","Quasiparticle damping in two-dimensional superconductors with
+  unconventional pairing.","16 pages, REVTEX 3, 3 figures","Phys. Rev. B 52, 10626 (1995)","10.1103/PhysRevB.52.10626",,"cond-mat",,"  We calculate the damping of excitations due to four-fermionic interaction in
+the case of two-dimensional superconductor with nodes in the spectrum. At zero
+temperature and low frequencies it reveals gapless $\omega^3$ behavior at the
+nodal points. With the frequency increasing the crossover to the normal-state
+regimes appears. At high frequencies the damping strongly depends on details of
+a normal-state spectrum parametrization. Two important particular cases such as
+the models of almost free and tight-binding electrons are studied explicitly
+and the characteristic scales are expressed through the model-free parameters
+of the spectrum at the nodal points. The possibility of crossover in
+temperature dependence of damping in the superconducting phase is discussed.
+","[{""version"":""v1"",""created"":""Mon, 20 Mar 1995 13:06:33 GMT""}]","2010-05-19"
+"cond-mat/9503113","Urban Studer","J. Froehlich, U.M. Studer, and E. Thiran","A CLASSIFICATION OF QUANTUM HALL FLUIDS","81 pages, LaTeX, 2 figures and 10 tables included",,,"KUL-TF-94/35","cond-mat hep-th",,"  In this paper, the key ideas of characterizing universality classes of
+dissipation-free (incompressible) quantum Hall fluids by mathematical objects
+called quantum Hall lattices are reviewed. Many general theorems about the
+classification of quantum Hall lattices are stated and their physical
+implications are discussed. Physically relevant subclasses of quantum Hall
+lattices are defined and completely classified. The results are carefully
+compared with experimental data and also with other theoretical schemes (the
+hierarchy schemes). Several proposals for new experiments are made which could
+help to settle interesting issues in the theory of the (fractional) quantum
+Hall effect and thus would lead to a deeper understanding of this remarkable
+effect.
+","[{""version"":""v1"",""created"":""Mon, 20 Mar 1995 14:15:20 GMT""}]","2007-05-23"
+"gr-qc/9503033","V. Y.","R. R. Zapatrin","Logico-algebraic approach to spacetime quantization","16 Kb, Latex, no figures, the text of the talk presented on the First
+  Mtg. of AFOS (Ass. for Foundations of Science), Warsaw, August, 28 -- 30,
+  1994.",,,,"gr-qc",,"  In the last decades the logico-algebraic approach to quantum mechanics turned
+to be a successful tool to render the quantum mechanical formalism on a steady
+operationalistic background. The algebraic approach to general relativity first
+proposed by Geroch is used to build a smearing procedure for events in the
+quantized theory of spacetime. It stems from the notion of basic algebra which
+possesses both the differential structure (as functional algebras) and
+non-commutativity (as algebras of observables in quantum theories). The main
+essence of this formalism is that it deprives the notion of spacetime as event
+support of its fundamental status making it relative to the measurement
+performed. Before the observation is executed, it is pointless to speak of
+events as points of spacetime: there is no underlying manifold. Only when an
+eigen-subalgebra of the basic algebra is outlined as eigenstate of the
+observable, it gives rise to its functional representation on the appropriate
+set thought of as spacetime.
+","[{""version"":""v1"",""created"":""Mon, 20 Mar 1995 09:55:09 GMT""}]","2007-05-23"
+"hep-ph/9503380",,"Luca Cheli","$\pi^{-}$ tagging in $\Lambda \to p \pi $ decay in homogeneous and
+  inhomogeneous magnetic fields.","9 pages, 1 figure, Postscript file",,,,"hep-ph",,"  We simulate the resolution power of a simple spectrometer with
+exemplificative magnetic fields for the \pi tagging in the $\Lambda \
+\rightarrow \ p \pi $ decay for fixed target type experiments.
+","[{""version"":""v1"",""created"":""Mon, 20 Mar 1995 09:07:19 GMT""}]","2007-05-23"
+"hep-ph/9503381","Eric Laenen","E. Laenen and E. Levin","A new evolution equation","29 papes Latex. 5 figs.","Nucl.Phys.B451:207-230,1995","10.1016/0550-3213(95)00359-Z","CERN-TH/95-61, TAUP-2226-95, CBPF NF-012/95","hep-ph",,"  We propose a new evolution equation for the gluon density relevant for the
+region of small $x_B$. It generalizes the GLR equation and allows deeper
+penetration in dense parton systems than the GLR equation does. This
+generalization consists of taking shadowing effects more comprehensively into
+account by including multigluon correlations, and allowing for an arbitrary
+initial gluon distribution in a hadron. We solve the new equation for fixed
+$\alpha_s$. We find that the effects of multigluon correlations on the
+deep-inelastic structure function are small.
+","[{""version"":""v1"",""created"":""Mon, 20 Mar 1995 10:11:39 GMT""}]","2009-09-25"
+"hep-ph/9503382","Lee Chang-Hwan","Chang-Hwan Lee and Mannque Rho","Kaon Condensation in Dense Stellar Matter","29 pages, epsfig.sty, 7 figure(uuencoded)",,"10.1016/0370-1573(96)00005-1","SNUTP-95-036","hep-ph nucl-th",,"  This article combines two talks given by the authors and is based on works
+done in collaboration with G.E. Brown and D.-P. Min on kaon condensation in
+dense baryonic medium treated in chiral perturbation theory using heavy-baryon
+formalism. It contains, in addition to what was recently published,
+astrophysical backgrounds for kaon condensation discussed by Brown and Bethe, a
+discussion on a renormalization-group analysis to meson condensation worked out
+together with H.K. Lee and S.-J. Sin, and the recent results of K. M.
+Westerberg in the bound-state approach to the Skyrme model. Negatively charged
+kaons are predicted to condense at a critical density $2\lsim \rho/\rho_0\lsim
+4$, in the range to allow the intriguing new phenomena predicted by Brown and
+Bethe to take place in compact star matter.
+","[{""version"":""v1"",""created"":""Mon, 20 Mar 1995 11:10:21 GMT""}]","2009-10-28"
+"hep-ph/9503383","Tomoyuki Inui","T. Inui, Y. Mimura, N. Sakai and T. Sasaki","Neutron Electric Dipole Moment in the Minimal Supersymmetric Standard
+  Model","27 pages, LaTeX file with figures, several misprints in pp. 7, 14, 20
+  and 24 are corrected","Nucl.Phys.B449:49-68,1995","10.1016/0550-3213(95)00238-N","TIT/HEP--264","hep-ph",,"  Neutron electric dipole moment (EDM) due to single quark EDM and to the
+transition EDM is calculated in the minimal supersymmetric standard model.
+Assuming that the Cabibbo-Kobayashi-Maskawa matrix at the grand unification
+scale is the only source of CP violation, complex phases are induced in
+parameters of soft supersymmetry breaking at low energies. Chargino one-loop
+diagram is found to give the dominant contribution of the order of
+$10^{-27}\sim 10^{-29}\:e\cdot$cm for quark EDM, assuming the light chargino
+mass and the universal scalar mass to be $50$ GeV and $100$ GeV, respectively.
+Therefore the neutron EDM in this class of model is difficult to measure
+experimentally. Gluino one-loop diagram also contributes due to the flavor
+changing gluino coupling. The transition EDM is found to give dominant
+contributions for certain parameter regions.
+","[{""version"":""v1"",""created"":""Mon, 20 Mar 1995 12:59:32 GMT""},{""version"":""v2"",""created"":""Mon, 24 Apr 1995 13:42:15 GMT""}]","2010-11-01"
+"hep-ph/9503384","Gerhard Schuler","Gerhard A. Schuler (CERN) and Torbj\""orn Sj\""ostrand (Lund Univ.)","Low- and high-mass components of the photon distribution functions","33 pages, Latex, 6 Z-compressed and uuencoded figures","Z.Phys.C68:607-624,1995","10.1007/BF01565260","CERN-TH/95-62, LU TP 95-6","hep-ph",,"  The structure of the general solution of the inhomogeneous evolution
+equations allows the separation of a photon structure function into
+perturbative (``anomalous"") and non-perturbative contributions. The former part
+is fully calculable, and can be identified with the high-mass contributions to
+the dispersion integral in the photon mass. Properly normalized ``state""
+distributions can be defined, where the $\gamma\to\qqbar$ splitting probability
+is factored out. These state distributions are shown to be useful in the
+description of the hadronic event properties, and necessary for a proper
+eikonalization of jet cross sections. Convenient parametrizations are provided
+both for the state and for the full anomalous parton distributions. The
+non-perturbative parts of the parton distribution functions of the photon are
+identified with the low-mass contributions to the dispersion integral. Their
+normalizations, as well as the value of the scale $Q_0$ at which the
+perturbative parts vanish, are fixed by approximating the low-mass
+contributions by a discrete, finite sum of vector mesons. The shapes of these
+hadronic distributions are fitted to the available data on $F_2^\gamma(x,Q^2)$.
+Parametrizations are provided for $Q_0=0.6\,$GeV and $Q_0=2\,$GeV, both in the
+DIS and the $\overline{\mathrm{MS}}$ factorization schemes. The full
+parametrizations are extended towards virtual photons. Finally, the often-used
+``FKP-plus-TPC/$2\gamma$"" solution for $F_2^\gamma(x,Q^2)$ is commented upon.
+","[{""version"":""v1"",""created"":""Mon, 20 Mar 1995 13:43:01 GMT""}]","2011-01-25"
+"hep-th/9503121","Matt Strassler","Robert G. Leigh and Matthew J. Strassler (Rutgers University)","Exactly Marginal Operators and Duality in Four Dimensional N=1
+  Supersymmetric Gauge Theory","35 pages, 7 Postscript figures, uses revtex.sty (revised version
+  corrects some important details, tex problems)","Nucl.Phys. B447 (1995) 95-136","10.1016/0550-3213(95)00261-P","RU-95-2","hep-th",,"  We show that manifolds of fixed points, which are generated by exactly
+marginal operators, are common in N=1 supersymmetric gauge theory. We present a
+unified and simple prescription for identifying these operators, using tools
+similar to those employed in two-dimensional N=2 supersymmetry. In particular
+we rely on the work of Shifman and Vainshtein relating the $\bt$-function of
+the gauge coupling to the anomalous dimensions of the matter fields. Finite N=1
+models, which have marginal operators at zero coupling, are easily identified
+using our approach. The method can also be employed to find manifolds of fixed
+points which do not include the free theory; these are seen in certain models
+with product gauge groups and in many non-renormalizable effective theories.
+For a number of our models, S-duality may have interesting implications. Using
+the fact that relevant perturbations often cause one manifold of fixed points
+to flow to another, we propose a specific mechanism through which the N=1
+duality discovered by Seiberg could be associated with the duality of finite
+N=2 models.
+","[{""version"":""v1"",""created"":""Mon, 20 Mar 1995 08:37:27 GMT""}]","2009-10-28"
+"hep-th/9503122",,"F. Toppan","Modular Invariance as an Explanation for the Absence of Monopoles.","13 pages, LaTex",,,"DFPD 95-TH-12","hep-th",,"  It is shown that modular invariance provides a natural explanation for the
+absence of monopoles when assumed to be a discrete gauge symmetry. It follows
+that monopoles can not be seen because it is always possible to find a suitable
+gauge-fixing in which they are not present. This result relies upon an easy to
+prove but non-trivial property of the modular group. A modular-invariant
+formulation for the hamiltonian of the electromagnetism is given. No monopole
+arises if independent modular transformations are allowed at each point in
+space-time where point-like charges are present.
+","[{""version"":""v1"",""created"":""Mon, 20 Mar 1995 12:05:49 GMT""}]","2007-05-23"
+"hep-th/9503123","Piljin Yi","Choonkyu Lee and Piljin Yi","The Bogomol'nyi Bound of Lee-Weinberg Magnetic Monopoles","RevTex, 11pages","Phys.Lett.B352:99-104,1995","10.1016/0370-2693(95)00479-5","SNUTP-95-035, CU-TP-681","hep-th hep-ph",,"  The Lee-Weinberg $U(1)$ magnetic monopoles, which have been reinterpreted as
+topological solitons of a certain non-Abelian gauged Higgs model recently, are
+considered for some specific choice of Higgs couplings. The model under
+consideration is shown to admit a Bogomol'nyi-type bound which is saturated by
+the configurations satisfying the generalized BPS equations. We consider the
+spherically symmetric monopole solutions in some detail.
+","[{""version"":""v1"",""created"":""Mon, 20 Mar 1995 15:48:52 GMT""}]","2010-11-19"
+"hep-th/9503124","Edward Witten","Edward Witten","String Theory Dynamics In Various Dimensions","54 pages, harvmac. Some references have been added and discussion of
+  five-dimensional heterotic string expanded.","Nucl.Phys.B443:85-126,1995","10.1016/0550-3213(95)00158-O",,"hep-th",,"  The strong coupling dynamics of string theories in dimension $d\geq 4$ are
+studied. It is argued, among other things, that eleven-dimensional supergravity
+arises as a low energy limit of the ten-dimensional Type IIA superstring, and
+that a recently conjectured duality between the heterotic string and Type IIA
+superstrings controls the strong coupling dynamics of the heterotic string in
+five, six, and seven dimensions and implies $S$ duality for both heterotic and
+Type II strings.
+","[{""version"":""v1"",""created"":""Mon, 20 Mar 1995 15:17:17 GMT""},{""version"":""v2"",""created"":""Fri, 24 Mar 1995 15:42:49 GMT""}]","2010-04-07"
+"math/9503208","Lajos Soukup","I. Juh\'asz, Lajos Soukup, Z. Szentmikl\'ossy","Forcing countable networks for spaces satisfying R(X^omega)=omega.",,,,"Logic E-prints March 20, 1995","math.LO",,"  We show that all finite powers of a Hausdorff space X do not contain
+uncountable weakly separated subspaces iff there is a c.c.c poset P such that
+1_P forces that ``X is a countable union of 0-dimensional subspaces of
+countable weight.''
+  We also show that this theorem is sharp in two different senses:
+  (i) we can't get rid of using generic extensions,
+  (ii) we have to consider all finite powers of $X$.
+","[{""version"":""v1"",""created"":""Mon, 20 Mar 1995 00:00:00 GMT""}]","2016-09-06"
+"math/9503214",,"W. Banaszczyk, Stanislaw J. Szarek","Lattice coverings and gaussian measures of n-dimensional convex bodies",,,,"Banach Archive 3/20/95","math.MG math.FA",,"  Let $\| \cdot \|$ be the euclidean norm on ${\bf R}^n$ and $\gamma_n$ the
+(standard) Gaussian measure on ${\bf R}^n$ with density $(2 \pi )^{-n/2} e^{-
+\| x\|^2 /2}$. Let $\vartheta$ ($ \simeq 1.3489795$) be defined by $\gamma_1 ([
+- \vartheta /2, \vartheta /2]) = 1/2$ and let $L$ be a lattice in ${\bf R}^n$
+generated by vectors of norm $\leq \vartheta$. Then, for any closed convex set
+$V$ in ${\bf R}^n$ with $\gamma_n (V) \geq \frac{1}{2}$ and for any $a \in {\bf
+R}^n$, $(a +L) \cap V \neq \phi$. The above statement can be viewed as a
+``nonsymmetric'' version of Minkowski Theorem.
+","[{""version"":""v1"",""created"":""Mon, 20 Mar 1995 00:00:00 GMT""}]","2016-09-06"
+"math/9503235","Maggie McLoughlin","Donald E. Knuth","An exact analysis of stable allocation",,"J. Algorithms 20 (1996), no. 2, 431--44",,"Knuth migration 11/2004","math.OC",,"  Shapley and Scarf introduced a notion of stable allocation between traders
+and indivisible goods, when each trader has rank-ordered each of the goods. The
+purpose of this note is to prove that the distribution of ranks after
+allocation is the same as the distribution of search distances in uniform
+hashing, when the rank-orderings are independent and uniformly random.
+Therefore the average sum of final ranks is just $(n+1)H_n-n$, and the standard
+deviation is O(n). The proof involves a family of interesting one-to-one
+correspondences between permutations of a special kind.
+","[{""version"":""v1"",""created"":""Mon, 20 Mar 1995 00:00:00 GMT""}]","2008-02-03"
+"nucl-th/9503018","Erwin O. Alt","E. O. Alt and A. M. Mukhamedzhanov","Long-range behavior of the optical potential for the elastic scattering
+  of charged composite particles","35 pages, no figures, revtex","Phys.Rev. A51 (1995) 3852-3867","10.1103/PhysRevA.51.3852","MZ-TH/94-25","nucl-th",,"  The asymptotic behavior of the optical potential, describing elastic
+scattering of a charged particle $\alpha$ off a bound state of two charged, or
+one charged and one neutral, particles at small momentum transfer
+$\Delta_{\alpha}$ or equivalently at large intercluster distance
+$\rho_{\alpha}$, is investigated within the framework of the exact three-body
+theory. For the three-charged-particle Green function that occurs in the exact
+expression for the optical potential, a recently derived expression, which is
+appropriate for the asymptotic region under consideration, is used. We find
+that for arbitrary values of the energy parameter the non-static part of the
+optical potential behaves for $\Delta_{\alpha} \rightarrow 0$ as
+$C_{1}\Delta_{\alpha} + o\,(\Delta_{\alpha})$. From this we derive for the
+Fourier transform of its on-shell restriction for $\rho_{\alpha} \rightarrow
+\infty$ the behavior $-a/2\rho_{\alpha}^4 + o\,(1/\rho_{\alpha}^4)$, i.e.,
+dipole or quadrupole terms do not occur in the coordinate-space asymptotics.
+This result corroborates the standard one, which is obtained by perturbative
+methods. The general, energy-dependent expression for the dynamic
+polarisability $C_{1}$ is derived; on the energy shell it reduces to the
+conventional polarisability $a$ which is independent of the energy. We
+emphasize that the present derivation is {\em non-perturbative}, i.e., it does
+not make use of adiabatic or similar approximations, and is valid for energies
+{\em below as well as above the three-body dissociation threshold}.
+","[{""version"":""v1"",""created"":""Mon, 20 Mar 1995 15:00:58 GMT""}]","2009-10-28"

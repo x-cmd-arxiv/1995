@@ -1,0 +1,310 @@
+"astro-ph/9507080","Arthur Kosowsky","Gerard Jungman (Syracuse), Marc Kamionkowski (Columbia), Arthur
+  Kosowsky (Harvard), and David N. Spergel (Princeton)","Weighing the Universe with the Cosmic Microwave Background","7 pages RevTex. Two uuencoded postscript figures. For postscript or
+  hard copies, send mail to akosowsky@cfa.harvard.edu","Phys.Rev.Lett. 76 (1996) 1007-1010","10.1103/PhysRevLett.76.1007","CU-TP-703, SU-4240-614, POP-629, CfA-4136","astro-ph hep-ph",,"  Variations in $\Omega$, the total density of the Universe, leave a clear and
+distinctive imprint on the power spectrum of temperature fluctuations in the
+cosmic microwave background (CMB). This signature is virtually independent of
+other cosmological parameters or details of particular cosmological models. We
+evaluate the precision with which $\Omega$ can be determined by a CMB map as a
+function of sky coverage, pixel noise, and beam size. For example, assuming
+only that the primordial density perturbations were adiabatic and with no prior
+information on the values of any other cosmological parameters, a full-sky CMB
+map at $0.5^\circ$ angular resolution and a noise level of $15\,\mu{\rm K}$ per
+pixel can determine $\Omega$ with a variance of 5\%. If all other cosmological
+parameters are fixed, $\Omega$ can be measured to better than 1\%.
+","[{""version"":""v1"",""created"":""Fri, 21 Jul 1995 19:46:04 GMT""}]","2009-10-28"
+"astro-ph/9507081","Nora Rogers","Joel R. Primack (Santa Cruz Institute for Particle Physics, UCSC)","Improved Ways to Compare Simulations to Data","9 pages, self-extracting uuencoded postscript, encoded with uufiles",,,"SCIPP 95/36","astro-ph",,"  Theoretical models for structure formation with Gaussian initial fluctuations
+have been worked out in considerable detail and compared with observations on
+various scales. It is on nonlinear scales $\lsim 10 \ h^{-1}\ {\rm Mpc}$ that
+the greatest differences exist between $\Omega=1$ models that have been
+normalized to agree on the largest scales with the COBE data; here especially
+there is a need for better statistical tests which are simultaneously {\it
+robust}, {\it discriminatory}, and {\it interpretable}. The era at which galaxy
+and cluster formation occurs is also a critical test of some models. Needs for
+the future include faster and cleverer codes, better control of cosmic variance
+in simulations, better understanding of processes leading to galaxy formation,
+better ways of comparing observational data with models, and better access to
+observational and simulation data.
+","[{""version"":""v1"",""created"":""Fri, 21 Jul 1995 22:14:09 GMT""}]","2007-05-23"
+"astro-ph/9507082","Capp Yess","Sergei F. Shandarin (University of Kansas, Lawrence, Kansas)","Three-dimensional Burgers' Equation as a Model for the Large-Scale
+  Structure Formation in the Universe","Paper with 1 figure in postscript format, 14 pages. For additional
+  figures contact the author",,,,"astro-ph",,"  As galaxy redshift surveys probe deeper into the universe, they uncover ever
+more dramatic structures in the large-scale distribution of galaxies. In
+particular, the CfA2 and SSRS2 surveys to an apparent magnitude limit of 15.5
+exhibit an impressive complex of sheets, filaments, and clusters. The formation
+of the large-scale structure in the universe results from the gravitational
+amplification of the primordial small perturbations of density. The primordial
+density perturbations, as quantum fluctuations at the very early stage, may
+reveal important information about the early universe and the laws of
+fundamental physics. One of the major obstacles to understanding the formation
+of the large-scale structure is the complexity of the evolution of the density
+inhomogeneities at the nonlinear stage when the observable structures form. One
+way of addressing this problem is to run three-dimensional numerical
+simulations. Here we review another approach based on the approximate analytic
+model of the nonlinear gravitational instability utilizing Burgers' equation of
+the nonlinear diffusion.
+","[{""version"":""v1"",""created"":""Sat, 22 Jul 1995 02:51:07 GMT""},{""version"":""v2"",""created"":""Thu, 21 Sep 1995 18:25:02 GMT""}]","2008-02-03"
+"astro-ph/9507083","Capp Yess","Sergei F. Shandarin (University of Kansas, Lawrence, U.S.A.)","Topology of the Galaxy Distribution","Latex file with figures in postscript format, 8 pages",,,,"astro-ph",,"  The history and the major results of the study of the topology of the
+large-scale structure are briefly reviewed. Two techniques based on percolation
+theory and the genus curve are discussed. The preliminary results of the
+percolation analysis of the Wiener reconstruction of the IRAS $1.2 Jy$ redshift
+catalog are reported.
+","[{""version"":""v1"",""created"":""Sat, 22 Jul 1995 03:05:33 GMT""},{""version"":""v2"",""created"":""Mon, 24 Jul 1995 14:29:31 GMT""}]","2008-02-03"
+"astro-ph/9507084",,"V. Bistolas and Y. Hoffman","Non-linear Reconstruction of the Large Scale Structure","18 pages including 4 figures,plain TeX + uuencoded postscript,
+  submitted to ApJLetters",,,"HUASTRO-95-999","astro-ph",,"  The linear algorithm of the the full non-linear large scale structure of
+Gaussian random fields is extended here to to perform non-linear CRs. The
+procedure consists of: (1) Using linear CR of low resolution data to construct
+a high resolution realization of the underlying field, as if the linear theory
+is valid; (2) Taking the linear CR backwards in time, by the linear theory, to
+set initial conditions for an N-body simulation; (3) Forwarding the field in
+time by an N-body code. An intermediate step might be introduced to `linearize'
+the low resolution data.
+  The non-linear CR can be applied to any observational data set that is
+linearly related to the underlying field. Here it is applied to the IRAS 1.2Jy
+catalog using 843 data points within a sphere of $6000 Km/s$, to reconstruct
+the full non-linear large scale structure of our `local' universe.
+","[{""version"":""v1"",""created"":""Sat, 22 Jul 1995 10:16:00 GMT""},{""version"":""v2"",""created"":""Tue, 1 Aug 1995 10:59:00 GMT""}]","2016-08-30"
+"astro-ph/9507085","Takeshi Chiba","Takashi Nakamura, Ken-ichi Nakao, Takeshi Chiba, and Tetsuya Shiromizu","Volume Expansion Rate and The Age of The Universe","10 pages","Mon.Not.Roy.Astron.Soc. 276 (1995) L41-L44","10.1093/mnras/276.1.L41","YITP/K1103, KUNS-1328","astro-ph gr-qc",,"  Under four assumptions such that 1) Einstein's theory of gravity is correct,
+2) existence of foliation by geodesic slicing, 3) the trace of the extrinsic
+curvature, $K$, is negative at the present time in observed region, that is,
+the observed universe is now expanding, 4) the strong energy condition is
+satisfied, we show that $H_{v0} t_{0} \leq 1$, where $H_v \equiv - K/3$ agrees
+with the Hubble parameter in the case of a homogeneous and isotropic universe,
+and $t_0$ is the age of the Universe. If $H_{v0} t_0 > 1$ is confirmed
+observationally, at least one of the four assumptions is incorrect.
+","[{""version"":""v1"",""created"":""Sat, 22 Jul 1995 12:41:06 GMT""}]","2016-06-08"
+"cmp-lg/9507009","Norbert E. Fuchs","Norbert E. Fuchs, Rolf Schwitter (Department of Computer Science,
+  University of Zurich)","Specifying Logic Programs in Controlled Natural Language","16 pages, compressed, uuencoded Postscript, published in Proceedings
+  CLNLP 95, COMPULOGNET/ELSNET/EAGLES Workshop on Computational Logic for
+  Natural Language Processing, Edinburgh, April 3-5, 1995","Proceedings CLNLP 95, COMPULOGNET/ELSNET/EAGLES",,"IFI 95.17","cmp-lg cs.CL",,"  Writing specifications for computer programs is not easy since one has to
+take into account the disparate conceptual worlds of the application domain and
+of software development. To bridge this conceptual gap we propose controlled
+natural language as a declarative and application-specific specification
+language. Controlled natural language is a subset of natural language that can
+be accurately and efficiently processed by a computer, but is expressive enough
+to allow natural usage by non-specialists. Specifications in controlled natural
+language are automatically translated into Prolog clauses, hence become formal
+and executable. The translation uses a definite clause grammar (DCG) enhanced
+by feature structures. Inter-text references of the specification, e.g.
+anaphora, are resolved with the help of discourse representation theory (DRT).
+The generated Prolog clauses are added to a knowledge base. We have implemented
+a prototypical specification system that successfully processes the
+specification of a simple automated teller machine.
+","[{""version"":""v1"",""created"":""Fri, 21 Jul 1995 17:44:05 GMT""}]","2008-02-03"
+"cond-mat/9507092","Thill","M.J. Thill and H.J. Hilhorst","Theory of the critical state of low-dimensional spin glass","RevTeX, 33 pages + 1 PostScript figure (uuencoded). Uses german.sty
+  and an input file def.tex, joined. Three additional figures may be requested
+  from the authors",,"10.1051/jp1:1996130","LPTHE Orsay 93/72","cond-mat",,"  We analyse the critical region of finite-($d$)-dimensional Ising spin glass,
+in particular the limit of $d$ closely above the lower critical dimension
+$d_\ell$. At criticality the thermally active degrees of freedom are surfaces
+(of width zero) enclosing clusters of spins that may reverse with respect to
+their environment. The surfaces are organised in finite interacting structures.
+These may be called {\em protodroplets}\/, since in the off-critical limit they
+reduce to the Fisher and Huse droplets. This picture provides an explanation
+for the phenomenon of critical chaos discovered earlier. It also implies that
+the spin-spin and energy-energy correlation functions are multifractal and we
+present scaling laws that describe them. Several of our results should be
+verifiable in Monte Carlo studies at finite temperature in $d=3$.
+","[{""version"":""v1"",""created"":""Fri, 21 Jul 1995 16:10:20 GMT""}]","2009-10-28"
+"cond-mat/9507094","Jon Machta","J. Machta, Y. S. Choi, A. Lucke and T. Schweizer (U. Mass) and L. V.
+  Chayes (UCLA)","Invaded cluster algorithm for equilibrium critical points","13 pages RevTex and 4 Postscript figures. Submitted to Phys. Rev.
+  Lett. Replacement corrects problem in printing figures","Phys.Rev.Lett. 75 (1995) 2792-2795","10.1103/PhysRevLett.75.2792",,"cond-mat hep-lat",,"  A new cluster algorithm based on invasion percolation is described. The
+algorithm samples the critical point of a spin system without a priori
+knowledge of the critical temperature and provides an efficient way to
+determine the critical temperature and other observables in the critical
+region. The method is illustrated for the two- and three-dimensional Ising
+models. The algorithm equilibrates spin configurations much faster than the
+closely related Swendsen-Wang algorithm.
+","[{""version"":""v1"",""created"":""Fri, 21 Jul 1995 21:59:43 GMT""},{""version"":""v2"",""created"":""Mon, 24 Jul 1995 16:57:59 GMT""}]","2009-10-28"
+"cond-mat/9507095","Roland Fehrenbacher","R. Fehrenbacher and T. M. Rice","Comment on ``Quantitative Model for the Superconductivity Suppression in
+  R$_{1-x}$Pr$_x$Ba$_2$Cu$_3$O$_7$ with Different Rare Earths''","1 page, uuencoded, compressed Postscript",,,,"cond-mat supr-con",,"  We argue that an effective single-particle model to explain the destructive
+role of Pr on superconductivity in PrBa$_2$Cu$_3$O$_7$, is inconsistent with
+the experimental ac conductivity in that compound.
+","[{""version"":""v1"",""created"":""Fri, 21 Jul 1995 22:47:46 GMT""}]","2007-05-23"
+"cond-mat/9507096","Shi ZhuPei","Zhu-Pei Shi and Rajiv R. P. Singh","Ising Expansion for the Hubbard Model","22 pages, 6 Postscript figures, Revtex",,"10.1103/PhysRevB.52.9620",,"cond-mat",,"  We develop series expansions for the ground state properties of the Hubbard
+model, by introducing an Ising anisotropy into the Hamiltonian. For the
+two-dimensional (2D) square lattice half-filled Hubbard model, the ground state
+energy, local moment, sublattice magnetization, uniform magnetic susceptibility
+and spin stiffness are calculated as a function of $U/t$, where $U$ is the
+Coulomb constant and $t$ is the hopping parameter. Magnetic susceptibility data
+indicate a crossover around $U\approx 4$ between spin density wave
+antiferromagnetism and Heisenberg antiferromagnetism. Comparisons with Monte
+Carlo simulations, RPA result and mean field solutions are also made.
+","[{""version"":""v1"",""created"":""Sat, 22 Jul 1995 01:19:33 GMT""},{""version"":""v2"",""created"":""Mon, 24 Jul 1995 19:02:10 GMT""}]","2009-10-28"
+"gr-qc/9507044","Madhavan Varadarajan","J. Fernando Barbero and Madhavan Varadarajan","Homogeneous 2+1 Dimensional Gravity in the Ashtekar Formulation","31 pages, latex","Nucl.Phys.B456:355-376,1995","10.1016/0550-3213(98)00500-8",,"gr-qc",,"  The constraint hypersurfaces defining the Witten and Ashtekar formulations
+for 2+1 gravity are very different. In particular the constraint hypersurface
+in the Ashtekar case is not a manifold but consists of several sectors that
+intersect each other in a complicated way. The issue of how to define a
+consistent dynamics in such a situation is then rather non-trivial. We discuss
+this point by working out the details in a simplified (finite dimensional)
+homogeneous reduction of 2+1 gravity in the Ashtekar formulation.
+","[{""version"":""v1"",""created"":""Fri, 21 Jul 1995 17:42:14 GMT""}]","2017-03-24"
+"gr-qc/9507045","Maria Bento","M.C. Bento and O. Bertolami","Constraints on Supergravity Chaotic Inflationary Models","Latex file, 10 pages; important changes and references added","Phys.Lett. B365 (1996) 59-63","10.1016/0370-2693(95)01169-2","CERN-TH/95-199, DFTT 44/95","gr-qc",,"  We discuss, in the context of $N=1$ hidden sector non-minimal supergravity
+chaotic inflationary models, constraints on the parameters of a polynomial
+superpotential resulting from existing bounds on the reheating temperature and
+on the amplitude of the primordial energy density fluctuations as inferred from
+COBE. We present a specific two-parameter chaotic inflationary model which
+satisfies these constraints and discuss a possible scenario for adequate baryon
+asymmetry generation.
+","[{""version"":""v1"",""created"":""Sat, 22 Jul 1995 13:55:57 GMT""},{""version"":""v2"",""created"":""Wed, 25 Oct 1995 16:25:04 GMT""}]","2009-10-28"
+"hep-ph/9507374","Lyubovitskij Valery","M.A.Ivanov and V.E.Lyubovitskij","Semileptonic Decays of Bottom and Charm Baryons within Relativistic
+  Quark Model","13 pages, LaTeX-file with SPOCL.STY (5 Tables, 2 Figures avaible
+  under request); Talk presented at the Conference ""HADRON 95"" (10-14 July,
+  1995, Manchester, UK)","Manchester Conference ""Hadron-95"" (1996) 396",,,"hep-ph",,"  The results for observables of semileptonic decays of bottom and charm
+baryons (Isgur-Wise functions, decay rates, distributions, asymmetry
+parameters) are given within relativistic quark model. A comparison with recent
+experimental data (CLEO Collaboration) is made.
+","[{""version"":""v1"",""created"":""Fri, 21 Jul 1995 17:57:11 GMT""},{""version"":""v2"",""created"":""Fri, 1 Sep 1995 09:42:01 GMT""}]","2008-02-03"
+"hep-ph/9507375",,"Jonathan L. Rosner","Impact of Atomic Parity Violation Measurements on Precision Electroweak
+  Physics","11 pages, latex, 1 uuencoded figure sent separately","Phys. Rev. D 53, 2724 (1996)","10.1103/PhysRevD.53.2724","EFI-95-41","hep-ph",,"  The impact of atomic parity violation experiments on determination of the
+weak mixing parameter $\sin^2 \theta$ and the Peskin-Takeuchi parameters $S$
+and $T$ is reassessed in the light of recent electroweak measurements at LEP,
+SLAC, and Fermilab. Since the weak charge $Q_W$ provides unique information on
+$S$, its determination with a factor of four better accuracy than present
+levels can have a noticeable effect on global fits. However, the measurement of
+$\Delta Q_W / Q_W$ for two different isotopes provides primarily information on
+$\sin^2 \theta$. To specify this quantity to an accuracy of $\pm 0.0004$,
+comparable to that now provided by other electroweak experiments, one would
+have to determine $\Delta Q_W/Q_W$ in cesium to about 0.1\% of its value, with
+comparable demands for other nuclei. The relative merits of absolute
+measurements of $Q_W$ and isotope ratios for discovering effects of new gauge
+bosons are noted briefly.
+","[{""version"":""v1"",""created"":""Fri, 21 Jul 1995 16:12:05 GMT""}]","2016-08-24"
+"hep-ph/9507376",,"Carl H. Albright and Satyanarayan Nandi","Construction of an SO(10) x U(1)_F Model of the Yukawa Interactions","32 pages, latex with style files attached, 1 figure in uuencoded
+  postscript file","Phys.Rev.D53:2699-2711,1996","10.1103/PhysRevD.53.2699","FERMILAB-PUB-95/236-T and OSU preprint 306","hep-ph",,"  We construct a supersymmetric $SO(10) \times U(1)_F$ model of the Yukawa
+interactions at the grand unification scale from knowledge of a
+phenomenological set of mass matrices obtained by a previous bottom-up
+approach. The $U(1)_F$ family symmetry determines the textures for the Majorana
+and generic Dirac mass matrices, while the $SO(10)$ symmetry relates each
+particular element of the up, down, neutrino and charged lepton Dirac matrices.
+The dominant second and third family contributions in the Dirac sector are
+renormalizable, while the remaining contributions to the Dirac mass matrices
+are of higher order, restricted by the $U(1)_F$ family symmetry to a small set
+of tree diagrams, and mainly complex-symmetric. The tree diagrams for the
+Majorana mass matrix are all non-renormalizable and of progressively
+higher-order, leading to a nearly geometrical structure. Pairs of ${\bf 1, 45,
+10}$ and ${\bf 126}$ Higgs representations enter with those having large vacuum
+expectation values breaking the symmetry down to $SU(3)_c \times SU(2)_L \times
+U(1)_Y$ near the grand unification scale. In terms of 12 parameters expressed
+as the Yukawa couplings times vacuum expectation values for the Higgs
+representations employed, a realistic set of 15 quark and lepton masses
+(including those for the 3 heavy righthanded Majorana neutrinos) and 8 mixing
+parameters emerges for the neutrino scenario involving the non-adiabatic
+conversion of solar neutrinos and the depletion of atmospheric muon-neutrinos
+through oscillations into tau-neutrinos.
+","[{""version"":""v1"",""created"":""Fri, 21 Jul 1995 16:55:02 GMT""}]","2014-11-17"
+"hep-ph/9507377","B. de Carlos","B. de Carlos (Oxford), J.A. Casas (Madrid) and J.M. Moreno (Madrid)","Constraints on Supersymmetric Theories from $\mu\to e,\gamma$","12 pages, Latex, 5 figures as uuencoded compressed postscript files,
+  uses psfig.sty","Phys.Rev. D53 (1996) 6398-6406","10.1103/PhysRevD.53.6398","IEM-FT-108/95, OUTP-95-29P","hep-ph",,"  In the absence of any additional assumption it is natural to conjecture that
+sizeable flavour-mixing mass entries, $\Delta m^2$, may appear in the mass
+matrices of the scalars of the MSSM, i.e. $\Delta m^2\sim O(m^2)$. This flavour
+violation can still be reconciled with the experiment if the gaugino mass,
+$M_{1/2}$, is large enough, leading to a {\em gaugino dominance} framework
+(i.e. $M_{1/2}^2\gg m^2$), which permits a remarkably model--independent
+analysis. We study this possibility focussing our attention on the
+$\mu\rightarrow e,\gamma$ decay. In this way we obtain very strong and general
+constraints, in particular $\frac{M_{1/2}^2}{\Delta m}\simgt 34\ {\rm TeV}$. On
+the other hand, we show that our analysis and results remain valid for values
+of $m^2$ much larger than $\Delta m^2$, namely for $\frac{\Delta
+m^2}{m^2}\simgt \frac{m^2} {10\ {\rm TeV^2}}$, thus extending enormously their
+scope of application. Finally, we discuss the implications for superstring
+scenarios.
+","[{""version"":""v1"",""created"":""Fri, 21 Jul 1995 16:40:01 GMT""}]","2009-10-28"
+"hep-ph/9507378","Michael Dine","Michael Dine, Ann E. Nelson, Yosef Nir and Yuri Shirman","New Tools for Low Energy Dynamical Supersymmetry Breaking","32 pages and one figure; compressed post script","Phys. Rev. D 53, 2658 (1996)","10.1103/PhysRevD.53.2658","SCIPP 95/32","hep-ph hep-th",,"  We report the construction of large new classes of models which break
+supersymmetry dynamically. We then turn to model building. Two of the principal
+obstacles to constructing simple models of dynamical supersymmetry breaking are
+the appearance of Fayet-Iliopoulos D terms and difficulties in generating a
+$\mu$ term for the Higgs fields. Among the new models are examples in which
+symmetries prevent the appearance of Fayet-Iliopoulos terms. A gauge singlet
+field, that may play a role in explaining the hierarchy in quark and lepton
+parameters, can generate a suitable $\mu$ term. The result is a comparatively
+simple model, with a low energy structure similar to that of the MSSM, but with
+far fewer arbitrary parameters. We begin the study of the phenomenology of
+these models.
+","[{""version"":""v1"",""created"":""Fri, 21 Jul 1995 18:32:44 GMT""},{""version"":""v2"",""created"":""Tue, 1 Aug 1995 19:56:34 GMT""}]","2016-08-24"
+"hep-ph/9507379",,"Paolo Ciafaloni, Andrea Romanino and Alessandro Strumia","Lepton Flavour Violations in SO(10) with large $\tan\beta$","Final published version with one new figure added","Nucl.Phys.B458:3-22,1996","10.1016/0550-3213(95)00552-8",,"hep-ph",,"  In supersymmetric~SO(10) with large $\tan\beta$ and Yukawa coupling
+unification $\lambda_t=\lambda_b=\lambda_\tau$, we compute the rates for lepton
+flavour violating processes. Experiments in progress or foreseen for $\mu\to
+e\gamma$, $\mu\to e$ conversion (and the dipole moment of the electron) are
+shown to provide very significant tests of the theory for all slepton masses up
+to about $1\TeV$.
+","[{""version"":""v1"",""created"":""Fri, 21 Jul 1995 18:15:00 GMT""},{""version"":""v2"",""created"":""Thu, 19 Oct 1995 18:17:08 GMT""},{""version"":""v3"",""created"":""Wed, 25 Oct 1995 17:18:00 GMT""}]","2009-10-09"
+"hep-ph/9507380","Boris M. Kastening","Chengxing Zhai and Boris Kastening","The Free Energy of Hot Gauge Theories with Fermions Through g^5","31 pages, 6 figures, LaTeX; minor beautifications, reference list
+  extended, version to be published in Phys.Rev.D","Phys.Rev. D52 (1995) 7232-7246","10.1103/PhysRevD.52.7232","PURD-TH-95-03","hep-ph",,"  We compute the free energy density $F$ for gauge theories, with fermions, at
+high temperature and zero chemical potential. In the expansion $F=T^4 [c_0+c_2
+g^2+c_3 g^3+(c'_4\ln g+c_4)g^4+ (c'_5\ln g+c_5)g^5+O(g^6)]$, we determine
+$c'_5$ and $c_5$ analytically by calculating two- and three-loop diagrams. The
+$g^5$ term constitutes the first correction to the $g^3$ term and is for the
+non-Abelian case the last power of $g$ that can be computed within perturbation
+theory. We find that the $g^5$ term receives no contributions from overlapping
+double-frequency sums and that $c'_5$ vanishes.
+","[{""version"":""v1"",""created"":""Fri, 21 Jul 1995 20:55:46 GMT""},{""version"":""v2"",""created"":""Thu, 9 Nov 1995 16:58:37 GMT""}]","2009-10-28"
+"hep-ph/9507381","Erick J. Weinberg","Dimitrios Metaxas and Erick J. Weinberg (Columbia University)","Gauge independence of the bubble nucleation rate in theories with
+  radiative symmetry breaking","19 pages, 3 figures in uuencoded file","Phys.Rev. D53 (1996) 836-843","10.1103/PhysRevD.53.836","CU-TP-704","hep-ph",,"  In field theories where a metastable false vacuum state arises as a result of
+radiative corrections, the calculation of the rate of false vacuum decay by
+bubble nucleation depends on the effective potential and the other functions
+that appear in the derivative expansion of the effective action. Beginning with
+the Nielsen identity, we derive a series of identities that govern the gauge
+dependence of these functions. Using these, we show, to leading nontrivial
+order, that even though these functions are individually gauge-dependent, one
+obtains a gauge-independent result for the bubble nucleation rate. Our formal
+arguments are complemented by explicit calculations for scalar electrodynamics
+in a class of $R_\xi$ gauges.
+","[{""version"":""v1"",""created"":""Fri, 21 Jul 1995 16:11:11 GMT""}]","2009-10-28"
+"hep-th/9507116","Peter Freund","J. Feigenbaum and P.G.O. Freund (University of Chicago)","A $q$-deformation of the Coulomb Problem","17 pages, LaTeX","J.Math.Phys.37:1602-1616,1996","10.1063/1.531471","EFI-95-42","hep-th math.QA q-alg",,"  The algebra of observables of $SO_{q}(3)$-symmetric quantum mechanics is
+extended to include the inverse $\frac{1}{R}$ of the radial coordinate and used
+to obtain eigenvalues and eigenfunctions of a \q-deformed Coulomb Hamiltonian.
+","[{""version"":""v1"",""created"":""Fri, 21 Jul 1995 18:02:22 GMT""}]","2011-07-19"
+"hep-th/9507117","P. M. Llatas","Pablo M. Llatas","Generalized Mathai-Quillen Topological Sigma Models","15 pages, Latex. Final version","Mod.Phys.Lett. A11 (1996) 2585-2600","10.1142/S0217732396002599",,"hep-th",,"  A simple field theoretical approach to Mathai-Quillen topological field
+theories of maps $X: M_I \to M_T$ from an internal space to a target space is
+presented. As an example of applications of our formalism we compute by
+applying our formulas the action and Q-variations of the fields of two well
+known topological systems: Topological Quantum Mechanics and type-A topological
+Sigma Model.
+","[{""version"":""v1"",""created"":""Fri, 21 Jul 1995 21:54:33 GMT""},{""version"":""v2"",""created"":""Tue, 10 Dec 1996 02:49:19 GMT""}]","2009-10-28"
+"hep-th/9507118","Roger Behrend","Roger E. Behrend, Paul A. Pearce and David L. O'Brien (University of
+  Melbourne)","Interaction-Round-a-Face Models with Fixed Boundary Conditions: The ABF
+  Fusion Hierarchy","48 pages, LaTeX, requires about 79000 words of TeX memory. Submitted
+  to J. Stat. Phys","J. Stat. Phys. 84 (1996) 1","10.1007/BF02179576",,"hep-th",,"  We use boundary weights and reflection equations to obtain families of
+commuting double-row transfer matrices for interaction-round-a-face models with
+fixed boundary conditions. In particular, we consider the fusion hierarchy of
+the Andrews-Baxter-Forrester models, for which we find that the double-row
+transfer matrices satisfy functional equations with an su(2) structure.
+","[{""version"":""v1"",""created"":""Fri, 21 Jul 1995 22:14:03 GMT""},{""version"":""v2"",""created"":""Mon, 24 Jul 1995 07:14:15 GMT""}]","2009-10-28"
+"hep-th/9507119",,"G. Kaniadakis, A. Lavagno, P.Quarati","Kinetic Approach to Fractional Exclusion Statistics","6 pages, REVTEX","Nucl.Phys.B466:527-537,1996","10.1016/0550-3213(96)00040-5",,"hep-th",,"  We show that the kinetic approach to statistical mechanics permits an elegant
+and efficient treatment of fractional exclusion statistics. By using the
+exclusion-inclusion principle recently proposed [Phys. Rev. E49, 5103 (1994)]
+as a generalization of the Pauli exclusion principle, which is based on a
+proper definition of the transition probability between two states, we derive a
+variety of different statistical distributions interpolating between bosons and
+fermions. The Haldane exclusion principle and the Haldane-Wu fractional
+exclusion statistics are obtained in a natural way as particular cases. The
+thermodynamic properties of the statistical systems obeying the generalized
+exclusion-inclusion principle are discussed.
+","[{""version"":""v1"",""created"":""Sat, 22 Jul 1995 04:29:27 GMT""}]","2011-08-17"
+"hep-th/9507120","R. D. Simmons","R.D. Simmons","One-Loop Quadratic Divergences of the Dual Non-Linear Sigma Model in
+  Four-Dimensional Spacetime","9 pages, LaTeX2e, no figures, uses axodraw package for Feynman
+  diagrams. Axodraw available via anonymous ftp,
+  ftp://ftp.nikhef.nl/pub/form/axodraw/export DVI version of preprint available
+  via anonymous ftp or WWW;
+  ftp://hep2.phys.soton.ac.uk/pub/preprints/rdsquad.dvi
+  http://wwwhep.phys.soton.ac.uk/hepftp/pub/preprints/rdsquad.dvi",,,"SHEP 95/24","hep-th hep-ph",,"  Following a review of the dual description of the non-linear sigma model we
+investigate the one-loop quadratic divergences. We use the covariant background
+field method for the general case and apply the results to the important
+example of $SU(2)$.
+","[{""version"":""v1"",""created"":""Sat, 22 Jul 1995 14:32:22 GMT""}]","2007-05-23"
+"math/9507205","Matthew G. Brin","Matthew G. Brin","The chameleon groups of Richard J. Thompson: automorphisms and dynamics",,"Publications Mathematiques de l'Institut des Hautes Etudes
+  Scientifiques 84 (1997), 5-33","10.1007/BF02698834","MAGNUS preprint #95-07-21A","math.GR",,"  The automorphism groups of several of Thompson's countable groups of
+piecewise linear homeomorphisms of the line and circle are computed and it is
+shown that the outer automorphism groups of these groups are relatively small.
+These results can be interpreted as stability results for certain structures of
+PL functions on the circle. Machinery is developed to relate the structures on
+the circle to corresponding structures on the line.
+","[{""version"":""v1"",""created"":""Fri, 21 Jul 1995 20:05:28 GMT""}]","2013-09-04"
+"solv-int/9507004","G. Tondo","G. Tondo (Dipartimento di Scienze Matematiche, Universita degli Studi
+  di Trieste)","On the integrability of stationary and restricted flows of the KdV
+  hierarchy.","25 pages, AMS-LATEX 2.09, no figures, to be published in J. Phys. A:
+  Math. Gen..",,"10.1088/0305-4470/28/17/034",,"solv-int nlin.SI",,"  A bi--Hamiltonian formulation for stationary flows of the KdV hierarchy is
+derived in an extended phase space. A map between stationary flows and
+restricted flows is constructed: in a case it connects an integrable
+Henon--Heiles system and the Garnier system. Moreover a new integrability
+scheme for Hamiltonian systems is proposed, holding in the standard phase
+space.
+","[{""version"":""v1"",""created"":""Sat, 22 Jul 1995 14:26:49 GMT""}]","2016-09-08"

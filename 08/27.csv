@@ -1,0 +1,129 @@
+"astro-ph/9508125","Rien van de Weygaert","Francis Bernardeau and Rien van de Weygaert","A new method for accurate velocity statistics estimation","29 pages Plain Tex source file. UUencoded compressed postscript file
+  of manuscript including the figures available by anonymous ftp to
+  ftp://ibm-3.mpa-garching.mpg.de/incoming/weygaert/vstatvordel.uu Accepted for
+  publication in MNRAS",,"10.1093/mnras/279.2.693","SPhT Saclay T95/076, MPA 875","astro-ph",,"  We introduce two new methods to obtain reliable velocity field statistics
+from N-body simulations, or indeed from any general density and velocity
+fluctuation field sampled by discrete points. These methods, the {\it Voronoi
+tessellation method} and {\it Delaunay tessellation method}, are based on the
+use of the Voronoi and Delaunay tessellations of the point distribution defined
+by the locations at which the velocity field is sampled. In the Voronoi method
+the velocity is supposed to be uniform within the Voronoi polyhedra, whereas
+the Delaunay method constructs a velocity field by linear interpolation between
+the four velocities at the locations defining each Delaunay tetrahedron. The
+most important advantage of these methods is that they provide an optimal
+estimator for determining the statistics of volume-averaged quantities, as
+opposed to the available numerical methods that mainly concern mass-averaged
+quantities. As the major share of the related analytical work on velocity field
+statistics has focussed on volume-averaged quantities, the availability of
+appropriate numerical estimators is of crucial importance for checking the
+validity of the analytical perturbation calculations. In addition, it allows us
+to study the statistics of the velocity field in the highly nonlinear
+clustering regime. Although in most cases both the Voronoi and the Delaunay
+method lead to equally good velocity field estimates, the Delaunay method may
+be slightly preferable. In particular it performs considerably better at small
+radii. Note that it is more CPU-time intensive while its requirement for memory
+space is almost a factor 8 lower than the Voronoi method.
+","[{""version"":""v1"",""created"":""Sat, 26 Aug 1995 17:39:29 GMT""}]","2017-03-08"
+"astro-ph/9508126","Wayne Hu","Wayne Hu (UC Berkeley, Ias)","Wandering in the Background: A CMB Explorer","version with figures for archival",,,"UC Berkeley PhD Thesis (May 1995)","astro-ph","http://arxiv.org/licenses/nonexclusive-distrib/1.0/","  We develop and examine the principles governing the formation of distortions
+in the cosmic microwave background. Distortions in the frequency or spectral
+distribution of the background probe the thermal history of the universe
+whereas those in the angular temperature distribution probe its dynamics and
+geometry. Stressing model independent results, we show how the microwave
+background can be used to extract information on the mass density, vacuum
+density, baryon content, radiation content, expansion rate and some aspects of
+structure formation in the universe. To address these issues, we systematically
+develop relativistic kinetic and perturbation theory addressing issues such as
+fluctuation representation, or gauge, normal mode analysis in an open geometry,
+and second order effects. Through analytic and numerical results, we construct
+anisotropies in a critical, open, or cosmological constant universe with
+adiabatic and/or isocurvature initial conditions allowing for possible early
+reionization. We find that anisotropy formation is a simple process governed by
+the Compton scattering of photons and electrons and their gravitational
+coupling to the other particle species in the universe.
+","[{""version"":""v1"",""created"":""Sat, 26 Aug 1995 17:15:34 GMT""},{""version"":""v2"",""created"":""Thu, 16 Jul 2009 22:05:06 GMT""}]","2009-07-17"
+"cond-mat/9508117","Alison Chaiken","A. Chaiken, R.P. Michel and C.-T. Wang","Magnetic Properties of Epitaxial and Polycrystalline Fe/Si Multilayers","9 pages, RevTex, 4 figures available by fax. Send email to
+  alison@wsrcc.com for more info. Submitted to '95 MMM proceedings",,"10.1063/1.361926",,"cond-mat",,"  Fe/Si multilayers with antiferromagnetic interlayer coupling have been grown
+via ion-beam sputtering on both glass and single-crystal substrates. High-angle
+x-ray diffraction measurements show that both sets of films have narrow Fe
+peaks, implying a large crystallite size and crystalline iron silicide spacer
+layers. Low-angle x-ray diffraction measurements show that films grown on glass
+have rougher interfaces than those grown on single-crystal substrates. The
+multilayers grown on glass have a larger remanent magnetization than the
+multilayers grown on single-crystal substrates. The observation of
+magnetocrystalline anisotropy in hysteresis loops and $(hkl)$ peaks in x-ray
+diffraction demonstrates that the films grown on MgO and Ge are epitaxial. The
+smaller remanent magnetization in Fe/Si multilayers with better layering
+suggests that the remanence is not an intrinsic property.
+","[{""version"":""v1"",""created"":""Sat, 26 Aug 1995 18:55:11 GMT""}]","2009-10-28"
+"hep-ph/9508374","Oleg Teryaev","O.V. Teryaev","Relations between Spin Structure Functions and Quark Mass Corrections to
+  Bjorken Sum Rule","LATEX, 7 pages, Contribution to 'Deuteron-95' International Symposium
+  (JINR, Dubna, Russia, July 4-7, 1995)",,,,"hep-ph",,"  The power correction, surviving the zero quark mass limit and found earlier
+to restore the validity of Burkhardt-Cottingham sum rule, provides the
+contribution to the Bjorken sum rule as well. The leading perturbative
+correction to the Bjorken sum rule is increased by the factor 4/3 for light
+quarks and 5/3 for heavy quarks. The resulting value for the Bjorken sum rule
+for light quarks is in excellent agreement with the most precise SLAC data. The
+same correction should appear in the case of the Gross-Llewellyn Smith sum
+rule. It completely removes the observed deficit of this sum rule within the
+experimental errors.
+","[{""version"":""v1"",""created"":""Sat, 26 Aug 1995 16:29:47 GMT""}]","2007-05-23"
+"hep-ph/9508376",,"Guo-Hong Wu","Nonoblique Effects and Weak-Isospin Breaking from Extended Technicolor","Talk given at the Top Quark Workshop, Iowa State University, May
+  25-26, 1995, 6 pages, use WSPRL.STY",,,"YCTP-P13-95","hep-ph",,"  Several aspects of the flavor-diagonal extended technicolor (ETC) gauge boson
+are reviewed. Among them are an increase of $R_b$ that could explain the LEP
+$R_b$ excess, a sizable, positive correction to the $\tau$ asymmetry parameter
+$A_{\tau}$, and a contribution to the weak-isospin breaking $\rho$ parameter
+that is just barely acceptable by present data.
+","[{""version"":""v1"",""created"":""Sun, 27 Aug 1995 04:57:18 GMT""}]","2007-05-23"
+"hep-ph/9508377","Kouhei Daikouji","K.Daikouji, M.Shino, Y.Sumino (Department of Physics, Tohoku
+  University, Sendai, Japan)","Bern-Kosower Rule for Scalar QED","38pages, 18 Postscript figures, uses epsf.sty","Phys.Rev. D53 (1996) 4598-4615","10.1103/PhysRevD.53.4598","TU-489","hep-ph",,"  We derive a full Bern-Kosower-type rule for scalar QED starting from quantum
+field theory: we derive a set of rules for calculating $S$-matrix elements for
+any processes at any order of the coupling constant. Gauge-invariant set of
+diagrams in general is first written in the worldline path-integral expression.
+Then we integrate over $x(\tau)$, and the resulting expression is given in
+terms of correlation function on the worldline $\left< x(\tau) x(\tau')
+\right>$. Simple rules to decompose the correlation function into basic
+elements are obtained. Gauge transformation known as integration by parts
+technique can be used to reduce the number of independent terms before
+integration over proper-time variables. The surface terms can be omitted
+provided the external scalars are on-shell. Also, we clarify correspondence to
+the conventional Feynman rule, which enabled us to avoid any ambiguity coming
+from the infinite dimensionality of the path-integral approach.
+","[{""version"":""v1"",""created"":""Sun, 27 Aug 1995 14:05:57 GMT""}]","2009-10-28"
+"hep-ph/9508378","Kazuya Kumekawa","H. Fujisaki, K. Kumekawa, M. Yamaguchi, and M. Yoshimura","Particle Production and Dissipative Cosmic Field","12 pages + 4 figures","Phys.Rev. D53 (1996) 6805-6812","10.1103/PhysRevD.53.6805","TU/95/488","hep-ph astro-ph gr-qc hep-th",,"  Large amplitude oscillation of cosmic field that may occur right after
+inflation and in the decay process of weakly interacting fields gives rise to
+violent particle production via the parametric resonance. In the large
+amplitude limit the problem of back reaction against the field oscillation is
+solved and the energy spectrum of created particles is determined in a
+semi-classical approximation. For large enough coupling or large enough
+amplitude the resulting energy spectrum is broadly distributed, implying larger
+production of high energy particles than what a simple estimate of the
+reheating temperature due to the Born formula would suggest.
+","[{""version"":""v1"",""created"":""Sun, 27 Aug 1995 12:10:27 GMT""}]","2009-10-28"
+"hep-th/9508145","Denis Uglov","Denis Uglov","The trigonometric counterpart of the Haldane Shastry Model","amslatex, 42 pages, discrepancies between amslatex 1.1 and newer
+  versions are rectified, two references are added",,,,"hep-th",,"  The hierarchy of Integrable Spin Chain Hamiltonians, which are trigonometric
+analogs of the Haldane Shastry Model and of the associated higher conserved
+charges, is derived by a reduction from the trigonometric Dynamical Models of
+Bernard-Gaudin-Haldane-Pasquier. The Spin Chain Hamiltonians have the property
+of $U_q(\hat{gl}_2)$-invariance. The spectrum of the Hamiltonians and the
+$U_q(\hat{gl}_2)$-representation content of their eigenspaces are found by a
+descent from the Dynamical Models.
+","[{""version"":""v1"",""created"":""Sun, 27 Aug 1995 08:48:55 GMT""},{""version"":""v2"",""created"":""Tue, 29 Aug 1995 19:07:37 GMT""}]","2008-02-03"
+"hep-th/9508146","Tobias Hurth","Tobias Hurth","A Note on Slavnov-Taylor Identities in the Causal Epstein-Glaser
+  Approach","12 pages, Latex","Ann. Phys. 244 (1995) 340 (Appendix B)","10.1006/aphy.1995.1117","ZU-TH_21/95","hep-th",,"  An alternative approach to perturbative Yang-Mills theories in four (3+1)
+dimensional space-time based on the causal Epstein-Glaser method in QFT was
+recently proposed. In this short note we show that the set of identities
+between C-number distributions expressing nonabelian gauge invariance in the
+causal approach imply identities which are analogous to the well-known
+Slavnov-Taylor identities. We explicitly derive the Z-factor relations at
+one-loop level.
+","[{""version"":""v1"",""created"":""Sun, 27 Aug 1995 15:14:15 GMT""}]","2015-06-26"
+"nucl-th/9508043",,"E.L. Bratkovskaya (Giessen Univ. & JINR, Dubna), W. Cassing, U. Mosel
+  (Giessen Univ.), O.V. Teryaev, A.I. Titov and V.D. Toneev (JINR, Dubna)","Decay Anisotropy of $e^+e^-$ Sources from $pN$ and $pd$ collisions","8 pages, LaTeX, plus 5 postscript figures tarred, compressed and
+  uuencoded in separate file","Phys.Lett. B362 (1995) 17-22","10.1016/0370-2693(95)01207-7","submitted to Phys. Lett. B","nucl-th",,"  A full calculation of lepton-pair angular characteristics is carried out for
+$e^+e^-$ pairs created in $pp$, $pn$ and $pd$ collisions at intermediate
+energies. It is demonstrated that the proposed new observable, the dilepton
+decay anisotropy, quite sensitively changes for different sources and may be
+useful for their disentangling. The relevance of the dilepton decay anisotropy
+is shown in the context of a puzzling energy behavior for the ratio of the
+lepton yield from $pd$ to $pp$ reactions as observed at the BEVALAC.
+","[{""version"":""v1"",""created"":""Sun, 27 Aug 1995 13:46:25 GMT""}]","2009-10-28"

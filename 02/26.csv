@@ -1,0 +1,128 @@
+"alg-geom/9502023",,"Yasuyuki Kachi","Extremal contractions from 4-dimensional manifolds to 3-folds","65 pages, TeX dialect: amsppt",,,,"alg-geom math.AG",,"  Let $g : X \to Y$ be the contraction of an extremal ray of a smooth
+projective 4-fold $X$ such that $\dim Y=3$. Then $g$ may have a finite number
+of 2-dimensional fibers. We shall classify those fibers. Especially we shall
+prove that any two points of such a fiber is joined by a chain of rational
+curves of length at most 2 with respect to $-K_X$, and that $|-K_X|$ is
+$g\text{-free}$.
+","[{""version"":""v1"",""created"":""Sat, 25 Feb 1995 19:44:46 GMT""}]","2008-02-03"
+"alg-geom/9502024","Yekutieli Amnon","Amnon Yekutieli","Traces and Differential Operators over Beilinson Completion Algebras","AMSLaTex, 37 pages. To appear in Comp. Math. (Hardcopies available on
+  request from the author.)",,,,"alg-geom math.AG",,"  A Beilinson completion algebra (BCA) A is a complete semilocal algebra over a
+perfect field k, whose residue fields are high dimensional local fields. In
+addition A is a semi-topological algebra. The completion of the structure sheaf
+of an algebraic k-variety along a saturated chain of points is the prototypical
+example of a BCA. We single out two kinds of homomorphisms between BCAs:
+morphisms and intensifications. The first kind includes residually finite local
+homomorphisms, whereas the second kind is a sort of localization. We prove that
+every BCA A has a dual module K(A), and these dual modules are contravariant
+w.r.t. morphisms and covariant w.r.t. intensifications. For any
+semi-topological A-module M we define its dual Dual_{A} M := Hom_{A}^{cont}(M,
+K(A)). This duality operation has the remarkable property of respecting
+differential operators: given a continuous DO D : M --> N, there is a dual DO
+Dual_{A}(D) : Dual_{A} N --> Dual_{A} M. The results above are used (in a
+subsequent paper) to construct the Grothendieck residue complex K_{X}^{.} on
+any finite type k-scheme X, and to derive many of its properties.
+","[{""version"":""v1"",""created"":""Sun, 26 Feb 1995 15:06:25 GMT""}]","2015-06-30"
+"astro-ph/9502095","Gerard Luppino","G. A. Luppino and I. M. Gioia (Institute for Astronomy, University of
+  Hawaii)","Constraints on CDM theories from observations of massive, X-ray luminous
+  clusters of galaxies at high redshift","11 pages, compressed and uuencoded postscript. 3 postscript images
+  can be found in ftp://hubble.ifa.hawaii.edu/pub/ger/*.ps.Z To appear in ApJ
+  Letters.",,"10.1086/187894",,"astro-ph",,"  During the course of a gravitational lensing survey of distant, X-ray
+selected, EMSS clusters of galaxies, we have studied 6 X-ray luminous (Lx >
+5x10^44 h_{50}^{-2} erg s^{-1}) clusters at redshifts exceeding z=0.5. All of
+these clusters are apparently massive. In addition to their high X-ray
+luminosity, two of the clusters at z~0.6 exhibit gravitationally lensed arcs.
+Furthermore, the highest redshift cluster in our sample, MS1054-0321 at
+z=0.826, is both extremely X-ray luminous (L[0.3-3.5 keV]=9.3x10^{44}
+h_{50}^{-2} erg s^{-1}), and exceedingly rich with an optical richness
+comparable to an Abell Richness Class 4 cluster.
+  In this {\it Letter}, we discuss the cosmological implications of the very
+existence of these clusters for hierarchical stucture formation theories such
+as standard \Omega=1 CDM, hybrid \Omega=1 C+HDM, and flat, low-density
+\Lambda+CDM models.
+","[{""version"":""v1"",""created"":""Sun, 26 Feb 1995 08:29:13 GMT""}]","2016-08-30"
+"astro-ph/9502096","Guinevere Kauffmann","Guinevere Kauffmann","The Ages of Elliptical Galaxies in a Merger Model","latex file, figures available upon request","Mon.Not.Roy.Astron.Soc. 281 (1996) 487","10.1093/mnras/281.2.487",,"astro-ph",,"  The tightness of the observed colour-magnitude and Mg$_{2}$- velocity
+dispersion relations for elliptical galaxies has often been cited as an
+argument against a picture in which ellipticals form by the merging of spiral
+disks. A common view is that merging would mix together stars of disparate ages
+and produce a large scatter in these relations. Here I use semi-analytic models
+of galaxy formation to derive the distribution of the mean ages, colours and
+metallicities of the stars in elliptical galaxies formed by mergers in a flat
+CDM universe. It is seen that most of the stars in ellipticals form at
+relatively high redshift (z > 1.9) and that the predicted scatter in the
+colour-magnitude and Mg_2 - sigma relations falls within observational bounds.
+I conclude that the apparent homogeneity in the properties of the stellar
+populations of ellipticals is not inconsistent with a merger scenario for the
+origin of these systems.
+","[{""version"":""v1"",""created"":""Sun, 26 Feb 1995 13:11:01 GMT""}]","2015-06-24"
+"cond-mat/9502109","Juan Maldacena","Juan M. Maldacena and Andreas W.W. Ludwig","Majorana Fermions, Exact Mapping between Quantum Impurity Fixed Points
+  with four bulk Fermion species, and Solution of the ``Unitarity Puzzle''","19 pages, latex, revtex.","Nucl.Phys. B506 (1997) 565-588","10.1016/S0550-3213(97)00596-8",,"cond-mat hep-th",,"  Several Quantum Impurity problems with four flavors of bulk fermions have
+zero temperature fixed points that show non fermi liquid behavior. They include
+the two channel Kondo effect, the two impurity Kondo model, and the fixed point
+occurring in the four flavor Callan-Rubakov effect. We provide a unified
+description which exploits the SO(8) symmetry of the bulk fermions. This leads
+to a mapping between correlation functions of the different models.
+Furthermore, we show that the two impurity Kondo fixed point and the
+Callan-Rubakov fixed point are the same theory. All these models have the
+puzzling property that the S matrix for scattering of fermions off the impurity
+seems to be non unitary. We resolve this paradox showing that the fermions
+scatter into collective excitations which fit into the spinor representation of
+SO(8). Enlarging the Hilbert space to include those we find simple linear
+boundary conditions. Using these boundary conditions it is straightforward to
+recover all partition functions, boundary states and correlation functions of
+these models.
+","[{""version"":""v1"",""created"":""Sun, 26 Feb 1995 00:03:34 GMT""}]","2016-08-31"
+"funct-an/9502006","Vladimir Kisil","Vladimir V. Kisil, Enrique Ram\'irez de Arellano","The Riesz-Clifford Functional Calculus for Non-Commuting Operators and
+  Quantum Field Theory","20 p., LaTeX2e, a hard copy or uuencoded DVI-file by e-mail may be
+  obtained from the Author.","Math. Methods Appl. Sci., 19 (1996), No 8, pp.593-605","10.1002/(SICI)1099-1476(19960525)19:8<593::AID-MMA783>3.3.CO;2-R","CINVESTAV MATH-166","funct-an hep-th math.OA quant-ph",,"  We present a Riesz-like hyperholomorphic functional calculus for a set of
+non-commuting operators based on the Clifford analysis. Applications to the
+quantum field theory are described. Keywords: Functional calculus, Weyl
+calculus, Riesz calculus, Clifford analysis, quantization, quantum field
+theory. AMSMSC Primary:47A60, Secondary: 81T10
+","[{""version"":""v1"",""created"":""Sat, 25 Feb 1995 23:45:40 GMT""}]","2016-11-03"
+"nucl-th/9502044","Werner Koepf","W. Koepf and L. Wilets","QUARK MODEL DESCRIPTION OF THE N-N SYSTEM: MOMENTUM DISTRIBUTIONS,
+  STRUCTURE FUNCTIONS AND THE EMC EFFECT","26 pages (REVTEX), 7 figures (uuencoded Postscript) optionally
+  included using epsfig.sty","Phys.Rev.C51:3445-3453,1995","10.1103/PhysRevC.51.3445","DOE/ER/40427-02-N95","nucl-th hep-ph",,"  We employ a relativistic quark bag picture, the chromo-dielectric soliton
+model, to discuss the quarks' symmetry structure and momentum distribution in
+the $N$-$N$ system. Six-quark clusters are constructed in a constrained
+mean-field calculation. The corresponding Hamiltonian contains not only an
+effective interaction between the quarks and a scalar field, which is assumed
+to parameterize all non-perturbative effects due to the non-linearity of QCD,
+but also quark-quark interactions mediated through one-gluon-exchange. We also
+evaluate the quark light-cone distribution functions, characterizing inclusive
+deep-inelastic lepton scattering, for the nucleon as well as for the six-quark
+structures. We find a competition between a softening of the quarks' momenta
+through the increase of the confinement volume, and a hardening via the
+admixture of higher symmetry configurations due to the color-electrostatic
+one-gluon-exchange. These findings suggest an unexpected absence of
+many-nucleon, multi-quark effects, even though six-quark structures should
+represent a non-negligible part of the nuclear ground state.
+","[{""version"":""v1"",""created"":""Sun, 26 Feb 1995 14:37:33 GMT""}]","2016-09-08"
+"plasm-ph/9502001","Charles Karney","Bastiaan J. Braams and Charles F. F. Karney (Princeton University)","Conductivity of a Relativistic Plasma","LaTex 2.09, 36 pages, 1 fig. Replacement to fix minor errors and to
+  upload source files","Phys. Fluids B1(7), 1355-1368 (July 1989)","10.1063/1.858966","PPPL-2598","plasm-ph physics.plasm-ph",,"  The collision operator for a relativistic plasma is reformulated in terms of
+an expansion in spherical harmonics. In this formulation the collision operator
+is expressed in terms of five scalar potentials which are given by
+one-dimensional integrals over the distribution function. This formulation is
+used to calculate the electrical conductivity of a uniform electron-ion plasma
+with infinitely massive ions.
+","[{""version"":""v1"",""created"":""Sat, 25 Feb 1995 20:38:02 GMT""},{""version"":""v2"",""created"":""Sun, 25 Jan 2004 20:20:44 GMT""}]","2008-02-03"
+"plasm-ph/9502002","Jim Rome","James A. Rome","Stellarator News for January, 1995","2 pages in PostScript. James A. Rome, Editor",,,,"plasm-ph physics.plasm-ph",,"  The Stellarator News is a bi-monthly newsletter covering the international
+stellarator community.
+","[{""version"":""v1"",""created"":""Sun, 26 Feb 1995 15:19:58 GMT""}]","2009-03-10"
+"quant-ph/9502022","Vladimir Kisil","Vladimir V. Kisil (CINVESTAV del IPN, Mexico, and Odessa State
+  University, Ukraine)","Relativistic Quantization and Improved Equation for a Free Relativistic
+  Particle","22 p., LaTeX2e, a hard copy or uuencoded DVI-file by e-mail may be
+  obtained from the Author","Phys.Essays 11 (1998) 69-80",,"CINVESTAV MATH-179","quant-ph funct-an hep-th math.FA",,"  Usually the only difference between relativistic quantization and standard
+one is that the Lagrangian of the system under consideration should be Lorentz
+invariant. The standard approaches are logically incomplete and produce
+solutions with unpleasant properties: negative-energy, superluminal propagation
+etc. We propose a two-projections scheme of (special) relativistic
+quantization. The first projection defines the quantization procedure (e.g. the
+Berezin-Toeplitz quantization). The second projection defines a casual
+structure of the relativistic system (e.g. the operator of multiplication by
+the characteristic function of the future cone). The two-projections
+quantization introduces in a natural way the existence of three types of
+relativistic particles (with $0$, $\frac{1}{2}$, and $1$ spins). Keywords:
+Quantization, relativity, spin, Dirac equation, Klein-Gordon equation,
+electron, Segal-Bargmann space, Berezin-Toeplitz quantization. AMSMSC Primary:
+81P10, 83A05; Secondary: 81R30, 81S99, 81V45
+","[{""version"":""v1"",""created"":""Sat, 25 Feb 1995 23:46:33 GMT""}]","2008-02-03"

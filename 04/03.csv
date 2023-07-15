@@ -1,0 +1,263 @@
+"alg-geom/9504001","Bruce Hunt","Bruce Hunt","Hyperbolic Planes","29 pages (11 pt), dvi file available from the author by request to
+  hunt@mathematik.uni-kl.de , LaTeX v 2.09",,,,"alg-geom math.AG",,"  In this paper we consider a special class of arithmetic quotients of bounded
+symmetric domains which can roughly be described as higher- dimensional
+analogues of the Hilbert modular varities. The algebraic groups are defined as
+the unitary groups over two-dimensional right vector spaces over a division
+algebra with involution. If $d$ denotes the degree of the division algebra,
+then $d=1$ is essentially just case giving rise to Hilbert modular varieties.
+We determine the class number (number of cusps) of the arithmetic quotients,
+and find inter- esting modular subvarities whos existence derives from the
+algebraic structure of the division algebras. Also the moduli interpretation,
+given by Shimuras theory, is described.
+","[{""version"":""v1"",""created"":""Mon, 3 Apr 1995 09:03:10 GMT""}]","2008-02-03"
+"astro-ph/9503123","Qingde Daniel Wang","Q. Daniel Wang (Northwestern University)","Two X-ray Sources in 30 Doradus: Wolf-Rayet + Black Hole Binaries?","To appear in the Astrophysical Journal, 16 pages of AAS Latex text,
+  plus 6 Postscript figures (tar compressed and uuencoded using uufiles csh
+  script)",,"10.1086/176441",,"astro-ph",,"  I report the detection of two X-ray sources of luminosities $\sim 10^{36}
+{\rm~ergs~s^{-1}}$ in the central region of 30 Doradus. These two sources
+appear point-like in images taken with the {\sl ROSAT} HRI. One of the sources
+is most likely associated with a close spectroscopic binary R140a2 (WN6) with
+an orbital period of 2.76 days. The mass of the unknown binary component is
+likely in the range of $2.4 - 15{\rm~M}_\odot$. This suggests that the X-ray
+source could represent a long-sought class of binaries containing a Wolf-Rayet
+star and a black hole. The other source, which coincides spatially with Mk34
+(WN4.5), may have a similar nature. Available X-ray spectral data support this
+Wolf-Rayet + black-hole binary explanation of the two sources. I have used a
+{\sl ROSAT} PSPC observation to show that the sources have ultrasoft spectra
+with possible intrinsic absorption. Modeled with multicolor blackbody disks,
+the spectra provide estimates of the disks' characteristic inner radii, which
+are in agreement with those obtained for the known black-hole candidates. An
+{\sl ASCA} observation has further revealed a hard X-ray spectral component
+from the central 30 Doradus region. This component, represented by a power law
+with a photon index of $\sim 2.4$, may belong to the two sources. The
+characteristics of both the power-law and ultrasoft components strongly
+indicates that the two sources are black-hole candidates in high-mass X-ray
+binaries.
+","[{""version"":""v1"",""created"":""Sun, 2 Apr 1995 20:08:34 GMT""}]","2009-10-28"
+"astro-ph/9503124","Joe Morris","Joseph Peter Morris (Monash University, Melbourne)","A Study of the Stability Properties of SPH","4 pages, uuencoded compressed postscript Accepted for publication in
+  the Proceedings of the Astronomical Society of Australia Summary of a larger
+  report available at http://www.maths.monash.edu.au/people/jpm/work/",,,"Monash Applied Mathematics Reports and Preprints 94/22","astro-ph",,"  When using a formulation of Smooth Particle Hydrodynamics (SPH) which
+conserves momentum exactly the motion of the particles is observed to be
+unstable to negative stress. It is also found that under normal circumstances a
+lattice of SPH particles is potentially unstable to transverse waves. This
+document is a summary of a detailed report (Morris 1994) investigating the
+nature of these and other instabilities in depth. Approaches which may be used
+to eliminate these instabilities are suggested. It is found that the stability
+properties of SPH in general improve as higher order spline interpolants,
+approximating a Gaussian, are used as kernels.
+","[{""version"":""v1"",""created"":""Mon, 3 Apr 1995 01:08:23 GMT""}]","2007-05-23"
+"astro-ph/9503125","Edmund Bertschinger","Edmund Bertschinger","Cosmological Dynamics","80 pages of latex, style files and figures included in a separate
+  file, to be published in 1993 Les Houches Summer School Lectures on Cosmology",,,,"astro-ph",,"  This is a set of lecture notes basd on the lectures on cosmological dynamics
+given by E. Bertschinger at Les Houches in August 1993. The contents include
+elementary mechanics in cosmology, Eulerian and Lagrangian fluid dynamics, hot
+dark matter, and relativistic cosmological perturbation theory. To typeset the
+notes one must first obtain the style files and figures in file figmac.uu sent
+separately. Place all the files in one directory, run latex three times, and
+run dvips or equivalent to produce a postscript file.
+","[{""version"":""v1"",""created"":""Mon, 3 Apr 1995 03:05:57 GMT""}]","2007-05-23"
+"cmp-lg/9504001","Frantz Vichot Informatique Cdc","Francis Wolinski, Frantz Vichot, Bruno Dillet (Informatique CDC)","Automatic processing proper names in texts","10 Postscript pages (compress, uuencode)",,,,"cmp-lg cs.CL",,"  This paper shows first the problems raised by proper names in natural
+language processing. Second, it introduces the knowledge representation
+structure we use based on conceptual graphs. Then it explains the techniques
+which are used to process known and unknown proper names. At last, it gives the
+performance of the system and the further works we intend to deal with.
+","[{""version"":""v1"",""created"":""Mon, 3 Apr 1995 12:58:51 GMT""},{""version"":""v2"",""created"":""Wed, 5 Apr 1995 10:52:30 GMT""}]","2008-02-03"
+"cmp-lg/9504002","David Elworthy","David Elworthy","Tagset Design and Inflected Languages","EACL-94 SIGDAT paper. Includes large tables and figures, which may
+  upset some version of LaTeX. Revised version to correct a minor typo!",,,,"cmp-lg cs.CL",,"  An experiment designed to explore the relationship between tagging accuracy
+and the nature of the tagset is described, using corpora in English, French and
+Swedish. In particular, the question of internal versus external criteria for
+tagset design is considered, with the general conclusion that external
+(linguistic) criteria should be followed. Some problems associated with tagging
+unknown words in inflected languages are briefly considered.
+","[{""version"":""v1"",""created"":""Mon, 3 Apr 1995 15:47:58 GMT""},{""version"":""v2"",""created"":""Tue, 4 Apr 1995 07:39:32 GMT""}]","2008-02-03"
+"cond-mat/9503175","Oleg Sushkov","M.Yu. Kuchiev and O. P. Sushkov","Many Body Correlation Corrections to Superconducting Pairing in Two
+  Dimensions.","LaTeX 12 pages","Phys. Rev. B. 53(NI) (1996) 443","10.1103/PhysRevB.53.443",,"cond-mat",,"  We demonstrate that in the strong coupling limit (the superconducting gap
+$\Delta$ is as large as the chemical potential $\mu$), which is relevant to the
+high-$T_c$ superconductivity, the correlation corrections to the gap and
+critical temperature are about 10\% of the corresponding mean field
+approximation values. For the weak coupling ($\Delta \ll \mu$) the correlation
+corrections are very large: of the order of 100\% of the corresponding mean
+field values.
+","[{""version"":""v1"",""created"":""Mon, 3 Apr 1995 01:34:55 GMT""}]","2009-10-28"
+"cond-mat/9504001","Reinhard Werner","S. Richter and R.F. Werner","Ergodicity of quantum cellular automata","plain TeX, 37 pages, no figures",,"10.1007/BF02179798","Leuven, KUL-TF-95/10","cond-mat",,"  We define a class of dynamical maps on the quasi-local algebra of a quantum
+spin system, which are quantum analogues of probabilistic cellular automata. We
+develop criteria for such a system to be ergodic, i.e., to possess a unique
+invariant state. Intuitively, ergodicity obtains if the local transition
+operators exhibit sufficiently large disorder. The ergodicity criteria also
+imply bounds for the exponential decay of correlations in the unique invariant
+state. The main technical tool is a quantum version of oscillation norms,
+defined in the classical case as the sum over all sites of the variations of an
+observable with respect to local spin-flips.
+","[{""version"":""v1"",""created"":""Mon, 3 Apr 1995 09:06:54 GMT""}]","2009-10-28"
+"cond-mat/9504002","Reinhard Werner","M. Fannes, B. Nachtergaele, and R.F. Werner","Quantum spin chains with quantum group symmetry","plain TeX, 42 pages, no figures","Commun. Math. Phys., 174 (1996) 477-507","10.1007/BF02101525","Leuven, KUL-TF-94/8","cond-mat",,"  We consider actions of quantum groups on lattice spin systems. We show that
+if an action of a quantum group respects the local structure of a lattice
+system, it has to be an ordinary group. Even allowing weakly delocalized
+(quasi-local) tails of the action, we find that there are no actions of a
+properly quantum group commuting with lattice translations. The non-locality
+arises from the ordering of factors in the quantum group C*-algebra, and can be
+made one-sided, thus allowing semi-local actions on a half chain. Under such
+actions, localized quantum group invariant elements remain localized. Hence the
+notion of interactions invariant under the quantum group and also under
+translations, recently studied by many authors, makes sense even though there
+is no global action of the quantum group. We consider a class of such quantum
+group invariant interactions with the property that there is a unique
+translation invariant ground state. Under weak locality assumptions, its GNS
+representation carries no unitary representation of the quantum group.
+","[{""version"":""v1"",""created"":""Mon, 3 Apr 1995 09:22:42 GMT""}]","2009-10-28"
+"cond-mat/9504003",,"Anton Bovier, V\'eronique Gayrard","An almost sure large deviation principle for the Hopfield model","31pp; Plain-TeX, hardcopy available on request from
+  bovier@iaas-berlin.d400.de",,,,"cond-mat",,"  We prove a large deviation principle for the finite dimensional marginals of
+the Gibbs distribution of the macroscopic `overlap'-parameters in the Hopfield
+model in the case where the number of random patterns, $M$, as a function of
+the system size $N$ satisfies $\limsup M(N)/N=0$. In this case the rate
+function (or free energy as a function of the overlap parameters) is
+independent of the disorder for almost all realization of the patterns and
+given by an explicit variational formula.
+","[{""version"":""v1"",""created"":""Mon, 3 Apr 1995 11:11:22 GMT""}]","2007-05-23"
+"cond-mat/9504004","Jacek Dziarmaga","Jacek Dziarmaga","Vortices in superconducting films are anyons","this is a revised version; main idea is the same but it is shown to
+  work well in type II superconductors",,,"TPJU-9/95","cond-mat hep-th",,"  We point out that nontrivial quantumstatistics of vortices in planar
+superfluid systems has its origin in the Schrodinger equation rather then the
+Chern-Simons term. Vortices in superfluid helium films are not anyons because
+helium films are compressible. Quantum Hall effect layers admit vortices with
+nontrivial statistical interactions thanks to their incompressibility. We
+consider type II planar superconductors described by time-dependent nonlinear
+Schrodinger equation. Inside of a vortex core superconductor is in the normal
+state. Because of that vortices in superconducting films are anyons. We
+consider also vortex loops in 3 dimensions but a phase factor due to linking of
+vortex loops' worldsheets is not a topological invariant.
+","[{""version"":""v1"",""created"":""Mon, 3 Apr 1995 12:32:58 GMT""},{""version"":""v2"",""created"":""Fri, 7 Apr 1995 08:52:50 GMT""},{""version"":""v3"",""created"":""Thu, 13 Apr 1995 09:36:15 GMT""},{""version"":""v4"",""created"":""Wed, 19 Apr 1995 11:50:43 GMT""}]","2008-02-03"
+"cond-mat/9504005","Ora Entin","O. Entin-Wohlman, A.G. Aronov, Y. Levinson, and Y. Imry","Hall resistance in the hopping regime, a ""Hall Insulator""?","Latex",,"10.1103/PhysRevLett.75.4094","CMTOE-114","cond-mat",,"  The Hall conductivity and resistivity of strongly localized electrons at low
+temperatures and at small magnetic fields are obtained. It is found that the
+results depend on whether the conductivity or the resistivity tensors are
+averaged to obtain the macroscopic Hall resistivity. In the second case the
+Hall resistivity always {\it diverges} exponentially as the temperature tends
+to zero. But when the Hall resistivity is derived from the averaged
+conductivity, the resulting temperature dependence is sensitive to the disorder
+configuration. Then the Hall resistivity may approach a constant value as $T\to
+0$. This is the Hall insulating behavior. It is argued that for strictly dc
+conditions, the transport quantity that should be averaged is the resistivity.
+","[{""version"":""v1"",""created"":""Mon, 3 Apr 1995 13:00:07 GMT""}]","2009-10-28"
+"gr-qc/9504001","J. E. Nelson","J.E.Nelson and T.Regge","$\La \to 0$ limit of 2+1 Quantum Gravity for arbitrary genus","13 pages plain TEX, extra comments and references added","Gen.Rel.Grav. 27 (1995) 1001-1010","10.1007/BF02113082","DFTT 21/95","gr-qc hep-th",,"  The abstract quantum algebra of observables for 2+1 gravity is analysed in
+the limit of small cosmological constant. The algebra splits into two sets with
+an explicit phase space representation;~one set consists of $6g-6$ {\it
+commuting} elements which form a basis for an algebraic manifold defined by the
+trace and rank identities;~the other set consists of $6g-6$ tangent vectors to
+this manifold. The action of the quantum mapping class group leaves the algebra
+and algebraic manifold invariant. The previously presented representation for
+$g=2$ is analysed in this limit and reduced to a very simple form. The
+symplectic form for $g=2$ is computed.
+","[{""version"":""v1"",""created"":""Mon, 3 Apr 1995 09:07:02 GMT""},{""version"":""v2"",""created"":""Thu, 13 Apr 1995 12:49:05 GMT""}]","2009-10-28"
+"hep-ex/9504002",,"THE NEW MUON COLLABORATION (NMC) M. Arneodo, A. Arvidson, B. Badelek,
+  M. Ballintijn, G. Baum, J. Beaufays, I.G. Bird, P. Bjorkholm, M. Botje, C.
+  Broggini, W. Bruckner, A. Brull, W.J. Burger, J. Ciborowski, R. van~Dantzig,
+  A. Dyring, H. Engelien, M.I. Ferrero, L. Fluri, U. Gaul, T. Granier, M.
+  Grosse-Perdekamp, D. von~Harrach, M. van~der~Heijden, C. Heusch, G. Igo, Q.
+  Ingram, K. Janson-Prytz, M. de~Jong, E.M. Kabuss, R. Kaiser, H.J.Kessler,
+  T.J. Ketel, F. Klein, S. Kullander, U. Landgraf, T. Lindqvist, G.K. Mallot,
+  C. Mariotti, G. van~Middelkoop, A. Milsztajn, Y. Mizuno, A. Most, A.
+  Mucklich, J. Nassalski, D. Nowotny, J. Oberski, A. Paic, C. Peroni, B. Povh,
+  R. Rieger, K. Rith, K. Rohrich, E. Rondio, L. Ropelewski, A. Sandacz, D.
+  Sanders, C. Scholz, R. Seitz, F. Sever, T.-A. Shibata, M. Siebler, A. Simon,
+  A. Staiano, M. Szleper, Y. Tzamouranis, M. Virchaux, J.L. Vuilleumier, T.
+  Walcher, C. Whitten, R. Windmolders, A. Witzmann, F. Zetsche","The Structure Function Ratios F2(Li)/F2(D) and F2(C)/F2(D) at small x",,"Nucl.Phys. B441 (1995) 12-30","10.1016/0550-3213(95)00023-2",,"hep-ex",,"  We present the structure function ratios F2(Li)/F2(D) and F2(C)/F2(D)
+measured in deep inelastic muon-nucleus scattering at a nominal incident muon
+energy of 200 GeV. The kinematic range 0.0001 < x < 0.7 and 0.01< Q^2 < 70
+GeV^2 is covered. For values of $x$ less than $0.002$ both ratios indicate
+saturation of shadowing at values compatible with photoabsorption results.
+","[{""version"":""v1"",""created"":""Mon, 3 Apr 1995 10:03:46 GMT""}]","2009-10-28"
+"hep-ph/9503495","Fumihiko Toyoda","K. Funakubo, A. Kakuto, S. Otsuki, K. Takenaga and F. Toyoda","Chiral Charge Flux and Electroweak Baryogenesis","10 pages, 4 figures ( not included, hard copies are available upon
+  request ), plain TeX with phyzzx.","Prog.Theor.Phys.93:1067-1074,1995","10.1143/PTP.93.1067","SAGA-HE-80","hep-ph",,"  By treating CP-violating interaction of the electroweak bubble wall as a
+perturbative term, chiral charge flux through the bubble wall is estimated. It
+is found that the absolute value of the flux $F_Q$ has a sharp peak at $m_0
+\sim a \sim T$ with $F_Q/(u T^3) \sim 10^{-3}\, (Q_L-Q_R)\,\Delta \theta$. Here
+$m_0$ is the fermion mass, $1/a$ is the wall thickness, $T$ is the temperature
+at which the bubbles are growing, $u$ is the wall velocity, $Q_{L(R)}$ is the
+chiral charge of the relevant left(right)-handed fermion and $\Delta\theta$ is
+the measure of CP violation.
+","[{""version"":""v1"",""created"":""Mon, 3 Apr 1995 03:07:00 GMT""}]","2010-11-01"
+"hep-ph/9504201",,"B. Machet","About Composite Scalar Representations of the Electroweak Symmetry Group
+  of the Standard Model","26 pages, Latex [amssymb,times,epsf], 8 (tarred, compressed,
+  uuencoded) postscript figures included (instructions at the beginning of the
+  latex file)",,,"PAR-LPTHE 95/08","hep-ph",,"  The scalar composite representations of the electroweak symmetry group of the
+Standard Model are exhibited in the case of two generations of quarks. The link
+between `strong' and `electroweak' eigenstates is investigated, showing that
+the quark content commonly attributed to pseudoscalar mesons needs to be
+modified. After doing so, the mechanism suppressing the decays K{+} into Pi{+}
+Pi{0} with respect to K{short} into Pi{+} Pi{-} is unraveled, without reference
+to any model of quark spectator or `factorization' hypothesis. The same
+mechanism is shown to suppress the decays K{long} into two pions. Leptonic and
+semi-leptonic decays are also studied. The mass relations between`electroweak'
+eigenstates, verified at better than one percent, mass(Pi{3})/mass(Pi{+}) =
+cos(theta Cabibbo) = mass(chi{1910})/mass(Ds) are obtained.
+","[{""version"":""v1"",""created"":""Mon, 3 Apr 1995 08:31:18 GMT""}]","2007-05-23"
+"hep-ph/9504203","Levai Peter","T.S. Biro, P. Levai and J. Zimanyi","Strange Hadrons from the ALCOR Rehadronization Model","14 pages, LaTeX, Review to appear in Proceedings of Strangeness'95,
+  Tucson, Arizona, Jan. 4--6 1995. (American Institute of Physics)",,"10.1063/1.48714",,"hep-ph",,"  Hadron multiplicities --- especially for strange particles --- are calculated
+in the framework of the algebraic coalescence rehadronization model (ALCOR),
+which counts for redistribution of quarks into hadrons for relativistic
+heavy-ion collisions. The influence of Bjorken flow on the final hadronic
+composition are incorporated in the model. A comparison is made with the CERN
+SPS NA35 $S+S$ and $p+p$ experiments. The analysis of these experiments with
+ALCOR shows a strangeness enhancement for S+S collisions and a possible
+formation of a sort of semi-deconfined state of the matter. Predictions for
+Pb+Pb collisions (NA49) are also presented.
+","[{""version"":""v1"",""created"":""Mon, 3 Apr 1995 15:57:17 GMT""}]","2009-10-28"
+"hep-ph/9504204","Tord Riemann","Dima Bardin, Arnd Leike, Tord Riemann","Higgs production in $e^+ e^- \to l{\bar l} q{\bar q}$ at LEP and NLC","8 pages (LaTeX), 5 figures ( 3 of them not included, a uuencoded file
+  containing the LaTeX and all postscript files is available via anonymous ftp
+  at ftp://ftp.ifh.de/pub/preprint/desy95-057.uu)","Phys.Lett. B353 (1995) 513-518","10.1016/0370-2693(95)00587-B","DESY 95-057","hep-ph",,"  Predictions for Higgs production with processes of the type $e^+ e^-
+\rightarrow \mu{\bar \mu}\;b\bar b $ at LEP~2 and the NLC are calculated. Short
+analytical formulae describe the double differential distribution in the
+invariant masses of the $\mu \bar \mu$ and $b \bar{b}$ pairs. The total cross
+section may be got with two numerical integrations. The various
+Higgs-background interferences vanish either identically or are small. The
+background contributions depend strongly on cuts applied on the invariant
+masses.
+","[{""version"":""v1"",""created"":""Mon, 3 Apr 1995 15:20:25 GMT""}]","2009-10-28"
+"hep-ph/9504205","Joakim Edsjo","J. Edsjo (Uppsala University)","Neutrino-induced Muon Fluxes from Neutralino Annihilations in the Sun
+  and in the Earth","4 pages, 2 figures (uuencoded compressed tar-files), uses espcrc2.sty","Nucl.Phys.Proc.Suppl.43:265-268,1995","10.1016/0920-5632(95)00487-T",,"hep-ph",,"  The flux of neutrino-induced muons at the surface of the Earth is calculated
+from injection of neutralino annihilation products in the core of the Sun and
+the Earth. An improved treatment of neutrino propagation through the Sun is
+performed and the results are presented in an easy-to-use parameterization. For
+an explicit supersymmetric model, an observable neutralino annihilation signal
+is demonstrated.
+","[{""version"":""v1"",""created"":""Mon, 3 Apr 1995 15:44:40 GMT""}]","2010-11-01"
+"hep-th/9503236","Wei Chen","Wei Chen, Jack Y. Ng, and Hendrik van Dam (UNC at Chapel Hill)","A Generalization of Quantum Statistics","11 pages, latex","Mod.Phys.Lett.A11:795-804,1996","10.1142/S0217732396000801","IFP-505-UNC","hep-th cond-mat",,"  We propose a new fractional statistics for arbitrary dimensions, based on an
+extension of Pauli's exclusion principle, to allow for finite multi-occupancies
+of a single quantum state. By explicitly constructing the many-body Hilbert
+space, we obtain a new algebra of operators and a new thermodynamics. The new
+statistics is different from fractional exclusion statistics; and in a certain
+limit, it reduces to the case of parafermi statistics.
+","[{""version"":""v1"",""created"":""Sun, 2 Apr 1995 18:58:12 GMT""}]","2010-11-01"
+"hep-th/9503237","Vincent G. J. Rodgers","S. James Gates Jr., V.G.J. Rodgers","A Truly Crazy Idea About Type-IIB Supergravity and Heterotic
+  Sigma-Models","10 Pages, Latex (self contained macros)","Phys.Lett. B357 (1995) 552-557","10.1016/0370-2693(95)00947-J","UMDEPP 95-76","hep-th",,"  We construct an explicit and manifestly (1,0) heterotic sigma-model where the
+background fields are those of 10D, N=IIB supergravity.
+","[{""version"":""v1"",""created"":""Mon, 3 Apr 1995 05:31:08 GMT""}]","2019-08-15"
+"hep-th/9504001","Oh phillial","Myung-Ho Kim and Phillial Oh","Integrable Systems on Flag Manifold and Coherent State Path Integral","Revtex, 12 pages, Misprints of the earlier version have been
+  corrected","Mod.Phys.Lett.A10:1847-1856,1995","10.1142/S021773239500199X","SNUTP-95-28, hep-th/9504001","hep-th",,"  We construct integrable models on flag manifold by using the symplectic
+structure explicitly given in the Bruhat coordinatization of flag manifold.
+They are non-commutative integrable and some of the conserved quantities are
+given by the Casimir invariants. We quantize the systems using the coherent
+state path integral technique and find the exact expression for the propagator
+for some special cases.
+","[{""version"":""v1"",""created"":""Mon, 3 Apr 1995 10:17:53 GMT""},{""version"":""v2"",""created"":""Tue, 27 Jun 1995 22:33:31 GMT""}]","2010-11-01"
+"hep-th/9504002",,"I.A.Shovkovy","CALCULATION OF DE WITT--SEELEY--GILKEY COEFFICIENTS FOR MINIMAL
+  FOURTH--ORDER OPERATOR","6 pages, submitted to Ukraniane Math. Journal",,,"ITP-92-19P (Bogolyubov Inst. Theor. Phys., Kiev)","hep-th",,"  De Witt--Seeley--Gilkey coefficients are calculated for the most general
+minimal differential fourth--order operator on Riemannian space of an arbitrary
+dimension.
+","[{""version"":""v1"",""created"":""Mon, 3 Apr 1995 13:19:31 GMT""}]","2007-05-23"
+"math/9504203",,"Cristina Blancafort","Hilbert functions of graded algebras over Artinian rings",,,,"Formerly com-alg/940007","math.AC",,"  In this paper we give an effective characterization of Hilbert functions and
+polynomials of standard algebras over an Artinian equicharacteristic local
+ring; the cohomological properties of such algebras are also studied. We
+describe algorithms to check the admissibility of a given function or
+polynomial as a Hilbert function or polynomial, and to produce a standard
+algebra with a given Hilbert function.
+","[{""version"":""v1"",""created"":""Mon, 3 Apr 1995 00:00:00 GMT""}]","2009-09-25"
+"q-alg/9504001","Reinhard Haering","Reinhard H\""aring","Reconstruction of Weak Quasi Hopf Algebras","19 pages, LaTex2E",,,,"q-alg math.QA",,"  All rational semisimple braided tensor categories are representation
+categories of weak quasi Hopf algebras. To proof this result we construct for
+any given category of this kind a weak quasi tensor functor to the category of
+finite dimensional vector spaces. This allows to reconstruct a weak quasi Hopf
+algebra with the given category as its representation category.
+","[{""version"":""v1"",""created"":""Mon, 3 Apr 1995 12:10:39 GMT""}]","2008-02-03"
+"quant-ph/9504001",,"Victor Tapia","Quantum mechanics of time-dependent systems. Construction of pure states","13 pages, plain TEX, no figures",,,"DFUDEC-95-03","quant-ph",,"  For time-dependent systems the wavefunction depends explicitly on time and it
+is not a pure state of the Hamiltonian. We construct operators for which the
+above wavefunction is a pure state. The method is based on the introduction of
+conserved quantities $Q$ and the pure states are defined by ${\hat
+Q}\psi=q\psi$. The conserved quantities are constructed using parametrised
+mechanics and the Noether theorem.
+","[{""version"":""v1"",""created"":""Mon, 3 Apr 1995 14:03:53 GMT""}]","2007-05-23"

@@ -1,0 +1,430 @@
+"astro-ph/9509071","Doug Kelly","Douglas M. Kelly and John H. Lacy (Dept. of Ast., U. of Texas)","Accurate Wavenumbers for Mid-Infrared Fine-Structure Lines","12 pages text, 2 postscript figures, uses AASTeX macros, figures are
+  gzipped and uuencoded",,"10.1086/309795",,"astro-ph",,"  We present accurate new wavenumbers for a set of 13 mid-infrared
+fine-structure lines. The wavenumbers were determined from observations of the
+planetary nebula NGC 7027 and of the red supergiant Alpha Scorpii. Most of the
+new wavenumbers are good to within 0.0025%, or 8 km/s. We provide details on
+the measurements and present an analysis of the errors. In addition, we present
+the first observations of hyperfine splitting in the [Na IV] 1106 cm-1 line.
+","[{""version"":""v1"",""created"":""Wed, 13 Sep 1995 17:27:59 GMT""}]","2009-10-28"
+"astro-ph/9509072","Malbet Fabien","Fabien Malbet (Laboratoire d'Astrophysique, Observatoire de Grenoble)","High angular resolution coronography for adaptive optics","23 pages including figures and tables, uuencoded gz-compressed
+  postscript",,,,"astro-ph",,"  Recent adaptive optics systems in astronomy achieve high-angular resolution.
+With the extreme stability of the images, detection at very low fluxes can be
+reached using a coronograph at the diffraction limit of the telescopes. This
+paper is an overview of the issues of stellar coronography used at the
+diffraction limit. Image formation through such a system is illustrated by
+numerical simulations. The description of a coronograph implemented on the VLT
+adaptive optics prototype, COME-ON, is presented as well as the first
+observations.
+","[{""version"":""v1"",""created"":""Thu, 14 Sep 1995 09:11:55 GMT""}]","2007-05-23"
+"astro-ph/9509073","Kim McLeod","K. K. McLeod (SAO) and G. H. Rieke (Steward)","Luminous Quasars in Luminous Early-Type Host Galaxies","Accepted to ApJLett, 10 pages uuencoded gzipped PostScript (includes
+  2 figures) plus a grey-scale image in the same format",,"10.1086/309793",,"astro-ph",,"  Some recent observations of nearby quasars with HST have apparently failed to
+detect host galaxies. We review the HST observations as well as near infrared
+ground-based observations of the same objects. We find that the quasar hosts
+can be detected in the HST data if they are smoothed sufficiently to reveal low
+surface brightness. The smooth hosts are very difficult to detect with HST but
+are more easily visible in the deeper, ground-based IR images. The V-H colors
+obtained by combining the HST and IR data are compatible with normal galaxy
+colors at the redshifts of the quasars. This behavior can be explained if the
+hosts are massive early-type galaxies. All together, HST images have been
+reported for 15 luminous quasars, approximately 13 of which have smooth
+early-type hosts. This kind of galaxy therefore appears to be the most common
+host for a luminous quasar.
+","[{""version"":""v1"",""created"":""Thu, 14 Sep 1995 14:47:38 GMT""}]","2009-10-28"
+"chao-dyn/9509010","Gregory J. Chaitin","G. J. Chaitin (IBM Research Divison)","The Limits of Mathematics---Tutorial Version","143 pages, LaTeX, requires 3 passes for table of contents",,,,"chao-dyn nlin.CD",,"  The latest in a series of reports presenting the information-theoretic
+incompleteness theorems of algorithmic information theory via algorithms
+written in specially designed versions of LISP. Previously in this LISP code
+only one-character identifiers were allowed, and arithmetic had to be
+programmed out. Now identifiers can be many characters long, and arithmetic
+with arbitrarily large unsigned decimal integers is built in. This and many
+other changes in the software have made this material much easier to understand
+and to use.
+","[{""version"":""v1"",""created"":""Wed, 13 Sep 1995 16:27:38 GMT""}]","2008-02-03"
+"cmp-lg/9509004","Bob Losee","Robert M. Losee (SILS, U. of North Carolina, Chapel Hill)","The Development and Migration of Concepts from Donor to Borrower
+  Disciplines: Sublanguage Term Use in Hard & Soft Sciences","uuencoded compressed postscript file",,,,"cmp-lg cs.CL",,"  Academic disciplines, often divided into hard and soft sciences, may be
+understood as ""donor disciplines"" if they produce more concepts than they
+borrow from other disciplines, or ""borrower disciplines"" if they import more
+than they originate. Terms used to describe these concepts can be used to
+distinguish between hard and soft, donor and borrower, as well as individual
+discipline-specific sublanguages. Using term frequencies, the birth, growth,
+death, and migration of concepts and their associated terms are examined.
+","[{""version"":""v1"",""created"":""Wed, 13 Sep 1995 17:39:58 GMT""}]","2008-02-03"
+"cond-mat/9509076",,"G. M. Buendia and M. A. Novotny","Numerical Study of a Mixed Ising Ferrimagnetic System","Figures can be obtained by request to novotny@scri.fsu.edu or
+  buendia@usb.ve","J. Physics: Cond. Mat. 9, 5951 (1997)","10.1088/0953-8984/9/27/021",,"cond-mat",,"  We present a study of a classical ferrimagnetic model on a square lattice in
+which the two interpenetrating square sublattices have spins one-half and one.
+This model is relevant for understanding bimetallic molecular ferrimagnets that
+are currently being synthesized by several experimental groups. We perform
+exact ground-state calculations for the model and employ Monte Carlo and
+numerical transfer-matrix techniques to obtain the finite-temperature phase
+diagram for both the transition and compensation temperatures. When only
+nearest-neighbor interactions are included, our nonperturbative results
+indicate no compensation point or tricritical point at finite temperature,
+which contradicts earlier results obtained with mean-field analysis.
+","[{""version"":""v1"",""created"":""Wed, 13 Sep 1995 19:00:19 GMT""}]","2009-10-28"
+"cond-mat/9509077","Martin Gelfand","Rajiv R. P. Singh (UC Davis) and Martin P. Gelfand (Colorado State)","Spin-wave excitation spectra and spectral weights in square lattice
+  antiferromagnets","Two postscript figures, 4 two-column pages",,"10.1103/PhysRevB.52.R15695",,"cond-mat",,"  Using a recently developed method for calculating series expansions of the
+excitation spectra of quantum lattice models, we obtain the spin-wave spectra
+for square lattice, $S=1/2$ Heisenberg-Ising antiferromagnets. The calculated
+spin-wave spectrum for the Heisenberg model is close to but noticeably
+different from a uniformly renormalized classical (large-$S$) spectrum with the
+renormalization for the spin-wave velocity of approximately $1.18$. The
+relative weights of the single-magnon and multi-magnon contributions to neutron
+scattering spectra are obtained for wavevectors throughout the Brillouin zone.
+","[{""version"":""v1"",""created"":""Wed, 13 Sep 1995 20:07:05 GMT""}]","2009-10-28"
+"cond-mat/9509078","Kevin Leung","Kevin Leung, Reinhold Egger, and C.H. Mak (Los Angeles, California;
+  Fakultat fur Physik; Universitat Freiburg, Germany)","Dynamical simulation of transport in one-dimensional quantum wires","REVTex, 4 pages, 2 uuencoded figures (submitted to Phys. Rev. Lett.)","Phys.Rev.Lett. 75, 3344 (1995).","10.1103/PhysRevLett.75.3344",,"cond-mat chem-ph",,"  Transport of single-channel spinless interacting fermions (Luttinger liquid)
+through a barrier has been studied by numerically exact quantum Monte Carlo
+methods. A novel stochastic integration over the real-time paths allows for
+direct computation of nonequilibrium conductance and noise properties. We have
+examined the low-temperature scaling of the conductance in the crossover region
+between a very weak and an almost insulating barrier.
+","[{""version"":""v1"",""created"":""Wed, 13 Sep 1995 20:59:03 GMT""}]","2009-10-28"
+"cond-mat/9509079","Gyorgy Szabo","Attila Szolnoki, Gyorgy Szabo","Anisotropic Ordering in a Two-Temperature Lattice Gas","3 pages(RevTex) + 2 figures",,,,"cond-mat",,"  We consider a two-dimensional lattice gas model with repulsive nearest- and
+next-nearest-neighbor interactions that evolves in time according to
+anisotropic Kawasaki dynamics. The hopping of particles along the principal
+directions is governed by heat baths at different temperatures. The stationary
+states of this non-equilibrium model are studied using a generalized dynamical
+mean-field analysis. In the stable state the particles form parallel chains
+which are oriented along the direction of the higher temperature. The resulting
+phase diagram is confirmed by Monte Carlo simulations
+","[{""version"":""v1"",""created"":""Thu, 14 Sep 1995 08:25:57 GMT""}]","2007-05-23"
+"cond-mat/9509080",,"Mo-lin Ge and Yiwen Wang","Long Range Interaction Models and Yangian Symmetry","13 pages, preprint of Nankai Institute of Mathematics ( Theoretical
+  Physics Division ), published in Physical Review E of 1995. For hard copy,
+  write to Prof. Mo-lin GE directly. Do not send emails to this account",,"10.1103/PhysRevE.51.2919","Nankai-95","cond-mat",,"  The generalized Sutherland-Romer models and Yan models with internal spin
+degrees are formulated in terms of the Polychronakos' approach and RTT relation
+associated to the Yang-Baxter equation in consistent way. The Yangian symmetry
+is shown to generate both models. We finally introduce the reflection algebra
+K(u) to the long range models.
+","[{""version"":""v1"",""created"":""Thu, 14 Sep 1995 14:32:31 GMT""}]","2009-10-28"
+"cond-mat/9509081",,"Mo-lin Ge, Y. W. Wang and K. Xue","Yangian, Truncated Yangian and Quantum Integrable Systems","Preprint ( reprint ) of Nankai Institute of Mathematics. For hard
+  copy, write to Prof. Mo-lin GE, Nankai Institute of Mathematics. Do not send
+  emails to this computer account",,,,"cond-mat",,"  Based on the RTT relation for a given rational $R$-matrix the {\em Yangian}
+and truncated {\em Yangian} are discussed. The former can be used to generate
+the long-range interaction models, whereas the latter can be related to the
+Goryachev-Chaplygin(GC) gyrostat. The trigonometric extension of the
+Goryachev-Chaplygin gyrostat has also been shown.
+","[{""version"":""v1"",""created"":""Thu, 14 Sep 1995 14:51:32 GMT""}]","2007-05-23"
+"cond-mat/9509082",,"Hu Cheng, Mo-lin Ge and Jiushu Shao","Localization condition for two-level systems","Preprint ( reprint ) of Nankai Institute of Mathematics. For hard
+  copy, write to Prof. Mo-lin GE directly. Do not send emails to this computer
+  account please",,,"Nankai-95","cond-mat",,"  The dynamics of two-level systems in an external periodic field are
+investigated in general. The necessary conditions of localization are obtained
+through analysing the time-evolving matrix. It is found that localization is
+possible if not only is the dynamics of the system periodic, but also its
+period is the same as that of the external potential. A model system in a
+periodic $\delta$-function potential is studied thoroughly.
+","[{""version"":""v1"",""created"":""Thu, 14 Sep 1995 15:00:55 GMT""}]","2007-05-23"
+"cond-mat/9509084",,"Yue-lin Shen and Mo-lin Ge","Zamolodchikov-Faddeev algebra in 2-component anyons","Preprint of Nankai Institute of Mathematics, China",,"10.1088/0305-4470/29/18/035","9509-Nankai-China","cond-mat",,"  We investigate Wilczeck's mutual fractional statistical model at the field-
+theoretical level. The effective Hamiltonian for the particles is derived by
+the canonical procedure, whereas the commutators of the anyonic excitations are
+proved to obey the Zamolodchikov-Faddeev algebra. Cases leading to well known
+statistics as well as Laughlin's wave function are discussed.
+","[{""version"":""v1"",""created"":""Thu, 14 Sep 1995 15:37:27 GMT""}]","2009-10-28"
+"gr-qc/9509024","Steve Carlip","S. Carlip","Statistical Mechanics and Black Hole Entropy","10 pages, one figure in separate (uuencoded, compressed) tar file;
+  factor of 2 corrected in eqn. (2.8)",,,"UCD-95-30","gr-qc hep-th",,"  I review a new (and still tentative) approach to black hole thermodynamics
+that seeks to explain black hole entropy in terms of microscopic quantum
+gravitational boundary states induced on the black hole horizon.
+","[{""version"":""v1"",""created"":""Wed, 13 Sep 1995 17:45:20 GMT""},{""version"":""v2"",""created"":""Fri, 20 Oct 1995 18:35:46 GMT""}]","2008-02-03"
+"gr-qc/9509025","Herbert Balasin","P.C.Aichelburg and H.Balasin","Symmetries of pp-Waves with Distributional Profile","10 pages, latex2e, no figures, statement about the combination of
+  symmetry classes of impulsive waves corrected","Class.Quant.Grav. 13 (1996) 723-730","10.1088/0264-9381/13/4/012","UWThPh-1995-30, TUW95-20","gr-qc",,"  We generalize the classification of (non-vacuum) pp-waves \cite{JEK} based on
+the Killing-algebra of the space-time by admitting distribution-valued profile
+functions. Our approach is based on the analysis of the (infinite-dimensional)
+group of ``normal-form-preserving'' diffeomorphisms.
+","[{""version"":""v1"",""created"":""Thu, 14 Sep 1995 12:07:39 GMT""},{""version"":""v2"",""created"":""Mon, 18 Dec 1995 09:45:59 GMT""}]","2009-10-28"
+"hep-ex/9509008","Nicholas Brook","S. Gowdy (University of Glasgow on behalf of RD8 collab.)","GaAs Microstrip Testbeam Results","10 pages. 16 postscript figures + 1 postscript preprint logo + 1
+  LaTeX file + 2 non-standard style files. Uses epsfig. Files tarred, gzipped
+  and uuencoded into 1 file. Also available at
+  http://ppewww.ph.gla.ac.uk/preprints/95/04",,,"GLAS-PPE-95-04","hep-ex",,"  A gallium arsenide detector was tested with a beam of 70GeV pions at the {\sf
+SPS} at CERN. The detector utilises a novel biasing scheme which has been shown
+to behave as expected. The detector has a pitch of 50$\mu$m and therefore an
+expected resolution of 14.5$\mu$m. The measured resolution was approximately
+14$\mu$m. By using a non-linear charge division algorithm this can be increased
+to $\approx$ 12$\mu$m. Noise was the limiting factor to the resolution. This
+was 2000e$^-$ as opposed to the expected 360e$^-$. This noise is also thought
+to have reduced the detection efficiency of the detector. The source of the
+excess noise is currently being investigated.
+","[{""version"":""v1"",""created"":""Thu, 14 Sep 1995 14:16:46 GMT""}]","2007-05-23"
+"hep-lat/9509041","Kim Seyong","Seyong Kim and Shigemi Ohta","Light hadron masses with 4-GeV cutoff and L=2.4fm","4 pages, postscript file, uudecode, gzip compressed","Nucl.Phys.Proc.Suppl. 47 (1996) 350-353","10.1016/0920-5632(96)00071-0","SNUTP-95-086, RIKEN-AF-NP-206","hep-lat",,"  We discuss preliminary results from our quenched light hadron mass
+calculation on a $48^3 \times 64$ lattice at the coupling of $\beta = 6.5$.
+Staggered quarks with masses of $m_q = 0.01, 0.005, 0.0025$ and $0.00125$ are
+used.
+","[{""version"":""v1"",""created"":""Thu, 14 Sep 1995 15:20:15 GMT""}]","2009-10-28"
+"hep-lat/9509042","Wolfgang Franzki","W. Franzki, J. Jers\'ak and R. Welters","Gauge invariant generalization of the 2D chiral Gross-Neveu model","Contribution to Lattice 95, LaTeX file (4 pages), 4 ps-figures
+  appended (uuencoded), abstract corrected","Nucl.Phys.Proc.Suppl. 47 (1996) 699-702","10.1016/0920-5632(96)00154-5","HLRZ 55/95","hep-lat",,"  By means of the Lee-Shrock transformation we generalize the 2D Gross-Neveu
+(GN$_2$) model to a U(1) gauge theory with charged fermion and scalar fields in
+2D ($\chi U \phi_2$ model). The $\chi U \phi_2$ model is equivalent to the
+GN$_2$ model at infinite gauge coupling. We show that the dynamical fermion
+mass generation and asymptotic freedom in the effective four-fermion coupling
+persist also when the gauge coupling decreases. These phenomena are not
+influenced by the XY$_2$ model phase transition at weak coupling. This suggests
+that the $\chi U \phi_2$ model is in the same universality class as the GN$_2$
+model and thus renormalizable.
+","[{""version"":""v1"",""created"":""Thu, 14 Sep 1995 08:57:13 GMT""},{""version"":""v2"",""created"":""Mon, 18 Sep 1995 14:51:06 GMT""}]","2009-10-28"
+"hep-lat/9509043","Brian Pendleton","A D Kennedy, Robert Edwards, Hidetoshi Mino and Brian Pendleton","Tuning the generalized Hybrid Monte Carlo algorithm","4 pages, to be published in the Proceedings of Lattice 95, uuencoded
+  PostScript file","Nucl.Phys.Proc.Suppl. 47 (1996) 781-784","10.1016/0920-5632(96)00173-9",,"hep-lat",,"  We discuss the analytic computation of autocorrelation functions for the
+generalized Hybrid Monte Carlo algorithm applied to free field theory and
+compare the results with numerical results for the $O(4)$ spin model in two
+dimensions. We explain how the dynamical critical exponent $z$ for some
+operators may be reduced from two to one by tuning the amount of randomness
+introduced by the updating procedure, and why critical slowing down is not a
+problem for other operators.
+","[{""version"":""v1"",""created"":""Thu, 14 Sep 1995 14:58:58 GMT""}]","2009-10-28"
+"hep-lat/9509044","Robert Edwards","Sara Collins, Robert G. Edwards, Urs M. Heller and John Sloan","Quenched $SU(3)$ hadron spectroscopy using improved fermionic and gauge
+  actions","4 pages latex with 3 postscript figures. Corrected column heading in
+  table","Nucl.Phys.Proc.Suppl.47:366-369,1996","10.1016/0920-5632(96)00075-8","FSU-SCRI-95C-88","hep-lat",,"  We present results of quenched $SU(3)$ hadron spectroscopy using $\order(a)$
+improved Wilson fermions. The configurations were generated using an
+$\order(a^2)$ improved 6-link $SU(3)$ pure gauge action at $\beta$'s
+corresponding to lattice spacings of $0.43$, $0.25$, $0.20$, $0.18$, and $0.15$
+fm. We find evidence that fermionic scaling violations are consistent with
+$\order(a^2)$ errors.
+","[{""version"":""v1"",""created"":""Thu, 14 Sep 1995 15:02:50 GMT""},{""version"":""v2"",""created"":""Fri, 15 Sep 1995 21:43:30 GMT""}]","2010-01-18"
+"hep-ph/9509287","Amol Dighe","Amol S. Dighe (EFI and U. of Chicago)","Determination of CKM phases through rigid polygons of flavor SU(3)
+  amplitudes","A few detailed explanations added, some rearrangement of sections and
+  a few minor changes in notation. 19 pages, 1 PostScript figure, uses
+  psfig.sty","Phys.Rev.D54:2067-2074,1996","10.1103/PhysRevD.54.2067","EFI-95-52","hep-ph",,"  Some new methods for the extraction of CKM phases $\alpha$ and $\gamma$ using
+flavor SU(3) symmetry have been suggested through the construction of rigid
+polygons in the complex plane with sides equal to the decay amplitudes of B
+mesons into two mesons belonging to the light (charmless) pseudoscalar octet.
+These rigid polygons incorporate all the possible amplitude triangles and,
+being overdetermined, also serve as consistency checks and in estimating the
+rates of some decay modes. The same techniques also lead to numerous useful
+amplitude triangles when octet-singlet mixing has been taken into account and
+nearly physical $\eta,\eta'$ are used.
+","[{""version"":""v1"",""created"":""Thu, 14 Sep 1995 04:37:19 GMT""},{""version"":""v2"",""created"":""Tue, 21 May 1996 22:06:52 GMT""}]","2011-06-20"
+"hep-ph/9509288","Evan Reidell","Xiangdong Ji (MIT)","Polarizabilities of Gluon Fields in a Polarized Nucleon","This paper has been withdrawn by the author",,,"MIT-CTP-2468","hep-ph",,"  This paper has been withdrawn by the author.
+","[{""version"":""v1"",""created"":""Wed, 13 Sep 1995 21:04:27 GMT""},{""version"":""v2"",""created"":""Tue, 26 Sep 1995 21:06:39 GMT""}]","2008-02-03"
+"hep-ph/9509289","David Jenkins","D. A. Jenkins and I. I. Strakovsky (Virginia Tech)","Nucleon Helicity in Pion Photoproduction","plain tex, 6 pages, 8 figures","Phys.Rev.C52:3499-3501,1995","10.1103/PhysRevC.52.3499",,"hep-ph",,"  Pion-photoproduction data is examined to check for the nucleon-helicity
+conservation predicted by asymptotic QCD. The differential cross section shows
+agreement with constituent-counting rules, and polarization data is not in
+disagreement with conservation of nucleon helicity. However large uncertainties
+in the polarization measurements do not allow a conclusive statement. The
+helicity amplitudes from a partial-wave analysis are also examined for helicity
+conservation. While the amplitudes become small as $s$ increases, the $s$
+dependence of the helicity-conserving amplitudes is similar to the dependence
+of the non-conserving amplitudes.
+","[{""version"":""v1"",""created"":""Wed, 13 Sep 1995 22:31:26 GMT""}]","2008-11-26"
+"hep-ph/9509290",,"C. Mu\~noz","Soft Terms from Dilaton/Moduli sectors","13 pages, latex using World Scientific macro: sprocl.sty (appended at
+  the end of the file), talk given at the International Workshop on ""Elementary
+  Particle Physics Present and Future"", Valencia (Spain) June 5-9, 1995",,,"FTUAM 95/30","hep-ph hep-th",,"  We study the structure of the soft SUSY-breaking terms obtained from large
+classes of 4-D Strings under the assumption of dilaton/moduli dominance in the
+process of SUSY-breaking. In particular, we first analyze in detail the
+dilaton-dominated limit because of its finiteness properties and
+phenomenological predictivity, and second, we consider the new features
+appearing when several moduli fields contribute to SUSY breaking. Although some
+qualitative features indeed change in the multimoduli case with respect to the
+dilaton dominance one, the most natural mass relations at low-energy $m_l < m_q
+\simeq M_g$ are still similar. We also study the presence of tachyons pointing
+out that their possible existence may be, in some cases, an interesting
+advantage in order to break extra gauge symmetries. Finally, we find that the
+mechanism for generating a ``$\mu $-term'' by the K\""ahler potential, as
+naturally implemented in orbifolds, leads to the prediction $|tg\beta |=1$ at
+the String scale, independently of the Goldstino direction. In this connection,
+it is worth noticing that in the dilaton-dominated case we obtain the
+remarkable result that the whole SUSY spectrum is completely determined with no
+free parameters.
+","[{""version"":""v1"",""created"":""Wed, 13 Sep 1995 18:10:53 GMT""}]","2007-05-23"
+"hep-ph/9509291","Hwang Dae Sung","Dae Sung Hwang and Gwang-Hee Kim (Sejong University)","Ratios of $B$ and $D$ Meson Decay Constants in Improved Mock Meson Model","9 pages, 1 Postscript figure","Phys.Lett. B367 (1996) 353-356","10.1016/0370-2693(95)01459-4",,"hep-ph",,"  We calculate the ratio $f_{B_s}/f_{B_d}$ by following the Oakes' method which
+is based on chiral symmetry breaking, but we improve his calculation by
+performing the calculation of the factor
+$<0|{\bar{b}}{\gamma}_5s|B_s>$/$<0|{\bar{b}}{\gamma}_5d|B_d>$ in the mock meson
+model. In this calculation we improved the mock meson model by using the value
+of the parameter $\beta$ which is obtained by the variational method in the
+relativistic quark model. We also calculate $f_{D_s}/f_{D_d}$, and then
+$(f_{B_s}/f_{B_d})\, /\, (f_{D_s}/f_{D_d})$. In this method we also obtain the
+ratio $f_{B_s}/f_{D_s}$ and $f_{B_d}/f_{D_d}$ which are important for the
+knowledge of CP violation and $B$-$\bar{B}$ mixing.
+","[{""version"":""v1"",""created"":""Thu, 14 Sep 1995 02:21:38 GMT""}]","2015-06-25"
+"hep-ph/9509292","Hartmut Wittig","Hartmut Wittig (UKQCD Collaboration)","Lattice Results For Heavy Quark Physics","7 pages, uuencoded, compressed postscript file. Plenary talk given at
+  ""Hadron 95"", Manchester, July 9-14, to appear in the proceedings",,,"Southampton Preprint SHEP 95-29","hep-ph hep-lat",,"  The status of lattice calculations for heavy quark systems is reviewed,
+focussing on weak matrix elements for leptonic and semi-leptonic decays of
+heavy mesons. After an assessment of the main systematic errors, results for
+the decay constants $f_D$ and $f_B$, the $B$ parameter describing $B - \bar{B}$
+mixing, the Isgur-Wise function and the spectroscopy of heavy baryons are
+discussed.
+","[{""version"":""v1"",""created"":""Thu, 14 Sep 1995 08:49:46 GMT""}]","2007-05-23"
+"hep-ph/9509293","Dirk Jungnickel","D.-U. Jungnickel","Quarks, mesons and (exact) flow equations","Talk at the Int. School of Physics, ``Enrico Fermi'', Varenna, July
+  1995; 16 pages, two postscript figures",,,"HD-THEP-95-40","hep-ph",,"  Dynamical chiral symmetry breaking is described within the linear sigma model
+of QCD coupled to quarks. The main technical tool used for this intrinsically
+non--perturbative problem is an exact renormalization group equation for the
+quantum effective action. It is demonstrated that realistic values for
+phenomenological quantities like the pion decay constant, constituent quark
+masses or the chiral condensate are obtainable.
+","[{""version"":""v1"",""created"":""Thu, 14 Sep 1995 10:09:47 GMT""}]","2007-05-23"
+"hep-ph/9509294","Tadashi Kon","T. Kobayashi, S. Kitamura and T. Kon","Supersymmetric Particle Production at HERA","30 pages, LaTeX, 21 figures available upon request","Int.J.Mod.Phys. A11 (1996) 1875-1912","10.1142/S0217751X96000985","ITP-SU-95/03","hep-ph",,"  In the framework of the minimal supersymmetric standard model and the
+$R$-parity breaking model, we investigate various production processes of the
+supersymmetric partner at HERA energies. Our emphasis is paid upon the scalar
+top quark, the partner of top quark, characterized by its lighter mass than the
+top quark and other scalar quarks in a model. We propose experimentally
+feasible approaches to search for clean signals of the stop from either its
+production or decay processes.
+","[{""version"":""v1"",""created"":""Thu, 14 Sep 1995 12:56:21 GMT""}]","2015-06-25"
+"hep-ph/9509295","Samuel Wallon","S. Wallon","Unified QCD evolution equations for quarks and gluons","3 pages, latex file, no figures, requires qcdparis.sty; Contribution
+  to the PARIS Workshop DIS 95',April 19-24,1995",,,"Saclay preprint SPhT T95/109","hep-ph",,"  Considering the BFKL and DGLAP QCD evolution equations for structure
+functions, we discuss the possibility of unifying them in the whole $x$ and
+$Q^2$ range. We emphasize that the main problem is related to the constraint of
+angular ordering of the radiation, and the cancellation of the related
+collinear singularities for inclusive processes. At the leading log\ $1/x$ and
+log\ $Q^2$ level, we write down a unified system of equations satisfying this
+cancellation constraint. At low $x$, it leads to a less singular behaviour of
+the structure functions than the BFKL prediction.
+","[{""version"":""v1"",""created"":""Thu, 14 Sep 1995 14:05:01 GMT""}]","2007-05-23"
+"hep-ph/9509299","P. Poulose","P. Poulose and Saurabh D. Rindani","Decay-lepton angular distribution in polarized $e^+e^- \to \tt$ and
+  $CP$-violating dipole couplings of the top quark","18 pages, latex, 3 figures will be added soon","Phys.Rev.D54:4326-4332,1996; Erratum-ibid.D61:119901,2000","10.1103/PhysRevD.54.4326 10.1103/PhysRevD.61.119901","PRL-TH-95/17","hep-ph",,"  In the presence of an electric dipole coupling of $t \bar t$ to a photon, and
+an analogous ``weak"" dipole coupling to the $Z$, $CP$ violation in the process
+$e^+e^- \rightarrow t \bar t$ leads to the polarization of the top and
+anti-top. This polarization can be analyzed by studying the energy and angular
+distributions of a decay charged lepton (anti-lepton) when the top (anti-top)
+decays leptonically. We have obtained analytic expressions for these
+distributions when either $t$ or $\overline t$ decays leptonically. We study
+two types of simple $CP$-violating angular asymmetries which do not need tof
+simple $CP$-violating angular asymmetries which do not need the full
+reconstruction of the $t$ or $\bar t$. These together can help to determine the
+electric and weak dipole form factors independently. We have also shown how the
+use of longitudinal beam polarization can help to do this with only one
+asymmetry measurement, and to imprhelp to do this with only one asymmetry
+measurement, and to improve the sensitivity.
+","[{""version"":""v1"",""created"":""Thu, 14 Sep 1995 10:13:38 GMT""},{""version"":""v2"",""created"":""Mon, 18 Sep 1995 06:42:45 GMT""}]","2014-11-17"
+"hep-th/9509069",,"Dmitri V. Vassilevich","On gauge-independence in quantum gravity","42 kb, LATEX using elsart.sty, accepted for publication in Nucl.
+  Phys. B","Nucl.Phys. B454 (1995) 685-700","10.1016/0550-3213(95)00477-A",,"hep-th gr-qc",,"  We prove gauge-independence of one-loop path integral for on-shell quantum
+gravity obtained in a framework of modified geometric approach. We use
+projector on pure gauge directions constructed via quadratic form of the
+action. This enables us to formulate the proof entirely in terms of
+determinants of non-degenerate elliptic operators without reference to any
+renormalization procedure. The role of the conformal factor rotation in
+achieving gauge-independence is discussed. Direct computations on $CP^2$ in a
+general three-parameter background gauge are presented. We comment on gauge
+dependence of previous results by Ichinose.
+","[{""version"":""v1"",""created"":""Wed, 13 Sep 1995 18:25:13 GMT""}]","2009-10-28"
+"hep-th/9509070","Clifford Johnson","Clifford V. Johnson, Nemanja Kaloper, Ramzi R. Khuri, Robert C. Myers","Is string theory a theory of strings?","11 pages. Uses harvmac.tex (A note and a reference added)","Phys.Lett.B368:71-77,1996","10.1016/0370-2693(95)01493-4","NSF-ITP-95-108, McGill/95-45, CERN-TH/95-236, PUPT-1561","hep-th",,"  Recently a great deal of evidence has been found indicating that type IIA
+string theory compactified on K3 is equivalent to heterotic string theory
+compactified on T^4. Under the transformation which relates the two theories,
+the roles of fundamental and solitonic string solutions are interchanged. In
+this letter we show that there exists a solitonic membrane solution of the
+heterotic string theory which becomes a singular solution of the type IIA
+theory, and should therefore be interpreted as a fundamental membrane in the
+latter theory. We speculate upon the implications that the complete type IIA
+theory is a theory of membranes, as well as strings.
+","[{""version"":""v1"",""created"":""Thu, 14 Sep 1995 01:01:06 GMT""},{""version"":""v2"",""created"":""Tue, 31 Oct 1995 03:45:12 GMT""}]","2014-11-18"
+"hep-th/9509071","Rabindranath Chatterjee","R. Chatterjee (Rutgers University)","Exact Partition Function and Boundary State of 2-D Massive Ising Field
+  Theory with Boundary Magnetic Field","plain latex, 17 pages plus 11 figures in 3 .ps files, uuencoded in
+  isfig.uu","Nucl.Phys. B468 (1996) 439-460","10.1016/0550-3213(96)00134-4","RU-95-54","hep-th",,"  We compute the exact partition function, the universal ground state
+degeneracy and boundary state of the 2-D Ising model with boundary magnetic
+field at off-critical temperatures. The model has a domain that exhibits states
+localized near the boundaries. We study this domain of boundary bound state and
+derive exact expressions for the ``$g$ function'' and boundary state for all
+temperatures and boundary magnetic fields. In the massless limit we recover the
+boundary renormalization group flow between the conformally invariant free and
+fixed boundary conditions.
+","[{""version"":""v1"",""created"":""Thu, 14 Sep 1995 01:08:31 GMT""}]","2009-10-28"
+"hep-th/9509073","Shoichi Ichinose","Shoichi Ichinose and Noriaki Ikeda","New Formulation of Anomaly,Anomaly Formula and Graphical Representation","42 pages, Figures are not included","Phys.Rev. D53 (1996) 5932-5951","10.1103/PhysRevD.53.5932","US-95-02","hep-th",,"  A general approach to anomaly in quantum field theory is newly formulated by
+use of the propagator theory in solving the heat-kernel equation. We regard the
+heat-kernel as a sort of the point-splitting regularization in the space(-time)
+manifold. Fujikawa's general standpoint that the anomalies come from the
+path-integral measure is taken. We obtain some useful formulae which are valid
+for general anomaly calculation. They turn out to be the same as the 1-loop
+counter-term formulae except some important total derivative terms. Various
+anomalies in 2 and 4 dimensional theories are systematically calculated. Some
+important relations between them are concretely shown. As for the
+representation of general (global SO(n)) tensors, we introduce a graphical one.
+It makes the tensor structure of invariants very transparent and makes the
+tensor calculation so simple.
+","[{""version"":""v1"",""created"":""Thu, 14 Sep 1995 05:38:59 GMT""}]","2009-10-28"
+"hep-th/9509074","Richard Easther","Richard Easther (Waseda), Kei-ichi Maeda (Waseda) and David Wands
+  (Sussex)","Tree-level String Cosmology","Latex, 18 pages, plus 5 pages of postscript figures","Phys.Rev. D53 (1996) 4247-4256","10.1103/PhysRevD.53.4247","WU-AP/50/95 SUSSEX-AST-95/9-1","hep-th gr-qc",,"  In this paper we examine the classical evolution of a cosmological model
+derived from the low-energy tree-level limit of a generic string theory. The
+action contains the metric, dilaton, central charge and an antisymmetric tensor
+field. We show that with a homogeneous and isotropic metric, allowing spatial
+curvature, there is a formal equivalence between this system and a scalar field
+minimally coupled to Einstein gravity in a spatially flat metric. We refer to
+this system as the shifted frame and using it we describe the full range of
+cosmological evolution that this model can exhibit. We show that generic
+solutions begin (or end) with a singularity. As the system approaches a
+singularity the dilaton becomes becomes large and loop corrections will become
+important.
+","[{""version"":""v1"",""created"":""Thu, 14 Sep 1995 05:38:33 GMT""}]","2009-10-28"
+"hep-th/9509075","Ivan Avramidi","Ivan G. Avramidi (University of Greifswald)","Covariant approximation schemes for calculation of the heat kernel in
+  quantum field theory","19 pages, Plain TeX, 51 KB, no figures","in: Quantum Gravity, Proc. 6th Moscow Seminar, (Singapore: World
+  Scientific, 1997) pp. 61-78",,"University of Greifswald (September, 1995)","hep-th gr-qc",,"  This paper is an overview on our recent results in the calculation of the
+heat kernel in quantum field theory and quantum gravity. We introduce a
+deformation of the background fields (including the metric of a curved
+spacetime manifold) and study various asymptotic expansions of the heat kernel
+diagonal associated with this deformation. Especial attention is payed to the
+low-energy approximation corresponding to the strong slowly varying background
+fields. We develop a new covariant purely algebraic approach for calculating
+the heat kernel diagonal in low-energy approximation by taking into account a
+finite number of low-order covariant derivatives of the background fields, and
+neglecting all covariant derivatives of higher orders. Then there exist a set
+of covariant differential operators that together with the background fields
+and their low-order derivatives generate a finite dimensional Lie algebra. In
+the zeroth order of the low-energy perturbation theory, determined by
+covariantly constant background, we use this algebraic structure to present the
+heat operator in the form of an average over the corresponding Lie group. This
+simplifies considerably the calculations and allows to obtain closed explicitly
+covariant formulas for the heat kernel diagonal. These formulas serve as the
+generating functions for the whole sequence of the Hadamard-Minakshisundaram-
+De Witt-Seeley coefficients in the low-energy approximation.
+","[{""version"":""v1"",""created"":""Thu, 14 Sep 1995 06:46:47 GMT""}]","2007-05-23"
+"hep-th/9509076","Metin Gurses","Metin Gurses and Emre Sermutlu","Static spherically symmetric solutions to Einstein-Maxwell Dilaton field
+  equations in D dimensions","40 pages, Latex, to appear in CQG","Class.Quant.Grav.12:2799-2817,1995","10.1088/0264-9381/12/11/011",,"hep-th",,"  We classify the spherically symmetric solutions of the Einstein-Maxwell
+Dilaton field equations in D dimensions and find some exact solutions of the
+string theory at all orders of the string tension parameter. We also show the
+uniqueness of the black hole solutions of this theory in static axially
+symmetric spacetimes.
+","[{""version"":""v1"",""created"":""Thu, 14 Sep 1995 06:49:08 GMT""}]","2010-11-19"
+"hep-th/9509077",,"Ivan G. Avramidi (University of Greifswald)","The heat kernel approach for calculating the effective action in quantum
+  field theory and quantum gravity","21 pages, Plain TeX, 52 KB, no figures",,,"University of Greifswald (June, 1994)","hep-th gr-qc",,"  A short informal overview about recent progress in the calculation of the
+effective action in quantum gravity is given. I describe briefly the standard
+heat kernel approach to the calculation of the effective action and discuss the
+applicability of the Schwinger - De Witt asymptotic expansion in the case of
+strong background fields. I propose a new ansatz for the heat kernel that
+generalizes the Schwinger - De Witt one and is always valid. Then I discuss the
+general structure of the asymptotic expansion and put forward some approximate
+explicitly covariant methods for calculating the heat kernel, namely, the
+high-energy approximation as well as the low-energy one. In both cases the
+explicit formulae for the heat kernel are given.
+","[{""version"":""v1"",""created"":""Thu, 14 Sep 1995 09:16:40 GMT""}]","2007-05-23"
+"hep-th/9509078",,"Ivan G. Avramidi","A method for calculating the heat kernel for manifolds with boundary","11 pages, Plain TeX, 29 KB, no figures, published in Yadernaya
+  Fizika, 56 (1993) 245, transl. in: Sov. J. of Nucl. Phys","Phys.Atom.Nucl.56:138-142,1993; Yad.Fiz.56N1:243-250,1993",,"Rostov State University (1992)","hep-th",,"  The covariant technique for calculating the heat kernel asymptotic expansion
+for an elliptic differential second order operator is generalized to manifolds
+with boundary. The first boundary coefficients of the asymptotic expansion
+which are proportional to $t^{1/2}$ and $t^{3/2}$ are calculated. Our results
+coincide with completely independent results of previous authors.
+","[{""version"":""v1"",""created"":""Thu, 14 Sep 1995 09:33:38 GMT""}]","2008-11-26"
+"hep-th/9509079",,"Ivan G. Avramidi (University of Greifswald)","The heat kernel on symmetric spaces via integrating over the group of
+  isometries","8 pages, Plain TeX, 21 KB, no figures","Phys.Lett.B336:171-177,1994","10.1016/0370-2693(94)00994-5","University of Greifswald (May, 1994)","hep-th",,"  A new algebraic approach for calculating the heat kernel for the Laplace
+operator on any Riemannian manifold with covariantly constant curvature is
+proposed. It is shown that the heat kernel operator can be obtained by an
+averaging over the Lie group of isometries. The heat kernel diagonal is
+obtained in form of an integral over the isotropy subgroup.
+","[{""version"":""v1"",""created"":""Thu, 14 Sep 1995 10:04:16 GMT""}]","2008-11-26"
+"hep-th/9509080","A. Sagnotti","Augusto Sagnotti (U. Roma ""Tor Vergata"")","Some Properties of Open - String Theories","Talk Presented at SUSY 95, Palaiseau, FRANCE, May 1995, 13 pages,
+  LATEX, 7 uuencoded figures in separate file",,,"ROM2F-95/18","hep-th",,"  Open-string theories may be related to suitable models of oriented closed
+strings. The resulting construction of ``open descendants'' is illustrated in a
+few simple cases that exhibit some of its key features.
+","[{""version"":""v1"",""created"":""Thu, 14 Sep 1995 11:07:12 GMT""}]","2007-05-23"
+"hep-th/9509081","Alex Bogojevic","Aleksandar R. Bogojevi\'c and Dragan Popovi\'c","Path Integral Measure Via the Schwinger-Dyson Equations","16 pages, PHYZZX, no figures",,,"IP-HET-95-6","hep-th",,"  We present a way for calculating the Lagrangian path integral measure
+directly from the Hamiltonian Schwinger--Dyson equations. The method agrees
+with the usual way of deriving the measure, however it may be applied to all
+theories, even when the corresponding momentum integration is not Gaussian. Of
+particular interest is the connection that is made between the path integral
+measure and the measure in the corresponding 0-dimensional model. This allows
+us to uniquely define the path integral even for the case of Euclidean theories
+whose action is not bounded from below.
+","[{""version"":""v1"",""created"":""Thu, 14 Sep 1995 14:47:31 GMT""}]","2007-05-23"
+"q-alg/9509017",,"Mi Xie, Bai-Qi Jin and Zhong-Qi Ma","$L^{\pm}$ Operators and Quantum Enveloping Algebras","11 pages, no figure, Latex",,,"BIHEP-TH-95-25","q-alg math.QA",,"  The relations between $L^{\pm}$ operators and the generators in the quantum
+enveloping algebras are studied. The $L^{\pm}$ operators for $U_{q}A_{N}$ and
+$U_{q}G_{2}$ algebras are explicitly expressed by the generators as examples.
+","[{""version"":""v1"",""created"":""Thu, 14 Sep 1995 14:59:26 GMT""},{""version"":""v2"",""created"":""Fri, 15 Sep 1995 14:49:58 GMT""}]","2008-02-03"
+"quant-ph/9509006","Richard MacKenzie","P. Girard and R. MacKenzie","Altered Stats: Two anyons via path integrals for multiply connected
+  spaces","9 pages, REVTEX, to appear, Phys Lett A",,"10.1016/0375-9601(95)00680-2","UdeM-GPP-TH-95-27","quant-ph hep-th",,"  We apply the formalism of path integrals in multiply connected spaces to the
+problem of two anyons.
+","[{""version"":""v1"",""created"":""Thu, 14 Sep 1995 02:08:33 GMT""}]","2009-10-28"
+"solv-int/9509005","Jarmo Hietarinta","Yunbo Zeng and Jarmo Hietarinta","Classical Poisson structures and r-matrices from constrained flows","16 pages in LaTeX",,"10.1088/0305-4470/29/16/038",,"solv-int math.QA nlin.SI q-alg",,"  We construct the classical Poisson structure and $r$-matrix for some finite
+dimensional integrable Hamiltonian systems obtained by constraining the flows
+of soliton equations in a certain way. This approach allows one to produce new
+kinds of classical, dynamical Yang-Baxter structures. To illustrate the method
+we present the $r$-matrices associated with the constrained flows of the
+Kaup-Newell, KdV, AKNS, WKI and TG hierarchies, all generated by a
+2-dimensional eigenvalue problem. Some of the obtained $r$-matrices depend only
+on the spectral parameters, but others depend also on the dynamical variables.
+For consistency they have to obey a classical Yang-Baxter-type equation,
+possibly with dynamical extra terms.
+","[{""version"":""v1"",""created"":""Thu, 14 Sep 1995 08:49:51 GMT""}]","2009-10-28"

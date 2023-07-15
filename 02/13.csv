@@ -1,0 +1,378 @@
+"astro-ph/9502062","Anatoly Klypin","A.Klypin (NMSU), R.Nolthenius, and J.Primack (UCSC)","COLD + HOT AND COLD DARK MATTER COSMOLOGIES: ANALYSIS OF NUMERICAL
+  SIMULATIONS","24 pages, compressed, uuencoded postscript. Plots and text: anonymous
+  ftp://charon.nmsu.edu/pub/PAPERS/aklypin/KNP95.uu (uudecode,uncompress),
+  ftp://charon.nmsu.edu/pub/PAPERS/aklypin/KNP95figs.uu (decode,tar,uncompress)",,,,"astro-ph",,"  We present a series of four simulations of Cold Dark Matter (CDM) and Cold +
+Hot Dark Matter (CHDM) cosmologies. We discuss the power spectrum and
+correlation functions in real and redshift space, with comparisons to the CfA2
+and IRAS redshift data, the pairwise velocity of galaxies, and the distribution
+of hot and cold particles in CHDM simulations. We confirm that CHDM with
+cold/hot/baryon density ratios $\Omega_c/\Omega_\nu/\Omega_b= 0.6/0.3/0.1$ is a
+good fit to a wide variety of present-epoch data, much better than CDM. In
+particular, with reasonable assumptions about identification of galaxies and
+biasing, we find that the power spectrum agrees rather well with both the CfA2
+and IRAS power specta in both the nonlinear and linear regimes. New CHDM models
+(e.g., with $\Omega_\nu=0.2$ or with two massive neutrinos) predict a
+significantly larger rate of formation of galaxies at high redshift, which may
+be needed to explain some observational data. At the same time, the difference
+between the variants is rather small at $z=0$. The results presented in this
+paper are interesting for two purposes: (i) For a comparison with other classes
+of models (like CDM and $\Lambda$CDM) at $z=0$.(ii) As a reference point for
+comparison between different variants of the CHDM model.
+","[{""version"":""v1"",""created"":""Sun, 12 Feb 1995 20:27:12 GMT""}]","2016-08-30"
+"astro-ph/9502063","Andreas Reisenegger","Andreas Reisenegger and Jordi Miralda-Escude","THE GUNN-PETERSON EFFECT FROM UNDERDENSE REGIONS IN A PHOTOIONIZED
+  INTERGALACTIC MEDIUM","compressed uuencoded postscript files, 28 pages including 5 figures","Astrophys.J. 449 (1995) 476","10.1086/176072","IASSNS-AST 95/13","astro-ph",,"  We use the Zel'dovich approximation and another analytical approximation to
+calculate the evolution under gravitational instability of the underdense
+regions of a photoionized intergalactic medium (IGM). We find that over most of
+the spectrum of a quasar, the optical depth to $\lya$ scattering originates
+from gas in underdense regions, or voids. This causes the ratio of the median
+Gunn-Peterson (GP) absorption to the value for a uniform medium containing all
+the baryons in the universe to be very small, and to decrease as gravitational
+collapse proceeds. We apply our calculations to the observations of the
+intensity distribution in a $z=4.11$ quasar by Webb and coworkers. We show that
+if $\lya$ clouds arise from gravitational collapse, their observations must be
+interpreted as the first detection of the (fluctuating) GP effect, with a
+median value $\tau_{GP}\simeq 0.06$ at $z=4$. For typical low-density
+($\Omega\sim 0.4$) cosmological models, this is consistent with the predicted
+baryon density from primordial nucleosynthesis, and the intensity of the
+ionizing background derived from the proximity effect. From the numerical
+simulations of Cen \etal, such models also predict correctly the number of
+$\lya$ absorption lines observed.
+","[{""version"":""v1"",""created"":""Mon, 13 Feb 1995 15:27:35 GMT""}]","2016-08-30"
+"astro-ph/9502064","Luciano","L. Rezzolla, J.C. Miller and O. Pantano","EVAPORATION OF QUARK DROPS DURING THE COSMOLOGICAL Q-H TRANSITION","12 pages Phys. Rev. format, uuencoded postscript file including 12
+  figures","Phys.Rev. D52 (1995) 3202-3213","10.1103/PhysRevD.52.3202","SISSA 15/95/A-EP","astro-ph hep-ph",,"  We have carried out a study of the hydrodynamics of disconnected quark
+regions during the final stages of the cosmological quark-hadron transition. A
+set of relativistic Lagrangian equations is presented for following the
+evaporation of a single quark drop and results from the numerical solution of
+this are discussed. A self-similar solution is shown to exist and the formation
+of baryon number density inhomogeneities at the end of the drop contraction is
+discussed.
+","[{""version"":""v1"",""created"":""Mon, 13 Feb 1995 14:49:04 GMT""}]","2016-08-30"
+"chao-dyn/9502012","Dr. Philip R. Baldwin","P. R. Baldwin and G. M. Townsend","Complex Trkalian Fields and Solutions to Euler's Equations for the Ideal
+  Fluid","30 pages, no figures; to appear-March PRE",,"10.1103/PhysRevE.51.2059",,"chao-dyn dg-ga hep-th math.DG nlin.CD",,"  We consider solutions to the complex Trkalian equation,~$ \vec{\nabla} \times
+\vc = \vc ,$ where~$\vc$ is a 3 component vector function with each component
+in the complex field, and may be expressed in the form~$ \vc = e^{ig}
+\vec{\nabla} F, $ with~$g$ real and~$F$ complex. We find, there are precisely
+two classes of solutions; one where~$g$ is a Cartesian variable and one
+where~$g$ is the spherical radial coordinate. We consider these flows to be the
+simplest of all exact 3-d solutions to the Euler's equation for the ideal
+incompressible fluid. The novel approach we use in solving for these classes of
+solutions to these 3-dimensional vector pdes involves differential geometric
+techniques: one may employ the method to generate solutions to other classes of
+vector pdes.
+","[{""version"":""v1"",""created"":""Mon, 13 Feb 1995 14:09:42 GMT""}]","2016-08-31"
+"chem-ph/9502005","Ronald Dickman","Ronald Dickman (Lehman College, City University of New York), and
+  George Stell (State University of New York at Stony Brook)","Critical Behavior of the Widom-Rowlinson Lattice Model","6 pages, LaTeX, 5 figures available upon request",,"10.1063/1.468970","LCP-95-01","chem-ph cond-mat physics.chem-ph",,"  We report extensive Monte Carlo simulations of the Widom-Rowlinson lattice
+model in two and three dimensions. Our results yield precise values for the
+critical activities and densities, and clearly place the critical behavior in
+the Ising universality class.
+","[{""version"":""v1"",""created"":""Mon, 13 Feb 1995 14:42:00 GMT""}]","2016-08-31"
+"cmp-lg/9502010","Atro Voutilainen","Atro Voutilainen (Research Unit for Computational Linguistics,
+  University of Helsinki, Finland)","NPtool, a detector of English noun phrases","uuencoded and gzipped .ps, 10 pages.",,,,"cmp-lg cs.CL",,"  NPtool is a fast and accurate system for extracting noun phrases from English
+texts for the purposes of e.g. information retrieval, translation unit
+discovery, and corpus studies. After a general introduction, the system
+architecture is presented in outline. Then follows an examination of a recently
+written Constraint Syntax. An evaluation report concludes the paper.
+","[{""version"":""v1"",""created"":""Mon, 13 Feb 1995 13:16:51 GMT""}]","2016-08-31"
+"cmp-lg/9502011","Atro Voutilainen","Atro Voutilainen and Timo Jarvinen (Research Unit for Multilingual
+  Language Technology, University of Helsinki, Finland)","Specifying a shallow grammatical representation for parsing purposes","EACL95, uuencoded and gzipped .ps",,,,"cmp-lg cs.CL",,"  Is it possible to specify a grammatical representation (descriptors and their
+application guidelines) to such a degree that it can be consistently applied by
+different grammarians e.g. for producing a benchmark corpus for parser
+evaluation? Arguments for and against have been given, but very little
+empirical evidence. In this article we report on a double-blind experiment with
+a surface-oriented morphosyntactic grammatical representation used in a
+large-scale English parser. We argue that a consistently applicable
+representation for morphology and also shallow syntax can be specified. A
+grammatical representation with a near-100% coverage of running text can be
+specified with a reasonable effort, especially if the representation is based
+on structural distinctions (i.e. it is structurally resolvable).
+","[{""version"":""v1"",""created"":""Mon, 13 Feb 1995 13:17:41 GMT""}]","2016-08-31"
+"cmp-lg/9502012","Atro Voutilainen","Atro Voutilainen (Research Unit for Multilingual Language Technology,
+  University of Helsinki, Finland)","A syntax-based part-of-speech analyser","EACL95, uuencoded and gzipped .ps. (Bibliographic mistake corrected.)",,,,"cmp-lg cs.CL",,"  There are two main methodologies for constructing the knowledge base of a
+natural language analyser: the linguistic and the data-driven. Recent
+state-of-the-art part-of-speech taggers are based on the data-driven approach.
+Because of the known feasibility of the linguistic rule-based approach at
+related levels of description, the success of the data-driven approach in
+part-of-speech analysis may appear surprising. In this paper, a case is made
+for the syntactic nature of part-of-speech tagging. A new tagger of English
+that uses only linguistic distributional rules is outlined and empirically
+evaluated. Tested against a benchmark corpus of 38,000 words of previously
+unseen text, this syntax-based system reaches an accuracy of above 99%.
+Compared to the 95-97% accuracy of its best competitors, this result suggests
+the feasibility of the linguistic approach also in part-of-speech analysis.
+","[{""version"":""v1"",""created"":""Mon, 13 Feb 1995 13:17:20 GMT""},{""version"":""v2"",""created"":""Tue, 14 Feb 1995 14:26:44 GMT""}]","2016-08-31"
+"cmp-lg/9502013","Atro Voutilainen","Atro Voutilainen and Pasi Tapanainen (Research Unit for Computational
+  Linguistics, University of Helsinki, Finland)","Ambiguity resolution in a reductionistic parser","EACL93, .ps",,,,"cmp-lg cs.CL",,"  We are concerned with dependency-oriented morphosyntactic parsing of running
+text. While a parsing grammar should avoid introducing structurally
+unresolvable distinctions in order to optimise on the accuracy of the parser,
+it also is beneficial for the grammarian to have as expressive a structural
+representation available as possible. In a reductionistic parsing system this
+policy may result in considerable ambiguity in the input; however, even massive
+ambiguity can be tackled efficiently with an accurate parsing description and
+effective parsing technology.
+","[{""version"":""v1"",""created"":""Mon, 13 Feb 1995 13:51:24 GMT""}]","2008-02-03"
+"cond-mat/9502048","Michael Basler","M. Basler, W. Krech and K. Yu. Platov","THEORY OF PHASE-LOCKING IN SMALL JOSEPHSON JUNCTION CELLS","26 pages, REVTEX, 9 PS figures appended in uuencoded form at the end,
+  submitted to Phys. Rev. B.",,"10.1103/PhysRevB.52.7504","JE-FKS-95-1","cond-mat",,"  Within the RSJ model, we performed a theoretical analysis of phase-locking in
+elementary strongly coupled Josephson junction cells. For this purpose, we
+developed a systematic method allowing the investigation of phase-locking in
+cells with small but non-vanishing loop inductance.The voltages across the
+junctions are found to be locked with very small phase difference for almost
+all values of external flux. However, the general behavior of phase-locking is
+found to be just contrary to that according to weak coupling. In case of strong
+coupling there is nearly no influence of external magnetic flux on the phases,
+but the locking-frequency becomes flux-dependent. The influence of parameter
+splitting is considered as well as the effect of small capacitive shunting of
+the junctions. Strongly coupled cells show synchronization even for large
+parameter splitting. Finally, a study of the behavior under external microwave
+radiation shows that the frequency locking-range becomes strongly
+flux-dependent, whereas the locking frequency itself turns out to be
+flux-independent.
+","[{""version"":""v1"",""created"":""Mon, 13 Feb 1995 12:42:44 GMT""}]","2016-08-31"
+"cond-mat/9502049","Francisco Dominguez-Adame Acosta","F. Dominguez-Adame","Frenkel Excitons in Random Systems With Correlated Gaussian Disorder","9 pages, REVTeX 3.0, 3 ps figures. To appear in Physical Review B",,"10.1103/PhysRevB.51.12801","FIMAT-2/95","cond-mat",,"  Optical absorption spectra of Frenkel excitons in random one-dimensional
+systems are presented. Two models of inhomogeneous broadening, arising from a
+Gaussian distribution of on-site energies, are considered. In one case the
+on-site energies are uncorrelated variables whereas in the second model the
+on-site energies are pairwise correlated (dimers). We observe a red shift and a
+broadening of the absorption line on increasing the width of the Gaussian
+distribution. In the two cases we find that the shift is the same, within our
+numerical accuracy, whereas the broadening is larger when dimers are
+introduced. The increase of the width of the Gaussian distribution leads to
+larger differences between uncorrelated and correlated disordered models. We
+suggest that this higher broadening is due to stronger scattering effects from
+dimers.
+","[{""version"":""v1"",""created"":""Mon, 13 Feb 1995 13:01:42 GMT""}]","2009-10-28"
+"cond-mat/9502050","Yu-min Juan","Yumin Juan and Efthimios Kaxiras","Use of the Generalized Gradient Approximation in Pseudopotential
+  Calculations of Solids","15 pages, latex, no figures",,"10.1103/PhysRevB.51.9521","HU-YK-9501","cond-mat mtrl-th",,"  We present a study of the equilibrium properties of $sp$-bonded solids within
+the pseudopotential approach, employing recently proposed generalized gradient
+approximation (GGA) exchange correlation functionals. We analyze the effects of
+the gradient corrections on the behavior of the pseudopotentials and discuss
+possible approaches for constructing pseudopotentials self-consistently in the
+context of gradient corrected functionals. The calculated equilibrium
+properties of solids using the GGA functionals are compared to the ones
+obtained through the local density approximation (LDA) and to experimental
+data. A significant improvement over the LDA results is achieved with the use
+of the GGA functionals for cohesive energies. For the lattice constant, the
+same accuracy as in LDA can be obtained when the nonlinear coupling between
+core and valence electrons introduced by the exchange correlation functionals
+is properly taken into account. However, GGA functionals give bulk moduli that
+are too small compared to experiment.
+","[{""version"":""v1"",""created"":""Mon, 13 Feb 1995 15:18:04 GMT""}]","2016-08-31"
+"cond-mat/9502051","Yu-min Juan","Linda M. Zeger, Yu-Min Juan, Efthimios Kaxiras and A. Antonelli","Theoretical Study of Cubic Structures Based on Fullerene Carbon
+  Clusters: C$_{28}$C and (C$_{28})_{2}$","15 pages, latex, no figures",,"10.1103/PhysRevB.52.2125","HU-YK-9502","cond-mat mtrl-th",,"  We study a new hypothetical form of solid carbon \csc, with a unit cell which
+is composed of the \cs \ fullerene cluster and an additional single carbon atom
+arranged in the zincblende structure. Using {\it ab initio} calculations, we
+show that this new form of solid carbon has lower energy than hyperdiamond, the
+recently proposed form composed of \cs \ units in the diamond structure. To
+understand the bonding character of of these cluster-based solids, we analyze
+the electronic structure of \csc \ and of hyperdiamond and compare them to the
+electronic states of crystalline cubic diamond.
+","[{""version"":""v1"",""created"":""Mon, 13 Feb 1995 15:25:38 GMT""}]","2016-08-31"
+"cond-mat/9502053","Jaekwon Kim","Jae-Kwon Kim","Griffiths singularity in the two dimensional random bond disordered
+  Ising ferromagnet","RevTex, 12 pages, 3 figures whose hard copies are available upon
+  request.",,,,"cond-mat",,"  For the two dimensional random bond disordered Ising ferromagnet, we measured
+bulk data of the magnetic susceptibility ($\chi$) and correlation length
+($\xi$) up to $\xi \simeq 536$, with the use of a novel finite size scaling
+Monte Carlo technique. Our data are exclusively consistent with normal
+power-law critical behaviors with only one singular point at criticality,
+disproving the existence of Griffiths singularity even in an extremely deep
+scaling region. The critical exponents of $\chi$ and $\xi$ increase
+continuously with the strength of disorder.
+","[{""version"":""v1"",""created"":""Mon, 13 Feb 1995 02:52:31 GMT""},{""version"":""v2"",""created"":""Fri, 3 Mar 1995 02:03:50 GMT""}]","2016-08-31"
+"gr-qc/9502030","Renaud Parentani","Parentani Renaud","The Recoils of the Accelerated Detector and the Decohence of its Fluxes","19 pages in LateX, no figure","Nucl.Phys. B454 (1995) 227-249",,"LPTENS 95/02","gr-qc",,"  The recoils of an accelerated system caused by the transitions characterizing
+thermal equilibrium are taken into account through the quantum character of the
+position of the system. The specific model is that of a two level ion
+accelerated by a constant electric field.
+  The introduction of the wave function of the center of mass position
+clarifies the role of the classical trajectory in the thermalization process.
+Then the effects of the recoils on the properties of the emitted fluxes are
+analyzed. The decoherence of successive emissions is manifest and simplifies
+the properties of the fluxes. The fundamental reason for which one cannot
+neglect the recoils upon considering accelerated systems is stressed and put in
+parallel with the emergence of ""transplanckian"" frequencies in Hawking
+radiation.
+","[{""version"":""v1"",""created"":""Mon, 13 Feb 1995 11:45:33 GMT""}]","2007-05-23"
+"gr-qc/9602025","Jaume Garriga","Jaume Garriga","Bubble fluctuations in $\Omega<1$ inflation","17 pages, 3 figs, LaTeX, epsfig.sty, available at
+  ftp://ftp.ifae.es/preprint/ft/uabft387.ps","Phys.Rev. D54 (1996) 4764-4769","10.1103/PhysRevD.54.4764","UAB-FT-387","gr-qc astro-ph",,"  In the context of the open inflationary universe, we calculate the amplitude
+of quantum fluctuations which deform the bubble shape. These give rise to
+scalar field fluctuations in the open Friedman-Robertson-Walker universe which
+is contained inside the bubble. One can transform to a new gauge in which
+matter looks perfectly smooth, and then the perturbations behave as tensor
+modes (gravitational waves of very long wavelength). For $(1-\Omega)<<1$, where
+$\Omega$ is the density parameter, the microwave temperature anisotropies
+produced by these modes are of order $\delta T/T\sim H(R_0\mu l)^{-1/2}
+(1-\Omega)^{l/2}$. Here, $H$ is the expansion rate during inflation, $R_0$ is
+the intrinsic radius of the bubble at the time of nucleation, $\mu$ is the
+bubble wall tension and $l$ labels the different multipoles ($l>1$). The
+gravitational backreaction of the bubble has been ignored. In this
+approximation, $G\mu R_0<<1$, and the new effect can be much larger than the
+one due to ordinary gravitational waves generated during inflation (unless, of
+course, $\Omega$ gets too close to one, in which case the new effect
+disappears).
+","[{""version"":""v1"",""created"":""Mon, 13 Feb 1995 11:56:35 GMT""}]","2009-10-28"
+"hep-ex/9502005","Tatsuya Nakada","Tatsuya Nakada","Review of CP Violation Studies with B-Mesons at LHC","Standard LaTex, No figure, 10 pages Plenary talk given at 1994
+  International Workshop on B Physics Physics Beyond the Standard Model at the
+  B Factory Nagoya, October 1994",,,"PSI-PR-94-39","hep-ex hep-ph",,"  The Large Hadron Collider (LHC) proposed at CERN will be the ultimate source
+of B-mesons. With the large number of B-mesons expected at LHC, a real
+precision test of CP violation in B-meson decays will become possible. There
+are already several efforts made to explore this possibility and a summary of
+those activities is presented.
+","[{""version"":""v1"",""created"":""Mon, 13 Feb 1995 13:10:32 GMT""}]","2016-08-31"
+"hep-ph/9502276","Tom Gould","C. Hu, S. Matinyan, B. Muller, A. Trayanov, T. Gould, S. Hsu, and E.
+  Poppitz","Wavepacket Dynamics in Yang-Mills Theory","11 pgs. text, 11 optional figs using PiCTeX and epsf, new version
+  contains improved discussion of scaling properties of results and one
+  additional figure.","Phys.Rev.D52:2402-2411,1995","10.1103/PhysRevD.52.2402","DUKE-TH-95-85, JHU-TIPAC-950004, YCTP-P4-95, EFI-95-06","hep-ph",,"  We discuss the results of numerical simulations of colliding wavepackets in
+$SU(2)$ Yang--Mills theory. We investigate their behavior as a function of
+amplitude and momentum distribution. We find regions in our parameter space in
+which initial wave packets scatter into final configurations with dramatically
+different momentum distributions. These results constitute new classical
+trajectories with multiparticle boundary conditions. We explain their relevance
+for the calculation of scattering amplitudes in the semiclassical
+approximation. Finally, we give directions for future work.
+","[{""version"":""v1"",""created"":""Sun, 12 Feb 1995 22:19:47 GMT""},{""version"":""v2"",""created"":""Sun, 26 Mar 1995 03:19:38 GMT""}]","2008-11-26"
+"hep-ph/9502281",,"Paolo Cea and Luigi Tedesco","Generalized Gaussian Effective Potential: Thermal Corrections","11 pages + 3 figures, postscript file",,,,"hep-ph",,"  We evaluate the thermal corrections to the generalized Gaussian effective
+potential. We carry out the calculations of the lowest order corrections in the
+case of self-interacting scalar fields in one and two spatial dimensions, and
+study the restoration of the symmetry at high temperatures.
+","[{""version"":""v1"",""created"":""Mon, 13 Feb 1995 11:26:41 GMT""},{""version"":""v2"",""created"":""Wed, 15 Feb 1995 12:30:53 GMT""}]","2008-02-03"
+"hep-ph/9502282","Hussain Fahem","F. Hussain, A.N.Ivanov and N.I. Troitskaya","Current s-Quark Mass Corrections to the Form Factors of D-Meson
+  Semileptonic Decays","9 pages, latex, no figures, accepted for publication in Phys. Lett. B","Phys.Lett. B348 (1995) 609-614","10.1016/0370-2693(95)00180-S","IC/94/372","hep-ph",,"  The infinite mass effective theory, when a heavy quark mass tends to
+infinity, and Chiral perturbation theory at the quark level, based on the
+extended Nambu -- Jona -- Lasinio model with linear realization of chiral
+$U(3)\times U(3)$ symmetry, are applied to the calculation of current $s$ --
+quark mass corrections to the form factors of the $D\to\bar K~e^+~\nu_e$ and
+$D\to\bar K^{\ast}~e^+~\nu_e$ decays. These corrections turn out to be quite
+significant, of the order of $7-20\%$. The theoretical results are compared
+with experimental data.
+","[{""version"":""v1"",""created"":""Mon, 13 Feb 1995 11:46:26 GMT""}]","2016-09-01"
+"hep-ph/9502283","Per Osland","Arild Skjold, Per Osland","Testing $CP$ in the Bjorken process","15 pages, LaTex, plus 5 uuencoded figures attached Full ps file
+  available at ftp://vsfys1.fi.uib.no/anonymous/pub/BERGEN1995-02.ps","Nucl.Phys.B453:3-16,1995","10.1016/0550-3213(95)00373-Z","Bergen Scientific/Technical Report No. 1995-02","hep-ph",,"  In a more general electroweak theory, there could be Higgs particles that are
+odd under $CP$, and also Higgs-like particles which are not eigenstates of
+$CP$. We discuss distributions which for the Bjorken process are sensitive to
+the $CP$ parity. Correlations among momenta of the initial electron and
+final-state fermions yield this kind of information. We discuss also
+observables which may demonstrate presence of $CP$ violation and identify a
+phase shift $\delta$ which is a measure of the strength of $CP$ violation in
+the Higgs-vector-vector coupling, and which can be measured directly in the
+decay distribution. We present Monte Carlo data on the expected efficiency, and
+conclude that it is relatively easy to determine whether the produced particle
+is even or odd under $CP$. However, observation of any $CP$ violation would
+require a very large amount of data.
+","[{""version"":""v1"",""created"":""Mon, 13 Feb 1995 11:42:14 GMT""}]","2010-11-01"
+"hep-ph/9502284","Janusz Gluza ZTPiCE","J.Gluza and M.Zralek","INVERSE NEUTRINOLESS DOUBLE-BETA DECAY IN GAUGE THEORIES WITH CP
+  VIOLATION","21 pages,latex, figures not included (hard copy available on request)","Phys.Rev.D52:6238-6248,1995","10.1103/PhysRevD.52.6238",,"hep-ph",,"  We investigate the reactions $e^-e^- \rightarrow W_i^-W_j^-$ for various
+gauge bosons production processes in the frame of the standard model with
+additional right-handed neutrinos and the Left-Right symmetric model. The
+present bounds on the various model parameters are taken into account. The
+question of the cross section behaviour for large energy and the CP violation
+problems are discussed.
+","[{""version"":""v1"",""created"":""Mon, 13 Feb 1995 13:56:32 GMT""}]","2016-09-01"
+"hep-ph/9502285","Colangel","Gilberto Colangelo","Double chiral logs in the $\pi \pi$ scattering amplitude","12 pages, plain latex, no figures. One algebraic error in the
+  expansion of $F_pi$ corrected. Consequent numerical changes are minute. Text
+  unchanged","Phys.Lett. B350 (1995) 85-91; Erratum-ibid. B361 (1995) 234","10.1016/0370-2693(95)01162-J","BUTP--95/3","hep-ph",,"  By using the Renormalization Group Equations in Chiral Perturbation Theory,
+one can calculate the double chiral logs that appear at two loops in any matrix
+element. We calculate them in the $\pi \pi$ scattering amplitude, where they
+represent the potentially largest two loop contribution. It is shown that their
+correction is reasonably small.
+","[{""version"":""v1"",""created"":""Mon, 13 Feb 1995 15:47:22 GMT""},{""version"":""v2"",""created"":""Wed, 30 Aug 1995 13:17:59 GMT""}]","2009-10-28"
+"hep-ph/9502291","Matthias Steinhauser","K.G. Chetyrkin, J.H. Kuehn, M. Steinhauser","Corrections of order ${\cal O}(G_F M_t^2 \as^2)$ to the $\rho$ parameter","10 pages, Latex, 1 figure contained in a separate file The complete
+  paper, including figures, is also available at (129.13.102.139)
+  ftp://ttpux2.physik.uni-karlsruhe.de/ttp95-03/ttp95-03.ps, or via www at
+  http://ttpux2.physik.uni-karlsruhe.de/cgi-bin/preprints/","Phys.Lett. B351 (1995) 331-338","10.1016/0370-2693(95)00380-4","TTP95-03","hep-ph",,"  The three-loop QCD corrections to the $\rho$ parameter from top and bottom
+quark loops are calculated. The result differs from the one recently calculated
+by Avdeev et al. As function of the pole mass the numerical value is given by
+$\drho=\frac{3G_F M_t^2}{8\sqrt{2}\pi^2}(1- 2.8599 \api - 14.594 (\api)^2 )$.
+","[{""version"":""v1"",""created"":""Mon, 13 Feb 1995 15:51:40 GMT""},{""version"":""v2"",""created"":""Tue, 14 Feb 1995 08:17:18 GMT""}]","2016-09-01"
+"hep-th/9502068","Denis Uglov","D.Uglov and I.Ivanov","sl(N) Onsager's Algebra and Integrability",,,"10.1007/BF02189226","ITP-SB-95-02","hep-th",,"  We define an $ sl(N) $ analog of Onsager's Algebra through a finite set of
+relations that generalize the Dolan Grady defining relations for the original
+Onsager's Algebra. This infinite-dimensional Lie Algebra is shown to be
+isomorphic to a fixed point subalgebra of $ sl(N) $ Loop Algebra with respect
+to a certain involution. As the consequence of the generalized Dolan Grady
+relations a Hamiltonian linear in the generators of $ sl(N) $ Onsager's Algebra
+is shown to posses an infinite number of mutually commuting integrals of
+motion.
+","[{""version"":""v1"",""created"":""Sun, 12 Feb 1995 17:22:43 GMT""}]","2016-09-06"
+"hep-th/9502069","Andrei Linde","Renata Kallosh, Andrei Linde, Dmitri Linde, and Leonard Susskind","GRAVITY AND GLOBAL SYMMETRIES","56 pages, a reference to the pioneering paper of Ogievetsky and
+  Polubarinov on the antisymmetric tensor field is added","Phys.Rev.D52:912-935,1995","10.1103/PhysRevD.52.912","SU-ITP-95-2","hep-th astro-ph gr-qc hep-ph",,"  There exists a widely spread notion that gravitational effects can strongly
+violate global symmetries. It may lead to many important consequences. We will
+argue, in particular, that nonperturbative gravitational effects in the axion
+theory lead to a strong violation of CP invariance unless they are suppressed
+by an extremely small factor 10^{-82}. One could hope that this problem
+disappears if one represents the global symmetry of a pseudoscalar axion field
+as a gauge symmetry of the Ogievetsky-Polubarinov-Kalb-Ramond antisymmetric
+tensor field. We will show, however, that this gauge symmetry does not protect
+the axion mass from quantum corrections. The amplitude of gravitational effects
+violating global symmetries could be strongly suppressed by e^{-S}, where S is
+the action of a wormhole which may eat the global charge. Unfortunately, in a
+wide variety of theories based on the Einstein theory of gravity the action
+appears to be fairly small, S = O(10). However, we have found that the
+existence of wormholes and the value of their action are extremely sensitive to
+the structure of space on the nearly Planckian scale. We consider several
+examples (Kaluza-Klein theory, conformal anomaly, R^2 terms) which show that
+modifications of the Einstein theory on the length scale l ~ 10 M_P^{-1} may
+strongly suppress violation of global symmetries. We have found also that in
+string theory there exists an additional suppression of topology change by the
+factor e^{-{8\pi^2\over g^2}}. This effect is strong enough to save the axion
+theory for the natural values of the stringy gauge coupling constant.
+","[{""version"":""v1"",""created"":""Sun, 12 Feb 1995 22:23:43 GMT""},{""version"":""v2"",""created"":""Thu, 27 Apr 1995 21:00:14 GMT""}]","2009-09-29"
+"hep-th/9502070","Kei-ichi Kondo","Kei-Ichi Kondo (Chiba University)","Thirring Model as a Gauge Theory","18 pages, LaTeX (revised final version, to be published in Nucl.
+  Phys. B)","Nucl.Phys. B450 (1995) 251-266","10.1016/0550-3213(95)00316-K","CHIBA-EP-87-REV","hep-th",,"  We give another reformulation of the Thirring model (with four-fermion
+interaction of the current-current type) as a gauge theory and identify it with
+a gauge-fixed version of the corresponding gauge theory according to the
+Batalin-Fradkin formalism. Based on this formalism, we study the chiral
+symmetry breaking of the $D$-dimensional Thirring model ($2<D<4$) with $N$
+flavors of 4-component fermions. By constructing the gauge covariant effective
+potential for the chiral order parameter, up to the leading order of $1/N$
+expansion, we show the existence of the second order chiral phase transition
+and obtain explicitly the critical number of flavors $N_c$ (resp. critical
+four-fermion coupling $G_c$) as a function of the four-fermion coupling $G$
+(resp. $N$), below (resp. above) which the chiral symmetry is spontaneously
+broken.
+","[{""version"":""v1"",""created"":""Mon, 13 Feb 1995 08:06:56 GMT""},{""version"":""v2"",""created"":""Fri, 17 Feb 1995 06:12:43 GMT""},{""version"":""v3"",""created"":""Sun, 27 Aug 1995 02:42:10 GMT""}]","2009-10-28"
+"hep-th/9502071",,"Claus Montonen","THE MANY-ANYON PROBLEM","18 pages (no figures) in Latex (World Scientific macros included)",,,"HU-TFT-95-12","hep-th",,"  Lectures presented at the VI Mexican School of Particles and Fields,
+Villahermosa, 3-7 October, 1994.
+  Contents:
+  1. Introduction
+  2. The Symmetry Group Approach to the Quantum Mechanics of Identical
+Particles
+  3. How Come Anyons?
+  4. The Transmutation of Statistics into a Topological Interaction
+  5. The Chern-Simons Action and Anyon Statistics
+  6. Nonrelativistic Chern-Simons-(Maxwell) Field Theory
+  7. Epilogue
+","[{""version"":""v1"",""created"":""Mon, 13 Feb 1995 09:12:06 GMT""}]","2016-09-06"
+"mtrl-th/9502003","Bernd Kohler","P. Ruggerone, B. Kohler, S. Wilke, M. Scheffler (Fritz-Haber-Institut,
+  Berlin)","Frustrated H-induced Instability of Mo(110)","11 pages, worldsci-style, 4 uuencoded postscript figures",,,,"mtrl-th cond-mat.mtrl-sci",,"  The large interest in the properties of transition metal surfaces has been
+recently fostered by inelastic helium atom scattering experiments carried out
+by Hulpke and Luedecke. Sharp and giant anomalies in the surface phonon
+dispersion curves along Gamma-H and Gamma-S have been detected on W(110) and
+Mo(110) at a coverage of one monolayer of hydrogen. At the same critical wave
+vectors a smaller second indentation is present in the experimental phonon
+branches. Recently we have proposed a possible interpretation which is able to
+explain this and other experiments. In this paper we discuss results of our
+recent ab initio calculations of the atomic and electronic properties of the
+clean and H-covered Mo(110) surface in more details. For the full monolayer
+coverage the calculated Fermi-surface contours are characterized by strong
+nesting features which originate the observed anomalies.
+","[{""version"":""v1"",""created"":""Mon, 13 Feb 1995 12:51:28 GMT""}]","2016-09-07"
+"q-alg/9502008","Vitaly Tarasov","Maxim Nazarov and Vitaly Tarasov","Representations of Yangians with Gelfand-Zetlin Bases","30 pages, AmS-TeX, the final version","J. Reine Angew. Math. 496 (1998), 181-212",,"UWS-MRRS-94-148","q-alg math.QA",,"  We study certain family of finite-dimensional modules over the Yangian
+$Y(gl_N)$. The algebra $Y(gl_N)$ comes equipped with a distinguished maximal
+commutative subalgebra $A(gl_n)$ generated by the centres of all algebras in
+the chain $Y(gl_1)\subset Y(gl_2)\subset...\subset Y(gl_N)$. We study the
+finite-dimensional $Y(gl_N)$-modules with a semisimple action of the subalgebra
+$A(gl_N)$. We call these modules tame.
+  We provide a characterization of irreducible tame modules in terms of their
+Drinfeld polynomials. We prove that every irreducible tame module splits into a
+tensor product of modules corresponding to the skew Young diagrams and some
+one-dimensional module.
+  The eigenbases of $A(gl_N)$ in irreducible tame modules are called
+Gelfand-Zetlin bases. We provide explicit formulas for the action of the
+Drinfeld generators of the algebra $Y(gl_N)$ on the vectors of Gelfand-Zetlin
+bases.
+","[{""version"":""v1"",""created"":""Mon, 13 Feb 1995 07:03:23 GMT""},{""version"":""v2"",""created"":""Wed, 22 Mar 2000 17:46:36 GMT""}]","2008-02-03"
+"q-alg/9502009","Yu. I. Manin","M. Kontsevich, Yu. Manin, R. Kaufmann","Quantum Cohomology of a Product","AMSTex file, 30 pages. Figures (hard copies) available from Yu.
+  Manin. Main paper by M. Kontsevich, Yu. Manin, appendix by R. Kaufmann",,"10.1007/s002220050055",,"q-alg alg-geom math.AG math.QA",,"  The operation of tensor product of Cohomological Field Theories (or algebras
+over genus zero moduli operad) introduced in an earlier paper by the authors is
+described in full detail, and the proof of a theorem on additive relations
+between strata classes is given. This operation is a version of the Kuenneth
+formula for quantum cohomology. In addition, rank one CohFT's are studied, and
+a generalization of Zograf's formula for Weil-Petersson volumes is suggested.
+","[{""version"":""v1"",""created"":""Mon, 13 Feb 1995 12:29:35 GMT""}]","2009-10-28"

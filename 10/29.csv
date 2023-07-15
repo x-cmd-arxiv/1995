@@ -1,0 +1,79 @@
+"chao-dyn/9510019","Michael Bleich","Michael E. Bleich and Joshua E. S. Socolar (Dept. of Physics, Duke
+  University)","Stability of periodic orbits controlled by time-delay feedback","5 pages REVTeX + 4 PostScript figures, compressed and
+  self-extracting. To appear in Physics Letters A",,"10.1016/0375-9601(95)00827-6",,"chao-dyn nlin.CD",,"  Extended time-delay auto-synchronization (ETDAS) is a promising technique for
+stabilizing unstable periodic orbits in low-dimensional dynamical systems. The
+technique involves continuous feedback of signals delayed by multiples of the
+orbit's period in a manner that is especially well-suited for fast systems and
+optical implementation. We show how to analyze the stability of a given
+implementation of ETDAS without explicit integration of time-delay equations.
+To illustrate the method and point out some nontrivial features of ETDAS, we
+obtain the domain of control for a period-one orbit of the driven, damped
+pendulum.
+","[{""version"":""v1"",""created"":""Sat, 28 Oct 1995 21:53:29 GMT""}]","2009-10-28"
+"cond-mat/9510160","Sano Kazuhiro","Kazuhiro Sano and Ken'ichi Takano","Spin Gap of Two-Dimensional Antiferromagnet Representing CaV$_4$O$_9$","12 pages of LaTex, 4 figures availavule upon request",,"10.1143/JPSJ.65.46",,"cond-mat",,"  We examined a two-dimensional Heisenberg model with two kinds of exchange
+energies, $J_e$ and $J_c$. This model describes localized spins at vanadium
+ions in a layer of CaV$_4$O$_9$, for which a spin gap is found by a recent
+experiment. Comparing the high temperature expansion of the magnetic
+susceptibility to experimental data, we determined the exchange energies as
+$J_e \simeq$ 610 K and $J_c \simeq$ 150 K. By the numerical diagonalization we
+estimated the spin gap as $\Delta \sim 0.2J_e \simeq$ 120 K, which consists
+with the experimental value 107 K. Frustration by finite $J_c$ enhances the
+spin gap.
+","[{""version"":""v1"",""created"":""Sun, 29 Oct 1995 09:13:53 GMT""}]","2009-10-28"
+"cond-mat/9510161","Hsin-Yi Huang","H. Y. Huang, F. Y. Wu, H. Kunz and D. Kim","Interacting dimers on the honeycomb lattice: An exact solution of the
+  five-vertex model","latex, 29 pages + 7 figures","Physica A 228, 1-32 (1996)","10.1016/S0378-4371(96)00057-X",,"cond-mat",,"  The problem of close-packed dimers on the honeycomb lattice was solved by
+Kasteleyn in 1963. Here we extend the solution to include interactions between
+neighboring dimers in two spatial lattice directions. The solution is obtained
+by using the method of Bethe ansatz and by converting the dimer problem into a
+five-vertex problem. The complete phase diagram is obtained and it is found
+that a new frozen phase, in which the attracting dimers prevail, arises when
+the interaction is attractive. For repulsive dimer interactions a new
+first-order line separating two frozen phases occurs. The transitions are
+continuous and the critical behavior in the disorder regime is found to be the
+same as in the case of noninteracting dimers characterized by a specific heat
+exponent $\a=1/2$.
+","[{""version"":""v1"",""created"":""Sun, 29 Oct 1995 14:06:43 GMT""}]","2015-06-25"
+"hep-th/9510207","Andy Strominger","Andrew Strominger","Black Hole Condensation and Duality in String Theory","Latex, 10 pages, 4 figures in separate uuencoded file","Nucl.Phys.Proc.Suppl.46:204-209,1996","10.1016/0920-5632(96)00023-0",,"hep-th",,"  This is a non-technical version of a talk presented at the conference,
+""S-Duality and Mirror Symmetry in String Theory"" Trieste, June, 1996 which will
+appear in the proceedings.
+","[{""version"":""v1"",""created"":""Sat, 28 Oct 1995 19:11:53 GMT""}]","2009-09-17"
+"hep-th/9510208","Sean Carroll","Sean M. Carroll, Miguel E. Ortiz and Washington Taylor IV","Spin/disorder correlations and duality in the c=1/2 string","19 pages, LaTeX; final publication version","Nucl.Phys.B468:420-438,1996","10.1016/0550-3213(96)00116-2","MIT-CTP #2481, THU-95/29","hep-th gr-qc",,"  We use the method of discrete loop equations to calculate exact correlation
+functions of spin and disorder operators on the sphere and on the boundary of a
+disk in the $c = 1/2$ string, both in the Ising and dual Ising matrix model
+formulations. For both the Ising and dual Ising theories the results on the
+sphere are in agreement with the KPZ/DDK scaling predictions based on Liouville
+theory; the results on the disk agree with the scaling predictions of Martinec,
+Moore, and Seiberg for boundary operators. The calculation of Ising disorder
+correlations on the sphere requires the use of boundary variables introduced in
+[hep-th/9510199], which have no matrix model analog. A subtlety in the
+calculation on the disk arises because the expansions of the correlation
+functions have leading singular terms which are nonuniversal; we show that this
+issue may be resolved by using separate cosmological constants for each
+boundary domain. These results give evidence that the Kramers-Wannier duality
+symmetry of the $c = 1/2$ conformal field theory survives coupling to quantum
+gravity, implying a duality symmetry of the $c = 1/2$ string even in the
+presence of boundary operators.
+","[{""version"":""v1"",""created"":""Sun, 29 Oct 1995 00:02:09 GMT""},{""version"":""v2"",""created"":""Fri, 10 Nov 1995 03:03:07 GMT""},{""version"":""v3"",""created"":""Mon, 30 Sep 1996 23:21:11 GMT""}]","2008-11-26"
+"nucl-th/9510058",,"G.A.Lalazissis, M.M.Sharma and P.Ring","Rare-Earth Nuclei: Radii, Isotope-Shifts and Deformation Properties in
+  the Relativistic Mean Field Theory","Revtex (50 pages) and 24 figures (available upon request), Nuclear
+  Physics A (in press)","Nucl.Phys. A597 (1996) 35-65","10.1016/0375-9474(95)00436-X","MPA891, September 1995","nucl-th",,"  A systematic study of the ground-state properties of even-even rare earth
+nuclei has been performed in the framework of the Relativistic Mean-Field (RMF)
+theory using the parameter set NL-SH. Nuclear radii, isotope shifts and
+deformation properties of the heavier rare-earth nuclei have been obtained,
+which encompass atomic numbers ranging from Z=60 to Z=70 and include a large
+range of isospin. It is shown that RMF theory is able to provide a good and
+comprehensive description of the empirical binding energies of the isotopic
+chains. At the same time the quadrupole deformations $\beta_{2}$ obtained in
+the RMF theory are found to be in good agreement with the available empirical
+values. The theory predicts a shape transition from prolate to oblate for
+nuclei at neutron number N=78 in all the chains. A further addition of neutrons
+up to the magic number 82 brings about the spherical shape. For nuclei above
+N=82, the RMF theory predicts the well-known onset of prolate deformation at
+about N=88, which saturates at about N=102. The deformation properties display
+an identical behaviour for all the nuclear chains. A good description of the
+above deformation transitions in the RMF theory in all the isotopic chains
+leads to a successful reproduction of the anomalous behaviour of the empirical
+isotopic shifts of the rare-earth nuclei. The RMF theory exhibits a remarkable
+success in providing a unified and microscopic description of various empirical
+data.
+","[{""version"":""v1"",""created"":""Sun, 29 Oct 1995 12:03:07 GMT""}]","2009-10-28"
